@@ -1,0 +1,652 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0F1D33">
+<title>Evening Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --night:#0F1D33; --deep:#0A1527; --panel:#162944; --line:#2A4166; --line-soft:#1F3454;
+  --ink:#EEF2F8; --quiet:#93A3BC; --faint:#5F7290; --sodium:#F5A623; --sodium-soft:rgba(245,166,35,.16);
+  --radius-l:14px; --radius-s:8px;
+  --font:"Schibsted Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--night);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased}
+body{min-height:100vh;padding:max(12px,env(safe-area-inset-top)) 16px max(16px,env(safe-area-inset-bottom))}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--sodium);outline-offset:2px;border-radius:6px}
+.num{font-variant-numeric:tabular-nums}
+
+/* top bar */
+.bar{display:flex;align-items:center;gap:12px;max-width:1360px;margin:0 auto 12px}
+.brand{font-weight:800;font-size:1.05rem;letter-spacing:-.01em;margin-right:auto}
+.brand span{color:var(--quiet);font-weight:500;margin-left:.5em}
+.pill{display:inline-flex;align-items:center;gap:8px;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:.88rem;color:var(--ink);white-space:nowrap}
+.pill:hover{border-color:var(--quiet)}
+.pill[aria-pressed="true"]{background:var(--sodium-soft);border-color:var(--sodium)}
+.pill .dot{width:8px;height:8px;border-radius:50%;background:var(--faint)}
+.pill[aria-pressed="true"] .dot{background:var(--sodium)}
+
+/* stage */
+.stage{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:16px;max-width:1360px;margin:0 auto}
+.screen{position:relative;aspect-ratio:16/9;background:var(--deep);border-radius:var(--radius-l);overflow:hidden}
+.screen > #yt, .screen iframe, .screen video{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.screen video{object-fit:contain}
+.card{position:absolute;inset:0;display:none;flex-direction:column;justify-content:center;align-items:flex-start;gap:14px;padding:clamp(20px,5vw,56px);background:radial-gradient(120% 90% at 0% 100%, #1B3358 0%, var(--deep) 60%)}
+.card.show{display:flex}
+.card h2{margin:0;font-size:clamp(1.3rem,3vw,2rem);line-height:1.15;letter-spacing:-.015em;max-width:24ch}
+.card p{margin:0;color:var(--quiet);max-width:46ch}
+.card .acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:999px;background:var(--ink);color:var(--night);font-weight:600;text-decoration:none;font-size:.95rem}
+.btn.ghost{background:none;color:var(--ink);border:1px solid var(--line)}
+.unmute{position:absolute;left:14px;bottom:14px;z-index:3;display:none}
+.unmute.show{display:inline-flex}
+.flash{position:absolute;inset:0;background:var(--night);opacity:0;pointer-events:none;z-index:2;transition:opacity .28s ease}
+.flash.on{opacity:1;transition:none}
+
+/* ident: the big local clock */
+.ident{display:flex;flex-direction:column;gap:14px;min-width:0}
+.clock{position:relative;padding:18px 20px 16px;border-radius:var(--radius-l);background:var(--panel);overflow:hidden;touch-action:pan-y}
+.clock .time{font-size:clamp(4.2rem,9vw,6.4rem);font-weight:800;line-height:.9;letter-spacing:-.045em;font-variant-numeric:tabular-nums}
+.clock .time .colon{opacity:.55}
+.clock .city{font-size:1.05rem;font-weight:600;margin-top:6px}
+.clock .city small{color:var(--quiet);font-weight:400;font-size:.9rem;margin-left:6px}
+.clock .prog{margin-top:14px;font-size:1.25rem;font-weight:700;line-height:1.2;letter-spacing:-.01em}
+.clock .meta{color:var(--quiet);font-size:.92rem;margin-top:4px}
+.clock .state{display:inline-flex;align-items:center;gap:8px;font-size:.9rem;font-weight:600;min-width:0}
+.clock .state i{width:9px;height:9px;border-radius:50%;background:var(--faint)}
+.clock .state.live{color:var(--sodium)}
+.clock .state.live i{background:var(--sodium);box-shadow:0 0 0 0 rgba(245,166,35,.6);animation:pulse 2s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 8px rgba(245,166,35,0)}100%{box-shadow:0 0 0 0 rgba(245,166,35,0)}}
+.clock.enter .time,.clock.enter .city,.clock.enter .prog{animation:rise .5s cubic-bezier(.2,.7,.2,1) both}
+.clock.enter .city{animation-delay:.05s}.clock.enter .prog{animation-delay:.1s}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.row2{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:12px}
+.row2 .state{margin-top:0}
+.flip{display:flex;gap:6px;flex:0 0 auto}
+.flip button{width:36px;height:36px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center}
+.flip button:hover{border-color:var(--quiet)}
+.flip svg{width:16px;height:16px}
+.next{border-radius:var(--radius-l);border:1px solid var(--line-soft);padding:14px 16px}
+.next h3{margin:0 0 8px;font-size:.92rem;font-weight:600;color:var(--quiet)}
+.next ol{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.next li button{display:grid;grid-template-columns:78px 1fr;gap:10px;text-align:left;width:100%}
+.next li .t{font-variant-numeric:tabular-nums;color:var(--quiet);font-size:.92rem}
+.next li .n{font-weight:600;font-size:.95rem;line-height:1.25}
+.next li .n small{display:block;color:var(--quiet);font-weight:400;font-size:.85rem}
+
+/* dial */
+.dialwrap{max-width:1360px;margin:18px auto 0}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px;align-items:center}
+.filters .pill{padding:6px 12px;font-size:.85rem}
+.filters .spacer{margin-left:auto;color:var(--quiet);font-size:.85rem}
+.dial{display:flex;align-items:flex-start;gap:10px;overflow-x:auto;padding:4px 2px 14px;scroll-snap-type:x proximity;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.slot{flex:0 0 auto;width:184px;min-width:0;scroll-snap-align:start}
+.slot .hd{display:flex;align-items:baseline;gap:8px;padding:0 4px 8px;border-bottom:1px solid var(--line-soft);margin-bottom:8px}
+.slot .hd b{font-weight:700;font-size:1rem;font-variant-numeric:tabular-nums}
+.slot .hd span{color:var(--faint);font-size:.8rem}
+.slot.past .hd b{color:var(--quiet)}
+.tiles{display:grid;grid-template-columns:minmax(0,1fr);gap:6px}
+.tile{width:100%;text-align:left;padding:9px 11px;border-radius:var(--radius-s);background:var(--panel);border:1px solid transparent;display:block}
+.tile:hover{border-color:var(--line)}
+.tile .p{font-weight:600;font-size:.92rem;line-height:1.2;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tile .c{color:var(--quiet);font-size:.8rem;display:block;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile.live{background:var(--sodium-soft);border-color:rgba(245,166,35,.45)}
+.tile.live .c{color:var(--sodium)}
+.tile.on{border-color:var(--ink)}
+.tile.watched{opacity:.55}
+.tile.off{opacity:.45}
+.gap{flex:0 0 auto;align-self:stretch;display:flex;align-items:center;justify-content:center;width:40px;color:var(--faint);font-size:.75rem;writing-mode:vertical-rl;transform:rotate(180deg);border-left:1px dashed var(--line-soft)}
+.now{flex:0 0 auto;align-self:stretch;width:58px;display:flex;flex-direction:column;align-items:center;gap:6px}
+.now span{color:var(--sodium);font-size:.78rem;font-weight:700;line-height:1.15;text-align:center;font-variant-numeric:tabular-nums;padding-top:2px}
+.now::after{content:"";flex:1;width:3px;border-radius:3px;background:var(--sodium)}
+
+@media (hover: none){ .keys{display:none} }
+.foot{max-width:1360px;margin:8px auto 0;color:var(--faint);font-size:.8rem;display:flex;gap:16px;flex-wrap:wrap}
+
+/* lineup dialog */
+dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:var(--radius-l);padding:0;width:min(640px,94vw);max-height:86vh}
+dialog::backdrop{background:rgba(5,10,20,.7)}
+.dlg-hd{display:flex;align-items:center;gap:12px;padding:16px 18px;border-bottom:1px solid var(--line)}
+.dlg-hd h2{margin:0;font-size:1.1rem;margin-right:auto}
+.dlg-body{overflow:auto;max-height:calc(86vh - 64px);padding:6px 18px 18px}
+.dlg-body h3{font-size:.9rem;color:var(--quiet);font-weight:600;margin:16px 0 6px}
+.row{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line-soft)}
+.row label{display:contents}
+.row .who{min-width:0}
+.row .who b{display:block;font-weight:600;font-size:.95rem}
+.row .who span{color:var(--quiet);font-size:.82rem}
+.row input{width:18px;height:18px;accent-color:var(--sodium)}
+.star{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;color:var(--faint)}
+.star[aria-pressed="true"]{color:var(--sodium)}
+.star svg{width:18px;height:18px}
+
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:var(--ink);color:var(--night);padding:10px 16px;border-radius:999px;font-weight:600;font-size:.92rem;opacity:0;transition:.3s;pointer-events:none;z-index:10;max-width:92vw}
+.toast.show{opacity:1;transform:translateX(-50%)}
+
+@media (max-width: 980px){
+  .stage{grid-template-columns:1fr}
+  .next{display:none}
+  .clock .time{font-size:3.6rem}
+  .clock{display:grid;grid-template-columns:auto 1fr;column-gap:18px;align-items:end;padding:14px 16px}
+  .clock .time{grid-row:1/3}
+  .clock .city{margin:0}
+  .clock .prog{grid-column:1/3;margin-top:12px;font-size:1.1rem}
+  .clock .meta,.clock .row2{grid-column:1/3}
+}
+@media (max-width: 560px){
+  body{padding-left:12px;padding-right:12px}
+  .bar{flex-wrap:wrap;row-gap:10px;gap:8px}
+  #lineupBtn .lbl{display:none}
+  .brand{width:100%}
+  .brand span{display:none}
+  .bar .pill{padding:6px 11px;font-size:.84rem}
+  .screen{margin:0 -12px;border-radius:0}
+  .card{gap:10px;padding:18px}
+  .card h2{font-size:1.15rem}
+  .card p{font-size:.88rem}
+  .btn{padding:8px 14px;font-size:.88rem}
+  .filters{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+  .filters .spacer{display:none}
+  .slot{width:160px}
+}
+@media (prefers-reduced-motion: reduce){
+  *{animation:none !important;transition:none !important}
+}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div class="brand">Evening Edition<span>the main news, country by country</span></div>
+  <button class="pill" id="follow" aria-pressed="false" title="Switch automatically when a bulletin starts (F)"><i class="dot"></i><span class="lbl">Follow live</span></button>
+  <button class="pill" id="catchup" title="Play today's editions you haven't watched"><span class="lbl">Catch up</span> <span id="catchupN" class="num"></span></button>
+  <button class="pill" id="captions" aria-pressed="false" title="Ask YouTube for English captions (C)"><span>CC</span></button>
+  <button class="pill" id="lineupBtn" title="Choose bulletins"><span class="lbl">Lineup</span><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><path d="M2 4h12M2 8h12M2 12h8" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg></button>
+</header>
+
+<main class="stage">
+  <div class="screen" id="screen">
+    <div id="yt"></div>
+    <video id="hls" playsinline controls hidden></video>
+    <div class="card" id="card" role="status"></div>
+    <button class="btn unmute" id="unmute">Turn sound on</button>
+    <div class="flash" id="flash"></div>
+  </div>
+  <aside class="ident">
+    <section class="clock" id="clock" aria-live="polite">
+      <div class="time num" id="ltime">--:--</div>
+      <div class="city" id="lcity">&nbsp;</div>
+      <div class="prog" id="lprog">&nbsp;</div>
+      <div class="meta" id="lmeta">&nbsp;</div>
+      <div class="row2">
+        <div class="state" id="lstate"><i></i><span></span></div>
+        <div class="flip">
+          <button id="prev" aria-label="Previous bulletin"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button id="nextBtn" aria-label="Next bulletin"><svg viewBox="0 0 16 16"><path d="M6 3l5 5-5 5" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        </div>
+      </div>
+    </section>
+    <section class="next">
+      <h3>Coming up</h3>
+      <ol id="upnext"></ol>
+    </section>
+  </aside>
+</main>
+
+<section class="dialwrap">
+  <div class="filters" id="filters" role="group" aria-label="Filter by region"></div>
+  <div class="dial" id="dial" aria-label="Today's bulletins in airtime order"></div>
+</section>
+<footer class="foot"><span id="freshness"></span><span class="keys">Keys: arrows to flip, L for what's on air, F to follow, C for captions</span></footer>
+
+<dialog id="lineup">
+  <div class="dlg-hd"><h2>Lineup</h2><button class="pill" id="closeLineup">Done</button></div>
+  <div class="dlg-body" id="lineupBody"></div>
+</dialog>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(() => {
+"use strict";
+const $ = s => document.querySelector(s);
+const REGIONS = [["all","All"],["fav","Favourites"],["asia-pacific","Asia-Pacific"],["africa-mideast","Africa and Middle East"],["europe","Europe"],["americas","Americas"]];
+const USER_TZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+const DAY = 864e5;
+
+/* ---------- storage (per viewer, best effort) ---------- */
+const store = {
+  get(k, d){ try { const v = localStorage.getItem("ee:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v){ try { localStorage.setItem("ee:" + k, JSON.stringify(v)); } catch {} }
+};
+const prefs = {
+  hidden: new Set(store.get("hidden", [])),
+  fav: new Set(store.get("fav", [])),
+  watched: new Set(store.get("watched", [])),
+  follow: store.get("follow", false),
+  captions: store.get("captions", false),
+  region: store.get("region", "all"),
+  sound: false
+};
+const save = () => { store.set("hidden",[...prefs.hidden]); store.set("fav",[...prefs.fav]); store.set("watched",[...prefs.watched].slice(-400)); store.set("follow",prefs.follow); store.set("captions",prefs.captions); store.set("region",prefs.region); };
+
+/* ---------- time zones ---------- */
+const fmtCache = {};
+const dtf = tz => fmtCache[tz] ||= new Intl.DateTimeFormat("en-US", {timeZone: tz, hourCycle: "h23", year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit", second:"2-digit", weekday:"short"});
+function parts(tz, t){ const o = {}; for (const p of dtf(tz).formatToParts(new Date(t))) o[p.type] = p.value; return {y:+o.year, mo:+o.month, d:+o.day, h:+o.hour % 24, mi:+o.minute, s:+o.second, wd:o.weekday}; }
+function offset(tz, t){ const p = parts(tz, t); return Date.UTC(p.y, p.mo - 1, p.d, p.h, p.mi, p.s) - Math.floor(t / 1000) * 1000; }
+function zoned(y, mo, d, h, mi, tz){ const g = Date.UTC(y, mo - 1, d, h, mi); let t = g - offset(tz, g); const o2 = offset(tz, t); if (o2 !== offset(tz, g)) t = g - o2; return t; }
+const userClock = t => new Intl.DateTimeFormat(undefined, {hour:"numeric", minute:"2-digit", timeZone: USER_TZ}).format(t);
+const localClock = (tz, t) => { const p = parts(tz, t); return String(p.h).padStart(2,"0") + ":" + String(p.mi).padStart(2,"0"); };
+function ago(ms){ const m = Math.round(ms / 6e4); if (m < 60) return m + " min"; const h = Math.round(m / 60); if (h < 36) return h + (h === 1 ? " hour" : " hours"); const d = Math.round(h / 24); return d + (d === 1 ? " day" : " days"); }
+
+/* ---------- data ---------- */
+let LINEUP = [], STATUS = {}, statusMeta = {};
+const durOf = b => { const s = STATUS[b.id]; const sec = s && s.latest && s.latest.duration; return (sec && sec > 300 ? sec / 60 : b.minutes) * 6e4; };
+function starts(b, now){
+  const out = [], seen = new Set();
+  const [hh, mm] = b.local.split(":").map(Number);
+  for (let k = -2; k <= 2; k++){
+    const p = parts(b.tz, now + k * DAY), key = p.y + "-" + p.mo + "-" + p.d;
+    if (seen.has(key)) continue; seen.add(key);
+    if (b.days === "weekdays" && (p.wd === "Sat" || p.wd === "Sun")) continue;
+    out.push(zoned(p.y, p.mo, p.d, hh, mm, b.tz));
+  }
+  return out.sort((a, c) => a - c);
+}
+function stateOf(b, now){
+  const ss = starts(b, now), dur = durOf(b);
+  const live = ss.find(s => s <= now && now < s + dur);
+  const next = ss.find(s => s > now);
+  const last = [...ss].reverse().find(s => s <= now);
+  return {live: live != null, liveStart: live, next, last, dur};
+}
+
+/* the dial is a rolling day: eight hours back, sixteen ahead */
+const dialDay = now => now - 8 * 36e5;
+function dialSlot(b, now){
+  const d0 = dialDay(now);
+  const [hh, mm] = b.local.split(":").map(Number);
+  for (let k = -1; k <= 2; k++){
+    const p = parts(b.tz, d0 + k * DAY);
+    const s = zoned(p.y, p.mo, p.d, hh, mm, b.tz);
+    if (s >= d0 && s < d0 + DAY){
+      const wd = parts(b.tz, s).wd;
+      return {t: s, off: b.days === "weekdays" && (wd === "Sat" || wd === "Sun")};
+    }
+  }
+  // fallback: position by time of day only
+  return {t: d0, off: false};
+}
+
+function plan(b, now, opts = {}){
+  const st = STATUS[b.id] || {}, s = stateOf(b, now);
+  const yt = b.sources.find(x => x.type === "youtube");
+  const stream = b.sources.find(x => x.type === "stream");
+  const page = b.sources.find(x => x.type === "page");
+  if (yt){
+    const embed = yt.embeddable !== false;
+    const liveV = st.live || (s.live && st.upcoming) || null;
+    if (liveV && s.live){
+      return embed ? {kind:"yt", id: liveV.videoId, live:true} : {kind:"out", url:"https://www.youtube.com/watch?v=" + liveV.videoId, label:"Watch live on YouTube", why:"The broadcaster doesn't allow this stream to play inside other sites."};
+    }
+    // a live or scheduled edition the checker saw that has since finished is newer than its "latest"
+    const done = [st.live, st.upcoming && Date.parse(st.upcoming.scheduledStart) < now ? st.upcoming : null].find(Boolean);
+    const latest = done ? {videoId: done.videoId, title: done.title, published: done.scheduledStart || done.start, embeddable: true} : st.latest;
+    if (latest){
+      if (embed && latest.embeddable !== false) return {kind:"yt", id: latest.videoId, live:false, title: latest.title, published: latest.published};
+      return {kind:"out", url:"https://www.youtube.com/watch?v=" + latest.videoId, label:"Open on YouTube", why:"The broadcaster doesn't allow this edition to play inside other sites.", title: latest.title};
+    }
+    return {kind:"none"};
+  }
+  if (stream){
+    if (s.live || opts.channel) return {kind:"hls", url: stream.url, live: s.live, page: page && page.url};
+    return {kind:"wait", page: page && page.url, next: s.next};
+  }
+  if (page) return {kind:"out", url: page.url, label:"Open " + new URL(page.url).hostname.replace(/^www\./,""), why:"This bulletin only plays on the broadcaster's own site, and may not play outside its home country."};
+  return {kind:"none"};
+}
+
+/* ---------- player ---------- */
+let yt = null, ytReady = false, ytQueued = null, hls = null, current = null, catchQueue = null, lastFlip = 0;
+const screen = $("#screen"), card = $("#card"), video = $("#hls");
+
+let ytLoading = false;
+function loadYT(){
+  if (window.YT && window.YT.Player) return makeYT();
+  if (ytLoading) return; ytLoading = true;
+  const s = document.createElement("script"); s.src = "https://www.youtube.com/iframe_api"; document.head.appendChild(s);
+  window.onYouTubeIframeAPIReady = makeYT;
+}
+function makeYT(){
+  const host = document.createElement("div"); host.id = "yt";
+  const old = $("#yt"); old.replaceWith(host);
+  yt = new YT.Player("yt", {
+    width: "100%", height: "100%",
+    playerVars: {autoplay: 1, playsinline: 1, rel: 0, modestbranding: 1, iv_load_policy: 3, cc_load_policy: prefs.captions ? 1 : 0, cc_lang_pref: "en", hl: "en", origin: location.origin},
+    events: {
+      onReady(){ ytReady = true; if (ytQueued){ const q = ytQueued; ytQueued = null; playYT(q); } },
+      onError(e){ onYTError(e.data); },
+      onStateChange(e){ if (e.data === 0) onEnded(); }
+    }
+  });
+}
+function playYT(id){
+  if (!ytReady){ ytQueued = id; if (!yt) loadYT(); return; }
+  if (!prefs.sound) yt.mute(); else yt.unMute();
+  yt.loadVideoById(id);
+  $("#unmute").classList.toggle("show", !prefs.sound);
+}
+function stopAll(){
+  if (ytReady) try { yt.stopVideo(); } catch {}
+  if (hls){ hls.destroy(); hls = null; }
+  video.pause(); video.removeAttribute("src"); video.load(); video.hidden = true;
+  card.classList.remove("show"); $("#unmute").classList.remove("show");
+  const f = $("#yt"); if (f) f.style.visibility = "hidden";
+}
+function showYT(){ const f = $("#yt"); if (f) f.style.visibility = "visible"; }
+function onYTError(code){
+  if (!current) return;
+  const st = STATUS[current.id] || {}, v = (st.live || st.latest || {}).videoId;
+  showCard({
+    h: "This edition won't play here",
+    p: code === 100 ? "YouTube says the video is no longer available. The checker will pick a newer edition on its next run." : "YouTube refused to play it inside this page. The broadcaster may limit it to YouTube itself or to some countries.",
+    acts: v ? [["Open on YouTube", "https://www.youtube.com/watch?v=" + v]] : []
+  });
+}
+function onEnded(){
+  if (current){ const st = STATUS[current.id]; if (st && st.latest) markWatched(st.latest.videoId); }
+  if (catchQueue && catchQueue.length){ const nx = catchQueue.shift(); tune(nx, {from:"catchup"}); updateCatchLabel(); }
+  else if (catchQueue){ catchQueue = null; toast("You're caught up."); updateCatchLabel(); }
+}
+function markWatched(id){ if (!id) return; prefs.watched.add(id); save(); renderDial(); updateCatchLabel(); }
+
+function loadHls(cb){
+  if (window.Hls) return cb();
+  const s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.6.16/hls.min.js"; s.onload = cb; s.onerror = () => cb(new Error("hls"));
+  document.head.appendChild(s);
+}
+function playHls(url, fallback){
+  video.hidden = false; video.muted = !prefs.sound;
+  const fail = () => showCard({h:"The stream isn't reachable right now", p:"The broadcaster may be blocking it during this programme, or its address has changed.", acts: fallback ? [["Open the broadcaster's site", fallback]] : []});
+  video.onerror = fail;
+  if (video.canPlayType("application/vnd.apple.mpegurl")){ video.src = url; video.play().catch(() => {}); }
+  else loadHls(err => {
+    if (err || !window.Hls || !Hls.isSupported()) return fail();
+    hls = new Hls({lowLatencyMode: false}); hls.loadSource(url); hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => {}));
+    hls.on(Hls.Events.ERROR, (e, d) => { if (d.fatal) fail(); });
+  });
+  $("#unmute").classList.toggle("show", !prefs.sound);
+}
+function showCard({h, p, acts = [], buttons = []}){
+  card.innerHTML = "";
+  const H = document.createElement("h2"); H.textContent = h; card.appendChild(H);
+  if (p){ const P = document.createElement("p"); P.textContent = p; card.appendChild(P); }
+  const A = document.createElement("div"); A.className = "acts";
+  acts.forEach(([label, url], i) => { const a = document.createElement("a"); a.className = "btn" + (i ? " ghost" : ""); a.href = url; a.target = "_blank"; a.rel = "noopener"; a.textContent = label; A.appendChild(a); });
+  buttons.forEach(([label, fn], i) => { const b = document.createElement("button"); b.className = "btn" + (i || acts.length ? " ghost" : ""); b.textContent = label; b.onclick = fn; A.appendChild(b); });
+  card.appendChild(A);
+  card.classList.add("show");
+  $("#unmute").classList.remove("show");
+}
+
+function tune(b, opts = {}){
+  if (!b) return;
+  const now = Date.now();
+  current = b; lastFlip = opts.auto ? lastFlip : now;
+  history.replaceState(null, "", "#" + b.id);
+  const fl = $("#flash"); fl.classList.add("on"); requestAnimationFrame(() => requestAnimationFrame(() => fl.classList.remove("on")));
+  stopAll();
+  const pl = plan(b, now, opts);
+  if (pl.kind === "yt"){ showYT(); playYT(pl.id); }
+  else if (pl.kind === "hls"){ playHls(pl.url, pl.page); }
+  else if (pl.kind === "out"){ showCard({h: b.programme + " opens outside this page", p: pl.why, acts: [[pl.label, pl.url]]}); }
+  else if (pl.kind === "wait"){
+    showCard({
+      h: "On air at " + userClock(pl.next) + " your time",
+      p: "This bulletin comes from the broadcaster's live channel, which shows other programmes until then.",
+      acts: pl.page ? [["Open the broadcaster's catch-up", pl.page]] : [],
+      buttons: [["Watch the channel now", () => tune(b, {channel: true})]]
+    });
+  }
+  else showCard({h: "No edition yet", p: "The checker hasn't found a full edition of this bulletin. It runs every hour."});
+  renderIdent(true); renderDial(); renderNext();
+}
+
+/* ---------- ident ---------- */
+function renderIdent(enter){
+  const b = current; if (!b) return;
+  const now = Date.now(), s = stateOf(b, now), st = STATUS[b.id] || {};
+  const t = localClock(b.tz, now);
+  $("#ltime").innerHTML = t.slice(0,2) + '<span class="colon">:</span>' + t.slice(3);
+  $("#lcity").innerHTML = ""; $("#lcity").append(b.city, Object.assign(document.createElement("small"), {textContent: b.country}));
+  $("#lprog").textContent = b.programme;
+  $("#lmeta").textContent = b.broadcaster + ", in " + b.language + ". Airs " + b.local + " local, " + userClock(dialSlot(b, now).t) + " your time" + (b.days === "weekdays" ? ", weekdays" : "") + ".";
+  const el = $("#lstate"), span = el.querySelector("span");
+  el.classList.toggle("live", s.live);
+  if (catchQueue != null) span.textContent = "Catching up · " + (catchQueue.length) + " more after this";
+  else if (s.live) span.textContent = "On air · started " + ago(now - s.liveStart) + " ago";
+  else {
+    const pl = plan(b, now);
+    if (pl.kind === "yt" && pl.published) span.textContent = "Latest edition · aired " + ago(now - Date.parse(pl.published)) + " ago";
+    else if (pl.kind === "yt") span.textContent = "Latest edition";
+    else span.textContent = s.next ? "Next on air in " + ago(s.next - now) : "";
+  }
+  const c = $("#clock");
+  if (enter){ c.classList.remove("enter"); void c.offsetWidth; c.classList.add("enter"); }
+}
+
+/* ---------- dial ---------- */
+function visible(){
+  return LINEUP.filter(b => !prefs.hidden.has(b.id) && (prefs.region === "all" || (prefs.region === "fav" ? prefs.fav.has(b.id) : b.region === prefs.region)));
+}
+function ordered(now = Date.now()){
+  return visible().map(b => ({b, ...dialSlot(b, now)})).sort((a, c) => a.t - c.t || a.b.country.localeCompare(c.b.country));
+}
+function renderFilters(){
+  const f = $("#filters"); f.innerHTML = "";
+  REGIONS.forEach(([k, label]) => {
+    const b = document.createElement("button"); b.className = "pill"; b.textContent = label;
+    b.setAttribute("aria-pressed", String(prefs.region === k));
+    b.onclick = () => { prefs.region = k; save(); renderFilters(); renderDial(true); renderNext(); };
+    f.appendChild(b);
+  });
+  const sp = document.createElement("span"); sp.className = "spacer num"; sp.id = "count"; f.appendChild(sp);
+}
+function renderDial(scroll){
+  const now = Date.now(), list = ordered(now), dial = $("#dial"), keep = dial.scrollLeft;
+  dial.innerHTML = "";
+  $("#count").textContent = list.length + " bulletins";
+  if (!list.length){ dial.innerHTML = '<p style="color:var(--quiet);margin:8px 4px">No bulletins match this filter. Choose another region or add favourites from Lineup.</p>'; return; }
+  // group into slots by viewer-local time
+  const slots = [];
+  for (const it of list){
+    const key = userClock(it.t);
+    const last = slots[slots.length - 1];
+    if (last && last.key === key) last.items.push(it); else slots.push({key, t: it.t, items: [it]});
+  }
+  let nowPlaced = false, prevT = null, nowEl = null;
+  const placeNow = () => {
+    nowEl = document.createElement("div"); nowEl.className = "now";
+    nowEl.innerHTML = '<span class="num">Now<br>' + userClock(now) + "</span>";
+    dial.appendChild(nowEl); nowPlaced = true;
+  };
+  for (const sl of slots){
+    if (prevT != null && sl.t - prevT > 90 * 6e4 && !(now > prevT && now < sl.t)){
+      const g = document.createElement("div"); g.className = "gap"; g.textContent = Math.round((sl.t - prevT) / 36e5) + " h"; dial.appendChild(g);
+    }
+    if (!nowPlaced && sl.t > now) placeNow();
+    const el = document.createElement("div"); el.className = "slot" + (sl.t + 3 * 36e5 < now ? " past" : "");
+    const hd = document.createElement("div"); hd.className = "hd";
+    hd.innerHTML = "<b></b><span></span>"; hd.querySelector("b").textContent = sl.key;
+    el.appendChild(hd);
+    const tiles = document.createElement("div"); tiles.className = "tiles";
+    for (const it of sl.items){
+      const b = it.b, s = stateOf(b, now), st = STATUS[b.id] || {};
+      const btn = document.createElement("button");
+      btn.className = "tile" + (s.live ? " live" : "") + (current && current.id === b.id ? " on" : "") + (st.latest && prefs.watched.has(st.latest.videoId) && !s.live ? " watched" : "") + (it.off ? " off" : "");
+      btn.innerHTML = '<span class="p"></span><span class="c"></span>';
+      btn.querySelector(".p").textContent = b.programme;
+      btn.querySelector(".c").textContent = (s.live ? "On air · " : it.off ? "Weekdays only · " : "") + b.country + " · " + b.language;
+      btn.title = b.programme + " — " + b.broadcaster + ", " + b.city + " (" + b.local + " local)";
+      btn.onclick = () => { catchQueue = null; updateCatchLabel(); tune(b); };
+      tiles.appendChild(btn);
+    }
+    el.appendChild(tiles); dial.appendChild(el);
+    prevT = sl.t;
+  }
+  if (!nowPlaced) placeNow();
+  if (scroll && nowEl) dial.scrollLeft = Math.max(0, nowEl.offsetLeft - dial.clientWidth * 0.35);
+  else dial.scrollLeft = keep;
+}
+function renderNext(){
+  const now = Date.now(), ol = $("#upnext"); ol.innerHTML = "";
+  const up = visible().map(b => ({b, s: stateOf(b, now)})).filter(x => x.s.next).sort((a, c) => a.s.next - c.s.next).slice(0, 5);
+  for (const {b, s} of up){
+    const li = document.createElement("li"), bt = document.createElement("button");
+    bt.innerHTML = '<span class="t"></span><span class="n"></span>';
+    bt.querySelector(".t").textContent = userClock(s.next);
+    const n = bt.querySelector(".n"); n.textContent = b.programme; n.append(Object.assign(document.createElement("small"), {textContent: b.city + ", in " + ago(s.next - now)}));
+    bt.onclick = () => tune(b); li.appendChild(bt); ol.appendChild(li);
+  }
+}
+
+/* ---------- flipping, follow, catch-up ---------- */
+function flip(dir){
+  const list = ordered().map(x => x.b); if (!list.length) return;
+  let i = current ? list.findIndex(b => b.id === current.id) : -1;
+  i = (i + dir + list.length) % list.length;
+  catchQueue = null; updateCatchLabel(); tune(list[i]);
+}
+function liveNow(){ const now = Date.now(); return ordered(now).map(x => x.b).filter(b => stateOf(b, now).live); }
+let lastTick = Date.now();
+function tick(){
+  const now = Date.now();
+  if (prefs.follow && catchQueue == null){
+    const fresh = visible().filter(b => starts(b, now).some(s => s > lastTick && s <= now));
+    if (fresh.length && !(current && fresh.some(b => b.id === current.id))){
+      const b = fresh[0]; tune(b, {auto: true}); toast("Now on air: " + b.programme + ", " + b.city);
+    }
+  }
+  lastTick = now;
+  renderIdent(false);
+  if (Math.floor(now / 6e4) !== Math.floor((now - 15e3) / 6e4) || !tick.done){ renderDial(); renderNext(); tick.done = true; }
+  freshness();
+}
+function catchList(){
+  const now = Date.now();
+  return ordered(now).map(x => x.b).filter(b => {
+    const s = stateOf(b, now), st = STATUS[b.id];
+    if (!st || !st.latest || s.live) return false;
+    const yt = b.sources.find(x => x.type === "youtube");
+    if (!yt || yt.embeddable === false || st.latest.embeddable === false) return false;
+    if (prefs.watched.has(st.latest.videoId)) return false;
+    const pub = st.latest.published ? Date.parse(st.latest.published) : s.last;
+    return pub && now - pub < 30 * 36e5;
+  }).sort((a, c) => (stateOf(a, now).last || 0) - (stateOf(c, now).last || 0));
+}
+function updateCatchLabel(){
+  const n = catchList().length;
+  $("#catchupN").textContent = catchQueue != null ? "· stop" : (n ? n : "");
+  $("#catchup").setAttribute("aria-pressed", String(catchQueue != null));
+}
+
+function toast(msg){ const t = $("#toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(toast.h); toast.h = setTimeout(() => t.classList.remove("show"), 3600); }
+function freshness(){
+  const g = statusMeta.generated;
+  $("#freshness").textContent = g ? "Editions checked " + ago(Date.now() - Date.parse(g)) + " ago" : "Editions from the hand-made seed list; the hourly checker hasn't run yet";
+}
+
+/* ---------- lineup dialog ---------- */
+const STAR = '<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 2.5l2.3 4.8 5.2.7-3.8 3.6.9 5.2L10 14.3l-4.6 2.5.9-5.2L2.5 8l5.2-.7z" fill="currentColor"/></svg>';
+function renderLineup(){
+  const body = $("#lineupBody"); body.innerHTML = "";
+  for (const [k, label] of REGIONS.slice(2)){
+    const h = document.createElement("h3"); h.textContent = label; body.appendChild(h);
+    LINEUP.filter(b => b.region === k).sort((a, c) => a.country.localeCompare(c.country)).forEach(b => {
+      const row = document.createElement("div"); row.className = "row";
+      const cb = document.createElement("input"); cb.type = "checkbox"; cb.checked = !prefs.hidden.has(b.id); cb.id = "show-" + b.id;
+      cb.onchange = () => { cb.checked ? prefs.hidden.delete(b.id) : prefs.hidden.add(b.id); save(); renderDial(); renderNext(); };
+      const who = document.createElement("label"); who.className = "who"; who.htmlFor = cb.id;
+      who.innerHTML = "<b></b><span></span>"; who.querySelector("b").textContent = b.programme;
+      who.querySelector("span").textContent = b.country + " · " + b.broadcaster + " · " + b.language + " · " + b.local + " local";
+      const st = document.createElement("button"); st.className = "star"; st.innerHTML = STAR; st.setAttribute("aria-label", "Favourite " + b.programme);
+      st.setAttribute("aria-pressed", String(prefs.fav.has(b.id)));
+      st.onclick = () => { prefs.fav.has(b.id) ? prefs.fav.delete(b.id) : prefs.fav.add(b.id); st.setAttribute("aria-pressed", String(prefs.fav.has(b.id))); save(); if (prefs.region === "fav") renderDial(); };
+      row.append(cb, who, st); body.appendChild(row);
+    });
+  }
+}
+
+/* ---------- wiring ---------- */
+function wire(){
+  $("#prev").onclick = () => flip(-1);
+  $("#nextBtn").onclick = () => flip(1);
+  $("#unmute").onclick = () => { prefs.sound = true; if (ytReady) yt.unMute(); video.muted = false; $("#unmute").classList.remove("show"); };
+  const fol = $("#follow");
+  const setFollow = v => { prefs.follow = v; save(); fol.setAttribute("aria-pressed", String(v)); };
+  setFollow(prefs.follow);
+  fol.onclick = () => { setFollow(!prefs.follow); toast(prefs.follow ? "Following: the player switches as each bulletin starts." : "Stopped following."); };
+  const cc = $("#captions");
+  cc.setAttribute("aria-pressed", String(prefs.captions));
+  cc.onclick = () => { prefs.captions = !prefs.captions; save(); cc.setAttribute("aria-pressed", String(prefs.captions)); if (yt){ try { yt.destroy(); } catch {} yt = null; ytReady = false; } toast(prefs.captions ? "Captions on where YouTube has them." : "Captions off."); tune(current); };
+  $("#catchup").onclick = () => {
+    if (catchQueue != null){ catchQueue = null; updateCatchLabel(); renderIdent(false); return; }
+    const q = catchList(); if (!q.length){ toast("Nothing to catch up on."); return; }
+    catchQueue = q; const first = catchQueue.shift(); tune(first, {from: "catchup"}); updateCatchLabel();
+  };
+  $("#lineupBtn").onclick = () => { renderLineup(); $("#lineup").showModal(); };
+  $("#closeLineup").onclick = () => $("#lineup").close();
+  document.addEventListener("keydown", e => {
+    if (e.target.closest("input, dialog") || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === "ArrowRight"){ flip(1); e.preventDefault(); }
+    else if (e.key === "ArrowLeft"){ flip(-1); e.preventDefault(); }
+    else if (e.key.toLowerCase() === "l"){ const l = liveNow(); l.length ? tune(l[0]) : toast("Nothing is on air right now."); }
+    else if (e.key.toLowerCase() === "f") fol.click();
+    else if (e.key.toLowerCase() === "c") cc.click();
+  });
+  // swipe on the clock panel to flip
+  let x0 = null;
+  const clock = $("#clock");
+  clock.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, {passive: true});
+  clock.addEventListener("touchend", e => { if (x0 == null) return; const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 50) flip(dx < 0 ? 1 : -1); x0 = null; });
+  // mark watched when most of an edition has played
+  setInterval(() => {
+    if (!ytReady || !current) return;
+    try { if (!prefs.sound && !yt.isMuted()){ prefs.sound = true; $("#unmute").classList.remove("show"); } } catch {}
+    try { const d = yt.getDuration(), t = yt.getCurrentTime(); const st = STATUS[current.id]; if (d > 300 && t / d > 0.85 && st && st.latest && yt.getVideoData().video_id === st.latest.videoId) markWatched(st.latest.videoId); } catch {}
+  }, 10000);
+}
+
+async function getJSON(u){ const r = await fetch(u, {cache: "no-store"}); if (!r.ok) throw new Error(u + " " + r.status); return r.json(); }
+async function start(){
+  try { LINEUP = (await getJSON("bulletins.json")).bulletins; }
+  catch (e){ showCard({h: "The lineup file didn't load", p: "Serve this folder over http (GitHub Pages, or python3 -m http.server) rather than opening the file directly."}); return; }
+  try { const s = await getJSON("status.json"); STATUS = s.bulletins || {}; statusMeta = s; } catch { STATUS = {}; }
+  wire(); renderFilters(); updateCatchLabel();
+  const now = Date.now();
+  const byHash = LINEUP.find(b => "#" + b.id === location.hash);
+  const live = liveNow();
+  const recent = ordered(now).map(x => x.b).filter(b => stateOf(b, now).last).sort((a, c) => stateOf(c, now).last - stateOf(a, now).last);
+  current = byHash || live[0] || recent[0] || LINEUP[0];
+  renderDial(true);
+  loadYT();
+  tune(current);
+  renderDial(true);
+  setInterval(tick, 15000); tick();
+  // refresh the status file every 20 minutes so a long-open tab picks up new editions
+  setInterval(async () => { try { const s = await getJSON("status.json"); STATUS = s.bulletins || {}; statusMeta = s; } catch {} }, 20 * 6e4);
+}
+start();
+})();
+</script>
+</body>
+</html>

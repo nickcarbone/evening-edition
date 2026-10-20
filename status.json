@@ -1,0 +1,462 @@
+{
+  "generated": null,
+  "seed": "Hand-collected 2026-10-20 before the checker first ran.",
+  "bulletins": {
+    "cultura": {
+      "latest": {
+        "videoId": "ydQEi70pkTo",
+        "title": "JORNAL DA CULTURA | TSE dá 24 horas para Meta comprovar isonomia entre campanhas | 19/10/2026",
+        "published": "2026-10-20T01:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "caracol": {
+      "latest": {
+        "videoId": "6Y6o58tE_7Q",
+        "title": "Noticias Caracol | Emisión Central (19 de octubre de 2026)",
+        "published": "2026-10-20T03:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "nmas": {
+      "latest": {
+        "videoId": "9SuAcKAQaYg",
+        "title": "Exfiscal de Chihuahua, César Jáuregui, es encerrado en el Altiplano | En Punto - 19 de Octubre 2026",
+        "published": "2026-10-20T05:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "kompas": {
+      "latest": {
+        "videoId": "WL-ob4Pee_M",
+        "title": "Demo Pemerintah Tuntut Tetapkan Karhutla Bencana Nasional di Palangka Raya | KOMPAS PETANG",
+        "published": "2026-10-19T13:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tvb": {
+      "latest": {
+        "videoId": "rU0SufnoAWk",
+        "title": "無綫TVB六點半新聞報道｜馬克龍譴責示威暴力行為 示威期間與妻出席演唱會被批無視民生｜加拿大有軍事基地起火至少四名軍人死亡 軍方指實彈演習期間有草地被燒著x澳洲男童擅闖雨水排水溝被困｜20261019",
+        "published": "2026-10-19T11:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tvpatrol": {
+      "latest": {
+        "videoId": "IvtAd2g7aac",
+        "title": "TV Patrol Livestream | October 16, 2026 Full Episode Replay",
+        "published": "2026-10-17T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "cctv": {
+      "latest": {
+        "videoId": "p5n6f8DQAE4",
+        "title": "【赓续长征精神 奋进复兴征程】初心如磐 精神永续 书写新长征路上的崭新答卷 | CCTV「新闻联播」20261019",
+        "published": "2026-10-20T03:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "pts": {
+      "latest": {
+        "videoId": "4GCaLBDj-84",
+        "title": "20261019 公視晚間新聞 完整版（無網路版權內容除外）｜薔琵颱風估週五、六最近台 北轉路徑仍有變數",
+        "published": "2026-10-19T13:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "thaipbs": {
+      "latest": {
+        "videoId": "fbQeVUEZxJs",
+        "title": "ข่าวค่ำ | 18 ต.ค. 69",
+        "published": "2026-10-19T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "kbs": {
+      "latest": {
+        "videoId": "8UDF08rFQhw",
+        "title": "[풀영상] 뉴스9 : 코스피·코스닥 ‘동반 폭락’…외국인 “팔자” 행렬에 ‘날개 없는 추락’ - 2026년 10월 15일(목) / KBS",
+        "published": "2026-10-16T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tv3my": {
+      "latest": {
+        "videoId": "TMOBmVhFKMM",
+        "title": "Budak Maut Dirempuh: Pemandu BYD Didakwa Esok | Buletin Utama, 14 Oktober 2026",
+        "published": "2026-10-15T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tolo": {
+      "latest": {
+        "videoId": "XyFcCt_CacQ",
+        "title": "TOLOnews - 6pm News - 19 Oct 2026 | آمادگی روسیه برای کمک به کاهش تنش‌ها میان افغانستان و پاکستان",
+        "published": "2026-10-19T15:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "btv": {
+      "latest": {
+        "videoId": "6LUfzKPER-A",
+        "title": "রাত ৮টার সংবাদ",
+        "published": "2026-10-12T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "kz24": {
+      "latest": {
+        "videoId": "qLrSwXNbdjg",
+        "title": "18 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-19T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "geo": {
+      "latest": {
+        "videoId": "lCZ6CNdel-o",
+        "title": "Govt-Opposition Talks - KP Emergency | Geo News 9 PM Geo Bulletin | 19th Oct 2026",
+        "published": "2026-10-19T18:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "citizen": {
+      "latest": {
+        "videoId": "uvSjwDIlFNA",
+        "title": "CITIZEN NIPASHE ~ Oct 19 2026",
+        "published": "2026-10-19T18:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tvr": {
+      "latest": {
+        "videoId": "70HFX8vQQFQ",
+        "title": "TeleJURNAL 19, cu Mihai Rădulescu: Inflația crește pe final de an",
+        "published": "2026-10-10T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "novas": {
+      "latest": {
+        "videoId": "d4u_IQj8coY",
+        "title": "DNEVNIK - CELA EMISIJA - 18.10.2026.",
+        "published": "2026-10-19T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "ebc": {
+      "latest": {
+        "videoId": "tesG6F6Gds0",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና... ጥቅምት 08/2019 ዓ.ም   #etvnews #ebc #ethiopia",
+        "published": "2026-10-19T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "sabc1": {
+      "latest": {
+        "videoId": "lyUdhVrN1GI",
+        "title": "Izindaba zesiZulu @19H00 l 19 October 2026",
+        "published": "2026-10-19T18:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "hrt": {
+      "latest": {
+        "videoId": "u2qI2EclYSY",
+        "title": "Dnevnik, 19. 10. 2026.",
+        "published": "2026-10-19T19:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "dozhd": {
+      "latest": {
+        "videoId": "1CBVDrV1s5Q",
+        "title": "Сделка Трампа и Путина. Коллапс в аэропортах Москвы. Страшный удар по Запорожью",
+        "published": "2026-10-11T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tvp": {
+      "latest": {
+        "videoId": "9zsCr9UVpNg",
+        "title": "Putin chce szczytu z Trumpem i Xi Jinpingiem | 19.30 | 19.10.2026",
+        "published": "2026-10-19T18:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tagesschau": {
+      "latest": {
+        "videoId": "VAeuTD_wkV4",
+        "title": "tagesschau 20:00 Uhr, 19.10.2026",
+        "published": "2026-10-19T19:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "france2": {
+      "latest": {
+        "videoId": "BOzPt7Kc3mM",
+        "title": "Le journal de 20h de France Télévisions - 19 octobre 2026",
+        "published": "2026-10-19T19:20:00Z",
+        "embeddable": false
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "la7": {
+      "latest": {
+        "videoId": "qwonEGI7BBY",
+        "title": "Edizione delle ore 20.00 del 19/10/2026",
+        "published": "2026-10-19T20:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "tv3gh": {
+      "latest": {
+        "videoId": "JjCXLHt6Pp0",
+        "title": "LIVE: News360; Customs Seizes Canabis Worth GHC11.2 Million || 19-10-2026",
+        "published": "2026-10-19T20:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "rti": {
+      "latest": {
+        "videoId": "FbzAbIQRxmk",
+        "title": "Le 20 Heures de RTI 1 du 19 octobre 2026 par Fatou Fofana",
+        "published": "2026-10-19T22:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "rtssn": {
+      "latest": {
+        "videoId": "OBxPm7FjYPM",
+        "title": "LE JOURNAL TELEVISE DE 20H - LUNDI 19 OCTOBRE 2026",
+        "published": "2026-10-19T22:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "channels": {
+      "latest": {
+        "videoId": "lomUTPa1KAQ",
+        "title": "News At 10",
+        "published": "2026-10-20T06:14:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "global": {
+      "latest": {
+        "videoId": "1GnD3JKz950",
+        "title": "Global National: Oct. 19, 2026 | High-wind warnings were issued for Wainwright before tragedy",
+        "published": "2026-10-20T02:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "rcan": {
+      "latest": {
+        "videoId": "V6Bo74uMy_s",
+        "title": "LSQ - Le téléjournal 18 h du lundi 19 octobre 2026",
+        "published": "2026-10-19T23:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "pbs": {
+      "latest": {
+        "videoId": "KUI3WHgXLpI",
+        "title": "PBS News Hour full episode, Oct. 19, 2026",
+        "published": "2026-10-20T00:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "nbc": {
+      "latest": {
+        "videoId": "krT6eKZIGeM",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 19",
+        "published": "2026-10-20T02:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "abc": {
+      "latest": {
+        "videoId": "xaxU3ML14Pc",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 19, 2026",
+        "published": "2026-10-20T02:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "telemundo": {
+      "latest": {
+        "videoId": "mRVHKaaA4bY",
+        "title": "Las noticias de la noche, jueves 15 de octubre de 2026 | Noticias Telemundo",
+        "published": "2026-10-16T06:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "telenoche": {
+      "latest": {
+        "videoId": "sw-cXp23d-k",
+        "title": "La primera aparición del papa León XIV tras su operación por cáncer | TELENOCHE DEL 19/10/26",
+        "published": "2026-10-20T00:20:00Z",
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    },
+    "srf": {
+      "latest": {
+        "videoId": "vIRfPlZeF7o",
+        "title": "Tagesschau vom 20.09.2026 | Hauptausgabe @ 19:30 | SRF",
+        "published": null,
+        "embeddable": false
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": null,
+      "seed": true
+    }
+  }
+}

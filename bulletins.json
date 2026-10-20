@@ -1,0 +1,1213 @@
+{
+  "version": 1,
+  "updated": "2026-10-20",
+  "bulletins": [
+    {
+      "id": "cultura",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "broadcaster": "TV Cultura",
+      "programme": "Jornal da Cultura",
+      "tz": "America/Sao_Paulo",
+      "local": "21:00",
+      "days": "weekdays",
+      "city": "São Paulo",
+      "region": "americas",
+      "minutes": 70,
+      "min_minutes": 40,
+      "time_basis": "conv",
+      "note": "Streamed live; Globo's Jornal Nacional has no official full edition",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCXdXYG8dUmEv6jhEji_lSHg",
+          "channel_name": "Jornalismo TV Cultura",
+          "title_pattern": "^JORNAL DA CULTURA",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "caracol",
+      "country": "Colombia",
+      "language": "Spanish",
+      "broadcaster": "Caracol",
+      "programme": "Noticias Caracol, Emisión Central",
+      "tz": "America/Bogota",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Bogotá",
+      "region": "americas",
+      "minutes": 60,
+      "min_minutes": 30,
+      "time_basis": "conv",
+      "note": "Uploads nightly",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+          "channel_name": "Noticias Caracol",
+          "title_pattern": "Emisión Central",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "nmas",
+      "country": "Mexico",
+      "language": "Spanish",
+      "broadcaster": "N+ (Televisa)",
+      "programme": "En Punto",
+      "tz": "America/Mexico_City",
+      "local": "22:30",
+      "days": "weekdays",
+      "city": "Mexico City",
+      "region": "americas",
+      "minutes": 50,
+      "min_minutes": 30,
+      "time_basis": "conv",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCUsm-fannqOY02PNN67C0KA",
+          "channel_name": "NMás",
+          "title_pattern": "\\|\\s*En Punto",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "kompas",
+      "country": "Indonesia",
+      "language": "Indonesian",
+      "broadcaster": "Kompas TV",
+      "programme": "Kompas Petang",
+      "tz": "Asia/Jakarta",
+      "local": "17:00",
+      "days": "daily",
+      "city": "Jakarta",
+      "region": "asia-pacific",
+      "minutes": 90,
+      "min_minutes": 40,
+      "time_basis": "conv",
+      "note": "National KOMPASTV channel",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC5BMIWZe9isJXLZZWPWvBlg",
+          "channel_name": "KOMPASTV",
+          "title_pattern": "KOMPAS PETANG",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tvb",
+      "country": "Hong Kong",
+      "language": "Cantonese",
+      "broadcaster": "TVB",
+      "programme": "News at 6:30 (六點半新聞報道)",
+      "tz": "Asia/Hong_Kong",
+      "local": "18:30",
+      "days": "daily",
+      "city": "Hong Kong",
+      "region": "asia-pacific",
+      "minutes": 30,
+      "min_minutes": 20,
+      "time_basis": "name",
+      "note": "Via TVB Anywhere's YouTube channel",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCvdc-bj7Onv5XhEC5z8_JUg",
+          "channel_name": "TVB Anywhere Life",
+          "title_pattern": "六點半新聞報道",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tvpatrol",
+      "country": "Philippines",
+      "language": "Filipino",
+      "broadcaster": "ABS-CBN",
+      "programme": "TV Patrol",
+      "tz": "Asia/Manila",
+      "local": "18:30",
+      "days": "weekdays",
+      "city": "Quezon City",
+      "region": "asia-pacific",
+      "minutes": 75,
+      "min_minutes": 40,
+      "time_basis": "sched",
+      "note": "Streamed live, full episode",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCE2606prvXQc_noEqKxVJXA",
+          "channel_name": "ABS-CBN News",
+          "title_pattern": "TV Patrol Livestream",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "cctv",
+      "country": "China",
+      "language": "Mandarin",
+      "broadcaster": "CCTV",
+      "programme": "Xinwen Lianbo (新闻联播)",
+      "tz": "Asia/Shanghai",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Beijing",
+      "region": "asia-pacific",
+      "minutes": 30,
+      "min_minutes": 25,
+      "time_basis": "conv",
+      "note": "Official CCTV channel uploads each edition",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCcLK3j-XWdGBnt5bR9NJHaQ",
+          "channel_name": "CCTV中国中央电视台",
+          "title_pattern": "新闻联播",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "pts",
+      "country": "Taiwan",
+      "language": "Mandarin",
+      "broadcaster": "PTS",
+      "programme": "PTS Evening News (公視晚間新聞)",
+      "tz": "Asia/Taipei",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Taipei",
+      "region": "asia-pacific",
+      "minutes": 60,
+      "min_minutes": 20,
+      "time_basis": "conv",
+      "note": "Full edition minus segments without online rights",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCexpzYDEnfmAvPSfG4xbcjA",
+          "channel_name": "公視新聞網",
+          "title_pattern": "公視晚間新聞\\s*完整版",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "thaipbs",
+      "country": "Thailand",
+      "language": "Thai",
+      "broadcaster": "Thai PBS",
+      "programme": "Evening News (ข่าวค่ำ)",
+      "tz": "Asia/Bangkok",
+      "local": "18:00",
+      "days": "daily",
+      "city": "Bangkok",
+      "region": "asia-pacific",
+      "minutes": 145,
+      "min_minutes": 60,
+      "time_basis": "conv",
+      "note": "Streamed live; runs about 2.5 hours",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC5TOFhyb_LxL2VG_Zenhpzw",
+          "channel_name": "Thai PBS",
+          "title_pattern": "^ข่าวค่ำ",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "kbs",
+      "country": "South Korea",
+      "language": "Korean",
+      "broadcaster": "KBS",
+      "programme": "KBS News 9 (뉴스9)",
+      "tz": "Asia/Seoul",
+      "local": "21:00",
+      "days": "daily",
+      "city": "Seoul",
+      "region": "asia-pacific",
+      "minutes": 45,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "KBS News channel streams the full edition",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCcQTRi69dsVYHN3exePtZ1A",
+          "channel_name": "KBS News",
+          "title_pattern": "뉴스\\s?9",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tv3my",
+      "country": "Malaysia",
+      "language": "Malay",
+      "broadcaster": "TV3 (Media Prima)",
+      "programme": "Buletin Utama",
+      "tz": "Asia/Kuala_Lumpur",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Kuala Lumpur",
+      "region": "asia-pacific",
+      "minutes": 60,
+      "min_minutes": 40,
+      "time_basis": "conv",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC2p8wkJVSjsMsRv0MjTikgA",
+          "channel_name": "Buletin TV3",
+          "title_pattern": "Buletin Utama",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tolo",
+      "country": "Afghanistan",
+      "language": "Dari / Pashto",
+      "broadcaster": "TOLOnews",
+      "programme": "6pm News",
+      "tz": "Asia/Kabul",
+      "local": "18:00",
+      "days": "daily",
+      "city": "Kabul",
+      "region": "asia-pacific",
+      "minutes": 25,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "Operates under Taliban media restrictions",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCknKEREcKsqhB9DFvT61LZQ",
+          "channel_name": "TOLOnews",
+          "title_pattern": "6\\s?pm News",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "btv",
+      "country": "Bangladesh",
+      "language": "Bengali",
+      "broadcaster": "BTV",
+      "programme": "8pm News (রাত ৮টার সংবাদ)",
+      "tz": "Asia/Dhaka",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Dhaka",
+      "region": "asia-pacific",
+      "minutes": 30,
+      "min_minutes": 20,
+      "time_basis": "name",
+      "note": "Streamed, not every night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UClzwimpLoZu9us9MwalLbtA",
+          "channel_name": "Bangladesh Television",
+          "title_pattern": "রাত ৮টার সংবাদ",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "kz24",
+      "country": "Kazakhstan",
+      "language": "Kazakh",
+      "broadcaster": "24KZ (Khabar)",
+      "programme": "19:00 News",
+      "tz": "Asia/Almaty",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Astana",
+      "region": "asia-pacific",
+      "minutes": 30,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "Uploads each evening",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCnAFKvDuqBGkIfV8Vn0J_CQ",
+          "channel_name": "Телеканал 24kz",
+          "title_pattern": "19:00 жаңалықтар",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "geo",
+      "country": "Pakistan",
+      "language": "Urdu",
+      "broadcaster": "Geo News",
+      "programme": "9pm Bulletin",
+      "tz": "Asia/Karachi",
+      "local": "21:00",
+      "days": "daily",
+      "city": "Karachi",
+      "region": "asia-pacific",
+      "minutes": 20,
+      "min_minutes": 10,
+      "time_basis": "name",
+      "note": "Uploads nightly",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC_vt34wimdCzdkrzVejwX9g",
+          "channel_name": "Geo News",
+          "title_pattern": "9\\s?PM (Headlines|Geo Bulletin)",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "trt",
+      "country": "Turkey",
+      "language": "Turkish",
+      "broadcaster": "TRT 1",
+      "programme": "Ana Haber",
+      "tz": "Europe/Istanbul",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Ankara",
+      "region": "africa-mideast",
+      "minutes": 60,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "TRT 1 live stream",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://www.trt.net.tr/"
+        }
+      ]
+    },
+    {
+      "id": "citizen",
+      "country": "Kenya",
+      "language": "Swahili",
+      "broadcaster": "Citizen TV",
+      "programme": "Citizen Nipashe",
+      "tz": "Africa/Nairobi",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Nairobi",
+      "region": "africa-mideast",
+      "minutes": 45,
+      "min_minutes": 15,
+      "time_basis": "conv",
+      "note": "Uploads nightly",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UChBQgieUidXV1CmDxSdRm3g",
+          "channel_name": "Citizen TV Kenya",
+          "title_pattern": "CITIZEN NIPASHE",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tvr",
+      "country": "Romania",
+      "language": "Romanian",
+      "broadcaster": "TVR 1",
+      "programme": "TeleJURNAL 19",
+      "tz": "Europe/Bucharest",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Bucharest",
+      "region": "europe",
+      "minutes": 40,
+      "min_minutes": 25,
+      "time_basis": "name",
+      "note": "Streamed, not every night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UChdrIsYOHZXgEyCLaOHc2Ew",
+          "channel_name": "TVR",
+          "title_pattern": "TeleJURNAL 19",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "novas",
+      "country": "Serbia",
+      "language": "Serbian",
+      "broadcaster": "Nova S",
+      "programme": "Dnevnik",
+      "tz": "Europe/Belgrade",
+      "local": "18:30",
+      "days": "daily",
+      "city": "Belgrade",
+      "region": "europe",
+      "minutes": 45,
+      "min_minutes": 30,
+      "time_basis": "conv",
+      "note": "Commercial, opposition-leaning; RTS has no official upload",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCloa3CgQMtGSeqjLkpQlEFg",
+          "channel_name": "NOVA S",
+          "title_pattern": "DNEVNIK - CELA EMISIJA",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "kan",
+      "country": "Israel",
+      "language": "Hebrew",
+      "broadcaster": "Kan 11",
+      "programme": "Main evening edition",
+      "tz": "Asia/Jerusalem",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Jerusalem",
+      "region": "africa-mideast",
+      "minutes": 60,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "Kan 11 live stream; no recent YouTube full editions",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://www.kan.org.il/live/"
+        }
+      ]
+    },
+    {
+      "id": "ebc",
+      "country": "Ethiopia",
+      "language": "Amharic",
+      "broadcaster": "EBC",
+      "programme": "Evening news (የምሽት 2 ሰዓት ዜና)",
+      "tz": "Africa/Addis_Ababa",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Addis Ababa",
+      "region": "africa-mideast",
+      "minutes": 50,
+      "min_minutes": 30,
+      "time_basis": "name",
+      "note": "'2 o'clock' on the Ethiopian clock = 20:00",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCOhrz3uRCOHmK6ueUstw7_Q",
+          "channel_name": "EBC",
+          "title_pattern": "የምሽት 2 ሰዓት አማርኛ ዜና",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "sabc1",
+      "country": "South Africa",
+      "language": "isiZulu / isiXhosa",
+      "broadcaster": "SABC 1",
+      "programme": "19:00 news (Izindaba / Iindaba)",
+      "tz": "Africa/Johannesburg",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Johannesburg",
+      "region": "africa-mideast",
+      "minutes": 25,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "Language alternates by day on separate SABC channels",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCSO8qij295DSxMiofTLk9QQ",
+          "channel_name": "SABC Izindaba",
+          "title_pattern": "@19H00",
+          "embeddable": true
+        },
+        {
+          "type": "youtube",
+          "channel_id": "UCl8gMaUWyG6v9gxpq6iWbmA",
+          "channel_name": "SABC Iindaba",
+          "title_pattern": "@19H00",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "hrt",
+      "country": "Croatia",
+      "language": "Croatian",
+      "broadcaster": "HRT",
+      "programme": "Dnevnik",
+      "tz": "Europe/Zagreb",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Zagreb",
+      "region": "europe",
+      "minutes": 50,
+      "min_minutes": 30,
+      "time_basis": "conv",
+      "note": "Uploads nightly",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCSI1vb6CELskEFQpRceUj0g",
+          "channel_name": "HRT vijesti",
+          "title_pattern": "^Dnevnik, \\d",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "nrk",
+      "country": "Norway",
+      "language": "Norwegian",
+      "broadcaster": "NRK",
+      "programme": "Dagsrevyen",
+      "tz": "Europe/Oslo",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Oslo",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "NRK1 stream blocked from the US; YouTube uploads irregular",
+      "sources": [
+        {
+          "type": "page",
+          "url": "https://tv.nrk.no/"
+        }
+      ]
+    },
+    {
+      "id": "dozhd",
+      "country": "Russia (in exile)",
+      "language": "Russian",
+      "broadcaster": "TV Rain (Дождь)",
+      "programme": "Evening news show",
+      "tz": "Europe/Amsterdam",
+      "local": "19:00",
+      "days": "weekdays",
+      "city": "Amsterdam",
+      "region": "europe",
+      "minutes": 60,
+      "min_minutes": 25,
+      "time_basis": "conv",
+      "note": "Independent, broadcasts from Amsterdam; time to verify",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCdubelOloxR3wzwJG9x8YqQ",
+          "channel_name": "Телеканал Дождь",
+          "title_pattern": null,
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "tvp",
+      "country": "Poland",
+      "language": "Polish",
+      "broadcaster": "TVP",
+      "programme": "19:30",
+      "tz": "Europe/Warsaw",
+      "local": "19:30",
+      "days": "daily",
+      "city": "Warsaw",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "Streamed on TVP Info's channel",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCzQZbOb86WvhOPoR7jgAfsA",
+          "channel_name": "TVP Info",
+          "title_pattern": "\\|\\s*19\\.30\\s*\\|",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "yle",
+      "country": "Finland",
+      "language": "Finnish",
+      "broadcaster": "Yle",
+      "programme": "Yle Uutiset",
+      "tz": "Europe/Helsinki",
+      "local": "20:30",
+      "days": "daily",
+      "city": "Helsinki",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "Yle TV1 world feed (not 24/7)",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://areena.yle.fi/"
+        }
+      ]
+    },
+    {
+      "id": "svt",
+      "country": "Sweden",
+      "language": "Swedish",
+      "broadcaster": "SVT",
+      "programme": "Rapport",
+      "tz": "Europe/Stockholm",
+      "local": "19:30",
+      "days": "daily",
+      "city": "Stockholm",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "SVT1 stream blocked from the US",
+      "sources": [
+        {
+          "type": "page",
+          "url": "https://www.svtplay.se/"
+        }
+      ]
+    },
+    {
+      "id": "srf",
+      "country": "Switzerland",
+      "language": "German",
+      "broadcaster": "SRF",
+      "programme": "Tagesschau (Hauptausgabe)",
+      "tz": "Europe/Zurich",
+      "local": "19:30",
+      "days": "daily",
+      "city": "Zurich",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 15,
+      "time_basis": "name",
+      "note": "Occasional YouTube streams, embedding disabled",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCqdXpIZSamBceDmH8uOoTHA",
+          "channel_name": "SRF News &amp; Hintergründe",
+          "title_pattern": "Hauptausgabe",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "orf",
+      "country": "Austria",
+      "language": "German",
+      "broadcaster": "ORF",
+      "programme": "ZIB 1",
+      "tz": "Europe/Vienna",
+      "local": "19:30",
+      "days": "daily",
+      "city": "Vienna",
+      "region": "europe",
+      "minutes": 20,
+      "min_minutes": 0,
+      "time_basis": "name",
+      "note": "ORF 2 stream blocked from the US; only fan uploads on YouTube",
+      "sources": [
+        {
+          "type": "page",
+          "url": "https://on.orf.at/"
+        }
+      ]
+    },
+    {
+      "id": "ert",
+      "country": "Greece",
+      "language": "Greek",
+      "broadcaster": "ERT",
+      "programme": "Main News (Κεντρικό Δελτίο)",
+      "tz": "Europe/Athens",
+      "local": "21:00",
+      "days": "daily",
+      "city": "Athens",
+      "region": "europe",
+      "minutes": 75,
+      "min_minutes": 0,
+      "time_basis": "name",
+      "note": "ERTnews live stream",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://www.ertflix.gr/"
+        }
+      ]
+    },
+    {
+      "id": "tagesschau",
+      "country": "Germany",
+      "language": "German",
+      "broadcaster": "ARD",
+      "programme": "Tagesschau",
+      "tz": "Europe/Berlin",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Hamburg",
+      "region": "europe",
+      "minutes": 15,
+      "min_minutes": 12,
+      "time_basis": "name",
+      "note": "Live stream marked worldwide plus a full upload",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC5NOEUbkLheQcaaRldYW5GA",
+          "channel_name": "tagesschau",
+          "title_pattern": "tagesschau 20:00 Uhr|tagesschau um 20 Uhr",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "france2",
+      "country": "France",
+      "language": "French",
+      "broadcaster": "France Télévisions",
+      "programme": "Le 20h de France 2",
+      "tz": "Europe/Paris",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Paris",
+      "region": "europe",
+      "minutes": 40,
+      "min_minutes": 25,
+      "time_basis": "sched",
+      "note": "Streamed live on franceinfo's channel; embedding disabled",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+          "channel_name": "franceinfo",
+          "title_pattern": "journal de 20h de France Télévisions",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "la7",
+      "country": "Italy",
+      "language": "Italian",
+      "broadcaster": "La7",
+      "programme": "TG La7 20:00",
+      "tz": "Europe/Rome",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Rome",
+      "region": "europe",
+      "minutes": 40,
+      "min_minutes": 25,
+      "time_basis": "name",
+      "note": "Rai's TG1 has no official full edition online found",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCYj2t05uU65UrlI1f0OGhlg",
+          "channel_name": "TG La7",
+          "title_pattern": "Edizione delle ore 20\\.00",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "nos",
+      "country": "Netherlands",
+      "language": "Dutch",
+      "broadcaster": "NOS",
+      "programme": "NOS Journaal 20:00",
+      "tz": "Europe/Amsterdam",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Hilversum",
+      "region": "europe",
+      "minutes": 25,
+      "min_minutes": 0,
+      "time_basis": "ref",
+      "note": "No official YouTube editions; NOS site player",
+      "sources": [
+        {
+          "type": "page",
+          "url": "https://nos.nl/"
+        }
+      ]
+    },
+    {
+      "id": "tve",
+      "country": "Spain",
+      "language": "Spanish",
+      "broadcaster": "RTVE",
+      "programme": "Telediario 2",
+      "tz": "Europe/Madrid",
+      "local": "21:00",
+      "days": "weekdays",
+      "city": "Madrid",
+      "region": "europe",
+      "minutes": 60,
+      "min_minutes": 0,
+      "time_basis": "ref",
+      "note": "TVE Internacional (Americas) stream; La 1 itself is blocked from the US",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://www.rtve.es/play/"
+        }
+      ]
+    },
+    {
+      "id": "dr",
+      "country": "Denmark",
+      "language": "Danish",
+      "broadcaster": "DR",
+      "programme": "TV Avisen",
+      "tz": "Europe/Copenhagen",
+      "local": "21:00",
+      "days": "daily",
+      "city": "Copenhagen",
+      "region": "europe",
+      "minutes": 30,
+      "min_minutes": 0,
+      "time_basis": "conv",
+      "note": "DR1 stream played from the US on 20 Oct; iptv-org marks it geo-blocked",
+      "sources": [
+        {
+          "type": "stream",
+          "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+          "tested_from_us": "2026-10-20"
+        },
+        {
+          "type": "page",
+          "url": "https://www.dr.dk/drtv/"
+        }
+      ]
+    },
+    {
+      "id": "tv3gh",
+      "country": "Ghana",
+      "language": "English",
+      "broadcaster": "TV3",
+      "programme": "News360",
+      "tz": "Africa/Accra",
+      "local": "19:00",
+      "days": "daily",
+      "city": "Accra",
+      "region": "africa-mideast",
+      "minutes": 60,
+      "min_minutes": 40,
+      "time_basis": "conv",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC9VSDs4ZXo3sjOoPkmW2iRQ",
+          "channel_name": "TV3 Ghana",
+          "title_pattern": "News\\s?360",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "rti",
+      "country": "Côte d'Ivoire",
+      "language": "French",
+      "broadcaster": "RTI 1",
+      "programme": "JT 20H",
+      "tz": "Africa/Abidjan",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Abidjan",
+      "region": "africa-mideast",
+      "minutes": 35,
+      "min_minutes": 20,
+      "time_basis": "name",
+      "note": "Uploads each edition",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCxeb7KlVQpmMzQ0sPyk4GGQ",
+          "channel_name": "RTI ",
+          "title_pattern": "20 Heures de RTI",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "rtssn",
+      "country": "Senegal",
+      "language": "French",
+      "broadcaster": "RTS",
+      "programme": "Journal télévisé 20H",
+      "tz": "Africa/Dakar",
+      "local": "20:00",
+      "days": "daily",
+      "city": "Dakar",
+      "region": "africa-mideast",
+      "minutes": 55,
+      "min_minutes": 30,
+      "time_basis": "name",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC3Pwur55-OPFYDN_xg6JR_w",
+          "channel_name": "RTS - RADIO TÉLÉVISION SÉNÉGALAISE",
+          "title_pattern": "JOURNAL T[ÉE]L[ÉE]VIS[ÉE] DE 20H",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "channels",
+      "country": "Nigeria",
+      "language": "English",
+      "broadcaster": "Channels TV",
+      "programme": "News at 10",
+      "tz": "Africa/Lagos",
+      "local": "22:00",
+      "days": "daily",
+      "city": "Lagos",
+      "region": "africa-mideast",
+      "minutes": 60,
+      "min_minutes": 30,
+      "time_basis": "name",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCEXGDNclvmg6RW0vipJYsTQ",
+          "channel_name": "Channels Television",
+          "title_pattern": "News At 10",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "global",
+      "country": "Canada",
+      "language": "English",
+      "broadcaster": "Global News",
+      "programme": "Global National",
+      "tz": "America/Toronto",
+      "local": "17:30",
+      "days": "daily",
+      "city": "Vancouver",
+      "region": "americas",
+      "minutes": 22,
+      "min_minutes": 15,
+      "time_basis": "conv",
+      "note": "CBC's The National has no official full upload",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UChLtXXpo4Ge1ReTEboVvTDg",
+          "channel_name": "Global News",
+          "title_pattern": "^Global National",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "rcan",
+      "country": "Canada",
+      "language": "French",
+      "broadcaster": "Radio-Canada",
+      "programme": "Le Téléjournal 18 h (Québec)",
+      "tz": "America/Toronto",
+      "local": "18:00",
+      "days": "weekdays",
+      "city": "Montréal",
+      "region": "americas",
+      "minutes": 55,
+      "min_minutes": 30,
+      "time_basis": "name",
+      "note": "The uploads found are the sign-language (LSQ) version",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UClxaaAzHu1B5EoTtBYea7ig",
+          "channel_name": "Radio-Canada Info",
+          "title_pattern": "t[ée]l[ée]journal 18 h",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "pbs",
+      "country": "United States",
+      "language": "English",
+      "broadcaster": "PBS",
+      "programme": "PBS News Hour",
+      "tz": "America/New_York",
+      "local": "18:00",
+      "days": "daily",
+      "city": "Washington",
+      "region": "americas",
+      "minutes": 55,
+      "min_minutes": 40,
+      "time_basis": "conv",
+      "note": "Full episode uploaded each night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
+          "channel_name": "PBS NewsHour",
+          "title_pattern": "News ?Hour full episode",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "nbc",
+      "country": "United States",
+      "language": "English",
+      "broadcaster": "NBC",
+      "programme": "NBC Nightly News",
+      "tz": "America/New_York",
+      "local": "18:30",
+      "days": "daily",
+      "city": "New York",
+      "region": "americas",
+      "minutes": 22,
+      "min_minutes": 15,
+      "time_basis": "conv",
+      "note": "Full episode uploaded each night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
+          "channel_name": "NBC News",
+          "title_pattern": "Nightly News.*Full Episode",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "abc",
+      "country": "United States",
+      "language": "English",
+      "broadcaster": "ABC",
+      "programme": "World News Tonight",
+      "tz": "America/New_York",
+      "local": "18:30",
+      "days": "daily",
+      "city": "New York",
+      "region": "americas",
+      "minutes": 22,
+      "min_minutes": 15,
+      "time_basis": "conv",
+      "note": "Full broadcast uploaded each night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+          "channel_name": "ABC News",
+          "title_pattern": "World News Tonight.*Full Broadcast",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "telemundo",
+      "country": "United States",
+      "language": "Spanish",
+      "broadcaster": "Telemundo",
+      "programme": "Noticias Telemundo (noche)",
+      "tz": "America/New_York",
+      "local": "18:30",
+      "days": "weekdays",
+      "city": "Miami",
+      "region": "americas",
+      "minutes": 25,
+      "min_minutes": 15,
+      "time_basis": "conv",
+      "note": "Streamed, not every night",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UCRwA1NUcUnwsly35ikGhp0A",
+          "channel_name": "Noticias Telemundo",
+          "title_pattern": "noticias de la noche",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "telenoche",
+      "country": "Argentina",
+      "language": "Spanish",
+      "broadcaster": "El Trece",
+      "programme": "Telenoche",
+      "tz": "America/Argentina/Buenos_Aires",
+      "local": "20:00",
+      "days": "weekdays",
+      "city": "Buenos Aires",
+      "region": "americas",
+      "minutes": 50,
+      "min_minutes": 30,
+      "time_basis": "conv",
+      "note": "Streamed live",
+      "sources": [
+        {
+          "type": "youtube",
+          "channel_id": "UC0DM_mHV2u6dj8ig51GkQwg",
+          "channel_name": "eltrece",
+          "title_pattern": "TELENOCHE",
+          "embeddable": true
+        }
+      ]
+    }
+  ]
+}
