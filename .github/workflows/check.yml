@@ -1,0 +1,40 @@
+name: Check bulletins
+
+on:
+  schedule:
+    - cron: "41 * * * *"   # hourly, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-bulletins
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Find the latest editions
+        run: node scripts/check.mjs
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          VIEWER_COUNTRY: US
+          PAGE_ORIGIN: https://${{ github.repository_owner }}.github.io
+      - name: Commit status.json if it changed
+        run: |
+          if git diff --quiet -- status.json; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add status.json
+          git commit -m "Update editions"
+          git push
