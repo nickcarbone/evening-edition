@@ -399,8 +399,10 @@ function playHls(url, fallback){
   // the live edge and can recover from dropped segments. Chrome's own HLS player plays at the very
   // edge, stalls every few seconds and gives up on the first error.
   if (hls){ hls.destroy(); hls = null; }
-  // Safari (Mac and iPhone) has a mature built-in player; Chromium's new one does not
-  if (video.canPlayType("application/vnd.apple.mpegurl") && !window.chrome){ goNative(); }
+  // iPhone and iPad: every browser there is Safari underneath, and its own player is the reliable one.
+  // Elsewhere (including Mac Safari and Chromium's new built-in player) hls.js does better.
+  const appleTouch = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (appleTouch && video.canPlayType("application/vnd.apple.mpegurl")){ goNative(); }
   else loadHls(err => {
     if (!alive()) return;
     if (err || !window.Hls || !Hls.isSupported()){
