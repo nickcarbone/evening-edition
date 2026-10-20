@@ -315,6 +315,7 @@ function plan(b, now, opts = {}){
 }
 
 /* ---------- player ---------- */
+let hlsWatch = null, hlsSession = 0;
 let yt = null, ytReady = false, ytQueued = null, hls = null, current = null, catchQueue = null, lastFlip = 0;
 const screen = $("#screen"), card = $("#card"), video = $("#hls");
 
@@ -347,6 +348,7 @@ function playYT(id){
 function stopAll(){
   if (ytReady) try { yt.stopVideo(); } catch {}
   if (hls){ hls.destroy(); hls = null; }
+  clearInterval(hlsWatch); hlsWatch = null; hlsSession++; video.onerror = null;
   video.pause(); video.removeAttribute("src"); video.load(); video.hidden = true;
   card.classList.remove("show"); $("#unmute").classList.remove("show");
   const f = $("#yt"); if (f) f.style.visibility = "hidden";
@@ -374,16 +376,63 @@ function loadHls(cb){
   document.head.appendChild(s);
 }
 function playHls(url, fallback){
+  const session = ++hlsSession;               // a later tune() makes this call stale
+  const alive = () => session === hlsSession && !video.hidden;
   video.hidden = false; video.muted = !prefs.sound;
-  const fail = () => showCard({h:"The stream isn't reachable right now", p:"The broadcaster may be blocking it during this programme, or its address has changed.", acts: fallback ? [["Open the broadcaster's site", fallback]] : []});
-  video.onerror = fail;
-  if (video.canPlayType("application/vnd.apple.mpegurl")){ video.src = url; video.play().catch(() => {}); }
+  let retries = 0, failed = false;
+  const fail = why => {
+    if (!alive() || failed) return; failed = true;
+    clearInterval(hlsWatch); hlsWatch = null;
+    console.warn("stream failed", url, why);
+    showCard({h:"The stream isn't reachable right now", p:"The broadcaster may be blocking it during this programme, or its address has changed.", acts: fallback ? [["Open the broadcaster's site", fallback]] : [], buttons: [["Try again", () => { card.classList.remove("show"); playHls(url, fallback); }]]});
+  };
+  const goNative = () => {
+    // Safari without Managed Media Source: the browser's own player, reloaded on error
+    video.onerror = () => {
+      if (!alive()) return;
+      if (retries++ < 3) setTimeout(() => { if (alive()){ video.src = url; video.play().catch(() => {}); } }, 1500 * retries);
+      else fail("native " + (video.error && video.error.message));
+    };
+    video.src = url; video.play().catch(() => {});
+  };
+  // hls.js first wherever it runs (Chrome, Firefox, Edge, recent Safari): it keeps a buffer back from
+  // the live edge and can recover from dropped segments. Chrome's own HLS player plays at the very
+  // edge, stalls every few seconds and gives up on the first error.
+  if (hls){ hls.destroy(); hls = null; }
+  // Safari (Mac and iPhone) has a mature built-in player; Chromium's new one does not
+  if (video.canPlayType("application/vnd.apple.mpegurl") && !window.chrome){ goNative(); }
   else loadHls(err => {
-    if (err || !window.Hls || !Hls.isSupported()) return fail();
-    hls = new Hls({lowLatencyMode: false}); hls.loadSource(url); hls.attachMedia(video);
+    if (!alive()) return;
+    if (err || !window.Hls || !Hls.isSupported()){
+      return video.canPlayType("application/vnd.apple.mpegurl") ? goNative() : fail("no hls support");
+    }
+    video.onerror = null;
+    hls = new Hls({lowLatencyMode: false, liveSyncDurationCount: 4, capLevelToPlayerSize: true, manifestLoadingMaxRetry: 4, levelLoadingMaxRetry: 6, fragLoadingMaxRetry: 6});
+    hls.loadSource(url); hls.attachMedia(video);
     hls.on(Hls.Events.MANIFEST_PARSED, () => video.play().catch(() => {}));
-    hls.on(Hls.Events.ERROR, (e, d) => { if (d.fatal) fail(); });
+    hls.on(Hls.Events.FRAG_BUFFERED, () => { retries = 0; });
+    hls.on(Hls.Events.ERROR, (e, d) => {
+      if (!d.fatal || !alive()) return;
+      if (retries++ >= 4) return fail(d.type + " " + d.details);
+      if (d.type === Hls.ErrorTypes.MEDIA_ERROR) hls.recoverMediaError();
+      else if (d.type === Hls.ErrorTypes.NETWORK_ERROR) setTimeout(() => { if (alive() && hls) hls.startLoad(); }, 2000 * retries);
+      else fail(d.type + " " + d.details);
+    });
   });
+  // watchdog: if the picture freezes for 15 seconds while it should be playing, rejoin the live edge
+  clearInterval(hlsWatch);
+  let lastT = -1, still = 0;
+  hlsWatch = setInterval(() => {
+    if (!alive()){ clearInterval(hlsWatch); hlsWatch = null; return; }
+    if (video.paused || failed){ still = 0; return; }
+    if (video.currentTime === lastT){ if (++still >= 3){ still = 0;
+      if (hls){ const edge = hls.liveSyncPosition; if (edge) video.currentTime = edge; hls.startLoad(); }
+      else { video.src = url; video.play().catch(() => {}); }
+      if (retries++ >= 6) fail("stalled");
+    } }
+    else still = 0;
+    lastT = video.currentTime;
+  }, 5000);
   $("#unmute").classList.toggle("show", !prefs.sound);
 }
 function showCard({h, p, acts = [], buttons = []}){
@@ -433,7 +482,15 @@ function renderIdent(enter){
   const el = $("#lstate"), span = el.querySelector("span");
   el.classList.toggle("live", s.live);
   if (catchQueue != null) span.textContent = "Catching up · " + (catchQueue.length) + " more after this";
-  else if (s.live) span.textContent = "On air · started " + ago(now - s.liveStart) + " ago";
+  else if (s.live){
+    // the schedule says it's on air, but the player may only have an earlier upload
+    const pl = plan(b, now);
+    if (pl.kind === "yt" && !pl.live){
+      el.classList.remove("live");
+      span.textContent = "On air now, no live stream found · " + (pl.published ? "playing the edition from " + ago(now - Date.parse(pl.published)) + " ago" : "playing the latest upload");
+    }
+    else span.textContent = "On air · started " + ago(now - s.liveStart) + " ago";
+  }
   else {
     const pl = plan(b, now);
     if (pl.kind === "yt" && pl.published) span.textContent = "Latest edition · aired " + ago(now - Date.parse(pl.published)) + " ago";
