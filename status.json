@@ -1,22 +1,18 @@
 {
-  "generated": "2026-10-21T00:59:11.017Z",
+  "generated": "2026-10-21T06:33:35.865Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "ydQEi70pkTo",
-        "title": "JORNAL DA CULTURA | TSE dá 24 horas para Meta comprovar isonomia entre campanhas | 19/10/2026",
-        "published": "2026-10-19T23:47:12.000Z",
-        "duration": 3573,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "1pc_ROEQLeU",
         "title": "JORNAL DA CULTURA | França amplia toque de recolher para conter protestos | 20/10/2026",
-        "start": "2026-10-20T23:47:10Z"
+        "published": "2026-10-20T23:47:10.000Z",
+        "duration": 4407,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -28,23 +24,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-21T06:33:35.865Z",
+      "stale": true
     },
     "nmas": {
       "latest": {
-        "videoId": "9SuAcKAQaYg",
-        "title": "Exfiscal de Chihuahua, César Jáuregui, es encerrado en el Altiplano | En Punto - 19 de Octubre 2026",
-        "published": "2026-10-20T04:28:58.000Z",
-        "duration": 2247,
+        "videoId": "xyC4XhHYM68",
+        "title": "Trabajadores del IMSS confirman marchas y bloqueos este miércoles | En Punto - 20 de Octubre 2026",
+        "published": "2026-10-21T04:29:17.000Z",
+        "duration": 2254,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-21T06:33:35.865Z",
+      "observedLocal": "22:29"
     },
     "kompas": {
       "latest": {
@@ -55,7 +49,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "stale": true
     },
     "tvb": {
@@ -68,7 +62,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "tvpatrol": {
       "latest": {
@@ -80,20 +74,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "observedLocal": "18:19"
+      "checked": "2026-10-21T06:33:35.865Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "cctv": {
       "latest": {
-        "videoId": "p5n6f8DQAE4",
-        "title": "【赓续长征精神 奋进复兴征程】初心如磐 精神永续 书写新长征路上的崭新答卷 | CCTV「新闻联播」20261019",
-        "published": "2026-10-20T02:27:46.000Z",
-        "duration": 1778,
+        "videoId": "5-RhgZK5DPY",
+        "title": "习近平致信祝贺中央社会主义学院建院70周年 | CCTV「新闻联播」20261020",
+        "published": "2026-10-21T02:45:27.000Z",
+        "duration": 1793,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "pts": {
       "latest": {
@@ -105,7 +100,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "thaipbs": {
       "latest": {
@@ -117,7 +112,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -130,8 +125,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "observedLocal": "20:57"
+      "checked": "2026-10-21T06:33:35.865Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tv3my": {
       "latest": {
@@ -143,7 +139,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:55"
     },
     "tolo": {
@@ -156,19 +152,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "btv": {
       "latest": {
         "videoId": "G3w0apTPfl8",
         "title": "রাত ৮টার সংবাদ -২০ অক্টোবর, ২০২৬",
         "published": "2026-10-20T13:59:35.000Z",
-        "duration": 2036,
+        "duration": 2039,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -181,7 +177,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -195,8 +191,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "observedLocal": "22:18"
+      "checked": "2026-10-21T06:33:35.865Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "citizen": {
       "latest": {
@@ -208,7 +205,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "tvr": {
       "latest": {
@@ -220,7 +217,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -233,7 +230,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "ebc": {
       "latest": {
@@ -245,7 +242,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -258,7 +255,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "hrt": {
       "latest": {
@@ -270,7 +267,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "dozhd": {
       "latest": {
@@ -280,13 +277,13 @@
         "duration": 3226,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "Uv0amIjPezs",
-        "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
-        "scheduledStart": "2026-10-21T06:00:00Z"
+        "title": "Уиткофф летит к Путину. Шесть лет за комментарий в телеграме. В Милан ввели армию",
+        "start": "2026-10-21T05:59:33Z"
       },
-      "checked": "2026-10-21T00:59:11.017Z",
+      "upcoming": null,
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "17:50"
     },
     "tvp": {
@@ -299,7 +296,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -311,7 +308,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "stale": true
     },
     "tagesschau": {
@@ -324,7 +321,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "france2": {
       "latest": {
@@ -335,8 +332,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "upcoming": {
+        "videoId": "EspEkJkK6zU",
+        "title": "Le journal de 20h de France Télévisions - 21 Oct 2026",
+        "scheduledStart": "2026-10-21T17:57:00Z"
+      },
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -349,7 +350,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "tv3gh": {
       "latest": {
@@ -361,7 +362,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -374,7 +375,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "rtssn": {
       "latest": {
@@ -386,7 +387,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -399,20 +400,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "22:00"
     },
     "global": {
       "latest": {
-        "videoId": "1GnD3JKz950",
-        "title": "Global National: Oct. 19, 2026 | High-wind warnings were issued for Wainwright before tragedy",
-        "published": "2026-10-20T02:00:07.000Z",
-        "duration": 1316,
+        "videoId": "6ADrMpvD_oE",
+        "title": "Global National: Oct. 20, 2026 | Most Alberta voters reject separatism in referendum",
+        "published": "2026-10-21T02:00:07.000Z",
+        "duration": 1342,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -425,7 +426,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "17:41"
     },
     "pbs": {
@@ -438,7 +439,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "nbc": {
       "latest": {
@@ -449,21 +450,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "stale": true
     },
     "abc": {
       "latest": {
-        "videoId": "xaxU3ML14Pc",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 19, 2026",
-        "published": "2026-10-20T02:20:00Z",
+        "videoId": "N7-sBNIRg20",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 20, 2026",
+        "published": "2026-10-21T02:00:26.000Z",
+        "duration": 1234,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-21T06:33:35.865Z"
     },
     "telemundo": {
       "latest": {
@@ -475,7 +475,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "18:59"
     },
     "telenoche": {
@@ -492,49 +492,49 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-21T23:00:00Z"
       },
-      "checked": "2026-10-21T00:59:11.017Z",
+      "checked": "2026-10-21T06:33:35.865Z",
       "observedLocal": "19:59"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     },
     "ert": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-21T00:59:11.017Z"
+        "checked": "2026-10-21T06:33:35.865Z"
       }
     }
   }
