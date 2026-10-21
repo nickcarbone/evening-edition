@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T17:38:38.199Z",
+  "generated": "2026-10-21T20:54:18.644Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -11,8 +11,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "upcoming": {
+        "videoId": "xFMVxSvvS0A",
+        "title": "JORNAL DA CULTURA  | 21/10/2026",
+        "scheduledStart": "2026-10-21T23:50:00Z"
+      },
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +28,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true
     },
     "nmas": {
@@ -37,8 +41,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "observedLocal": "22:29"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "kompas": {
       "latest": {
@@ -50,7 +55,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "stale": true
     },
     "tvb": {
       "latest": {
@@ -62,7 +68,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "tvpatrol": {
       "latest": {
@@ -74,7 +80,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "18:20"
     },
     "cctv": {
@@ -87,7 +93,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "pts": {
       "latest": {
@@ -99,7 +105,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "thaipbs": {
       "latest": {
@@ -111,7 +117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -124,7 +130,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true
     },
     "tv3my": {
@@ -137,7 +143,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "19:55"
     },
     "tolo": {
@@ -150,7 +156,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "btv": {
       "latest": {
@@ -162,7 +168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -175,24 +181,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "geo": {
       "latest": {
-        "videoId": "Di1NFVFHzec",
-        "title": "PML-N Govt's Big Announcement  | 9PM Headlines Geo News (21st Oct 2026)",
-        "published": "2026-10-21T16:47:49.000Z",
-        "duration": 1423,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "owwW3eGMFlA",
         "title": "Ali Amin Gandapur VS Salman Akram Raja | Geo News 9 PM Geo Bulletin | 21st Oct 2026",
-        "start": "2026-10-21T17:28:00Z"
+        "published": "2026-10-21T17:28:00.000Z",
+        "duration": 737,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "observedLocal": "21:47"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "observedLocal": "22:28"
     },
     "citizen": {
       "latest": {
@@ -204,7 +206,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "tvr": {
       "latest": {
@@ -216,61 +218,57 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "18:59"
     },
     "novas": {
       "latest": {
-        "videoId": "_RM8hPJauVE",
-        "title": "DNEVNIK - CELA EMISIJA - 20.10.2026.",
-        "published": "2026-10-20T19:29:40.000Z",
-        "duration": 3023,
+        "videoId": "X0F9RgG0iaQ",
+        "title": "DNEVNIK - CELA EMISIJA - 21.10.2026.",
+        "published": "2026-10-21T19:29:05.000Z",
+        "duration": 3049,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "ebc": {
       "latest": {
-        "videoId": "qYMZzBj2y-w",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና.... ጥቅምት 10/2019 ዓ.ም | EBC | EBCDOTSTREAM",
-        "published": "2026-10-20T16:59:16.000Z",
-        "duration": 2724,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "m1VmU8NQhX4",
         "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 11/2019 ዓ.ም  Ebc |Ethiopia | EBCDOTSTREAM",
-        "start": "2026-10-21T17:00:13Z"
+        "published": "2026-10-21T17:00:13.000Z",
+        "duration": 2952,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "observedLocal": "19:59"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "observedLocal": "20:00"
     },
     "sabc1": {
       "latest": {
-        "videoId": "EvLCju6r3HQ",
-        "title": "Iindaba zesiXhosa @19H00 | 20 October 2026",
-        "published": "2026-10-20T18:00:31.000Z",
-        "duration": 1307,
+        "videoId": "IW_sd1fsGnQ",
+        "title": "Izindaba zesiZulu @19H00 l 21 October 2026",
+        "published": "2026-10-21T17:45:37.000Z",
+        "duration": 1385,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "hrt": {
       "latest": {
-        "videoId": "V4rhP7HVbbM",
-        "title": "Dnevnik, 20. 10. 2026.",
-        "published": "2026-10-20T18:45:28.000Z",
-        "duration": 3208,
+        "videoId": "nq3Vdx7FHjI",
+        "title": "Dnevnik, 21. 10. 2026.",
+        "published": "2026-10-21T18:37:14.000Z",
+        "duration": 3145,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "dozhd": {
       "latest": {
@@ -282,7 +280,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "17:00"
     },
     "tvp": {
@@ -295,7 +293,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -307,59 +305,58 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true
     },
     "tagesschau": {
       "latest": {
-        "videoId": "IPROokzwO9w",
-        "title": "tagesschau 20:00 Uhr, 20.10.2026",
-        "published": "2026-10-20T18:29:55.000Z",
-        "duration": 929,
+        "videoId": "kRdgDU7RZpQ",
+        "title": "tagesschau 20:00 Uhr, 21.10.2026",
+        "published": "2026-10-21T18:36:32.000Z",
+        "duration": 934,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "france2": {
       "latest": {
-        "videoId": "MJplTQ_9fhc",
-        "title": "Le journal de 20h de France Télévisions - 20 octobre 2026",
-        "published": "2026-10-20T17:57:24.000Z",
-        "duration": 3303,
+        "videoId": "EspEkJkK6zU",
+        "title": "Le journal de 20h de France Télévisions - 21 octobre 2026",
+        "published": "2026-10-21T17:57:22.000Z",
+        "duration": 3564,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "observedLocal": "19:57"
     },
     "la7": {
       "latest": {
-        "videoId": "BbCxIXfCoqU",
-        "title": "Edizione delle ore 20.00 del 20/10/2026",
-        "published": "2026-10-20T19:03:28.000Z",
-        "duration": 1840,
+        "videoId": "Cv8CFsj7pdI",
+        "title": "Edizione delle ore 20.00 del 21/10/2026",
+        "published": "2026-10-21T19:00:54.000Z",
+        "duration": 1848,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "tv3gh": {
       "latest": {
-        "videoId": "IQx8aCGWDOY",
-        "title": "LIVE: News360; Obuasi Head Teacher Arrested || Moree Families Await Missing Fishermen || 20-10-2026",
-        "published": "2026-10-20T19:02:05.000Z",
-        "duration": 3512,
+        "videoId": "5OhyM8R7C-8",
+        "title": "LIVE: News360; VEEP Urges Justice for Obuasi SHTS Sexual Assault Case ||21-10-2026",
+        "published": "2026-10-21T19:00:57.000Z",
+        "duration": 3716,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "observedLocal": "19:02"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "observedLocal": "19:00"
     },
     "rti": {
       "latest": {
@@ -371,7 +368,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "rtssn": {
       "latest": {
@@ -381,9 +378,13 @@
         "duration": 3953,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "oQO8niUySU4",
+        "title": "LE JOURNAL TELEVISE DE 20H - MERCREDI 21 OCTOBRE 2026",
+        "start": "2026-10-21T20:00:29Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -395,10 +396,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "upcoming": {
+        "videoId": "ZF_J6Vpn1Z4",
+        "title": "News At 10",
+        "scheduledStart": "2026-10-21T21:00:00Z"
+      },
+      "checked": "2026-10-21T20:54:18.644Z",
+      "stale": true
     },
     "global": {
       "latest": {
@@ -410,7 +414,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -422,8 +426,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "upcoming": {
+        "videoId": "ZiZFnBCWKKU",
+        "title": "LSQ - Le téléjournal 18 h du mercredi 21 octobre 2026",
+        "scheduledStart": "2026-10-21T22:00:00Z"
+      },
+      "checked": "2026-10-21T20:54:18.644Z",
       "observedLocal": "17:41"
     },
     "pbs": {
@@ -436,7 +444,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z"
     },
     "nbc": {
       "latest": {
@@ -447,7 +455,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true
     },
     "abc": {
@@ -460,7 +468,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z"
+      "checked": "2026-10-21T20:54:18.644Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "telemundo": {
       "latest": {
@@ -476,7 +486,7 @@
         "title": "EN VIVO: Las noticias de la noche, miércoles 21 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-21T23:00:00Z"
       },
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true
     },
     "telenoche": {
@@ -489,50 +499,50 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T17:38:38.199Z",
+      "checked": "2026-10-21T20:54:18.644Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "trt": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-21T17:38:38.199Z"
+        "checked": "2026-10-21T20:54:18.644Z"
       }
     }
   }
