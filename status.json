@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T22:39:20.838Z",
+  "generated": "2026-10-21T00:59:11.017Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -10,13 +10,13 @@
         "duration": 3573,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "1pc_ROEQLeU",
-        "title": "JORNAL DA CULTURA | 20/10/2026",
-        "scheduledStart": "2026-10-20T23:50:00Z"
+        "title": "JORNAL DA CULTURA | França amplia toque de recolher para conter protestos | 20/10/2026",
+        "start": "2026-10-20T23:47:10Z"
       },
-      "checked": "2026-10-20T22:39:20.838Z",
+      "upcoming": null,
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -28,8 +28,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
-      "stale": true
+      "checked": "2026-10-21T00:59:11.017Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "nmas": {
       "latest": {
@@ -41,7 +42,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -54,7 +55,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true
     },
     "tvb": {
@@ -67,7 +68,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "tvpatrol": {
       "latest": {
@@ -79,7 +80,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "18:19"
     },
     "cctv": {
@@ -92,7 +93,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "pts": {
       "latest": {
@@ -104,7 +105,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "thaipbs": {
       "latest": {
@@ -116,7 +117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -129,7 +130,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "20:57"
     },
     "tv3my": {
@@ -142,7 +143,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:55"
     },
     "tolo": {
@@ -155,7 +156,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "btv": {
       "latest": {
@@ -167,7 +168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -180,7 +181,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -194,7 +195,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "22:18"
     },
     "citizen": {
@@ -207,7 +208,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "tvr": {
       "latest": {
@@ -219,7 +220,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -232,7 +233,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "ebc": {
       "latest": {
@@ -244,7 +245,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -257,7 +258,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "hrt": {
       "latest": {
@@ -269,7 +270,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "dozhd": {
       "latest": {
@@ -285,7 +286,7 @@
         "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
         "scheduledStart": "2026-10-21T06:00:00Z"
       },
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "17:50"
     },
     "tvp": {
@@ -298,7 +299,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -310,7 +311,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true
     },
     "tagesschau": {
@@ -323,7 +324,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "france2": {
       "latest": {
@@ -335,7 +336,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -348,7 +349,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "tv3gh": {
       "latest": {
@@ -360,7 +361,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -373,7 +374,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "rtssn": {
       "latest": {
@@ -385,7 +386,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -393,12 +394,12 @@
         "videoId": "Fn6n-7gS5WM",
         "title": "News At 10",
         "published": "2026-10-20T21:00:08.000Z",
-        "duration": 3629,
+        "duration": 3645,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "22:00"
     },
     "global": {
@@ -411,7 +412,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -424,20 +425,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "observedLocal": "17:41"
     },
     "pbs": {
       "latest": {
-        "videoId": "KUI3WHgXLpI",
-        "title": "PBS News Hour full episode, Oct. 19, 2026",
-        "published": "2026-10-19T23:27:19.000Z",
+        "videoId": "ZF9N7CxOWZ8",
+        "title": "PBS News Hour full episode, Oct. 20, 2026",
+        "published": "2026-10-20T23:13:39.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z"
+      "checked": "2026-10-21T00:59:11.017Z"
     },
     "nbc": {
       "latest": {
@@ -448,7 +449,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true
     },
     "abc": {
@@ -460,79 +461,80 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
+      "checked": "2026-10-21T00:59:11.017Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "telemundo": {
       "latest": {
-        "videoId": "mRVHKaaA4bY",
-        "title": "Las noticias de la noche, jueves 15 de octubre de 2026 | Noticias Telemundo",
-        "published": "2026-10-16T06:20:00Z",
-        "embeddable": true
-      },
-      "live": null,
-      "upcoming": {
         "videoId": "7hmiy1oz5A0",
-        "title": "EN VIVO: Las noticias de la noche, martes 20 de octubre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-10-20T23:00:00Z"
-      },
-      "checked": "2026-10-20T22:39:20.838Z",
-      "stale": true
-    },
-    "telenoche": {
-      "latest": {
-        "videoId": "sw-cXp23d-k",
-        "title": "La primera aparición del papa León XIV tras su operación por cáncer | TELENOCHE DEL 19/10/26",
-        "published": "2026-10-20T00:20:00Z",
+        "title": "Las noticias de la noche, martes 20 de octubre de 2026 | Noticias Telemundo",
+        "published": "2026-10-20T22:59:14.000Z",
+        "duration": 1546,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-20T22:39:20.838Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-21T00:59:11.017Z",
+      "observedLocal": "18:59"
+    },
+    "telenoche": {
+      "latest": {
+        "videoId": "rXK5Y2-hHec",
+        "title": "Europa en alerta: disturbios, operativos policiales y nuevas restricciones | TELENOCHE 20/10/26",
+        "published": "2026-10-20T22:59:48.000Z",
+        "duration": 3078,
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": {
+        "videoId": "CV-C9DwNFOs",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-10-21T23:00:00Z"
+      },
+      "checked": "2026-10-21T00:59:11.017Z",
+      "observedLocal": "19:59"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-20T22:39:20.838Z"
+        "checked": "2026-10-21T00:59:11.017Z"
       }
     }
   }
