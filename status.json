@@ -1,18 +1,18 @@
 {
-  "generated": "2026-10-22T10:38:16.771Z",
+  "generated": "2026-10-22T15:39:57.300Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
         "videoId": "xFMVxSvvS0A",
-        "title": "JORNAL DA CULTURA | pesquisas Quaest e Meio/Ideia mostram empate entre Flávio e Lula | 21/10/2026",
+        "title": "JORNAL DA CULTURA | Pesquisas Quaest e Meio/Ideia mostram empate entre Flávio e Lula | 21/10/2026",
         "published": "2026-10-21T23:47:10.000Z",
-        "duration": 4409,
+        "duration": 3522,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +24,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "stale": true
     },
     "nmas": {
@@ -37,50 +37,45 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "22:28"
     },
     "kompas": {
       "latest": {
-        "videoId": "9iH7RBJicoE",
-        "title": "Gelar Perkara Ijazah, Gibran Bakal Diperiksa?  | KOMPAS PETANG",
-        "published": "2026-10-21T11:11:28.000Z",
-        "duration": 4423,
+        "videoId": "uPHUxKUrq2E",
+        "title": "Polemik Ijazah, Jaksa Bakal Hadirkan Jokowi di Persidangan | KOMPAS PETANG",
+        "published": "2026-10-22T12:55:02.000Z",
+        "duration": 4270,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "stale": true
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "tvb": {
       "latest": {
-        "videoId": "ILu6jjyJiE0",
-        "title": "無綫TVB六點半新聞報道｜國台辦沈伯洋父以另一公司與大陸做生意絕不姑息台獨頑固分子及關聯企業｜BBC兩條電視頻道改為網上播放另計劃裁員約百人｜梅洛尼向米蘭增兵助警方維持秩序指絕不容忍騷亂破壞及洗劫店舖",
-        "published": "2026-10-21T10:48:55.000Z",
-        "duration": 2051,
+        "videoId": "67CBbgwHlno",
+        "title": "無綫TVB六點半新聞報道｜PHP現保安漏洞多國暫關閉部分網站 籲業界盡快更新程式｜風暴薔琵｜迫近日本沖繩逾200班航班取消　料九州等地周末或有強降雨｜韓國釜山有鯊魚被困人工水道多次引導回外海失敗｜",
+        "published": "2026-10-22T10:46:41.000Z",
+        "duration": 2006,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "VnQjTeBVwKg",
-        "title": "TV Patrol Livestream | October 21, 2026 Full Episode Replay",
-        "published": "2026-10-21T10:20:37.000Z",
-        "duration": 4503,
+        "videoId": "hCPe-vBlMIg",
+        "title": "TV Patrol Livestream | October 22, 2026 Full Episode Replay",
+        "published": "2026-10-22T10:19:59.000Z",
+        "duration": 4470,
         "embeddable": true
       },
-      "live": {
-        "videoId": "hCPe-vBlMIg",
-        "title": "LIVE: TV Patrol Livestream | October 22, 2026 Full Episode",
-        "start": "2026-10-22T10:19:59Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "stale": true
+      "checked": "2026-10-22T15:39:57.300Z",
+      "observedLocal": "18:19"
     },
     "cctv": {
       "latest": {
@@ -92,99 +87,95 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "pts": {
       "latest": {
-        "videoId": "MBs24_k9bO4",
-        "title": "20261021 公視晚間新聞 完整版｜無法消除限制競爭疑慮 公平會否決Grab併購foodpanda",
-        "published": "2026-10-21T12:43:05.000Z",
-        "duration": 3277,
+        "videoId": "tAtQlfOQQ_w",
+        "title": "20261022 公視晚間新聞 完整版（無網路版權內容除外）｜薔琵減弱為中度颱風 陸上警戒擴大為19縣市",
+        "published": "2026-10-22T12:41:11.000Z",
+        "duration": 3135,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "thaipbs": {
       "latest": {
-        "videoId": "CDItX_cPDHQ",
-        "title": "ข่าวค่ำ | 21 ต.ค. 69",
-        "published": "2026-10-21T11:00:07.000Z",
-        "duration": 9306,
+        "videoId": "6tKIF6Vb7kM",
+        "title": "ข่าวค่ำ | 22 ต.ค. 69",
+        "published": "2026-10-22T11:00:14.000Z",
+        "duration": 9220,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-22T15:39:57.300Z",
+      "observedLocal": "18:00"
     },
     "kbs": {
       "latest": {
-        "videoId": "NhGwumycrYM",
-        "title": "[풀영상] 뉴스9 : 서울 역삼동 빌딩 2곳 연쇄 화재 “탈출 막으려 엘리베이터 앞에 불 질렀다”…유리창 깨고 탈출 – 2026년 10월 20일(화) / KBS",
-        "published": "2026-10-20T11:57:21.000Z",
-        "duration": 2743,
+        "videoId": "eoaHS92J_MU",
+        "title": "[풀영상] 뉴스9 : 김여정 “대남 확성기, 수일 안에 대기”…국방부 “북한, 뭔가 한다면 비례적 조치” - 2026년 10월 22일(목) / KBS",
+        "published": "2026-10-22T11:57:33.000Z",
+        "duration": 2836,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-22T15:39:57.300Z",
+      "observedLocal": "20:57"
     },
     "tv3my": {
       "latest": {
-        "videoId": "h7enESliWgY",
-        "title": "Pengumpulan Data Waze Cetus Persoalan Keselamatan, Kedaulatan | Buletin Utama, 21 Oktober 2026",
-        "published": "2026-10-21T11:55:19.000Z",
-        "duration": 3614,
+        "videoId": "JGLs9VOFrhg",
+        "title": "2 Bekas Pegawai Kanan TH Didakwa Tipu Bayaran Hibah RM3.3 Bilion | Buletin Utama, 22 Oktober 2026",
+        "published": "2026-10-22T11:56:09.000Z",
+        "duration": 3585,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "observedLocal": "19:55"
+      "checked": "2026-10-22T15:39:57.300Z",
+      "observedLocal": "19:56"
     },
     "tolo": {
       "latest": {
-        "videoId": "ymST6QmY4TI",
-        "title": "TOLOnews - 6pm News - 21 Oct 2026 | قطر: آینده افغانستان از مسیر روند سیاسی تعیین شود",
-        "published": "2026-10-21T14:21:01.000Z",
-        "duration": 1408,
+        "videoId": "jvebvJ5oraA",
+        "title": "TOLOnews - 6pm News - 22 Oct 2026 | آمادگی روسیه برای حل تنش افغانستان-پاکستان",
+        "published": "2026-10-22T14:42:11.000Z",
+        "duration": 1366,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "btv": {
       "latest": {
-        "videoId": "G3w0apTPfl8",
-        "title": "রাত ৮টার সংবাদ -২০ অক্টোবর, ২০২৬",
-        "published": "2026-10-20T13:59:35.000Z",
-        "duration": 2039,
+        "videoId": "qVocVXKnPqg",
+        "title": "রাত ৮টার সংবাদ",
+        "published": "2026-10-22T13:59:54.000Z",
+        "duration": 1300,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "19:59"
     },
     "kz24": {
       "latest": {
-        "videoId": "nApuE13AX-k",
-        "title": "21 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-21T15:18:02.000Z",
-        "duration": 2681,
+        "videoId": "qEytwHb0tPs",
+        "title": "22 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-22T15:35:51.000Z",
+        "duration": 2746,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "geo": {
       "latest": {
@@ -196,7 +187,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -210,7 +201,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -224,7 +215,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -237,7 +228,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "ebc": {
       "latest": {
@@ -249,7 +240,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "20:00"
     },
     "sabc1": {
@@ -262,7 +253,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "hrt": {
       "latest": {
@@ -274,20 +265,23 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "OvBaV4DdKbA",
-        "title": "Трамп назвал Путина гуманистом. Дворец ветеранов «СВО» в Москве. «Яндекс» не платит таксистам",
-        "published": "2026-10-22T05:59:36.000Z",
-        "duration": 2726,
+        "videoId": "DMTBHJQ_qOc",
+        "title": "«Масяня» во время войны, антипутинская сатира и черный юмор. Олег Куваев",
+        "published": "2026-10-22T12:00:32.000Z",
+        "duration": 1942,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "bx6GWb_CtDg",
+        "title": "Кремль: Переговоры могут пройти в Абу-Даби. Скандал с клипом Крида. Трамп поругался с журналистом",
+        "start": "2026-10-22T15:00:19Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
-      "observedLocal": "07:59"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "tvp": {
       "latest": {
@@ -299,7 +293,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -311,7 +305,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "stale": true
     },
     "tagesschau": {
@@ -324,7 +318,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "france2": {
       "latest": {
@@ -340,7 +334,7 @@
         "title": "Le journal de 20h de France Télévisions - 22 octobre 2026",
         "scheduledStart": "2026-10-22T17:57:00Z"
       },
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "stale": true
     },
     "la7": {
@@ -353,7 +347,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "tv3gh": {
       "latest": {
@@ -365,7 +359,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "19:00"
     },
     "rti": {
@@ -378,7 +372,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "rtssn": {
       "latest": {
@@ -390,7 +384,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -403,7 +397,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "21:59"
     },
     "global": {
@@ -416,7 +410,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -429,7 +423,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z",
+      "checked": "2026-10-22T15:39:57.300Z",
       "observedLocal": "17:45"
     },
     "pbs": {
@@ -442,7 +436,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "nbc": {
       "latest": {
@@ -454,7 +448,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "abc": {
       "latest": {
@@ -466,7 +460,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-22T10:38:16.771Z"
+      "checked": "2026-10-22T15:39:57.300Z"
     },
     "telemundo": {
       "latest": {
@@ -482,8 +476,8 @@
         "title": "EN VIVO: Las noticias de la noche, jueves 22 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-22T23:00:00Z"
       },
-      "checked": "2026-10-22T10:38:16.771Z",
-      "observedLocal": "18:59"
+      "checked": "2026-10-22T15:39:57.300Z",
+      "stale": true
     },
     "telenoche": {
       "latest": {
@@ -494,54 +488,51 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "8MIWweH0HdQ",
-        "title": "TELENOCHE ¡EN VIVO!",
-        "scheduledStart": "2026-10-22T23:00:00Z"
-      },
-      "checked": "2026-10-22T10:38:16.771Z",
-      "observedLocal": "20:00"
+      "upcoming": null,
+      "checked": "2026-10-22T15:39:57.300Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-22T10:38:16.771Z"
+        "checked": "2026-10-22T15:39:57.300Z"
       }
     }
   }
