@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T20:54:18.644Z",
+  "generated": "2026-10-22T00:12:00.637Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -10,13 +10,13 @@
         "duration": 3657,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "xFMVxSvvS0A",
-        "title": "JORNAL DA CULTURA  | 21/10/2026",
-        "scheduledStart": "2026-10-21T23:50:00Z"
+        "title": "JORNAL DA CULTURA | pesquisas Quaest e Meio/Ideia mostram empate entre Flávio e Lula | 21/10/2026",
+        "start": "2026-10-21T23:47:10Z"
       },
-      "checked": "2026-10-21T20:54:18.644Z",
+      "upcoming": null,
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -28,7 +28,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true
     },
     "nmas": {
@@ -41,7 +41,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -55,7 +55,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true
     },
     "tvb": {
@@ -68,7 +68,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "tvpatrol": {
       "latest": {
@@ -80,8 +80,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
-      "observedLocal": "18:20"
+      "checked": "2026-10-22T00:12:00.637Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "cctv": {
       "latest": {
@@ -93,7 +94,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "pts": {
       "latest": {
@@ -105,7 +106,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "thaipbs": {
       "latest": {
@@ -117,7 +118,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -130,7 +131,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true
     },
     "tv3my": {
@@ -143,7 +144,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "19:55"
     },
     "tolo": {
@@ -156,7 +157,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "btv": {
       "latest": {
@@ -168,7 +169,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -181,7 +182,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "geo": {
       "latest": {
@@ -193,7 +194,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "22:28"
     },
     "citizen": {
@@ -206,7 +207,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "tvr": {
       "latest": {
@@ -218,7 +219,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -231,7 +232,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "ebc": {
       "latest": {
@@ -243,7 +244,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "20:00"
     },
     "sabc1": {
@@ -256,7 +257,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "hrt": {
       "latest": {
@@ -268,7 +269,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "dozhd": {
       "latest": {
@@ -279,8 +280,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "upcoming": {
+        "videoId": "OvBaV4DdKbA",
+        "title": "Утро на Дожде с Полиной Милушковой в 9.00 мск",
+        "scheduledStart": "2026-10-22T06:00:00Z"
+      },
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "17:00"
     },
     "tvp": {
@@ -293,7 +298,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -305,7 +310,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true
     },
     "tagesschau": {
@@ -318,7 +323,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "france2": {
       "latest": {
@@ -330,7 +335,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -343,7 +348,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "tv3gh": {
       "latest": {
@@ -355,54 +360,46 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "19:00"
     },
     "rti": {
       "latest": {
-        "videoId": "Fy6QGAegh8Y",
-        "title": "Le 20 Heures de RTI 1 du 20 octobre 2026 par Fatou Fofana",
-        "published": "2026-10-20T21:15:29.000Z",
-        "duration": 1816,
+        "videoId": "2NWjkAVMzqY",
+        "title": "Le 20 Heures de RTI 1 du 21 octobre 2026 par Marie Laure N'goran",
+        "published": "2026-10-21T21:30:22.000Z",
+        "duration": 1876,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "rtssn": {
       "latest": {
-        "videoId": "vbY3KWWFG_w",
-        "title": "LE JOURNAL TELEVISE DE 20H - MARDI 20 OCTOBRE 2026",
-        "published": "2026-10-20T20:00:08.000Z",
-        "duration": 3953,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "oQO8niUySU4",
         "title": "LE JOURNAL TELEVISE DE 20H - MERCREDI 21 OCTOBRE 2026",
-        "start": "2026-10-21T20:00:29Z"
+        "published": "2026-10-21T20:00:29.000Z",
+        "duration": 3483,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "20:00"
     },
     "channels": {
       "latest": {
-        "videoId": "Fn6n-7gS5WM",
+        "videoId": "ZF_J6Vpn1Z4",
         "title": "News At 10",
-        "published": "2026-10-20T21:00:08.000Z",
-        "duration": 3645,
+        "published": "2026-10-21T20:59:32.000Z",
+        "duration": 3626,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "ZF_J6Vpn1Z4",
-        "title": "News At 10",
-        "scheduledStart": "2026-10-21T21:00:00Z"
-      },
-      "checked": "2026-10-21T20:54:18.644Z",
-      "stale": true
+      "upcoming": null,
+      "checked": "2026-10-22T00:12:00.637Z",
+      "observedLocal": "21:59"
     },
     "global": {
       "latest": {
@@ -414,37 +411,33 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "observedLocal": "22:00"
     },
     "rcan": {
       "latest": {
-        "videoId": "quJJ28w4DV4",
-        "title": "LSQ - Le téléjournal 18 h du mardi 20 octobre 2026",
-        "published": "2026-10-20T21:41:33.000Z",
-        "duration": 2956,
+        "videoId": "ZiZFnBCWKKU",
+        "title": "LSQ - Le téléjournal 18 h du mercredi 21 octobre 2026",
+        "published": "2026-10-21T21:45:24.000Z",
+        "duration": 2550,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "ZiZFnBCWKKU",
-        "title": "LSQ - Le téléjournal 18 h du mercredi 21 octobre 2026",
-        "scheduledStart": "2026-10-21T22:00:00Z"
-      },
-      "checked": "2026-10-21T20:54:18.644Z",
-      "observedLocal": "17:41"
+      "upcoming": null,
+      "checked": "2026-10-22T00:12:00.637Z",
+      "observedLocal": "17:45"
     },
     "pbs": {
       "latest": {
-        "videoId": "ZF9N7CxOWZ8",
-        "title": "PBS News Hour full episode, Oct. 20, 2026",
-        "published": "2026-10-20T23:13:39.000Z",
+        "videoId": "F0p_t03WJYQ",
+        "title": "PBS News Hour full episode, Oct. 21, 2026",
+        "published": "2026-10-21T23:23:58.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z"
+      "checked": "2026-10-22T00:12:00.637Z"
     },
     "nbc": {
       "latest": {
@@ -455,8 +448,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
-      "stale": true
+      "checked": "2026-10-22T00:12:00.637Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "abc": {
       "latest": {
@@ -468,81 +462,80 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
+      "checked": "2026-10-22T00:12:00.637Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "telemundo": {
       "latest": {
-        "videoId": "7hmiy1oz5A0",
-        "title": "Las noticias de la noche, martes 20 de octubre de 2026 | Noticias Telemundo",
-        "published": "2026-10-20T22:59:14.000Z",
+        "videoId": "Vjd2FCFSj-Y",
+        "title": "Las noticias de la noche, miércoles 21 de octubre de 2026 | Noticias Telemundo",
+        "published": "2026-10-21T22:59:17.000Z",
         "duration": 1546,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Vjd2FCFSj-Y",
-        "title": "EN VIVO: Las noticias de la noche, miércoles 21 de octubre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-10-21T23:00:00Z"
-      },
-      "checked": "2026-10-21T20:54:18.644Z",
-      "stale": true
+      "upcoming": null,
+      "checked": "2026-10-22T00:12:00.637Z",
+      "observedLocal": "18:59"
     },
     "telenoche": {
       "latest": {
-        "videoId": "rXK5Y2-hHec",
-        "title": "Europa en alerta: disturbios, operativos policiales y nuevas restricciones | TELENOCHE 20/10/26",
-        "published": "2026-10-20T22:59:48.000Z",
-        "duration": 3078,
+        "videoId": "CV-C9DwNFOs",
+        "title": "TELENOCHE DEL 21/10/26",
+        "published": "2026-10-21T23:00:01.000Z",
+        "duration": 3862,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-21T20:54:18.644Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "upcoming": {
+        "videoId": "8MIWweH0HdQ",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-10-22T23:00:00Z"
+      },
+      "checked": "2026-10-22T00:12:00.637Z",
+      "observedLocal": "20:00"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-21T20:54:18.644Z"
+        "checked": "2026-10-22T00:12:00.637Z"
       }
     }
   }
