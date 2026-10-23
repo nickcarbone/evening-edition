@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T13:48:28.810Z",
+  "generated": "2026-10-23T18:42:33.190Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -7,12 +7,12 @@
         "videoId": "ha6vAIFsqnw",
         "title": "JORNAL DA CULTURA | Empate técnico no Datafolha | 22/10/2026",
         "published": "2026-10-22T23:47:10.000Z",
-        "duration": 4405,
+        "duration": 3637,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +24,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "stale": true
     },
     "nmas": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "22:28"
     },
     "kompas": {
@@ -50,8 +50,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "observedLocal": "15:59"
+      "checked": "2026-10-23T18:42:33.190Z",
+      "stale": true
     },
     "tvb": {
       "latest": {
@@ -63,19 +63,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "tvpatrol": {
       "latest": {
         "videoId": "Y35CXEWd66k",
-        "title": "LIVE: TV Patrol Livestream | October 23, 2026 Full Episode",
+        "title": "TV Patrol Livestream | October 23, 2026 Full Episode Replay",
         "published": "2026-10-23T10:20:13.000Z",
-        "duration": 6140,
+        "duration": 4693,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "18:20"
     },
     "cctv": {
@@ -88,7 +88,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "pts": {
       "latest": {
@@ -100,19 +100,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "thaipbs": {
       "latest": {
         "videoId": "TrVc4ZtjajI",
         "title": "ข่าวค่ำ | 23 ต.ค. 69",
         "published": "2026-10-23T11:00:36.000Z",
-        "duration": 9030,
+        "duration": 8919,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -120,12 +120,12 @@
         "videoId": "DEQqdzTjMVA",
         "title": "[풀영상] 뉴스9 : ‘여론조사 의혹’ 오세훈 서울시장 2심 무죄…재판부 “명태균 진술 믿기 어려워” – 2026년 10월 23일(금) / KBS",
         "published": "2026-10-23T11:57:43.000Z",
-        "duration": 2783,
+        "duration": 2665,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "20:57"
     },
     "tv3my": {
@@ -138,91 +138,82 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "19:57"
     },
     "tolo": {
       "latest": {
-        "videoId": "jvebvJ5oraA",
-        "title": "TOLOnews - 6pm News - 22 Oct 2026 | آمادگی روسیه برای حل تنش افغانستان-پاکستان",
-        "published": "2026-10-22T14:42:11.000Z",
-        "duration": 1366,
-        "embeddable": true
-      },
-      "live": {
-        "videoId": "1ecp1HwVEiI",
+        "videoId": "kDrfjeXButc",
         "title": "TOLOnews - 6pm News - 23 Oct 2026 | نگرانی کارشناسان سازمان ملل از اخراج شهروندان افغان از اروپا",
-        "start": "2026-10-23T13:30:33Z"
-      },
-      "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
-    },
-    "btv": {
-      "latest": {
-        "videoId": "qVocVXKnPqg",
-        "title": "রাত ৮টার সংবাদ",
-        "published": "2026-10-22T13:59:54.000Z",
-        "duration": 1297,
+        "published": "2026-10-23T14:25:34.000Z",
+        "duration": 1339,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z"
+    },
+    "btv": {
+      "latest": {
+        "videoId": "VlKmdEMb0A4",
+        "title": "রাত ৮টার সংবাদ  তারিখ: ২৩ অক্টোবর, ২০২৬",
+        "published": "2026-10-23T13:59:30.000Z",
+        "duration": 1529,
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "19:59"
     },
     "kz24": {
       "latest": {
-        "videoId": "qEytwHb0tPs",
-        "title": "22 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-22T15:35:51.000Z",
-        "duration": 2746,
+        "videoId": "W3JfCLlvkbc",
+        "title": "23 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-23T15:11:58.000Z",
+        "duration": 3034,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "geo": {
       "latest": {
-        "videoId": "McnsluXv7Wk",
-        "title": "RECORD-BREAKING MATCH: Sri Lanka Make History | Geo News 9PM Geo Bulletin 22 October 2026",
-        "published": "2026-10-22T17:11:18.000Z",
-        "duration": 872,
+        "videoId": "emE_Kzs-t3U",
+        "title": "NCCIA LAUNCHES MAJOR OPERATION | 9PM Headlines Geo News (23rd Oct 2026)",
+        "published": "2026-10-23T16:55:09.000Z",
+        "duration": 1483,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T18:42:33.190Z",
+      "observedLocal": "21:55"
     },
     "citizen": {
       "latest": {
-        "videoId": "86rfFyLyiK8",
-        "title": "CITIZEN NIPASHE ~ OCT 22, 2026",
-        "published": "2026-10-22T17:03:28.000Z",
-        "duration": 1637,
+        "videoId": "xmQRfVbapoQ",
+        "title": "CITIZEN NIPASHE WIKENDI ~ Oct 23 2026",
+        "published": "2026-10-23T16:33:54.000Z",
+        "duration": 1509,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "tvr": {
       "latest": {
-        "videoId": "V_vh6uS_5VA",
-        "title": "TeleJURNAL 19: Vila scanată de microfoane: Călin Georgescu, din nou în vizorul justiției!",
-        "published": "2026-10-21T15:59:20.000Z",
-        "duration": 2264,
+        "videoId": "aIyTJvxLAtI",
+        "title": "TeleJURNAL 19: Călin Georgescu rămâne în arest preventiv - ediția din 23 octombrie (@TVR1)",
+        "published": "2026-10-23T15:59:22.000Z",
+        "duration": 2158,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -235,32 +226,32 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "ebc": {
       "latest": {
-        "videoId": "k5Em0kYUfr8",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 12/2019 ዓ.ም   |   Ebc |Ethiopia | EBCDOTSTREAM",
-        "published": "2026-10-22T17:00:00.000Z",
-        "duration": 2908,
+        "videoId": "uUC-6pkGQQc",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 13/2019 ዓ.ም  ETV | EBC | EBCDOTSTREAM",
+        "published": "2026-10-23T16:59:50.000Z",
+        "duration": 3274,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "observedLocal": "20:00"
+      "checked": "2026-10-23T18:42:33.190Z",
+      "observedLocal": "19:59"
     },
     "sabc1": {
       "latest": {
-        "videoId": "lg6dtawPxpc",
-        "title": "Iindaba zesiXhosa @19H00 | 22 October 2026",
-        "published": "2026-10-22T17:41:20.000Z",
-        "duration": 1197,
+        "videoId": "YM7PgNPZ810",
+        "title": "Izindaba zesiZulu @19H00 l 23 October 2026",
+        "published": "2026-10-23T17:45:02.000Z",
+        "duration": 1360,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "hrt": {
       "latest": {
@@ -272,20 +263,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "7nBJGxYMSvk",
-        "title": "Что Уиткофф предложил Путину. Мать похитила дочь из-за денег на «СВО». Импортный алкоголь подорожает",
-        "published": "2026-10-23T10:59:38.000Z",
-        "duration": 1743,
+        "videoId": "gHHtxwnQ4QQ",
+        "title": "Почему Трамп сдает Украину. Тасовка министров: новый преемник? Хаос в Европе и рука Кремля",
+        "published": "2026-10-23T15:00:09.000Z",
+        "duration": 5479,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "observedLocal": "12:59"
+      "checked": "2026-10-23T18:42:33.190Z",
+      "observedLocal": "17:00"
     },
     "tvp": {
       "latest": {
@@ -297,7 +288,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -309,20 +300,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "stale": true
     },
     "tagesschau": {
       "latest": {
-        "videoId": "Bemx6OAmR9A",
-        "title": "tagesschau 20:00 Uhr, 22.10.2026",
-        "published": "2026-10-22T18:33:41.000Z",
-        "duration": 925,
+        "videoId": "J8V20jgbiqc",
+        "title": "tagesschau 20:00 Uhr, 23.10.2026",
+        "published": "2026-10-23T18:32:31.000Z",
+        "duration": 985,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "france2": {
       "latest": {
@@ -332,13 +323,13 @@
         "duration": 3620,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "I618k8c4SkQ",
         "title": "Le journal de 20h de France Télévisions - 23 octobre 2026",
-        "scheduledStart": "2026-10-23T17:57:00Z"
+        "start": "2026-10-23T17:57:23Z"
       },
-      "checked": "2026-10-23T13:48:28.810Z",
+      "upcoming": null,
+      "checked": "2026-10-23T18:42:33.190Z",
       "stale": true
     },
     "la7": {
@@ -351,7 +342,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "tv3gh": {
       "latest": {
@@ -363,7 +354,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "19:01"
     },
     "rti": {
@@ -376,7 +367,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "rtssn": {
       "latest": {
@@ -388,7 +379,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -401,8 +392,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
-      "observedLocal": "21:55"
+      "checked": "2026-10-23T18:42:33.190Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "global": {
       "latest": {
@@ -414,7 +406,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -427,20 +419,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "observedLocal": "17:43"
     },
     "pbs": {
       "latest": {
-        "videoId": "F0p_t03WJYQ",
-        "title": "PBS News Hour full episode, Oct. 21, 2026",
-        "published": "2026-10-21T23:23:58.000Z",
-        "duration": 3407,
+        "videoId": "L1XJgJObhHI",
+        "title": "PBS News Hour full episode, Oct. 22, 2026",
+        "published": "2026-10-23T14:36:34.000Z",
+        "duration": 3421,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "nbc": {
       "latest": {
@@ -452,7 +444,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "abc": {
       "latest": {
@@ -464,7 +456,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T13:48:28.810Z"
+      "checked": "2026-10-23T18:42:33.190Z"
     },
     "telemundo": {
       "latest": {
@@ -480,7 +472,7 @@
         "title": "EN VIVO: Las noticias de la noche, viernes 23 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-23T23:00:00Z"
       },
-      "checked": "2026-10-23T13:48:28.810Z",
+      "checked": "2026-10-23T18:42:33.190Z",
       "stale": true
     },
     "telenoche": {
@@ -492,54 +484,50 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "UVNvBIEKpBs",
-        "title": "TELENOCHE ¡EN VIVO!",
-        "scheduledStart": "2026-10-23T23:00:00Z"
-      },
-      "checked": "2026-10-23T13:48:28.810Z",
-      "observedLocal": "19:59"
+      "upcoming": null,
+      "checked": "2026-10-23T18:42:33.190Z",
+      "stale": true
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-23T13:48:28.810Z"
+        "checked": "2026-10-23T18:42:33.190Z"
       }
     }
   }
