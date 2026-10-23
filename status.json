@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T01:56:31.308Z",
+  "generated": "2026-10-23T07:55:52.734Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,22 +24,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true
     },
     "nmas": {
       "latest": {
-        "videoId": "aCXxZgXHlw8",
-        "title": "Trabajadores del IMSS rechazan aumento salarial del 8% | En Punto - 21 de Octubre 2026",
-        "published": "2026-10-22T04:28:20.000Z",
-        "duration": 2262,
+        "videoId": "4mInWHxpra4",
+        "title": "Modalidad 40: Detectan red de fraudes millonarios en el IMSS | En Punto - 22 de Octubre 2026",
+        "published": "2026-10-23T04:28:19.000Z",
+        "duration": 2233,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T07:55:52.734Z",
+      "observedLocal": "22:28"
     },
     "kompas": {
       "latest": {
@@ -51,7 +50,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -65,7 +64,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "tvpatrol": {
       "latest": {
@@ -77,21 +76,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "cctv": {
       "latest": {
-        "videoId": "D29j12qlGKw",
-        "title": "【赓续长征精神 奋进复兴征程】在新的长征路上继续奋勇前进 | CCTV「新闻联播」20261021",
-        "published": "2026-10-22T02:48:15.000Z",
+        "videoId": "MAPRdcJdofQ",
+        "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 | CCTV「新闻联播」20261022",
+        "published": "2026-10-23T02:38:56.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "pts": {
       "latest": {
@@ -103,7 +102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "thaipbs": {
       "latest": {
@@ -115,7 +114,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -128,7 +127,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -142,7 +141,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:56"
     },
     "tolo": {
@@ -155,19 +154,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "btv": {
       "latest": {
         "videoId": "qVocVXKnPqg",
         "title": "রাত ৮টার সংবাদ",
         "published": "2026-10-22T13:59:54.000Z",
-        "duration": 1300,
+        "duration": 1297,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -180,7 +179,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -194,8 +193,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
-      "observedLocal": "22:11"
+      "checked": "2026-10-23T07:55:52.734Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "citizen": {
       "latest": {
@@ -207,7 +207,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "tvr": {
       "latest": {
@@ -219,7 +219,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -232,7 +232,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "ebc": {
       "latest": {
@@ -244,7 +244,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "20:00"
     },
     "sabc1": {
@@ -257,7 +257,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "hrt": {
       "latest": {
@@ -269,24 +269,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "bx6GWb_CtDg",
-        "title": "Кремль: Переговоры могут пройти в Абу-Даби. Скандал с клипом Крида. Трамп поругался с журналистом",
-        "published": "2026-10-22T15:00:19.000Z",
-        "duration": 3096,
+        "videoId": "WbGK2MkCPWU",
+        "title": "Ленинград, Лобода, Шляпники, Джамала, Pharaoh, Монатик: главные хиты-2016",
+        "published": "2026-10-23T07:00:17.000Z",
+        "duration": 2018,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Aq8c3fXs9Ls",
-        "title": "Утро на Дожде с Сергеем Кривохарченко в 9.00 мск",
-        "scheduledStart": "2026-10-23T06:00:00Z"
-      },
-      "checked": "2026-10-23T01:56:31.308Z",
-      "observedLocal": "17:00"
+      "upcoming": null,
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "tvp": {
       "latest": {
@@ -298,7 +293,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -310,7 +305,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "stale": true
     },
     "tagesschau": {
@@ -323,7 +318,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "france2": {
       "latest": {
@@ -334,8 +329,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "upcoming": {
+        "videoId": "I618k8c4SkQ",
+        "title": "Le journal de 20h de France Télévisions - 23 Oct 2026",
+        "scheduledStart": "2026-10-23T17:57:00Z"
+      },
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -348,7 +347,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "tv3gh": {
       "latest": {
@@ -360,7 +359,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:01"
     },
     "rti": {
@@ -373,7 +372,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "rtssn": {
       "latest": {
@@ -385,7 +384,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -398,24 +397,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "21:55"
     },
     "global": {
       "latest": {
-        "videoId": "1p9e0cZGmwY",
-        "title": "Global National: Oct. 21, 2026 | Russia, Ukraine, US prepare to resume peace talks",
-        "published": "2026-10-22T02:00:08.000Z",
-        "duration": 1319,
+        "videoId": "Q0tWfPUO9tw",
+        "title": "Global National: Oct. 22, 2026 | Military vows transparency in CFB Wainwright investigation",
+        "published": "2026-10-23T02:00:09.000Z",
+        "duration": 1310,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Q0tWfPUO9tw",
-        "title": "Global National: Oct. 22, 2026 | Military vows transparency in CFB Wainwright investigation",
-        "scheduledStart": "2026-10-23T02:00:00Z"
-      },
-      "checked": "2026-10-23T01:56:31.308Z",
+      "upcoming": null,
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -428,7 +423,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "17:43"
     },
     "pbs": {
@@ -441,47 +436,43 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "nbc": {
       "latest": {
-        "videoId": "ECTn-iO356M",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 21",
-        "published": "2026-10-22T01:57:22.000Z",
-        "duration": 986,
+        "videoId": "gq00OwraXYs",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 22",
+        "published": "2026-10-23T01:57:16.000Z",
+        "duration": 1157,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "abc": {
       "latest": {
-        "videoId": "kuNd0CQigGQ",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 21, 2026",
-        "published": "2026-10-22T02:00:18.000Z",
-        "duration": 1210,
+        "videoId": "OmxzmpPeGW0",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026",
+        "published": "2026-10-23T02:00:37.000Z",
+        "duration": 1230,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T07:55:52.734Z"
     },
     "telemundo": {
       "latest": {
         "videoId": "ZfJRIHBeopw",
         "title": "Las noticias de la noche, jueves 22 de octubre de 2026 | Noticias Telemundo",
         "published": "2026-10-22T22:59:16.000Z",
-        "duration": 1791,
+        "duration": 1543,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "18:59"
     },
     "telenoche": {
@@ -498,49 +489,49 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-23T23:00:00Z"
       },
-      "checked": "2026-10-23T01:56:31.308Z",
+      "checked": "2026-10-23T07:55:52.734Z",
       "observedLocal": "19:59"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-23T01:56:31.308Z"
+        "checked": "2026-10-23T07:55:52.734Z"
       }
     }
   }
