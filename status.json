@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T07:55:52.734Z",
+  "generated": "2026-10-23T13:48:28.810Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +24,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "stale": true
     },
     "nmas": {
@@ -37,48 +37,46 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "22:28"
     },
     "kompas": {
       "latest": {
-        "videoId": "uPHUxKUrq2E",
-        "title": "Polemik Ijazah, Jaksa Bakal Hadirkan Jokowi di Persidangan | KOMPAS PETANG",
-        "published": "2026-10-22T12:55:02.000Z",
-        "duration": 4270,
+        "videoId": "sUVCfUvlW6I",
+        "title": "LIVE - Pelapor Diperiksa, Polisi Serius Tangani Kasus Suket Ijazah Gibran? | KOMPAS PETANG",
+        "published": "2026-10-23T08:59:49.000Z",
+        "duration": 4259,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "observedLocal": "15:59"
     },
     "tvb": {
       "latest": {
-        "videoId": "67CBbgwHlno",
-        "title": "無綫TVB六點半新聞報道｜PHP現保安漏洞多國暫關閉部分網站 籲業界盡快更新程式｜風暴薔琵｜迫近日本沖繩逾200班航班取消　料九州等地周末或有強降雨｜韓國釜山有鯊魚被困人工水道多次引導回外海失敗｜",
-        "published": "2026-10-22T10:46:41.000Z",
-        "duration": 2006,
+        "videoId": "fklfINQQO7Q",
+        "title": "無綫TVB六點半新聞報道｜風暴薔琵｜迫近沖繩帶來強風大雨 逾200班航班取消｜駐日本美軍以安全為由 禁比亞迪電動車進入沖繩嘉手納空軍基地｜日本奈良公園接連發現殘缺不全幼鹿屍體 當局懷疑人為警方展開調查",
+        "published": "2026-10-23T10:46:52.000Z",
+        "duration": 1960,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "hCPe-vBlMIg",
-        "title": "TV Patrol Livestream | October 22, 2026 Full Episode Replay",
-        "published": "2026-10-22T10:19:59.000Z",
-        "duration": 4470,
+        "videoId": "Y35CXEWd66k",
+        "title": "LIVE: TV Patrol Livestream | October 23, 2026 Full Episode",
+        "published": "2026-10-23T10:20:13.000Z",
+        "duration": 6140,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "observedLocal": "18:20"
     },
     "cctv": {
       "latest": {
@@ -90,59 +88,58 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "pts": {
       "latest": {
-        "videoId": "tAtQlfOQQ_w",
-        "title": "20261022 公視晚間新聞 完整版（無網路版權內容除外）｜薔琵減弱為中度颱風 陸上警戒擴大為19縣市",
-        "published": "2026-10-22T12:41:11.000Z",
-        "duration": 3135,
+        "videoId": "FlqPLzw96lA",
+        "title": "20261023 公視晚間新聞 完整版（無網路版權內容除外）｜颱風近陸地將降速打轉 今夜至明早影響最劇烈",
+        "published": "2026-10-23T12:36:55.000Z",
+        "duration": 3283,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "thaipbs": {
       "latest": {
-        "videoId": "6tKIF6Vb7kM",
-        "title": "ข่าวค่ำ | 22 ต.ค. 69",
-        "published": "2026-10-22T11:00:14.000Z",
-        "duration": 9084,
+        "videoId": "TrVc4ZtjajI",
+        "title": "ข่าวค่ำ | 23 ต.ค. 69",
+        "published": "2026-10-23T11:00:36.000Z",
+        "duration": 9030,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "18:00"
     },
     "kbs": {
       "latest": {
-        "videoId": "eoaHS92J_MU",
-        "title": "[풀영상] 뉴스9 : 김여정 “대남 확성기, 수일 안에 대기”…국방부 “북한, 뭔가 한다면 비례적 조치” - 2026년 10월 22일(목) / KBS",
-        "published": "2026-10-22T11:57:33.000Z",
-        "duration": 2722,
+        "videoId": "DEQqdzTjMVA",
+        "title": "[풀영상] 뉴스9 : ‘여론조사 의혹’ 오세훈 서울시장 2심 무죄…재판부 “명태균 진술 믿기 어려워” – 2026년 10월 23일(금) / KBS",
+        "published": "2026-10-23T11:57:43.000Z",
+        "duration": 2783,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "observedLocal": "20:57"
     },
     "tv3my": {
       "latest": {
-        "videoId": "JGLs9VOFrhg",
-        "title": "2 Bekas Pegawai Kanan TH Didakwa Tipu Bayaran Hibah RM3.3 Bilion | Buletin Utama, 22 Oktober 2026",
-        "published": "2026-10-22T11:56:09.000Z",
-        "duration": 3585,
+        "videoId": "pYwHc7RHmCA",
+        "title": "DUN Sarawak Dibubar Isnin Ini Untuk Pilihanraya Negeri | Buletin Utama, 23 Oktober 2026",
+        "published": "2026-10-23T11:57:05.000Z",
+        "duration": 3569,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
-      "observedLocal": "19:56"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "observedLocal": "19:57"
     },
     "tolo": {
       "latest": {
@@ -152,9 +149,13 @@
         "duration": 1366,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "1ecp1HwVEiI",
+        "title": "TOLOnews - 6pm News - 23 Oct 2026 | نگرانی کارشناسان سازمان ملل از اخراج شهروندان افغان از اروپا",
+        "start": "2026-10-23T13:30:33Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "btv": {
       "latest": {
@@ -166,7 +167,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -179,7 +180,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -193,7 +194,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -207,7 +208,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tvr": {
       "latest": {
@@ -219,7 +222,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -232,7 +235,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "ebc": {
       "latest": {
@@ -244,7 +247,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "20:00"
     },
     "sabc1": {
@@ -257,7 +260,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "hrt": {
       "latest": {
@@ -269,19 +272,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "WbGK2MkCPWU",
-        "title": "Ленинград, Лобода, Шляпники, Джамала, Pharaoh, Монатик: главные хиты-2016",
-        "published": "2026-10-23T07:00:17.000Z",
-        "duration": 2018,
+        "videoId": "7nBJGxYMSvk",
+        "title": "Что Уиткофф предложил Путину. Мать похитила дочь из-за денег на «СВО». Импортный алкоголь подорожает",
+        "published": "2026-10-23T10:59:38.000Z",
+        "duration": 1743,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "observedLocal": "12:59"
     },
     "tvp": {
       "latest": {
@@ -293,7 +297,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -305,7 +309,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "stale": true
     },
     "tagesschau": {
@@ -318,7 +322,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "france2": {
       "latest": {
@@ -331,11 +335,11 @@
       "live": null,
       "upcoming": {
         "videoId": "I618k8c4SkQ",
-        "title": "Le journal de 20h de France Télévisions - 23 Oct 2026",
+        "title": "Le journal de 20h de France Télévisions - 23 octobre 2026",
         "scheduledStart": "2026-10-23T17:57:00Z"
       },
-      "checked": "2026-10-23T07:55:52.734Z",
-      "observedLocal": "19:57"
+      "checked": "2026-10-23T13:48:28.810Z",
+      "stale": true
     },
     "la7": {
       "latest": {
@@ -347,7 +351,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "tv3gh": {
       "latest": {
@@ -359,7 +363,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "19:01"
     },
     "rti": {
@@ -372,7 +376,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "rtssn": {
       "latest": {
@@ -384,7 +388,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -397,7 +401,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "21:55"
     },
     "global": {
@@ -410,7 +414,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -423,20 +427,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "17:43"
     },
     "pbs": {
       "latest": {
-        "videoId": "b1rMHoVLeBQ",
-        "title": "PBS News Hour full episode, Oct. 22, 2026",
-        "published": "2026-10-22T23:26:02.000Z",
+        "videoId": "F0p_t03WJYQ",
+        "title": "PBS News Hour full episode, Oct. 21, 2026",
+        "published": "2026-10-21T23:23:58.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "nbc": {
       "latest": {
@@ -448,7 +452,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "abc": {
       "latest": {
@@ -460,7 +464,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z"
+      "checked": "2026-10-23T13:48:28.810Z"
     },
     "telemundo": {
       "latest": {
@@ -471,9 +475,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-23T07:55:52.734Z",
-      "observedLocal": "18:59"
+      "upcoming": {
+        "videoId": "mbGTHuy37XY",
+        "title": "EN VIVO: Las noticias de la noche, viernes 23 de octubre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-10-23T23:00:00Z"
+      },
+      "checked": "2026-10-23T13:48:28.810Z",
+      "stale": true
     },
     "telenoche": {
       "latest": {
@@ -489,49 +497,49 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-23T23:00:00Z"
       },
-      "checked": "2026-10-23T07:55:52.734Z",
+      "checked": "2026-10-23T13:48:28.810Z",
       "observedLocal": "19:59"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-23T07:55:52.734Z"
+        "checked": "2026-10-23T13:48:28.810Z"
       }
     }
   }
