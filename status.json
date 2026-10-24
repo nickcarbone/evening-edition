@@ -1,18 +1,22 @@
 {
-  "generated": "2026-10-24T14:53:24.038Z",
+  "generated": "2026-10-24T18:21:12.845Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "ha6vAIFsqnw",
-        "title": "JORNAL DA CULTURA | Empate técnico no Datafolha | 22/10/2026",
-        "published": "2026-10-22T23:47:10.000Z",
-        "duration": 3637,
+        "videoId": "Jx46nxinvME",
+        "title": "JORNAL DA CULTURA | TSE se reúne com Meta para cobrar igualdade entre campanhas | 23/10/2026",
+        "published": "2026-10-23T23:47:10.000Z",
+        "duration": 3668,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "upcoming": {
+        "videoId": "awmLYpduPOY",
+        "title": "JORNAL DA CULTURA | 24/10/2026",
+        "scheduledStart": "2026-10-25T00:00:00Z"
+      },
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +28,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true
     },
     "nmas": {
@@ -37,7 +41,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "22:28"
     },
     "kompas": {
@@ -50,7 +54,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "16:00"
     },
     "tvb": {
@@ -63,7 +67,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "tvpatrol": {
       "latest": {
@@ -75,7 +79,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -89,7 +93,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "pts": {
       "latest": {
@@ -101,19 +105,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "thaipbs": {
       "latest": {
         "videoId": "clC9lWnKldU",
         "title": "ข่าวค่ำ | 24 ต.ค. 69",
         "published": "2026-10-24T12:10:02.000Z",
-        "duration": 4271,
+        "duration": 4153,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:10"
     },
     "kbs": {
@@ -126,7 +130,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -140,7 +144,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:58"
     },
     "tolo": {
@@ -153,7 +157,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "btv": {
       "latest": {
@@ -165,60 +169,57 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:59"
     },
     "kz24": {
       "latest": {
-        "videoId": "W3JfCLlvkbc",
-        "title": "23 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-23T15:11:58.000Z",
-        "duration": 3034,
+        "videoId": "RFsZFUQyWn0",
+        "title": "24 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-24T14:59:06.000Z",
+        "duration": 1819,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "geo": {
       "latest": {
-        "videoId": "emE_Kzs-t3U",
-        "title": "NCCIA LAUNCHES MAJOR OPERATION | 9PM Headlines Geo News (23rd Oct 2026)",
-        "published": "2026-10-23T16:55:09.000Z",
-        "duration": 1483,
+        "videoId": "erZyAYGL_cs",
+        "title": "KARACHI CASE REVELATIONS - 42 TAKEN INTO CUSTODY | Geo News 9 PM Geo Bulletin | 24th Oct 2026",
+        "published": "2026-10-24T17:14:42.000Z",
+        "duration": 729,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-24T18:21:12.845Z",
+      "observedLocal": "22:14"
     },
     "citizen": {
       "latest": {
-        "videoId": "xmQRfVbapoQ",
-        "title": "CITIZEN NIPASHE WIKENDI ~ Oct 23 2026",
-        "published": "2026-10-23T16:33:54.000Z",
-        "duration": 1509,
+        "videoId": "2uZuaK76n9Q",
+        "title": "CITIZEN NIPASHE WIKENDI ~ Oct 24 2026",
+        "published": "2026-10-24T16:38:35.000Z",
+        "duration": 1548,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "tvr": {
       "latest": {
-        "videoId": "aIyTJvxLAtI",
-        "title": "TeleJURNAL 19: Călin Georgescu rămâne în arest preventiv - ediția din 23 octombrie (@TVR1)",
-        "published": "2026-10-23T15:59:22.000Z",
-        "duration": 2158,
+        "videoId": "TeqvXx_6tRw",
+        "title": "TeleJURNAL 19: România trece la ora de iarnă - ediția din 24 octombrie 2026 (@TVR1)",
+        "published": "2026-10-24T15:59:15.000Z",
+        "duration": 2248,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -231,32 +232,32 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "ebc": {
       "latest": {
-        "videoId": "uUC-6pkGQQc",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 13/2019 ዓ.ም  ETV | EBC | EBCDOTSTREAM",
-        "published": "2026-10-23T16:59:50.000Z",
-        "duration": 3274,
+        "videoId": "gSOJY3rGq9s",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና .... ጥቅምት 14/2019 ዓ.ም ETV | EBC | EBCDOTSTREAM",
+        "published": "2026-10-24T16:59:26.000Z",
+        "duration": 3200,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
       "latest": {
-        "videoId": "YM7PgNPZ810",
-        "title": "Izindaba zesiZulu @19H00 l 23 October 2026",
-        "published": "2026-10-23T17:45:02.000Z",
-        "duration": 1360,
+        "videoId": "y2eNMmhUwNA",
+        "title": "Iindaba zesiXhosa @19H00 | 24 October 2026",
+        "published": "2026-10-24T17:56:01.000Z",
+        "duration": 1306,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "hrt": {
       "latest": {
@@ -268,24 +269,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "Zsm1RQSFWdM",
-        "title": "Коллапс аэропортов в Москве и регионах. Город Алешки эвакуируют. Теракт и беспорядки в Париже",
-        "published": "2026-10-24T11:00:10.000Z",
-        "duration": 2140,
+        "videoId": "wu0QyW46hes",
+        "title": "Атака на Ozon в Омске. США отговорили Путина от ядерной войны в 2022. Чичваркин — о новом реестре",
+        "published": "2026-10-24T15:00:09.000Z",
+        "duration": 4091,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "wu0QyW46hes",
-        "title": "США отговорили Путина от ядерной войны в 2022. Атака дронов на Омск. Чичваркин — о новом реестре",
-        "scheduledStart": "2026-10-24T15:00:00Z"
-      },
-      "checked": "2026-10-24T14:53:24.038Z",
-      "observedLocal": "13:00"
+      "upcoming": null,
+      "checked": "2026-10-24T18:21:12.845Z",
+      "observedLocal": "17:00"
     },
     "tvp": {
       "latest": {
@@ -297,7 +294,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -309,7 +306,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true
     },
     "tagesschau": {
@@ -322,7 +319,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "france2": {
       "latest": {
@@ -332,13 +329,13 @@
         "duration": 3198,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "01Xt8FDD6oE",
         "title": "Le journal de 20h de France Télévisions - 24 Oct 2026",
-        "scheduledStart": "2026-10-24T17:57:00Z"
+        "start": "2026-10-24T17:57:20Z"
       },
-      "checked": "2026-10-24T14:53:24.038Z",
+      "upcoming": null,
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true
     },
     "la7": {
@@ -351,7 +348,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "tv3gh": {
       "latest": {
@@ -363,7 +360,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -376,7 +373,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "rtssn": {
       "latest": {
@@ -388,7 +385,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -401,7 +398,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "22:02"
     },
     "global": {
@@ -414,7 +411,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -427,7 +424,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -441,7 +438,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "nbc": {
       "latest": {
@@ -453,7 +450,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "abc": {
       "latest": {
@@ -465,7 +462,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z"
+      "checked": "2026-10-24T18:21:12.845Z"
     },
     "telemundo": {
       "latest": {
@@ -477,7 +474,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "18:59"
     },
     "telenoche": {
@@ -490,49 +487,49 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T14:53:24.038Z",
+      "checked": "2026-10-24T18:21:12.845Z",
       "observedLocal": "20:00"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-24T14:53:24.038Z"
+        "checked": "2026-10-24T18:21:12.845Z"
       }
     }
   }
