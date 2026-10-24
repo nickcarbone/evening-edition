@@ -1,22 +1,18 @@
 {
-  "generated": "2026-10-23T22:37:40.355Z",
+  "generated": "2026-10-24T01:05:07.082Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "ha6vAIFsqnw",
-        "title": "JORNAL DA CULTURA | Empate técnico no Datafolha | 22/10/2026",
-        "published": "2026-10-22T23:47:10.000Z",
-        "duration": 3637,
+        "videoId": "Jx46nxinvME",
+        "title": "JORNAL DA CULTURA | 23/10/2026",
+        "published": "2026-10-23T23:47:10.000Z",
+        "duration": 4408,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Jx46nxinvME",
-        "title": "JORNAL DA CULTURA | 23/10/2026",
-        "scheduledStart": "2026-10-23T23:50:00Z"
-      },
-      "checked": "2026-10-23T22:37:40.355Z",
+      "upcoming": null,
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -28,7 +24,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true
     },
     "nmas": {
@@ -41,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -55,8 +51,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
-      "stale": true
+      "checked": "2026-10-24T01:05:07.082Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tvb": {
       "latest": {
@@ -68,7 +65,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "tvpatrol": {
       "latest": {
@@ -80,7 +77,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "18:20"
     },
     "cctv": {
@@ -93,7 +90,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "pts": {
       "latest": {
@@ -105,7 +102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "thaipbs": {
       "latest": {
@@ -117,7 +114,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -130,8 +127,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
-      "observedLocal": "20:57"
+      "checked": "2026-10-24T01:05:07.082Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tv3my": {
       "latest": {
@@ -143,7 +141,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:57"
     },
     "tolo": {
@@ -156,7 +154,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "btv": {
       "latest": {
@@ -168,7 +166,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -181,7 +179,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -195,7 +193,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "21:55"
     },
     "citizen": {
@@ -208,7 +206,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "tvr": {
       "latest": {
@@ -220,7 +218,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -233,7 +231,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "ebc": {
       "latest": {
@@ -245,7 +243,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -258,7 +256,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "hrt": {
       "latest": {
@@ -270,7 +268,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "dozhd": {
       "latest": {
@@ -282,7 +280,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "17:00"
     },
     "tvp": {
@@ -295,7 +293,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -307,7 +305,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true
     },
     "tagesschau": {
@@ -320,7 +318,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "france2": {
       "latest": {
@@ -332,7 +330,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -345,7 +343,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "tv3gh": {
       "latest": {
@@ -357,7 +355,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -370,7 +368,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "rtssn": {
       "latest": {
@@ -382,7 +380,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -395,7 +393,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "22:02"
     },
     "global": {
@@ -408,7 +406,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -421,21 +419,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "pbs": {
       "latest": {
-        "videoId": "L1XJgJObhHI",
-        "title": "PBS News Hour full episode, Oct. 22, 2026",
-        "published": "2026-10-23T14:36:34.000Z",
-        "duration": 3421,
+        "videoId": "HAlut6If39w",
+        "title": "PBS News Hour full episode, Oct. 23, 2026",
+        "published": "2026-10-23T23:55:13.000Z",
+        "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z"
     },
     "nbc": {
       "latest": {
@@ -447,7 +445,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z"
+      "checked": "2026-10-24T01:05:07.082Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "abc": {
       "latest": {
@@ -459,81 +459,76 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
+      "checked": "2026-10-24T01:05:07.082Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "telemundo": {
       "latest": {
-        "videoId": "ZfJRIHBeopw",
-        "title": "Las noticias de la noche, jueves 22 de octubre de 2026 | Noticias Telemundo",
-        "published": "2026-10-22T22:59:16.000Z",
-        "duration": 1543,
-        "embeddable": true
-      },
-      "live": null,
-      "upcoming": {
         "videoId": "mbGTHuy37XY",
-        "title": "EN VIVO: Las noticias de la noche, viernes 23 de octubre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-10-23T23:00:00Z"
-      },
-      "checked": "2026-10-23T22:37:40.355Z",
-      "stale": true
-    },
-    "telenoche": {
-      "latest": {
-        "videoId": "8MIWweH0HdQ",
-        "title": "Maradona: Dalma habló tras el juicio y pidió justicia para su papá | TELENOCHE DEL 22/10/26",
-        "published": "2026-10-22T22:59:55.000Z",
-        "duration": 3047,
+        "title": "Las noticias de la noche, viernes 23 de octubre de 2026 | Noticias Telemundo",
+        "published": "2026-10-23T22:59:15.000Z",
+        "duration": 1545,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-23T22:37:40.355Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-24T01:05:07.082Z",
+      "observedLocal": "18:59"
+    },
+    "telenoche": {
+      "latest": {
+        "videoId": "UVNvBIEKpBs",
+        "title": "Chaco bajo el agua: la crecida de los ríos provocó desbordes | TELENOCHE DEL 23/10/26",
+        "published": "2026-10-23T23:00:03.000Z",
+        "duration": 3085,
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": "2026-10-24T01:05:07.082Z",
+      "observedLocal": "20:00"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-23T22:37:40.355Z"
+        "checked": "2026-10-24T01:05:07.082Z"
       }
     }
   }
