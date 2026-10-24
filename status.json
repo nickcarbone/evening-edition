@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T11:37:20.982Z",
+  "generated": "2026-10-24T14:53:24.038Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "20:47"
     },
     "caracol": {
@@ -24,7 +24,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true
     },
     "nmas": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "22:28"
     },
     "kompas": {
@@ -50,20 +50,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "16:00"
     },
     "tvb": {
       "latest": {
-        "videoId": "fklfINQQO7Q",
-        "title": "無綫TVB六點半新聞報道｜風暴薔琵｜迫近沖繩帶來強風大雨 逾200班航班取消｜駐日本美軍以安全為由 禁比亞迪電動車進入沖繩嘉手納空軍基地｜日本奈良公園接連發現殘缺不全幼鹿屍體 當局懷疑人為警方展開調查",
-        "published": "2026-10-23T10:46:52.000Z",
-        "duration": 1960,
+        "videoId": "AZo32q4gyEQ",
+        "title": "無綫TVB六點半新聞報道｜法國騷亂 巴黎等多地料今日再有示威　當局全國部署七萬警察及憲兵加強防範｜美中期選舉阿拉斯加州候選人掀「撞名」風波　特朗普政府入稟禁確認選舉結果｜ 王滬寧陪同金正恩訪問遼寧丹",
+        "published": "2026-10-24T12:37:33.000Z",
+        "duration": 2238,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "tvpatrol": {
       "latest": {
@@ -75,7 +75,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -89,32 +89,32 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "pts": {
       "latest": {
-        "videoId": "FlqPLzw96lA",
-        "title": "20261023 公視晚間新聞 完整版（無網路版權內容除外）｜颱風近陸地將降速打轉 今夜至明早影響最劇烈",
-        "published": "2026-10-23T12:36:55.000Z",
-        "duration": 3283,
+        "videoId": "r-hhvOyh7BA",
+        "title": "20261024 公視晚間新聞 完整版（無網路版權內容除外）｜薔琵颱風威力已減弱 預計晚間8時半解除海警",
+        "published": "2026-10-24T11:55:56.000Z",
+        "duration": 1770,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "thaipbs": {
       "latest": {
-        "videoId": "TrVc4ZtjajI",
-        "title": "ข่าวค่ำ | 23 ต.ค. 69",
-        "published": "2026-10-23T11:00:36.000Z",
-        "duration": 8919,
+        "videoId": "clC9lWnKldU",
+        "title": "ข่าวค่ำ | 24 ต.ค. 69",
+        "published": "2026-10-24T12:10:02.000Z",
+        "duration": 4271,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
-      "observedLocal": "18:00"
+      "checked": "2026-10-24T14:53:24.038Z",
+      "observedLocal": "19:10"
     },
     "kbs": {
       "latest": {
@@ -126,33 +126,34 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
-      "stale": true
+      "checked": "2026-10-24T14:53:24.038Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tv3my": {
       "latest": {
-        "videoId": "pYwHc7RHmCA",
-        "title": "DUN Sarawak Dibubar Isnin Ini Untuk Pilihanraya Negeri | Buletin Utama, 23 Oktober 2026",
-        "published": "2026-10-23T11:57:05.000Z",
-        "duration": 3569,
+        "videoId": "VVs1WaMqp5c",
+        "title": "Lagi Kes Kemalangan Maut Akibat Pemandu Mabuk  | Buletin Utama, 24 Oktober 2026",
+        "published": "2026-10-24T11:58:54.000Z",
+        "duration": 3621,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
-      "observedLocal": "19:57"
+      "checked": "2026-10-24T14:53:24.038Z",
+      "observedLocal": "19:58"
     },
     "tolo": {
       "latest": {
-        "videoId": "kDrfjeXButc",
-        "title": "TOLOnews - 6pm News - 23 Oct 2026 | نگرانی کارشناسان سازمان ملل از اخراج شهروندان افغان از اروپا",
-        "published": "2026-10-23T14:25:34.000Z",
-        "duration": 1339,
+        "videoId": "I1kem_uqTrU",
+        "title": "TOLOnews - 6pm News - 24 Oct 2026 | ۸۱ الگی سازمان‌ملل؛ تعهد این سازمان برای حمایت از مردم افغانستان",
+        "published": "2026-10-24T14:17:48.000Z",
+        "duration": 1280,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "btv": {
       "latest": {
@@ -164,7 +165,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -177,7 +178,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -191,7 +192,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -205,7 +206,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "tvr": {
       "latest": {
@@ -217,7 +218,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -230,7 +231,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "ebc": {
       "latest": {
@@ -242,7 +243,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -255,7 +256,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "hrt": {
       "latest": {
@@ -267,7 +268,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "dozhd": {
       "latest": {
@@ -278,8 +279,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "upcoming": {
+        "videoId": "wu0QyW46hes",
+        "title": "США отговорили Путина от ядерной войны в 2022. Атака дронов на Омск. Чичваркин — о новом реестре",
+        "scheduledStart": "2026-10-24T15:00:00Z"
+      },
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "13:00"
     },
     "tvp": {
@@ -292,7 +297,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -304,7 +309,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true
     },
     "tagesschau": {
@@ -317,7 +322,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "france2": {
       "latest": {
@@ -333,8 +338,8 @@
         "title": "Le journal de 20h de France Télévisions - 24 Oct 2026",
         "scheduledStart": "2026-10-24T17:57:00Z"
       },
-      "checked": "2026-10-24T11:37:20.982Z",
-      "observedLocal": "19:57"
+      "checked": "2026-10-24T14:53:24.038Z",
+      "stale": true
     },
     "la7": {
       "latest": {
@@ -346,7 +351,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "tv3gh": {
       "latest": {
@@ -358,7 +363,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -371,19 +376,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "rtssn": {
       "latest": {
         "videoId": "-fga2vrp-2w",
         "title": "LE JOURNAL TELEVISE DE 20H - VENDREDI 23 OCTOBRE 2026",
         "published": "2026-10-23T20:00:09.000Z",
-        "duration": 4036,
+        "duration": 4028,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "20:00"
     },
     "channels": {
@@ -396,7 +401,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "22:02"
     },
     "global": {
@@ -409,7 +414,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -422,7 +427,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -436,7 +441,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "nbc": {
       "latest": {
@@ -448,7 +453,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "abc": {
       "latest": {
@@ -460,7 +465,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z"
+      "checked": "2026-10-24T14:53:24.038Z"
     },
     "telemundo": {
       "latest": {
@@ -472,7 +477,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "18:59"
     },
     "telenoche": {
@@ -485,49 +490,49 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-24T11:37:20.982Z",
+      "checked": "2026-10-24T14:53:24.038Z",
       "observedLocal": "20:00"
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-24T11:37:20.982Z"
+        "checked": "2026-10-24T14:53:24.038Z"
       }
     }
   }
