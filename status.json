@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T05:17:31.012Z",
+  "generated": "2026-10-25T10:07:44.287Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "20:55"
     },
     "caracol": {
@@ -25,7 +25,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "nmas": {
       "latest": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -49,10 +49,14 @@
         "duration": 7861,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "iO0ibL-By3s",
+        "title": "LIVE - PDIP Sebut Polemik Ijazah Gibran Jadi Beban Presiden | KOMPAS PETANG",
+        "start": "2026-10-25T09:00:19Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
-      "observedLocal": "16:00"
+      "checked": "2026-10-25T10:07:44.287Z",
+      "stale": true
     },
     "tvb": {
       "latest": {
@@ -64,7 +68,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "tvpatrol": {
       "latest": {
@@ -76,21 +80,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "cctv": {
       "latest": {
-        "videoId": "MAPRdcJdofQ",
-        "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 | CCTV「新闻联播」20261022",
-        "published": "2026-10-23T02:38:56.000Z",
+        "videoId": "nYBcq8UOCrM",
+        "title": "习近平向2026全球治理论坛（雄安）致信 | CCTV「新闻联播」20261024",
+        "published": "2026-10-25T06:36:50.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "pts": {
       "latest": {
@@ -102,7 +106,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "thaipbs": {
       "latest": {
@@ -114,7 +118,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:10"
     },
     "kbs": {
@@ -127,7 +131,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -141,7 +145,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:58"
     },
     "tolo": {
@@ -154,7 +158,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "btv": {
       "latest": {
@@ -166,7 +170,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -179,7 +183,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "geo": {
       "latest": {
@@ -191,8 +197,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
-      "observedLocal": "22:14"
+      "checked": "2026-10-25T10:07:44.287Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "citizen": {
       "latest": {
@@ -204,7 +211,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "tvr": {
       "latest": {
@@ -216,7 +223,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -229,7 +236,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "ebc": {
       "latest": {
@@ -241,7 +248,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -254,7 +261,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "hrt": {
       "latest": {
@@ -266,7 +273,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "dozhd": {
       "latest": {
@@ -278,7 +285,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "17:00"
     },
     "tvp": {
@@ -291,7 +298,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:17"
     },
     "srf": {
@@ -303,7 +310,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true
     },
     "tagesschau": {
@@ -316,7 +323,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "france2": {
       "latest": {
@@ -327,8 +334,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "upcoming": {
+        "videoId": "MmeqOuQxxAU",
+        "title": "Le journal de 20h de France Télévisions - 25 Oct 2026",
+        "scheduledStart": "2026-10-25T18:57:00Z"
+      },
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -341,7 +352,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "tv3gh": {
       "latest": {
@@ -353,7 +364,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:02"
     },
     "rti": {
@@ -366,7 +377,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "rtssn": {
       "latest": {
@@ -378,7 +389,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -391,7 +402,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "22:00"
     },
     "global": {
@@ -404,7 +415,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "observedLocal": "20:00"
     },
     "rcan": {
@@ -417,7 +428,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -431,7 +442,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "nbc": {
       "latest": {
@@ -443,7 +454,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "abc": {
       "latest": {
@@ -455,7 +466,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z"
+      "checked": "2026-10-25T10:07:44.287Z"
     },
     "telemundo": {
       "latest": {
@@ -467,7 +478,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -481,7 +492,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T05:17:31.012Z",
+      "checked": "2026-10-25T10:07:44.287Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -489,42 +500,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     },
     "ert": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-25T05:17:31.012Z"
+        "checked": "2026-10-25T10:07:44.287Z"
       }
     }
   }
