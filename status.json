@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T10:07:44.287Z",
+  "generated": "2026-10-25T14:34:07.393Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "20:55"
     },
     "caracol": {
@@ -25,7 +25,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "nmas": {
       "latest": {
@@ -37,38 +37,34 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "kompas": {
       "latest": {
-        "videoId": "nio2dhmOcJI",
-        "title": "LIVE - Sidang Kasus Ijazah, Tifa Minta Jokowi Dihadirkan |  KOMPAS PETANG",
-        "published": "2026-10-24T09:00:48.000Z",
-        "duration": 7861,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "iO0ibL-By3s",
         "title": "LIVE - PDIP Sebut Polemik Ijazah Gibran Jadi Beban Presiden | KOMPAS PETANG",
-        "start": "2026-10-25T09:00:19Z"
-      },
-      "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
-      "stale": true
-    },
-    "tvb": {
-      "latest": {
-        "videoId": "AZo32q4gyEQ",
-        "title": "無綫TVB六點半新聞報道｜法國騷亂 巴黎等多地料今日再有示威　當局全國部署七萬警察及憲兵加強防範｜美中期選舉阿拉斯加州候選人掀「撞名」風波　特朗普政府入稟禁確認選舉結果｜ 王滬寧陪同金正恩訪問遼寧丹",
-        "published": "2026-10-24T12:37:33.000Z",
-        "duration": 2238,
+        "published": "2026-10-25T09:00:19.000Z",
+        "duration": 5061,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z",
+      "observedLocal": "16:00"
+    },
+    "tvb": {
+      "latest": {
+        "videoId": "oJTGP8pBAHU",
+        "title": "無綫TVB六點半新聞報道｜特朗普聲稱最快今日恢復打擊伊朗 佩澤希齊揚批美方破壞談判｜塞爾維亞舉行議會選舉 民調指武契奇與對手學生名單互有領先｜中國反對美國新版對外投資限制擬議規則 保留採取相應措施權利",
+        "published": "2026-10-25T10:54:57.000Z",
+        "duration": 2257,
+        "embeddable": true
+      },
+      "live": null,
+      "upcoming": null,
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "tvpatrol": {
       "latest": {
@@ -80,7 +76,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -94,83 +90,82 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "pts": {
       "latest": {
-        "videoId": "r-hhvOyh7BA",
-        "title": "20261024 公視晚間新聞 完整版（無網路版權內容除外）｜薔琵颱風威力已減弱 預計晚間8時半解除海警",
-        "published": "2026-10-24T11:55:56.000Z",
-        "duration": 1770,
+        "videoId": "daY0vYIQpbY",
+        "title": "20261025 公視晚間新聞 完整版｜薔琵颱風農損逾1 93億 卓榮泰促收件3日內核發補助",
+        "published": "2026-10-25T11:55:56.000Z",
+        "duration": 1798,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "thaipbs": {
       "latest": {
-        "videoId": "clC9lWnKldU",
-        "title": "ข่าวค่ำ | 24 ต.ค. 69",
-        "published": "2026-10-24T12:10:02.000Z",
-        "duration": 4153,
+        "videoId": "Z7E5JKdBNeU",
+        "title": "ข่าวค่ำ | 25 ต.ค. 69",
+        "published": "2026-10-25T11:00:08.000Z",
+        "duration": 8251,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
-      "observedLocal": "19:10"
+      "checked": "2026-10-25T14:34:07.393Z",
+      "observedLocal": "18:00"
     },
     "kbs": {
       "latest": {
-        "videoId": "DEQqdzTjMVA",
-        "title": "[풀영상] 뉴스9 : ‘여론조사 의혹’ 오세훈 서울시장 2심 무죄…재판부 “명태균 진술 믿기 어려워” – 2026년 10월 23일(금) / KBS",
-        "published": "2026-10-23T11:57:43.000Z",
-        "duration": 2665,
+        "videoId": "LRWFZ3Qa06Q",
+        "title": "[풀영상] 뉴스9 : 김정은 ‘당일치기’ 방중서 “대 이은 혈맹” 강조…접경지역엔 ‘북중 교류 확대’ 기대감 상승 – 2026년 10월 25일(일) / KBS",
+        "published": "2026-10-25T11:57:51.000Z",
+        "duration": 1155,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-25T14:34:07.393Z",
+      "observedLocal": "20:57"
     },
     "tv3my": {
       "latest": {
-        "videoId": "VVs1WaMqp5c",
-        "title": "Lagi Kes Kemalangan Maut Akibat Pemandu Mabuk  | Buletin Utama, 24 Oktober 2026",
-        "published": "2026-10-24T11:58:54.000Z",
-        "duration": 3621,
+        "videoId": "7N77Zf-cams",
+        "title": "Sultan Selangor Kecewa Salah Urus Tabung Haji  | Buletin Utama, 25 Oktober 2026",
+        "published": "2026-10-25T11:58:28.000Z",
+        "duration": 3623,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "19:58"
     },
     "tolo": {
       "latest": {
-        "videoId": "I1kem_uqTrU",
-        "title": "TOLOnews - 6pm News - 24 Oct 2026 | ۸۱ الگی سازمان‌ملل؛ تعهد این سازمان برای حمایت از مردم افغانستان",
-        "published": "2026-10-24T14:17:48.000Z",
-        "duration": 1280,
+        "videoId": "_qk_fuD85-k",
+        "title": "TOLOnews - 6pm News - 25 Oct 2026 | فرانسه: عادی‌سازی روابط با ا.ا مشروط به رعایت حقوق زنان است",
+        "published": "2026-10-25T14:22:58.000Z",
+        "duration": 1265,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "btv": {
       "latest": {
-        "videoId": "VlKmdEMb0A4",
-        "title": "রাত ৮টার সংবাদ  তারিখ: ২৩ অক্টোবর, ২০২৬",
-        "published": "2026-10-23T13:59:30.000Z",
-        "duration": 1489,
+        "videoId": "pqSUVpqOPVk",
+        "title": "রাত ৮টার সংবাদ",
+        "published": "2026-10-25T13:59:42.000Z",
+        "duration": 1696,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -183,7 +178,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -197,7 +192,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -211,7 +206,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "tvr": {
       "latest": {
@@ -223,7 +218,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -236,7 +231,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "ebc": {
       "latest": {
@@ -248,7 +243,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "19:59"
     },
     "sabc1": {
@@ -261,7 +256,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "hrt": {
       "latest": {
@@ -273,20 +268,23 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "wu0QyW46hes",
-        "title": "Атака на Ozon в Омске. США отговорили Путина от ядерной войны в 2022. Чичваркин — о новом реестре",
-        "published": "2026-10-24T15:00:09.000Z",
-        "duration": 4091,
+        "videoId": "EWXPPaKHpag",
+        "title": "Трамп теперь союзник Путина. Какие мотивы у президента США на самом деле?",
+        "published": "2026-10-25T12:00:38.000Z",
+        "duration": 1512,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
-      "observedLocal": "17:00"
+      "upcoming": {
+        "videoId": "ZoUU3klQl1A",
+        "title": "ВСУ бьют ракетами по заводам в РФ. Трамп хочет вернуть ЕС российский газ. Европа охвачена протестами",
+        "scheduledStart": "2026-10-25T15:00:00Z"
+      },
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "tvp": {
       "latest": {
@@ -298,7 +296,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "19:17"
     },
     "srf": {
@@ -310,7 +308,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true
     },
     "tagesschau": {
@@ -323,7 +321,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "france2": {
       "latest": {
@@ -339,8 +337,8 @@
         "title": "Le journal de 20h de France Télévisions - 25 Oct 2026",
         "scheduledStart": "2026-10-25T18:57:00Z"
       },
-      "checked": "2026-10-25T10:07:44.287Z",
-      "observedLocal": "19:57"
+      "checked": "2026-10-25T14:34:07.393Z",
+      "stale": true
     },
     "la7": {
       "latest": {
@@ -352,20 +350,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "tv3gh": {
       "latest": {
-        "videoId": "tT4kD8x-8Gk",
-        "title": "LIVE: News360 || 23-10-2026",
-        "published": "2026-10-23T19:02:19.000Z",
-        "duration": 2826,
+        "videoId": "XudYDGI7N7g",
+        "title": "LIVE: News360; NDC Constituency Executive Elections ||  24-10-2026",
+        "published": "2026-10-24T19:00:50.000Z",
+        "duration": 3567,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
-      "observedLocal": "19:02"
+      "checked": "2026-10-25T14:34:07.393Z",
+      "observedLocal": "19:00"
     },
     "rti": {
       "latest": {
@@ -377,7 +375,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "rtssn": {
       "latest": {
@@ -389,7 +387,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -402,7 +400,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "22:00"
     },
     "global": {
@@ -415,7 +413,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "observedLocal": "20:00"
     },
     "rcan": {
@@ -428,7 +426,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -442,7 +440,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "nbc": {
       "latest": {
@@ -454,19 +452,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "abc": {
       "latest": {
         "videoId": "s19sW_20bzg",
         "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 23, 2026",
         "published": "2026-10-24T02:00:12.000Z",
-        "duration": 1228,
+        "duration": 1093,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z"
+      "checked": "2026-10-25T14:34:07.393Z"
     },
     "telemundo": {
       "latest": {
@@ -478,7 +476,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -492,7 +490,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T10:07:44.287Z",
+      "checked": "2026-10-25T14:34:07.393Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -500,42 +498,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-25T10:07:44.287Z"
+        "checked": "2026-10-25T14:34:07.393Z"
       }
     }
   }
