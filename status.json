@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T17:51:00.126Z",
+  "generated": "2026-10-25T21:13:31.618Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -7,12 +7,12 @@
         "videoId": "awmLYpduPOY",
         "title": "JORNAL DA CULTURA | A corrida da eleição presidencial | 24/10/2026",
         "published": "2026-10-24T23:55:11.000Z",
-        "duration": 4191,
+        "duration": 3075,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "20:55"
     },
     "caracol": {
@@ -25,7 +25,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "nmas": {
       "latest": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -51,7 +51,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "16:00"
     },
     "tvb": {
@@ -64,7 +64,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "tvpatrol": {
       "latest": {
@@ -76,7 +76,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -90,7 +90,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "pts": {
       "latest": {
@@ -102,7 +102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "thaipbs": {
       "latest": {
@@ -114,7 +114,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -127,7 +127,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "20:57"
     },
     "tv3my": {
@@ -140,7 +140,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "19:58"
     },
     "tolo": {
@@ -153,7 +153,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "btv": {
       "latest": {
@@ -165,7 +165,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -178,7 +178,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "geo": {
       "latest": {
@@ -190,7 +190,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "22:18"
     },
     "citizen": {
@@ -198,12 +198,12 @@
         "videoId": "Tfxei_yWuQk",
         "title": "CITIZEN NIPASHE WIKENDI ~ Oct 25, 2026",
         "published": "2026-10-25T16:54:57.000Z",
-        "duration": 1977,
+        "duration": 1555,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "tvr": {
       "latest": {
@@ -215,37 +215,33 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "18:59"
     },
     "novas": {
       "latest": {
-        "videoId": "QYo0zljvshY",
-        "title": "DNEVNIK - CELA EMISIJA - 24.10.2026.",
-        "published": "2026-10-24T19:39:56.000Z",
-        "duration": 2951,
+        "videoId": "Mm5iS_rIU80",
+        "title": "IZBORNI DNEVNIK - CELA EMISIJA - 25.10.2026.",
+        "published": "2026-10-25T20:21:45.000Z",
+        "duration": 3686,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "ebc": {
       "latest": {
-        "videoId": "gSOJY3rGq9s",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና .... ጥቅምት 14/2019 ዓ.ም ETV | EBC | EBCDOTSTREAM",
-        "published": "2026-10-24T16:59:26.000Z",
-        "duration": 3200,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "yNsBbEl9Dac",
         "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 15/2019 ዓ.ም   ETV | EBC | EBCDOTSTREAM",
-        "start": "2026-10-25T16:58:56Z"
+        "published": "2026-10-25T16:58:56.000Z",
+        "duration": 3168,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
-      "observedLocal": "19:59"
+      "checked": "2026-10-25T21:13:31.618Z",
+      "observedLocal": "19:58"
     },
     "sabc1": {
       "latest": {
@@ -257,19 +253,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "hrt": {
       "latest": {
-        "videoId": "148F8QY4Yac",
-        "title": "Dnevnik, 24. 10. 2026.",
-        "published": "2026-10-24T20:53:21.000Z",
-        "duration": 3194,
+        "videoId": "4a3pxA9R45A",
+        "title": "Dnevnik, 25. 10. 2026.",
+        "published": "2026-10-25T21:03:12.000Z",
+        "duration": 3076,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "dozhd": {
       "latest": {
@@ -279,13 +275,17 @@
         "duration": 3421,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "G7PtpnZGF_I",
         "title": "Барселона — Реал Мадрид с комментариями Поленова и Кривохарченко",
-        "scheduledStart": "2026-10-25T20:00:00Z"
+        "start": "2026-10-25T19:56:11Z"
       },
-      "checked": "2026-10-25T17:51:00.126Z",
+      "upcoming": {
+        "videoId": "ejHurD1HHnc",
+        "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
+        "scheduledStart": "2026-10-26T06:00:00Z"
+      },
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "15:59"
     },
     "tvp": {
@@ -298,7 +298,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "19:17"
     },
     "srf": {
@@ -310,61 +310,57 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true
     },
     "tagesschau": {
       "latest": {
-        "videoId": "pM6Rh5wNk-k",
-        "title": "tagesschau 20:00 Uhr, 24.10.2026",
-        "published": "2026-10-24T18:30:28.000Z",
-        "duration": 1026,
+        "videoId": "-nBMoYdzYG8",
+        "title": "tagesschau 20:00 Uhr, 25.10.2026",
+        "published": "2026-10-25T19:36:27.000Z",
+        "duration": 979,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "france2": {
       "latest": {
-        "videoId": "01Xt8FDD6oE",
-        "title": "Le journal de 20h de France Télévisions - 24 octobre 2026",
-        "published": "2026-10-24T17:57:20.000Z",
-        "duration": 3545,
+        "videoId": "MmeqOuQxxAU",
+        "title": "Le journal de 20h de France Télévisions - 25 octobre 2026",
+        "published": "2026-10-25T18:57:20.000Z",
+        "duration": 3902,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "MmeqOuQxxAU",
-        "title": "Le journal de 20h de France Télévisions - 25 Oct 2026",
-        "scheduledStart": "2026-10-25T18:57:00Z"
-      },
-      "checked": "2026-10-25T17:51:00.126Z",
-      "stale": true
+      "upcoming": null,
+      "checked": "2026-10-25T21:13:31.618Z",
+      "observedLocal": "19:57"
     },
     "la7": {
       "latest": {
-        "videoId": "EFZc12PojYQ",
-        "title": "Edizione delle ore 20.00 del 24/10/2026",
-        "published": "2026-10-24T19:03:41.000Z",
-        "duration": 1906,
+        "videoId": "doDD5Shj_wc",
+        "title": "Edizione delle ore 20.00 del 25/10/2026",
+        "published": "2026-10-25T20:09:45.000Z",
+        "duration": 1769,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "tv3gh": {
       "latest": {
-        "videoId": "XudYDGI7N7g",
-        "title": "LIVE: News360; NDC Constituency Executive Elections ||  24-10-2026",
-        "published": "2026-10-24T19:00:50.000Z",
-        "duration": 3567,
+        "videoId": "oVR1UiCz4gw",
+        "title": "LIVE: News360 || 25-10-2026",
+        "published": "2026-10-25T19:00:40.000Z",
+        "duration": 3683,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "19:00"
     },
     "rti": {
@@ -377,19 +373,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "rtssn": {
       "latest": {
-        "videoId": "i2JL41lfgZA",
-        "title": "LE JOURNAL TÉLÉVISÉ DE 20H - SAMEDI 24 OCTOBRE 2026",
-        "published": "2026-10-24T19:59:08.000Z",
-        "duration": 2836,
+        "videoId": "O6jAbhPdngw",
+        "title": "LE JOURNAL TELEVISE DE 20H - DIMANCHE 25 OCTOBRE 2026",
+        "published": "2026-10-25T19:59:58.000Z",
+        "duration": 3348,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -400,9 +396,13 @@
         "duration": 3635,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "Si66E71OFTU",
+        "title": "News At 10",
+        "start": "2026-10-25T20:58:50Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "22:00"
     },
     "global": {
@@ -415,7 +415,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "observedLocal": "20:00"
     },
     "rcan": {
@@ -428,7 +428,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -442,7 +442,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "nbc": {
       "latest": {
@@ -454,7 +454,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z"
+      "checked": "2026-10-25T21:13:31.618Z"
     },
     "abc": {
       "latest": {
@@ -466,7 +466,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -480,7 +480,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -494,7 +494,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-25T17:51:00.126Z",
+      "checked": "2026-10-25T21:13:31.618Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -502,42 +502,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     },
     "dr": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-25T17:51:00.126Z"
+        "checked": "2026-10-25T21:13:31.618Z"
       }
     }
   }
