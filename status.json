@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T01:41:39.046Z",
+  "generated": "2026-10-26T08:06:42.326Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,20 +12,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "20:55"
     },
     "caracol": {
       "latest": {
-        "videoId": "pPqWNjZIvjA",
-        "title": "Noticias Caracol | Emisión central fin de semana (24 de octubre de 2026)",
-        "published": "2026-10-25T01:33:28.000Z",
-        "duration": 1955,
+        "videoId": "eHOGslQ_7xU",
+        "title": "Noticias Caracol | Emisión central fin de semana (25 de octubre de 2026)",
+        "published": "2026-10-26T02:30:31.000Z",
+        "duration": 2264,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "nmas": {
       "latest": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -51,8 +51,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
-      "observedLocal": "16:00"
+      "checked": "2026-10-26T08:06:42.326Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tvb": {
       "latest": {
@@ -64,7 +65,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "tvpatrol": {
       "latest": {
@@ -76,21 +77,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "cctv": {
       "latest": {
-        "videoId": "nYBcq8UOCrM",
-        "title": "习近平向2026全球治理论坛（雄安）致信 | CCTV「新闻联播」20261024",
-        "published": "2026-10-25T06:36:50.000Z",
-        "duration": 1800,
+        "videoId": "uT-ZMz6By-U",
+        "title": "习近平同比利时国王就中比建交55周年互致贺信 | CCTV「新闻联播」20261025",
+        "published": "2026-10-26T02:41:54.000Z",
+        "duration": 1769,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "pts": {
       "latest": {
@@ -102,7 +103,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "thaipbs": {
       "latest": {
@@ -114,8 +115,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
-      "observedLocal": "18:00"
+      "checked": "2026-10-26T08:06:42.326Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "kbs": {
       "latest": {
@@ -127,7 +129,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -141,7 +143,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:58"
     },
     "tolo": {
@@ -154,19 +156,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "btv": {
       "latest": {
         "videoId": "pqSUVpqOPVk",
         "title": "রাত ৮টার সংবাদ",
         "published": "2026-10-25T13:59:42.000Z",
-        "duration": 1696,
+        "duration": 1697,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -179,7 +181,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "geo": {
       "latest": {
@@ -191,8 +195,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
-      "observedLocal": "22:18"
+      "checked": "2026-10-26T08:06:42.326Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "citizen": {
       "latest": {
@@ -204,7 +209,9 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z",
+      "stale": true,
+      "error": "no uploads matched the title pattern"
     },
     "tvr": {
       "latest": {
@@ -216,7 +223,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -229,7 +236,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "ebc": {
       "latest": {
@@ -241,7 +248,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:58"
     },
     "sabc1": {
@@ -254,7 +261,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "hrt": {
       "latest": {
@@ -266,24 +273,20 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "G7PtpnZGF_I",
-        "title": "Барселона — Реал Мадрид с комментариями Поленова и Кривохарченко",
-        "published": "2026-10-25T19:56:11.000Z",
-        "duration": 7670,
+        "videoId": "ejHurD1HHnc",
+        "title": "Удары по Воронежу. Партия Вучича проиграла выборы в Сербии. Протестующие в Риме ворвались в Колизей",
+        "published": "2026-10-26T05:59:31.000Z",
+        "duration": 3546,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "ejHurD1HHnc",
-        "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
-        "scheduledStart": "2026-10-26T06:00:00Z"
-      },
-      "checked": "2026-10-26T01:41:39.046Z",
-      "observedLocal": "20:56"
+      "upcoming": null,
+      "checked": "2026-10-26T08:06:42.326Z",
+      "observedLocal": "06:59"
     },
     "tvp": {
       "latest": {
@@ -295,7 +298,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -307,7 +310,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true
     },
     "tagesschau": {
@@ -320,7 +323,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "france2": {
       "latest": {
@@ -331,8 +334,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "upcoming": {
+        "videoId": "SGm7-0tARVk",
+        "title": "Le journal de 20h de France Télévisions - 26 Oct 2026",
+        "scheduledStart": "2026-10-26T18:57:00Z"
+      },
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:57"
     },
     "la7": {
@@ -345,7 +352,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "tv3gh": {
       "latest": {
@@ -357,7 +364,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:00"
     },
     "rti": {
@@ -370,7 +377,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "rtssn": {
       "latest": {
@@ -382,7 +389,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -395,25 +402,21 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "observedLocal": "21:58"
     },
     "global": {
       "latest": {
-        "videoId": "YhiWc4GbnkE",
-        "title": "Global National: Oct. 24, 2026 | Tories poised to win as voters head to the polls in BC election",
-        "published": "2026-10-25T00:00:07.000Z",
-        "duration": 1321,
+        "videoId": "FvSI5SlxvBY",
+        "title": "Global National: Oct. 25, 2026 | BC Premier-designate Lorne Doerkson says province “chose change”",
+        "published": "2026-10-26T02:00:08.000Z",
+        "duration": 1282,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "FvSI5SlxvBY",
-        "title": "Global National: Oct. 25, 2026 | BC Conservatives to form majority government as Eby resigns",
-        "scheduledStart": "2026-10-26T02:00:00Z"
-      },
-      "checked": "2026-10-26T01:41:39.046Z",
-      "observedLocal": "20:00"
+      "upcoming": null,
+      "checked": "2026-10-26T08:06:42.326Z",
+      "observedLocal": "22:00"
     },
     "rcan": {
       "latest": {
@@ -425,7 +428,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -439,7 +442,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "nbc": {
       "latest": {
@@ -451,21 +454,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "abc": {
       "latest": {
-        "videoId": "s19sW_20bzg",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 23, 2026",
-        "published": "2026-10-24T02:00:12.000Z",
-        "duration": 1093,
+        "videoId": "yoTFcE-3NK0",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 25, 2026",
+        "published": "2026-10-26T02:00:08.000Z",
+        "duration": 1258,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T08:06:42.326Z"
     },
     "telemundo": {
       "latest": {
@@ -477,7 +478,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -491,7 +492,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T01:41:39.046Z",
+      "checked": "2026-10-26T08:06:42.326Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -499,42 +500,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-26T01:41:39.046Z"
+        "checked": "2026-10-26T08:06:42.326Z"
       }
     }
   }
