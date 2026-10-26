@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T15:27:52.905Z",
+  "generated": "2026-10-26T20:44:56.809Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "20:55"
     },
     "caracol": {
@@ -25,7 +25,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "nmas": {
       "latest": {
@@ -37,7 +37,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -51,7 +51,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "tvb": {
       "latest": {
@@ -63,7 +63,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "tvpatrol": {
       "latest": {
@@ -75,7 +75,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "18:20"
     },
     "cctv": {
@@ -88,7 +88,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "pts": {
       "latest": {
@@ -100,19 +100,19 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "thaipbs": {
       "latest": {
         "videoId": "5Y6NyyiOl7w",
         "title": "ข่าวค่ำ | 26 ต.ค. 69",
         "published": "2026-10-26T11:00:06.000Z",
-        "duration": 9201,
+        "duration": 9053,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "18:00"
     },
     "kbs": {
@@ -125,7 +125,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "20:55"
     },
     "tv3my": {
@@ -138,7 +138,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "19:57"
     },
     "tolo": {
@@ -151,7 +151,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "btv": {
       "latest": {
@@ -163,7 +163,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "19:59"
     },
     "kz24": {
@@ -176,47 +176,44 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "geo": {
       "latest": {
-        "videoId": "HVUo93AV9rQ",
-        "title": "Iran - US,  Threat of War Looms | Geo News 9PM Geo Bulletin 25 October 2026",
-        "published": "2026-10-25T17:18:27.000Z",
-        "duration": 833,
+        "videoId": "01Y5c2nG3-o",
+        "title": "War with Iran..!! - Netanyahu in Trouble??  | Geo News 9 PM Geo Bulletin | 26th Oct 2026",
+        "published": "2026-10-26T17:47:49.000Z",
+        "duration": 1254,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T20:44:56.809Z",
+      "observedLocal": "22:47"
     },
     "citizen": {
       "latest": {
-        "videoId": "Tfxei_yWuQk",
-        "title": "CITIZEN NIPASHE WIKENDI ~ Oct 25, 2026",
-        "published": "2026-10-25T16:54:57.000Z",
-        "duration": 1555,
+        "videoId": "G6egFYk7VKM",
+        "title": "CITIZEN NIPASHE ~ OCT 26, 2026",
+        "published": "2026-10-26T16:56:47.000Z",
+        "duration": 2090,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "tvr": {
       "latest": {
-        "videoId": "evRxjPO1koQ",
-        "title": "TeleJURNAL 19: Noiembrie vine cu riscuri majore pentru sistemul energetic național",
-        "published": "2026-10-25T16:59:17.000Z",
-        "duration": 2252,
+        "videoId": "k-KC1q0RG6Y",
+        "title": "TeleJURNAL 19 - Ediția din 26 octombrie 2026",
+        "published": "2026-10-26T16:59:42.000Z",
+        "duration": 2188,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -229,61 +226,61 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "ebc": {
       "latest": {
-        "videoId": "yNsBbEl9Dac",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 15/2019 ዓ.ም   ETV | EBC | EBCDOTSTREAM",
-        "published": "2026-10-25T16:58:56.000Z",
-        "duration": 3168,
+        "videoId": "byoxTWKZfy4",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 16/2019 ዓ.ም  |  ETV | EBC | EBCDOTSTREAM",
+        "published": "2026-10-26T17:00:23.000Z",
+        "duration": 2883,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "observedLocal": "19:58"
+      "checked": "2026-10-26T20:44:56.809Z",
+      "observedLocal": "20:00"
     },
     "sabc1": {
       "latest": {
-        "videoId": "grQGOkZ0pQQ",
-        "title": "Iindaba zesiXhosa @19H00 | 25 October 2026",
-        "published": "2026-10-25T17:49:09.000Z",
-        "duration": 1281,
+        "videoId": "Opp9G3taAV8",
+        "title": "Izindaba zesiZulu @19H00 l 26 October 2026",
+        "published": "2026-10-26T17:53:07.000Z",
+        "duration": 1225,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "hrt": {
       "latest": {
-        "videoId": "4a3pxA9R45A",
-        "title": "Dnevnik, 25. 10. 2026.",
-        "published": "2026-10-25T21:03:12.000Z",
-        "duration": 3076,
+        "videoId": "U15B7e4vdsQ",
+        "title": "Dnevnik, 26. 10. 2026.",
+        "published": "2026-10-26T19:40:01.000Z",
+        "duration": 3218,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "UpVZXclh1LE",
-        "title": "Воронеж после атаки. Вучич обвинил в своем поражении «глубинное государство». Ники Минаж за Трампа",
-        "published": "2026-10-26T10:59:39.000Z",
-        "duration": 1803,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "s4FhCLwXfCE",
         "title": "Путин потерял союзника в Сербии. Мощная атака на Воронеж: 3 погибших. Роскомнадзору выдадут оружие",
-        "start": "2026-10-26T15:00:11Z"
+        "published": "2026-10-26T15:00:11.000Z",
+        "duration": 3770,
+        "embeddable": true
       },
-      "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "observedLocal": "11:59"
+      "live": null,
+      "upcoming": {
+        "videoId": "_9WKssqKsJQ",
+        "title": "Выборы в Израиле. Останется ли Нетаньяху премьером?",
+        "scheduledStart": "2026-10-27T20:00:00Z"
+      },
+      "checked": "2026-10-26T20:44:56.809Z",
+      "observedLocal": "16:00"
     },
     "tvp": {
       "latest": {
@@ -295,7 +292,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -307,62 +304,58 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "stale": true
     },
     "tagesschau": {
       "latest": {
-        "videoId": "-nBMoYdzYG8",
-        "title": "tagesschau 20:00 Uhr, 25.10.2026",
-        "published": "2026-10-25T19:36:27.000Z",
-        "duration": 979,
+        "videoId": "tbbyApHfeLc",
+        "title": "tagesschau 20:00 Uhr, 26.10.2026",
+        "published": "2026-10-26T19:29:33.000Z",
+        "duration": 946,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "france2": {
       "latest": {
-        "videoId": "MmeqOuQxxAU",
-        "title": "Le journal de 20h de France Télévisions - 25 octobre 2026",
-        "published": "2026-10-25T18:57:20.000Z",
-        "duration": 3902,
+        "videoId": "SGm7-0tARVk",
+        "title": "Le journal de 20h de France Télévisions - 26 octobre 2026",
+        "published": "2026-10-26T18:57:19.000Z",
+        "duration": 3769,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "SGm7-0tARVk",
-        "title": "Le journal de 20h de France Télévisions - 26 octobre 2026",
-        "scheduledStart": "2026-10-26T18:57:00Z"
-      },
-      "checked": "2026-10-26T15:27:52.905Z",
-      "stale": true
+      "upcoming": null,
+      "checked": "2026-10-26T20:44:56.809Z",
+      "observedLocal": "19:57"
     },
     "la7": {
       "latest": {
-        "videoId": "doDD5Shj_wc",
-        "title": "Edizione delle ore 20.00 del 25/10/2026",
-        "published": "2026-10-25T20:09:45.000Z",
-        "duration": 1769,
+        "videoId": "A5ye-IV5M64",
+        "title": "Edizione delle ore 20.00 del 26/10/2026",
+        "published": "2026-10-26T20:15:40.000Z",
+        "duration": 2195,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "tv3gh": {
       "latest": {
-        "videoId": "oVR1UiCz4gw",
-        "title": "LIVE: News360 || 25-10-2026",
-        "published": "2026-10-25T19:00:40.000Z",
-        "duration": 3683,
+        "videoId": "d9N5r5tF2ew",
+        "title": "LIVE: News360; South Africa Returnees Reject Claims Over Pakages ||  26-10-2026",
+        "published": "2026-10-26T19:01:30.000Z",
+        "duration": 2848,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "observedLocal": "19:00"
+      "checked": "2026-10-26T20:44:56.809Z",
+      "observedLocal": "19:01"
     },
     "rti": {
       "latest": {
@@ -374,7 +367,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "rtssn": {
       "latest": {
@@ -384,9 +377,13 @@
         "duration": 3366,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "S6rWtOJ6nQM",
+        "title": "LE JOURNAL TELEVISE DE 20H - LUNDI 26 OCTOBRE 2026",
+        "start": "2026-10-26T20:00:21Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -398,9 +395,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
-      "observedLocal": "21:58"
+      "upcoming": {
+        "videoId": "l3fVlRMHD0w",
+        "title": "News At 10",
+        "scheduledStart": "2026-10-26T21:00:00Z"
+      },
+      "checked": "2026-10-26T20:44:56.809Z",
+      "stale": true
     },
     "global": {
       "latest": {
@@ -412,7 +413,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -429,7 +430,7 @@
         "title": "LSQ - Le téléjournal 18 h du lundi 26 octobre 2026",
         "scheduledStart": "2026-10-26T22:00:00Z"
       },
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "stale": true
     },
     "pbs": {
@@ -442,7 +443,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "nbc": {
       "latest": {
@@ -454,7 +455,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "abc": {
       "latest": {
@@ -466,7 +467,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z"
+      "checked": "2026-10-26T20:44:56.809Z"
     },
     "telemundo": {
       "latest": {
@@ -482,7 +483,7 @@
         "title": "EN VIVO: Las noticias de la noche, lunes 26 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-26T23:00:00Z"
       },
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "stale": true
     },
     "telenoche": {
@@ -495,7 +496,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T15:27:52.905Z",
+      "checked": "2026-10-26T20:44:56.809Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -503,42 +504,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-26T15:27:52.905Z"
+        "checked": "2026-10-26T20:44:56.809Z"
       }
     }
   }
