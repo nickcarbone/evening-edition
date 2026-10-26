@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T08:06:42.326Z",
+  "generated": "2026-10-26T15:27:52.905Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,7 +12,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "20:55"
     },
     "caracol": {
@@ -25,7 +25,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "nmas": {
       "latest": {
@@ -37,49 +37,46 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
     "kompas": {
       "latest": {
-        "videoId": "iO0ibL-By3s",
-        "title": "LIVE - PDIP Sebut Polemik Ijazah Gibran Jadi Beban Presiden | KOMPAS PETANG",
-        "published": "2026-10-25T09:00:19.000Z",
-        "duration": 5061,
+        "videoId": "_kNw6IslAOA",
+        "title": "Relawan Sujud Syukur Sambut Hujan di Tengah Karhutla Banjarbaru Kalsel | KOMPAS PETANG",
+        "published": "2026-10-26T11:36:18.000Z",
+        "duration": 4499,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "tvb": {
       "latest": {
-        "videoId": "oJTGP8pBAHU",
-        "title": "無綫TVB六點半新聞報道｜特朗普聲稱最快今日恢復打擊伊朗 佩澤希齊揚批美方破壞談判｜塞爾維亞舉行議會選舉 民調指武契奇與對手學生名單互有領先｜中國反對美國新版對外投資限制擬議規則 保留採取相應措施權利",
-        "published": "2026-10-25T10:54:57.000Z",
-        "duration": 2257,
+        "videoId": "Zw-X2WFE2sg",
+        "title": "無綫TVB六點半新聞報道｜五中全會｜習近平作工作報告 官媒：會議對鞏固中共執政地位具重大意義｜日本前首相「知華派」福田康夫病逝｜朝鮮去信聯合國稱韓方將邊境工程詆毀為「軍事侵犯」韓美展開空軍聯合演習｜",
+        "published": "2026-10-26T11:00:13.000Z",
+        "duration": 1990,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "Y35CXEWd66k",
-        "title": "TV Patrol Livestream | October 23, 2026 Full Episode Replay",
-        "published": "2026-10-23T10:20:13.000Z",
-        "duration": 4693,
+        "videoId": "vHKY4ZUutrs",
+        "title": "TV Patrol Livestream | October 26, 2026 Full Episode Replay",
+        "published": "2026-10-26T10:20:14.000Z",
+        "duration": 6030,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "observedLocal": "18:20"
     },
     "cctv": {
       "latest": {
@@ -91,99 +88,95 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "pts": {
       "latest": {
-        "videoId": "daY0vYIQpbY",
-        "title": "20261025 公視晚間新聞 完整版｜薔琵颱風農損逾1 93億 卓榮泰促收件3日內核發補助",
-        "published": "2026-10-25T11:55:56.000Z",
-        "duration": 1798,
+        "videoId": "jr3X7lJEUx0",
+        "title": "20261026 公視晚間新聞 完整版（無網路版權內容除外）｜蔣萬安辦競總成立大會 沈伯洋成立女力後援會",
+        "published": "2026-10-26T12:41:14.000Z",
+        "duration": 3108,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "thaipbs": {
       "latest": {
-        "videoId": "Z7E5JKdBNeU",
-        "title": "ข่าวค่ำ | 25 ต.ค. 69",
-        "published": "2026-10-25T11:00:08.000Z",
-        "duration": 8073,
+        "videoId": "5Y6NyyiOl7w",
+        "title": "ข่าวค่ำ | 26 ต.ค. 69",
+        "published": "2026-10-26T11:00:06.000Z",
+        "duration": 9201,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "observedLocal": "18:00"
     },
     "kbs": {
       "latest": {
-        "videoId": "LRWFZ3Qa06Q",
-        "title": "[풀영상] 뉴스9 : 김정은 ‘당일치기’ 방중서 “대 이은 혈맹” 강조…접경지역엔 ‘북중 교류 확대’ 기대감 상승 – 2026년 10월 25일(일) / KBS",
-        "published": "2026-10-25T11:57:51.000Z",
-        "duration": 1155,
+        "videoId": "sjkBi10XpXA",
+        "title": "[풀영상] 뉴스9 : 청와대, 법무장관 후보자에 ‘공소취소모임’ 박균택·양부남 의원 검토 – 2026년 10월 26일(월) / KBS",
+        "published": "2026-10-26T11:55:24.000Z",
+        "duration": 2717,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "observedLocal": "20:55"
     },
     "tv3my": {
       "latest": {
-        "videoId": "7N77Zf-cams",
-        "title": "Sultan Selangor Kecewa Salah Urus Tabung Haji  | Buletin Utama, 25 Oktober 2026",
-        "published": "2026-10-25T11:58:28.000Z",
-        "duration": 3623,
+        "videoId": "_09IQcKO2EI",
+        "title": "Pramugara Mabuk Tidak Mengaku Langgar Mati Penyelia Penyelenggaraan | Buletin Utama, 26 Oktober 2026",
+        "published": "2026-10-26T11:57:20.000Z",
+        "duration": 3609,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "observedLocal": "19:58"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "observedLocal": "19:57"
     },
     "tolo": {
       "latest": {
-        "videoId": "_qk_fuD85-k",
-        "title": "TOLOnews - 6pm News - 25 Oct 2026 | فرانسه: عادی‌سازی روابط با ا.ا مشروط به رعایت حقوق زنان است",
-        "published": "2026-10-25T14:22:58.000Z",
-        "duration": 1265,
+        "videoId": "CsCGmy6RMaE",
+        "title": "TOLOnews - 6pm News - 26 Oct 2026 | امضای قرارداد برای انتقال آب از بند شاه‌وعروس به کابل",
+        "published": "2026-10-26T14:23:28.000Z",
+        "duration": 1351,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "btv": {
       "latest": {
-        "videoId": "pqSUVpqOPVk",
+        "videoId": "N14Fu1Yiu1o",
         "title": "রাত ৮টার সংবাদ",
-        "published": "2026-10-25T13:59:42.000Z",
-        "duration": 1697,
+        "published": "2026-10-26T13:59:41.000Z",
+        "duration": 2312,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "19:59"
     },
     "kz24": {
       "latest": {
-        "videoId": "rTO6yxBPifg",
-        "title": "25 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-25T15:06:58.000Z",
-        "duration": 1896,
+        "videoId": "bsnxpUdprCw",
+        "title": "26 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-26T15:07:38.000Z",
+        "duration": 1523,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "geo": {
       "latest": {
@@ -195,7 +188,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -209,7 +202,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -223,7 +216,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "18:59"
     },
     "novas": {
@@ -236,7 +229,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "ebc": {
       "latest": {
@@ -248,7 +241,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "19:58"
     },
     "sabc1": {
@@ -261,7 +254,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "hrt": {
       "latest": {
@@ -273,20 +266,24 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "dozhd": {
       "latest": {
-        "videoId": "ejHurD1HHnc",
-        "title": "Удары по Воронежу. Партия Вучича проиграла выборы в Сербии. Протестующие в Риме ворвались в Колизей",
-        "published": "2026-10-26T05:59:31.000Z",
-        "duration": 3546,
+        "videoId": "UpVZXclh1LE",
+        "title": "Воронеж после атаки. Вучич обвинил в своем поражении «глубинное государство». Ники Минаж за Трампа",
+        "published": "2026-10-26T10:59:39.000Z",
+        "duration": 1803,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "s4FhCLwXfCE",
+        "title": "Путин потерял союзника в Сербии. Мощная атака на Воронеж: 3 погибших. Роскомнадзору выдадут оружие",
+        "start": "2026-10-26T15:00:11Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "observedLocal": "06:59"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "observedLocal": "11:59"
     },
     "tvp": {
       "latest": {
@@ -298,7 +295,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "19:21"
     },
     "srf": {
@@ -310,7 +307,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "stale": true
     },
     "tagesschau": {
@@ -323,7 +320,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "france2": {
       "latest": {
@@ -336,11 +333,11 @@
       "live": null,
       "upcoming": {
         "videoId": "SGm7-0tARVk",
-        "title": "Le journal de 20h de France Télévisions - 26 Oct 2026",
+        "title": "Le journal de 20h de France Télévisions - 26 octobre 2026",
         "scheduledStart": "2026-10-26T18:57:00Z"
       },
-      "checked": "2026-10-26T08:06:42.326Z",
-      "observedLocal": "19:57"
+      "checked": "2026-10-26T15:27:52.905Z",
+      "stale": true
     },
     "la7": {
       "latest": {
@@ -352,7 +349,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "tv3gh": {
       "latest": {
@@ -364,7 +361,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "19:00"
     },
     "rti": {
@@ -377,7 +374,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "rtssn": {
       "latest": {
@@ -389,7 +386,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "19:59"
     },
     "channels": {
@@ -402,7 +399,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "21:58"
     },
     "global": {
@@ -415,7 +412,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "observedLocal": "22:00"
     },
     "rcan": {
@@ -427,10 +424,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "upcoming": {
+        "videoId": "hKPS9NmDdT0",
+        "title": "LSQ - Le téléjournal 18 h du lundi 26 octobre 2026",
+        "scheduledStart": "2026-10-26T22:00:00Z"
+      },
+      "checked": "2026-10-26T15:27:52.905Z",
+      "stale": true
     },
     "pbs": {
       "latest": {
@@ -442,7 +442,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "nbc": {
       "latest": {
@@ -454,7 +454,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "abc": {
       "latest": {
@@ -466,7 +466,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z"
+      "checked": "2026-10-26T15:27:52.905Z"
     },
     "telemundo": {
       "latest": {
@@ -477,10 +477,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
-      "stale": true,
-      "error": "no uploads matched the title pattern"
+      "upcoming": {
+        "videoId": "eYdVda16g38",
+        "title": "EN VIVO: Las noticias de la noche, lunes 26 de octubre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-10-26T23:00:00Z"
+      },
+      "checked": "2026-10-26T15:27:52.905Z",
+      "stale": true
     },
     "telenoche": {
       "latest": {
@@ -492,7 +495,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-26T08:06:42.326Z",
+      "checked": "2026-10-26T15:27:52.905Z",
       "stale": true,
       "error": "no uploads matched the title pattern"
     },
@@ -500,42 +503,42 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     },
     "yle": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     },
     "ert": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     },
     "tve": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     },
     "dr": {
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-26T08:06:42.326Z"
+        "checked": "2026-10-26T15:27:52.905Z"
       }
     }
   }
