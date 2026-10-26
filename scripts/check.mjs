@@ -2,10 +2,18 @@
 // bulletin in bulletins.json, and writes status.json for the page to read.
 // Node 20+, no dependencies. Needs a YouTube Data API key in YT_API_KEY.
 //
-//   YT_API_KEY=... node scripts/check.mjs
+//   YT_API_KEY=... node scripts/check.mjs           (FULL=1 forces a full sweep)
 //
-// Quota: one playlistItems call per YouTube channel plus one videos call per 50 videos,
-// about 100 units a run against the free 10,000 a day.
+// Two kinds of run:
+// - a full sweep, at most every two hours: every YouTube channel and every stream;
+// - a focus run, otherwise: only the bulletins about to air, on air, or due to be posted.
+// A full sweep costs about 50 units of the free 10,000 a day; a focus run usually under 15,
+// so the checker can run every 10 minutes.
+//
+// It also learns how each broadcaster publishes. Every new edition's upload time is compared
+// with its airtime and kept in a short history. A bulletin whose editions appear on YouTube as
+// it airs is "live"; one that is uploaded afterwards is "posted", with a "readyAfter" time in
+// minutes after airtime by which its edition is usually up.
 
 import { readFile, writeFile, appendFile } from "node:fs/promises";
 
@@ -14,7 +22,9 @@ const KEY = process.env.YT_API_KEY;
 const API = process.env.YT_API_BASE || "https://www.googleapis.com/youtube/v3/";
 const COUNTRY = process.env.VIEWER_COUNTRY || "US"; // where you watch from, for region blocks
 const ORIGIN = process.env.PAGE_ORIGIN || "https://example.github.io";
-const now = Date.now();
+const now = Number(process.env.NOW_MS) || Date.now();
+const MIN = 6e4, HOUR = 36e5, DAY = 864e5;
+const FULL_EVERY = 2 * HOUR;
 
 if (!KEY) {
   console.error("YT_API_KEY is not set. Add it as a repository secret (see README).");
@@ -24,10 +34,13 @@ if (!KEY) {
 const lineup = JSON.parse(await readFile(new URL("bulletins.json", ROOT), "utf8")).bulletins;
 let previous = {};
 try { previous = JSON.parse(await readFile(new URL("status.json", ROOT), "utf8")); } catch {}
+const prevB = previous.bulletins || {};
 
+let units = 0;
 async function api(path, params) {
   const u = new URL(path, API);
   for (const [k, v] of Object.entries({ ...params, key: KEY })) u.searchParams.set(k, v);
+  units++;
   const r = await fetch(u);
   if (!r.ok) throw new Error(`${path} ${r.status}: ${(await r.text()).slice(0, 300)}`);
   return r.json();
@@ -45,8 +58,62 @@ const minutesApart = (a, b) => {
   return Math.min(d, 1440 - d);
 };
 
+// ---- airtimes, the same arithmetic as the page ------------------------------------------------
+const fmt = {};
+function parts(tz, t) {
+  const f = fmt[tz] ||= new Intl.DateTimeFormat("en-US", { timeZone: tz, hourCycle: "h23", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit", weekday: "short" });
+  const o = {}; for (const p of f.formatToParts(new Date(t))) o[p.type] = p.value;
+  return { y: +o.year, mo: +o.month, d: +o.day, h: +o.hour % 24, mi: +o.minute, s: +o.second, wd: o.weekday };
+}
+function offset(tz, t) { const p = parts(tz, t); return Date.UTC(p.y, p.mo - 1, p.d, p.h, p.mi, p.s) - Math.floor(t / 1000) * 1000; }
+function zoned(y, mo, d, h, mi, tz) { const g = Date.UTC(y, mo - 1, d, h, mi); let t = g - offset(tz, g); const o2 = offset(tz, t); if (o2 !== offset(tz, g)) t = g - o2; return t; }
+function airtimes(b, around, back = 3, ahead = 2) {
+  const [hh, mm] = b.local.split(":").map(Number), out = new Set();
+  for (let k = -back; k <= ahead; k++) {
+    const p = parts(b.tz, around + k * DAY);
+    if (b.days === "weekdays" && (p.wd === "Sat" || p.wd === "Sun")) continue;
+    out.add(zoned(p.y, p.mo, p.d, hh, mm, b.tz));
+  }
+  return [...out].sort((a, c) => a - c);
+}
+// minutes from the airtime an edition belongs to until it appeared on YouTube
+function lagOf(b, published) {
+  let best = null;
+  for (const a of airtimes(b, published, 2, 1)) {
+    const lag = (published - a) / MIN;
+    if (lag > -120 && lag < 1440 && (best == null || Math.abs(lag) < Math.abs(best))) best = lag;
+  }
+  return best == null ? null : Math.round(best);
+}
+const lastAir = b => airtimes(b, now).filter(a => a <= now).pop();
+
+// how the bulletin reaches YouTube, from its recent editions
+function learn(b, history) {
+  if (b.ready_after != null) return { delivery: b.ready_after <= 10 ? "live" : "posted", readyAfter: b.ready_after, learned: false };
+  const lags = history.map(h => h.lag).filter(l => l != null).sort((a, c) => a - c);
+  if (!lags.length) return { delivery: "posted", readyAfter: b.minutes + 60, learned: false };
+  const q = p => lags[Math.min(lags.length - 1, Math.floor(p * lags.length))];
+  if (q(0.5) <= 10) return { delivery: "live", readyAfter: 0, learned: true };
+  return { delivery: "posted", readyAfter: Math.ceil(Math.max(q(0.75), b.minutes) / 5) * 5, learned: true };
+}
+
+// ---- which bulletins this run looks at ------------------------------------------------------------
+const full = process.env.FULL === "1" || !previous.lastFull || now - Date.parse(previous.lastFull) >= FULL_EVERY;
+const ytAll = lineup.filter(b => b.sources.some(s => s.type === "youtube"));
+function inFocus(b) {
+  const p = prevB[b.id] || {};
+  const { delivery, readyAfter } = learn(b, p.history || []);
+  return airtimes(b, now, 1, 1).some(a => {
+    if (delivery === "live") return now >= a - 3 * HOUR && now <= a + (b.minutes + 60) * MIN;
+    // posted: from airtime until six hours past the usual posting time, unless today's is already in
+    if (now < a || now > a + (readyAfter + 360) * MIN) return false;
+    const pub = Date.parse(p.latest?.published || 0);
+    return !(pub >= a - 120 * MIN);
+  });
+}
+const ytBulletins = full ? ytAll : ytAll.filter(inFocus);
+
 // ---- YouTube --------------------------------------------------------------------------------
-const ytBulletins = lineup.filter(b => b.sources.some(s => s.type === "youtube"));
 const candidates = new Map(); // bulletin id -> [{videoId, title}]
 const errors = {};
 
@@ -88,6 +155,9 @@ const blockedHere = v => {
 const status = {};
 const report = [];
 
+// carry forward everything this run didn't look at
+for (const b of lineup) if (prevB[b.id]) status[b.id] = { ...prevB[b.id] };
+
 for (const b of ytBulletins) {
   const entry = { latest: null, live: null, upcoming: null, checked: new Date(now).toISOString() };
   const vids = (candidates.get(b.id) || []).map(c => ({ c, v: details.get(c.videoId) })).filter(x => x.v);
@@ -99,7 +169,7 @@ for (const b of ytBulletins) {
   const upcoming = usable
     .filter(({ v }) => v.snippet.liveBroadcastContent === "upcoming" && v.liveStreamingDetails?.scheduledStartTime)
     .map(x => ({ ...x, at: Date.parse(x.v.liveStreamingDetails.scheduledStartTime) }))
-    .filter(x => x.at > now - 2 * 36e5 && x.at < now + 30 * 36e5)
+    .filter(x => x.at > now - 2 * HOUR && x.at < now + 30 * HOUR)
     .sort((a, b2) => a.at - b2.at)[0];
   if (upcoming) entry.upcoming = { videoId: upcoming.v.id, title: upcoming.v.snippet.title, scheduledStart: upcoming.v.liveStreamingDetails.scheduledStartTime };
 
@@ -123,16 +193,35 @@ for (const b of ytBulletins) {
       entry.observedLocal = localHHMM(b.tz, Date.parse(actual));
       if (minutesApart(entry.observedLocal, b.local) > 20) report.push(`${b.id}: lineup says ${b.local}, last edition started ${entry.observedLocal} local`);
     }
-  } else if (previous.bulletins?.[b.id]?.latest) {
-    entry.latest = previous.bulletins[b.id].latest; // keep the last good edition
+  } else if (prevB[b.id]?.latest) {
+    entry.latest = prevB[b.id].latest; // keep the last good edition
     entry.stale = true;
   }
+
+  // learn the publishing pattern from each new edition, live or uploaded
+  const history = [...(prevB[b.id]?.history || [])];
+  for (const ed of [entry.live?.start && { v: entry.live.videoId, at: Date.parse(entry.live.start) },entry.latest && !entry.stale && { v: entry.latest.videoId, at: Date.parse(entry.latest.published) }]) {
+    if (ed && !history.some(h => h.v === ed.v)) history.push({ v: ed.v, lag: lagOf(b, ed.at) });
+  }
+  entry.history = history.slice(-10);
+
   if (errors[b.id]) entry.error = errors[b.id];
   if (!vids.length) entry.error = entry.error || "no uploads matched the title pattern";
   status[b.id] = entry;
 }
 
-// ---- broadcaster streams -----------------------------------------------------------------------
+// delivery and ready time for every YouTube bulletin, including ones carried forward
+for (const b of ytAll) {
+  const s = status[b.id] || (status[b.id] = {});
+  const { delivery, readyAfter } = learn(b, s.history || []);
+  s.delivery = delivery; s.readyAfter = readyAfter;
+  if (delivery === "posted" && s.latest) {
+    const a = lastAir(b), pub = Date.parse(s.latest.published || 0);
+    if (a && pub < a - 120 * MIN && now > a + (readyAfter + 120) * MIN) report.push(`${b.id}: today's edition is over two hours later than usual (usually ${readyAfter} min after airtime)`);
+  }
+}
+
+// ---- broadcaster streams, on full sweeps only --------------------------------------------------
 async function probe(url) {
   const hop = async u => {
     const r = await fetch(u, { headers: { Origin: ORIGIN, "User-Agent": "Mozilla/5.0" }, redirect: "follow" });
@@ -157,20 +246,27 @@ async function probe(url) {
   }
 }
 
-for (const b of lineup) {
-  const s = b.sources.find(x => x.type === "stream");
-  if (!s) continue;
-  const res = await probe(s.url);
-  status[b.id] = { ...(status[b.id] || {}), stream: { ...res, checked: new Date(now).toISOString() } };
-  if (!res.ok || !res.cors) report.push(`${b.id}: stream ${res.ok ? "plays but lacks CORS" : "failed"}${res.error ? " (" + res.error + ")" : ""}`);
+if (full && !process.env.SKIP_STREAMS) {
+  for (const b of lineup) {
+    const s = b.sources.find(x => x.type === "stream");
+    if (!s) continue;
+    const res = await probe(s.url);
+    status[b.id] = { ...(status[b.id] || {}), stream: { ...res, checked: new Date(now).toISOString() } };
+    if (!res.ok || !res.cors) report.push(`${b.id}: stream ${res.ok ? "plays but lacks CORS" : "failed"}${res.error ? " (" + res.error + ")" : ""}`);
+  }
 }
 
 // ---- write only when something a viewer would notice has changed --------------------------------
 const strip = o => JSON.stringify(o, (k, v) => (k === "checked" || k === "generated" ? undefined : v));
 const prevAge = previous.generated ? now - Date.parse(previous.generated) : Infinity;
-const out = { generated: new Date(now).toISOString(), country: COUNTRY, bulletins: status };
+const out = {
+  generated: new Date(now).toISOString(),
+  lastFull: full ? new Date(now).toISOString() : previous.lastFull,
+  country: COUNTRY,
+  bulletins: status,
+};
 
-if (strip(out.bulletins) !== strip(previous.bulletins || {}) || prevAge > 6 * 36e5) {
+if (strip(out.bulletins) !== strip(prevB) || out.lastFull !== previous.lastFull || prevAge > 6 * HOUR) {
   await writeFile(new URL("status.json", ROOT), JSON.stringify(out, null, 2) + "\n");
   console.log("status.json updated");
 } else {
@@ -178,12 +274,15 @@ if (strip(out.bulletins) !== strip(previous.bulletins || {}) || prevAge > 6 * 36
 }
 
 // ---- summary --------------------------------------------------------------------------------------
+const looked = new Set(ytBulletins.map(b => b.id));
 const rows = lineup.map(b => {
   const s = status[b.id] || {};
   const what = s.live ? "live now" : s.upcoming ? "scheduled " + s.upcoming.scheduledStart : s.latest ? (s.stale ? "kept last" : "latest") + " " + (s.latest.published || "").slice(0, 16) : s.stream ? (s.stream.ok ? "stream ok" : "stream failed") : "link only";
-  return `| ${b.id} | ${b.programme.replace(/\|/g, "/")} | ${what} | ${s.error ? s.error.replace(/\|/g, "/").slice(0, 80) : ""} |`;
+  const how = s.delivery === "posted" ? `posted, ~${s.readyAfter} min after air` : s.delivery || "";
+  return `| ${b.id}${looked.has(b.id) ? " •" : ""} | ${b.programme.replace(/\|/g, "/")} | ${how} | ${what} | ${s.error ? s.error.replace(/\|/g, "/").slice(0, 80) : ""} |`;
 });
-const md = ["## Bulletins", "", "| id | programme | state | problem |", "| --- | --- | --- | --- |", ...rows, "",
+const md = [`## ${full ? "Full sweep" : "Focus run"}: ${ytBulletins.length} YouTube bulletins checked (•), ${units} API units`, "",
+  "| id | programme | reaches YouTube | state | problem |", "| --- | --- | --- | --- | --- |", ...rows, "",
   report.length ? "## Check these\n\n" + report.map(r => "- " + r).join("\n") : "No airtime or stream problems found."].join("\n");
 console.log(md);
 if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, md + "\n");
