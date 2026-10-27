@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T06:49:43.488Z",
-  "lastFull": "2026-10-27T06:49:43.488Z",
+  "generated": "2026-10-27T13:33:52.654Z",
+  "lastFull": "2026-10-27T13:33:52.654Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -58,7 +58,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -82,7 +82,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -115,16 +115,15 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "_kNw6IslAOA",
-        "title": "Relawan Sujud Syukur Sambut Hujan di Tengah Karhutla Banjarbaru Kalsel | KOMPAS PETANG",
-        "published": "2026-10-26T11:36:18.000Z",
-        "duration": 4499,
+        "videoId": "UTCZvC0f7UQ",
+        "title": "Suami Siri Pembunuh Istri-Anak di Madiun Terancam Hukuman Mati | KOMPAS PETANG",
+        "published": "2026-10-27T11:12:16.000Z",
+        "duration": 4237,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "stale": true,
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -149,23 +148,26 @@
         {
           "v": "_kNw6IslAOA",
           "lag": 96
+        },
+        {
+          "v": "UTCZvC0f7UQ",
+          "lag": 72
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
     "tvb": {
       "latest": {
-        "videoId": "Zw-X2WFE2sg",
-        "title": "無綫TVB六點半新聞報道｜五中全會｜習近平作工作報告 官媒：會議對鞏固中共執政地位具重大意義｜日本前首相「知華派」福田康夫病逝｜朝鮮去信聯合國稱韓方將邊境工程詆毀為「軍事侵犯」韓美展開空軍聯合演習｜",
-        "published": "2026-10-26T11:00:13.000Z",
-        "duration": 1990,
+        "videoId": "xNO3CDNxKSc",
+        "title": "無綫TVB六點半新聞報道｜巴西多個政黨不支持重新選舉 特朗普批評選舉被操縱｜據報美軍準備再大規模打擊伊朗 區內多國尋求阻止局勢進一步升級｜市場關注巨額集資潮將抽緊市場資金AI泡沫憂慮再度升溫｜TVB",
+        "published": "2026-10-27T10:55:29.000Z",
+        "duration": 2256,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "8pDIglfUNvE",
@@ -194,6 +196,10 @@
         {
           "v": "Zw-X2WFE2sg",
           "lag": 30
+        },
+        {
+          "v": "xNO3CDNxKSc",
+          "lag": 25
         }
       ],
       "delivery": "posted",
@@ -201,16 +207,16 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "vHKY4ZUutrs",
-        "title": "TV Patrol Livestream | October 26, 2026 Full Episode Replay",
-        "published": "2026-10-26T10:20:14.000Z",
-        "duration": 6030,
+        "videoId": "8_cxJfWPPmM",
+        "title": "LIVE: TV Patrol Livestream | October 27, 2026 Full Episode",
+        "published": "2026-10-27T10:23:06.000Z",
+        "duration": 5991,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "stale": true,
+      "checked": "2026-10-27T13:33:52.654Z",
+      "observedLocal": "18:23",
       "history": [
         {
           "v": "dK3eiIyE7a4",
@@ -231,9 +237,12 @@
         {
           "v": "vHKY4ZUutrs",
           "lag": -10
+        },
+        {
+          "v": "8_cxJfWPPmM",
+          "lag": -7
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -247,7 +256,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -283,15 +292,15 @@
     },
     "pts": {
       "latest": {
-        "videoId": "jr3X7lJEUx0",
-        "title": "20261026 公視晚間新聞 完整版（無網路版權內容除外）｜蔣萬安辦競總成立大會 沈伯洋成立女力後援會",
-        "published": "2026-10-26T12:41:14.000Z",
-        "duration": 3108,
+        "videoId": "52x3DbmGvoA",
+        "title": "20261027 公視晚間新聞 完整版（無網路版權內容除外）｜台籍女子日本河口湖旅遊遇害 夫涉詐保遭收押禁見",
+        "published": "2026-10-27T12:38:32.000Z",
+        "duration": 3264,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "568OPMxfM-k",
@@ -320,6 +329,10 @@
         {
           "v": "jr3X7lJEUx0",
           "lag": 101
+        },
+        {
+          "v": "52x3DbmGvoA",
+          "lag": 99
         }
       ],
       "delivery": "posted",
@@ -335,8 +348,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "observedLocal": "18:00",
+      "checked": "2026-10-27T13:33:52.654Z",
+      "stale": true,
       "history": [
         {
           "v": "jnb_Y6VxkJ4",
@@ -367,21 +380,22 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "kbs": {
       "latest": {
-        "videoId": "sjkBi10XpXA",
-        "title": "[풀영상] 뉴스9 : 청와대, 법무장관 후보자에 ‘공소취소모임’ 박균택·양부남 의원 검토 – 2026년 10월 26일(월) / KBS",
-        "published": "2026-10-26T11:55:24.000Z",
-        "duration": 2717,
+        "videoId": "IXx3iR07LnM",
+        "title": "[풀영상] 뉴스9 : 서울 강남구 구룡마을 큰불, 강풍 속 진화 난항…주민 대피하고 인근 차량 통제 – 2026년 10월 27일(화) / KBS",
+        "published": "2026-10-27T11:56:17.000Z",
+        "duration": 2865,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "stale": true,
+      "checked": "2026-10-27T13:33:52.654Z",
+      "observedLocal": "20:56",
       "history": [
         {
           "v": "NhGwumycrYM",
@@ -402,24 +416,27 @@
         {
           "v": "sjkBi10XpXA",
           "lag": -5
+        },
+        {
+          "v": "IXx3iR07LnM",
+          "lag": -4
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "_09IQcKO2EI",
-        "title": "Pramugara Mabuk Tidak Mengaku Langgar Mati Penyelia Penyelenggaraan | Buletin Utama, 26 Oktober 2026",
-        "published": "2026-10-26T11:57:20.000Z",
-        "duration": 3609,
+        "videoId": "cji2D4wsm1k",
+        "title": "Buletin Utama, 27 Oktober 2026",
+        "published": "2026-10-27T11:58:18.000Z",
+        "duration": 3761,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "observedLocal": "19:57",
+      "checked": "2026-10-27T13:33:52.654Z",
+      "observedLocal": "19:58",
       "history": [
         {
           "v": "RuJOVTVUsu8",
@@ -448,6 +465,10 @@
         {
           "v": "_09IQcKO2EI",
           "lag": -3
+        },
+        {
+          "v": "cji2D4wsm1k",
+          "lag": -2
         }
       ],
       "delivery": "live",
@@ -461,9 +482,13 @@
         "duration": 1351,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "tjvdXurI99U",
+        "title": "TOLOnews - 6pm News - 27 Oct 2026 | تاکید متقی بر مبارزه مشترک با کشت و قاچاق مواد مخدر",
+        "start": "2026-10-27T13:30:30Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "cGCPGpU12Qs",
@@ -496,10 +521,14 @@
         {
           "v": "CsCGmy6RMaE",
           "lag": 53
+        },
+        {
+          "v": "tjvdXurI99U",
+          "lag": 1
         }
       ],
       "delivery": "posted",
-      "readyAfter": 60
+      "readyAfter": 55
     },
     "btv": {
       "latest": {
@@ -511,7 +540,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -548,7 +577,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "stale": true,
       "history": [
         {
@@ -594,7 +623,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "stale": true,
       "history": [
         {
@@ -638,7 +667,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
@@ -652,7 +681,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
+      "stale": true,
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -683,6 +713,7 @@
           "lag": 57
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
@@ -696,7 +727,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -729,15 +760,15 @@
     },
     "novas": {
       "latest": {
-        "videoId": "Mm5iS_rIU80",
-        "title": "IZBORNI DNEVNIK - CELA EMISIJA - 25.10.2026.",
-        "published": "2026-10-25T20:21:45.000Z",
-        "duration": 3686,
+        "videoId": "MfVyKQs1cSg",
+        "title": "DNEVNIK - CELA EMISIJA - 26.10.2026.",
+        "published": "2026-10-27T09:30:22.000Z",
+        "duration": 2994,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "VR2lt6batc4",
@@ -766,16 +797,20 @@
         {
           "v": "Mm5iS_rIU80",
           "lag": 172
+        },
+        {
+          "v": "MfVyKQs1cSg",
+          "lag": 960
         }
       ],
       "delivery": "posted",
-      "readyAfter": 190
+      "readyAfter": 205
     },
     "kan": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
@@ -789,7 +824,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -834,7 +869,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -878,7 +913,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "u2qI2EclYSY",
@@ -918,10 +953,10 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "nln_0zbWzWM",
-        "title": "В Москве ограничат интернет. Путин поручил скрывать поисковую выдачу об абортах. Удар по Киеву",
-        "published": "2026-10-27T05:59:27.000Z",
-        "duration": 3003,
+        "videoId": "PLEPEwzeWeU",
+        "title": "Центр Москвы без интернета. Путин поговорил с лидерами Финляндии и Норвегии. Черной пятницы не будет",
+        "published": "2026-10-27T10:59:36.000Z",
+        "duration": 2170,
         "embeddable": true
       },
       "live": null,
@@ -930,13 +965,9 @@
         "title": "Выборы в Израиле. Останется ли Нетаньяху премьером?",
         "scheduledStart": "2026-10-27T20:00:00Z"
       },
-      "checked": "2026-10-27T06:49:43.488Z",
-      "observedLocal": "06:59",
+      "checked": "2026-10-27T13:33:52.654Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "e2ZP1unxxe4",
-          "lag": 660
-        },
         {
           "v": "Zsm1RQSFWdM",
           "lag": 1080
@@ -972,6 +1003,10 @@
         {
           "v": "nln_0zbWzWM",
           "lag": 719
+        },
+        {
+          "v": "PLEPEwzeWeU",
+          "lag": 1020
         }
       ],
       "delivery": "posted",
@@ -987,7 +1022,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "19:21",
       "history": [
         {
@@ -1010,7 +1045,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
@@ -1023,7 +1058,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1033,7 +1068,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
@@ -1047,7 +1082,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "hd2aeCHKo8I",
@@ -1094,9 +1129,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
-      "observedLocal": "19:57",
+      "upcoming": {
+        "videoId": "ua6NsIHtbNU",
+        "title": "Le journal de 20h de France Télévisions - 27 octobre 2026",
+        "scheduledStart": "2026-10-27T18:57:00Z"
+      },
+      "checked": "2026-10-27T13:33:52.654Z",
+      "stale": true,
       "history": [
         {
           "v": "MJplTQ_9fhc",
@@ -1140,7 +1179,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "qwonEGI7BBY",
@@ -1182,15 +1221,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-27T06:49:43.488Z"
+        "checked": "2026-10-27T13:33:52.654Z"
       },
       "history": []
     },
@@ -1204,7 +1243,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1253,7 +1292,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "FbzAbIQRxmk",
@@ -1301,7 +1340,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1350,7 +1389,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1399,7 +1438,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1448,7 +1487,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "17:48",
       "history": [
         {
@@ -1485,7 +1524,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1529,7 +1568,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1569,7 +1608,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1608,8 +1647,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-27T06:49:43.488Z",
+      "upcoming": {
+        "videoId": "wB4LOaPdx3E",
+        "title": "EN VIVO: Las noticias de la noche, martes 27 de octubre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-10-27T23:00:00Z"
+      },
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1650,7 +1693,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-27T23:00:00Z"
       },
-      "checked": "2026-10-27T06:49:43.488Z",
+      "checked": "2026-10-27T13:33:52.654Z",
       "observedLocal": "20:00",
       "history": [
         {
