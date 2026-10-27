@@ -1,24 +1,20 @@
 {
-  "generated": "2026-10-27T00:48:30.676Z",
-  "lastFull": "2026-10-27T00:48:30.676Z",
+  "generated": "2026-10-27T06:49:43.488Z",
+  "lastFull": "2026-10-27T06:49:43.488Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "awmLYpduPOY",
-        "title": "JORNAL DA CULTURA | A corrida da eleição presidencial | 24/10/2026",
-        "published": "2026-10-24T23:55:11.000Z",
-        "duration": 3075,
+        "videoId": "dmoX44E3P7g",
+        "title": "JORNAL DA CULTURA | Lula faz reuniões com líderes do Congresso após reeleição | 26/10/2026",
+        "published": "2026-10-26T23:55:12.000Z",
+        "duration": 3913,
         "embeddable": true
       },
-      "live": {
-        "videoId": "dmoX44E3P7g",
-        "title": "JORNAL DA CULTURA | 25/10/2026",
-        "start": "2026-10-26T23:55:12Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
-      "stale": true,
+      "checked": "2026-10-27T06:49:43.488Z",
+      "observedLocal": "20:55",
       "history": [
         {
           "v": "ydQEi70pkTo",
@@ -62,7 +58,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -78,16 +74,16 @@
     },
     "nmas": {
       "latest": {
-        "videoId": "A5Ip8ZnFPaM",
-        "title": "Polémica en el INE: ¿Qué encontró la Auditoría Superior? | En Punto - 23 de Octubre 2026",
-        "published": "2026-10-24T04:28:05.000Z",
-        "duration": 2228,
+        "videoId": "78O3UmPwJNY",
+        "title": "Crisis en el INE: Guadalupe Taddei entrega su renuncia | En Punto - 26 de Octubre 2026",
+        "published": "2026-10-27T04:28:45.000Z",
+        "duration": 2247,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
-      "stale": true,
+      "checked": "2026-10-27T06:49:43.488Z",
+      "observedLocal": "22:28",
       "history": [
         {
           "v": "9SuAcKAQaYg",
@@ -108,9 +104,12 @@
         {
           "v": "A5Ip8ZnFPaM",
           "lag": -2
+        },
+        {
+          "v": "78O3UmPwJNY",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -124,7 +123,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
+      "stale": true,
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -151,6 +151,7 @@
           "lag": 96
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -164,7 +165,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "8pDIglfUNvE",
@@ -208,8 +209,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
-      "observedLocal": "18:20",
+      "checked": "2026-10-27T06:49:43.488Z",
+      "stale": true,
       "history": [
         {
           "v": "dK3eiIyE7a4",
@@ -232,20 +233,21 @@
           "lag": -10
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "uT-ZMz6By-U",
-        "title": "习近平同比利时国王就中比建交55周年互致贺信 | CCTV「新闻联播」20261025",
-        "published": "2026-10-26T02:41:54.000Z",
-        "duration": 1769,
+        "videoId": "MO-kXf9M2Lc",
+        "title": "【持之以恒推进全面从严治党】加强党的组织建设 夯实兴党强党根基 | CCTV「新闻联播」20261026",
+        "published": "2026-10-27T02:16:03.000Z",
+        "duration": 1798,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -270,6 +272,10 @@
         {
           "v": "uT-ZMz6By-U",
           "lag": 942
+        },
+        {
+          "v": "MO-kXf9M2Lc",
+          "lag": 916
         }
       ],
       "delivery": "posted",
@@ -285,7 +291,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "568OPMxfM-k",
@@ -329,7 +335,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -374,7 +380,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "stale": true,
       "history": [
         {
@@ -412,7 +418,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -457,7 +463,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "cGCPGpU12Qs",
@@ -500,12 +506,12 @@
         "videoId": "N14Fu1Yiu1o",
         "title": "রাত ৮টার সংবাদ",
         "published": "2026-10-26T13:59:41.000Z",
-        "duration": 2312,
+        "duration": 2264,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -542,7 +548,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
+      "stale": true,
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -573,6 +580,7 @@
           "lag": 68
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -586,8 +594,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
-      "observedLocal": "22:47",
+      "checked": "2026-10-27T06:49:43.488Z",
+      "stale": true,
       "history": [
         {
           "v": "hJwwu9c-E8k",
@@ -622,6 +630,7 @@
           "lag": 108
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 90
     },
@@ -629,7 +638,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
@@ -643,7 +652,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -687,7 +696,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -728,7 +737,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "VR2lt6batc4",
@@ -766,7 +775,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
@@ -780,7 +789,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -825,7 +834,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -869,7 +878,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "u2qI2EclYSY",
@@ -909,10 +918,10 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "s4FhCLwXfCE",
-        "title": "Путин потерял союзника в Сербии. Мощная атака на Воронеж: 3 погибших. Роскомнадзору выдадут оружие",
-        "published": "2026-10-26T15:00:11.000Z",
-        "duration": 3770,
+        "videoId": "nln_0zbWzWM",
+        "title": "В Москве ограничат интернет. Путин поручил скрывать поисковую выдачу об абортах. Удар по Киеву",
+        "published": "2026-10-27T05:59:27.000Z",
+        "duration": 3003,
         "embeddable": true
       },
       "live": null,
@@ -921,13 +930,9 @@
         "title": "Выборы в Израиле. Останется ли Нетаньяху премьером?",
         "scheduledStart": "2026-10-27T20:00:00Z"
       },
-      "checked": "2026-10-27T00:48:30.676Z",
-      "observedLocal": "16:00",
+      "checked": "2026-10-27T06:49:43.488Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "gHHtxwnQ4QQ",
-          "lag": -120
-        },
         {
           "v": "e2ZP1unxxe4",
           "lag": 660
@@ -963,6 +968,10 @@
         {
           "v": "UpVZXclh1LE",
           "lag": null
+        },
+        {
+          "v": "nln_0zbWzWM",
+          "lag": 719
         }
       ],
       "delivery": "posted",
@@ -978,7 +987,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "19:21",
       "history": [
         {
@@ -1001,7 +1010,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
@@ -1014,7 +1023,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1024,7 +1033,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
@@ -1038,7 +1047,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "hd2aeCHKo8I",
@@ -1086,7 +1095,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1131,7 +1140,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "qwonEGI7BBY",
@@ -1173,15 +1182,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-27T00:48:30.676Z"
+        "checked": "2026-10-27T06:49:43.488Z"
       },
       "history": []
     },
@@ -1195,7 +1204,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1244,7 +1253,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "FbzAbIQRxmk",
@@ -1292,7 +1301,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1341,7 +1350,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1382,15 +1391,15 @@
     },
     "global": {
       "latest": {
-        "videoId": "FvSI5SlxvBY",
-        "title": "Global National: Oct. 25, 2026 | BC Premier-designate Lorne Doerkson says province “chose change”",
-        "published": "2026-10-26T02:00:08.000Z",
-        "duration": 1282,
+        "videoId": "aSTlZ7N3bbY",
+        "title": "Global National: Oct. 26, 2026 | Canada-US trade talks ramp up as midterms near",
+        "published": "2026-10-27T02:00:10.000Z",
+        "duration": 1337,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1420,6 +1429,10 @@
         {
           "v": "FvSI5SlxvBY",
           "lag": 270
+        },
+        {
+          "v": "aSTlZ7N3bbY",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1435,7 +1448,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "17:48",
       "history": [
         {
@@ -1472,7 +1485,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1508,15 +1521,15 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "-ruULCHm9eQ",
-        "title": "NBC Nightly News Full Episode - Oct. 25",
-        "published": "2026-10-25T23:50:02.000Z",
-        "duration": 1136,
+        "videoId": "lBc449d-K6c",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 26",
+        "published": "2026-10-27T03:33:05.000Z",
+        "duration": 1166,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1537,23 +1550,26 @@
         {
           "v": "-ruULCHm9eQ",
           "lag": 80
+        },
+        {
+          "v": "lBc449d-K6c",
+          "lag": 303
         }
       ],
       "delivery": "posted",
-      "readyAfter": 210
+      "readyAfter": 215
     },
     "abc": {
       "latest": {
-        "videoId": "yoTFcE-3NK0",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 25, 2026",
-        "published": "2026-10-26T02:00:08.000Z",
-        "duration": 1258,
+        "videoId": "m2vL5Bdlq8U",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 26, 2026",
+        "published": "2026-10-27T02:45:31.000Z",
+        "duration": 1201,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
-      "stale": true,
+      "checked": "2026-10-27T06:49:43.488Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1574,11 +1590,14 @@
         {
           "v": "yoTFcE-3NK0",
           "lag": 210
+        },
+        {
+          "v": "m2vL5Bdlq8U",
+          "lag": 256
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 210
+      "readyAfter": 215
     },
     "telemundo": {
       "latest": {
@@ -1590,7 +1609,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1622,7 +1641,7 @@
         "videoId": "oCFfmkv-9rc",
         "title": "Femicidios en Córdoba y Retiro: un nombre se repite y crecen las sospechas | TELENOCHE 26/10/26",
         "published": "2026-10-26T23:00:21.000Z",
-        "duration": 3869,
+        "duration": 3098,
         "embeddable": true
       },
       "live": null,
@@ -1631,7 +1650,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-27T23:00:00Z"
       },
-      "checked": "2026-10-27T00:48:30.676Z",
+      "checked": "2026-10-27T06:49:43.488Z",
       "observedLocal": "20:00",
       "history": [
         {
