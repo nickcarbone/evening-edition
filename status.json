@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T13:33:52.654Z",
-  "lastFull": "2026-10-27T13:33:52.654Z",
+  "generated": "2026-10-27T18:57:46.112Z",
+  "lastFull": "2026-10-27T18:57:46.112Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "dmoX44E3P7g",
         "title": "JORNAL DA CULTURA | Lula faz reuniões com líderes do Congresso após reeleição | 26/10/2026",
         "published": "2026-10-26T23:55:12.000Z",
-        "duration": 3913,
+        "duration": 3247,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -58,7 +58,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
+      "stale": true,
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -82,7 +83,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -123,7 +124,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
+      "stale": true,
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -167,7 +169,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "8pDIglfUNvE",
@@ -208,14 +210,14 @@
     "tvpatrol": {
       "latest": {
         "videoId": "8_cxJfWPPmM",
-        "title": "LIVE: TV Patrol Livestream | October 27, 2026 Full Episode",
+        "title": "TV Patrol Livestream | October 27, 2026 Full Episode Replay",
         "published": "2026-10-27T10:23:06.000Z",
-        "duration": 5991,
+        "duration": 4420,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "18:23",
       "history": [
         {
@@ -256,7 +258,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -300,7 +302,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "568OPMxfM-k",
@@ -340,16 +342,16 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "5Y6NyyiOl7w",
-        "title": "ข่าวค่ำ | 26 ต.ค. 69",
-        "published": "2026-10-26T11:00:06.000Z",
-        "duration": 9053,
+        "videoId": "moEVTwq6Qkw",
+        "title": "ข่าวค่ำ | 27 ต.ค. 69",
+        "published": "2026-10-27T11:02:03.000Z",
+        "duration": 8990,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
-      "stale": true,
+      "checked": "2026-10-27T18:57:46.112Z",
+      "observedLocal": "18:02",
       "history": [
         {
           "v": "jnb_Y6VxkJ4",
@@ -378,9 +380,12 @@
         {
           "v": "5Y6NyyiOl7w",
           "lag": 0
+        },
+        {
+          "v": "moEVTwq6Qkw",
+          "lag": 2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -394,7 +399,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "20:56",
       "history": [
         {
@@ -428,14 +433,14 @@
     "tv3my": {
       "latest": {
         "videoId": "cji2D4wsm1k",
-        "title": "Buletin Utama, 27 Oktober 2026",
+        "title": "Gagal Lunas Tunggakan Hasil, Kerajaan Akan Saman MYEG, Zetrix AI | Buletin Utama, 27 Oktober 2026",
         "published": "2026-10-27T11:58:18.000Z",
-        "duration": 3761,
+        "duration": 3600,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "19:58",
       "history": [
         {
@@ -476,19 +481,15 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "CsCGmy6RMaE",
-        "title": "TOLOnews - 6pm News - 26 Oct 2026 | امضای قرارداد برای انتقال آب از بند شاه‌وعروس به کابل",
-        "published": "2026-10-26T14:23:28.000Z",
-        "duration": 1351,
+        "videoId": "kTUrbpLWt48",
+        "title": "TOLOnews - 6pm News - 27 Oct 2026 | تاکید متقی بر مبارزه مشترک با کشت و قاچاق مواد مخدر",
+        "published": "2026-10-27T14:18:23.000Z",
+        "duration": 1299,
         "embeddable": true
       },
-      "live": {
-        "videoId": "tjvdXurI99U",
-        "title": "TOLOnews - 6pm News - 27 Oct 2026 | تاکید متقی بر مبارزه مشترک با کشت و قاچاق مواد مخدر",
-        "start": "2026-10-27T13:30:30Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "cGCPGpU12Qs",
@@ -525,6 +526,10 @@
         {
           "v": "tjvdXurI99U",
           "lag": 1
+        },
+        {
+          "v": "kTUrbpLWt48",
+          "lag": 48
         }
       ],
       "delivery": "posted",
@@ -532,15 +537,15 @@
     },
     "btv": {
       "latest": {
-        "videoId": "N14Fu1Yiu1o",
+        "videoId": "zFGHSI_dTCg",
         "title": "রাত ৮টার সংবাদ",
-        "published": "2026-10-26T13:59:41.000Z",
-        "duration": 2264,
+        "published": "2026-10-27T13:59:34.000Z",
+        "duration": 2232,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -562,6 +567,10 @@
         {
           "v": "N14Fu1Yiu1o",
           "lag": 0
+        },
+        {
+          "v": "zFGHSI_dTCg",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -569,16 +578,15 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "bsnxpUdprCw",
-        "title": "26 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-26T15:07:38.000Z",
-        "duration": 1523,
+        "videoId": "6Hs9hpabLIg",
+        "title": "27 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-27T15:50:45.000Z",
+        "duration": 2848,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
-      "stale": true,
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -607,24 +615,27 @@
         {
           "v": "bsnxpUdprCw",
           "lag": 68
+        },
+        {
+          "v": "6Hs9hpabLIg",
+          "lag": 111
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 100
+      "readyAfter": 110
     },
     "geo": {
       "latest": {
-        "videoId": "01Y5c2nG3-o",
-        "title": "War with Iran..!! - Netanyahu in Trouble??  | Geo News 9 PM Geo Bulletin | 26th Oct 2026",
-        "published": "2026-10-26T17:47:49.000Z",
-        "duration": 1254,
+        "videoId": "KQbV8OxVdF8",
+        "title": "STRAIT OF HORMUZ IN FOCUS - TENSIONS CONTINUE?? | Geo News 9 PM Geo Bulletin | 27th Oct 2026",
+        "published": "2026-10-27T17:17:35.000Z",
+        "duration": 861,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
-      "stale": true,
+      "checked": "2026-10-27T18:57:46.112Z",
+      "observedLocal": "22:17",
       "history": [
         {
           "v": "hJwwu9c-E8k",
@@ -657,32 +668,34 @@
         {
           "v": "01Y5c2nG3-o",
           "lag": 108
+        },
+        {
+          "v": "KQbV8OxVdF8",
+          "lag": 78
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 90
+      "readyAfter": 80
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
     "citizen": {
       "latest": {
-        "videoId": "G6egFYk7VKM",
-        "title": "CITIZEN NIPASHE ~ OCT 26, 2026",
-        "published": "2026-10-26T16:56:47.000Z",
-        "duration": 2090,
+        "videoId": "EUu1Ga7k6Ec",
+        "title": "CITIZEN NIPASHE ~ OCT 27, 2026",
+        "published": "2026-10-27T16:52:02.000Z",
+        "duration": 2015,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
-      "stale": true,
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -711,23 +724,26 @@
         {
           "v": "G6egFYk7VKM",
           "lag": 57
+        },
+        {
+          "v": "EUu1Ga7k6Ec",
+          "lag": 52
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
     "tvr": {
       "latest": {
-        "videoId": "k-KC1q0RG6Y",
-        "title": "TeleJURNAL 19 - Ediția din 26 octombrie 2026",
-        "published": "2026-10-26T16:59:42.000Z",
-        "duration": 2188,
+        "videoId": "AwUxD1oZkYc",
+        "title": "Telejurnal 19: Sabotaj coordonat din Rusia, ținte în mai multe țări | 27 octombrie 2026 (@TVR1)",
+        "published": "2026-10-27T16:59:07.000Z",
+        "duration": 2303,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -753,6 +769,10 @@
         {
           "v": "k-KC1q0RG6Y",
           "lag": 0
+        },
+        {
+          "v": "AwUxD1oZkYc",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -768,7 +788,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "VR2lt6batc4",
@@ -810,21 +830,21 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
     "ebc": {
       "latest": {
-        "videoId": "byoxTWKZfy4",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  .... ጥቅምት 16/2019 ዓ.ም  |  ETV | EBC | EBCDOTSTREAM",
-        "published": "2026-10-26T17:00:23.000Z",
-        "duration": 2883,
+        "videoId": "OqDSdYoX5Vg",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና   ....ጥቅምት 17/2019 ዓ.ም  Ebc |Ethiopia | EBCDOTSTREAM",
+        "published": "2026-10-27T17:00:25.000Z",
+        "duration": 2986,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -854,6 +874,10 @@
         {
           "v": "byoxTWKZfy4",
           "lag": 0
+        },
+        {
+          "v": "OqDSdYoX5Vg",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -861,15 +885,15 @@
     },
     "sabc1": {
       "latest": {
-        "videoId": "Opp9G3taAV8",
-        "title": "Izindaba zesiZulu @19H00 l 26 October 2026",
-        "published": "2026-10-26T17:53:07.000Z",
-        "duration": 1225,
+        "videoId": "XQmnuUkt8C8",
+        "title": "Iindaba zesiXhosa @19H00 | 27 October 2026",
+        "published": "2026-10-27T17:46:06.000Z",
+        "duration": 1336,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -898,6 +922,10 @@
         {
           "v": "Opp9G3taAV8",
           "lag": 53
+        },
+        {
+          "v": "XQmnuUkt8C8",
+          "lag": 46
         }
       ],
       "delivery": "posted",
@@ -913,7 +941,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "u2qI2EclYSY",
@@ -953,10 +981,10 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "PLEPEwzeWeU",
-        "title": "Центр Москвы без интернета. Путин поговорил с лидерами Финляндии и Норвегии. Черной пятницы не будет",
-        "published": "2026-10-27T10:59:36.000Z",
-        "duration": 2170,
+        "videoId": "kFk160eJ8x0",
+        "title": "Путин устроил коллапс в Москве. Грозев — о связях Трампа с Россией. Эпидемия ВИЧ в регионах",
+        "published": "2026-10-27T15:00:06.000Z",
+        "duration": 4194,
         "embeddable": true
       },
       "live": null,
@@ -965,13 +993,9 @@
         "title": "Выборы в Израиле. Останется ли Нетаньяху премьером?",
         "scheduledStart": "2026-10-27T20:00:00Z"
       },
-      "checked": "2026-10-27T13:33:52.654Z",
-      "observedLocal": "11:59",
+      "checked": "2026-10-27T18:57:46.112Z",
+      "observedLocal": "16:00",
       "history": [
-        {
-          "v": "Zsm1RQSFWdM",
-          "lag": 1080
-        },
         {
           "v": "wu0QyW46hes",
           "lag": 1320
@@ -1007,6 +1031,10 @@
         {
           "v": "PLEPEwzeWeU",
           "lag": 1020
+        },
+        {
+          "v": "kFk160eJ8x0",
+          "lag": 1260
         }
       ],
       "delivery": "posted",
@@ -1022,7 +1050,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "19:21",
       "history": [
         {
@@ -1045,7 +1073,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
@@ -1058,7 +1086,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1068,7 +1096,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
@@ -1082,7 +1110,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "hd2aeCHKo8I",
@@ -1128,13 +1156,13 @@
         "duration": 3533,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "ua6NsIHtbNU",
         "title": "Le journal de 20h de France Télévisions - 27 octobre 2026",
-        "scheduledStart": "2026-10-27T18:57:00Z"
+        "start": "2026-10-27T18:57:22Z"
       },
-      "checked": "2026-10-27T13:33:52.654Z",
+      "upcoming": null,
+      "checked": "2026-10-27T18:57:46.112Z",
       "stale": true,
       "history": [
         {
@@ -1164,6 +1192,10 @@
         {
           "v": "SGm7-0tARVk",
           "lag": -3
+        },
+        {
+          "v": "ua6NsIHtbNU",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -1179,7 +1211,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "qwonEGI7BBY",
@@ -1221,7 +1253,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
@@ -1229,7 +1261,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-27T13:33:52.654Z"
+        "checked": "2026-10-27T18:57:46.112Z"
       },
       "history": []
     },
@@ -1243,7 +1275,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1292,7 +1324,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "FbzAbIQRxmk",
@@ -1340,7 +1372,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1389,7 +1421,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1438,7 +1470,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1486,8 +1518,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "upcoming": {
+        "videoId": "NTAWIY2pXyY",
+        "title": "LSQ - Le téléjournal 18 h du mardi 27 octobre 2026",
+        "scheduledStart": "2026-10-27T22:00:00Z"
+      },
+      "checked": "2026-10-27T18:57:46.112Z",
       "observedLocal": "17:48",
       "history": [
         {
@@ -1524,7 +1560,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1568,7 +1604,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1608,7 +1644,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-27T13:33:52.654Z",
+      "checked": "2026-10-27T18:57:46.112Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1652,8 +1688,8 @@
         "title": "EN VIVO: Las noticias de la noche, martes 27 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-27T23:00:00Z"
       },
-      "checked": "2026-10-27T13:33:52.654Z",
-      "observedLocal": "18:59",
+      "checked": "2026-10-27T18:57:46.112Z",
+      "stale": true,
       "history": [
         {
           "v": "7hmiy1oz5A0",
@@ -1688,13 +1724,9 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "SDqmh5UTldM",
-        "title": "TELENOCHE ¡EN VIVO!",
-        "scheduledStart": "2026-10-27T23:00:00Z"
-      },
-      "checked": "2026-10-27T13:33:52.654Z",
-      "observedLocal": "20:00",
+      "upcoming": null,
+      "checked": "2026-10-27T18:57:46.112Z",
+      "stale": true,
       "history": [
         {
           "v": "rXK5Y2-hHec",
@@ -1717,6 +1749,7 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
