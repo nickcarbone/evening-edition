@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T08:58:23.364Z",
-  "lastFull": "2026-10-28T08:58:23.364Z",
+  "generated": "2026-10-28T16:16:41.351Z",
+  "lastFull": "2026-10-28T16:16:41.351Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "MvrwqdX2kPw",
         "title": "JORNAL DA CULTURA | 27/10/2026",
         "published": "2026-10-27T23:55:11.000Z",
-        "duration": 3921,
+        "duration": 3028,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -62,7 +62,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "stale": true,
       "history": [
         {
@@ -87,7 +87,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -124,16 +124,15 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "UTCZvC0f7UQ",
-        "title": "Suami Siri Pembunuh Istri-Anak di Madiun Terancam Hukuman Mati | KOMPAS PETANG",
-        "published": "2026-10-27T11:12:16.000Z",
-        "duration": 4237,
+        "videoId": "scf_B8AJers",
+        "title": "Demo Mahasiswa di Sejumlah Daerah, Tuntut Perbaikan Ekonomi dan Penanganan Karhutla | KOMPAS PETANG",
+        "published": "2026-10-28T15:02:40.000Z",
+        "duration": 4547,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "stale": true,
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -162,23 +161,26 @@
         {
           "v": "UTCZvC0f7UQ",
           "lag": 72
+        },
+        {
+          "v": "scf_B8AJers",
+          "lag": 303
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 100
+      "readyAfter": 175
     },
     "tvb": {
       "latest": {
-        "videoId": "xNO3CDNxKSc",
-        "title": "無綫TVB六點半新聞報道｜巴西多個政黨不支持重新選舉 特朗普批評選舉被操縱｜據報美軍準備再大規模打擊伊朗 區內多國尋求阻止局勢進一步升級｜市場關注巨額集資潮將抽緊市場資金AI泡沫憂慮再度升溫｜TVB",
-        "published": "2026-10-27T10:55:29.000Z",
-        "duration": 2256,
+        "videoId": "0Rjq6eRa7fo",
+        "title": "無綫TVB六點半新聞報道｜澳洲南澳促居民勿於河中棄養錦鯉及金魚 違者最高罰約66萬港元｜澳洲航空地勤與貨運員工發動24小時罷工｜兩人涉圖襲英國空軍基地提堂 英國反恐警察：發現一系列料伊朗政府指使事件｜",
+        "published": "2026-10-28T10:42:29.000Z",
+        "duration": 1320,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "8pDIglfUNvE",
@@ -211,6 +213,10 @@
         {
           "v": "xNO3CDNxKSc",
           "lag": 25
+        },
+        {
+          "v": "0Rjq6eRa7fo",
+          "lag": 12
         }
       ],
       "delivery": "posted",
@@ -218,16 +224,16 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "8_cxJfWPPmM",
-        "title": "TV Patrol Livestream | October 27, 2026 Full Episode Replay",
-        "published": "2026-10-27T10:23:06.000Z",
-        "duration": 4420,
+        "videoId": "0iuKarv2-Gc",
+        "title": "TV Patrol Livestream | October 28, 2026 Full Episode Replay",
+        "published": "2026-10-28T10:19:56.000Z",
+        "duration": 4838,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "stale": true,
+      "checked": "2026-10-28T16:16:41.351Z",
+      "observedLocal": "18:19",
       "history": [
         {
           "v": "dK3eiIyE7a4",
@@ -252,9 +258,12 @@
         {
           "v": "8_cxJfWPPmM",
           "lag": -7
+        },
+        {
+          "v": "0iuKarv2-Gc",
+          "lag": -10
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -268,7 +277,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -308,15 +317,15 @@
     },
     "pts": {
       "latest": {
-        "videoId": "52x3DbmGvoA",
-        "title": "20261027 公視晚間新聞 完整版（無網路版權內容除外）｜台籍女子日本河口湖旅遊遇害 夫涉詐保遭收押禁見",
-        "published": "2026-10-27T12:38:32.000Z",
-        "duration": 3264,
+        "videoId": "1lQunw17qnY",
+        "title": "20261028 公視晚間新聞 完整版｜北市教師涉以電動誘騙 16年性侵38童遭起訴求刑30年",
+        "published": "2026-10-28T12:46:27.000Z",
+        "duration": 3255,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "568OPMxfM-k",
@@ -349,6 +358,10 @@
         {
           "v": "52x3DbmGvoA",
           "lag": 99
+        },
+        {
+          "v": "1lQunw17qnY",
+          "lag": 106
         }
       ],
       "delivery": "posted",
@@ -356,16 +369,16 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "moEVTwq6Qkw",
-        "title": "ข่าวค่ำ | 27 ต.ค. 69",
-        "published": "2026-10-27T11:02:03.000Z",
-        "duration": 8990,
+        "videoId": "cfCGU3vhpbU",
+        "title": "ข่าวค่ำ | 28 ต.ค. 69",
+        "published": "2026-10-28T10:59:27.000Z",
+        "duration": 9035,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "stale": true,
+      "checked": "2026-10-28T16:16:41.351Z",
+      "observedLocal": "17:59",
       "history": [
         {
           "v": "jnb_Y6VxkJ4",
@@ -398,24 +411,27 @@
         {
           "v": "moEVTwq6Qkw",
           "lag": 2
+        },
+        {
+          "v": "cfCGU3vhpbU",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "kbs": {
       "latest": {
-        "videoId": "IXx3iR07LnM",
-        "title": "[풀영상] 뉴스9 : 서울 강남구 구룡마을 큰불, 강풍 속 진화 난항…주민 대피하고 인근 차량 통제 – 2026년 10월 27일(화) / KBS",
-        "published": "2026-10-27T11:56:17.000Z",
-        "duration": 2865,
+        "videoId": "Ocw_5UEaXtY",
+        "title": "[풀영상] 뉴스9 : 대신증권·미래에셋에 빗썸까지 해킹 금융권 전체로 확산…북한 IP 접근 400만 건 넘어 – 2026년 10월 28일(수) / KBS",
+        "published": "2026-10-28T11:57:14.000Z",
+        "duration": 2912,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "stale": true,
+      "checked": "2026-10-28T16:16:41.351Z",
+      "observedLocal": "20:57",
       "history": [
         {
           "v": "NhGwumycrYM",
@@ -440,24 +456,27 @@
         {
           "v": "IXx3iR07LnM",
           "lag": -4
+        },
+        {
+          "v": "Ocw_5UEaXtY",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "cji2D4wsm1k",
-        "title": "Gagal Lunas Tunggakan Hasil, Kerajaan Akan Saman MYEG, Zetrix AI | Buletin Utama, 27 Oktober 2026",
-        "published": "2026-10-27T11:58:18.000Z",
-        "duration": 3600,
+        "videoId": "dkQJWUIZIVQ",
+        "title": "Pegawai Polis Langgar Maut Pelajar Di Hukum Penjara 7 Tahun 6 Bulan | Buletin Utama, 28 Oktober 2026",
+        "published": "2026-10-28T11:57:33.000Z",
+        "duration": 3572,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "observedLocal": "19:58",
+      "checked": "2026-10-28T16:16:41.351Z",
+      "observedLocal": "19:57",
       "history": [
         {
           "v": "RuJOVTVUsu8",
@@ -490,6 +509,10 @@
         {
           "v": "cji2D4wsm1k",
           "lag": -2
+        },
+        {
+          "v": "dkQJWUIZIVQ",
+          "lag": -2
         }
       ],
       "delivery": "live",
@@ -497,20 +520,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "kTUrbpLWt48",
-        "title": "TOLOnews - 6pm News - 27 Oct 2026 | تاکید متقی بر مبارزه مشترک با کشت و قاچاق مواد مخدر",
-        "published": "2026-10-27T14:18:23.000Z",
-        "duration": 1299,
+        "videoId": "Nkmak6tA8oY",
+        "title": "TOLOnews - 6pm News - 28 Oct 2026 | واکنش ا.ا به اظهارات نماینده امریکا در سازمان ملل",
+        "published": "2026-10-28T14:20:08.000Z",
+        "duration": 1290,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
-        {
-          "v": "cGCPGpU12Qs",
-          "lag": 49
-        },
         {
           "v": "ymST6QmY4TI",
           "lag": 51
@@ -546,6 +565,10 @@
         {
           "v": "kTUrbpLWt48",
           "lag": 48
+        },
+        {
+          "v": "Nkmak6tA8oY",
+          "lag": 50
         }
       ],
       "delivery": "posted",
@@ -553,15 +576,15 @@
     },
     "btv": {
       "latest": {
-        "videoId": "zFGHSI_dTCg",
+        "videoId": "n7FWADmifx8",
         "title": "রাত ৮টার সংবাদ",
-        "published": "2026-10-27T13:59:34.000Z",
-        "duration": 2234,
+        "published": "2026-10-28T13:59:29.000Z",
+        "duration": 1460,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -587,6 +610,10 @@
         {
           "v": "zFGHSI_dTCg",
           "lag": 0
+        },
+        {
+          "v": "n7FWADmifx8",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -594,16 +621,15 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "6Hs9hpabLIg",
-        "title": "27 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-27T15:50:45.000Z",
-        "duration": 2848,
+        "videoId": "VqsrCSpAjFs",
+        "title": "28 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-28T15:23:41.000Z",
+        "duration": 2120,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "stale": true,
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -636,11 +662,14 @@
         {
           "v": "6Hs9hpabLIg",
           "lag": 111
+        },
+        {
+          "v": "VqsrCSpAjFs",
+          "lag": 84
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 110
+      "readyAfter": 100
     },
     "geo": {
       "latest": {
@@ -652,7 +681,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "stale": true,
       "history": [
         {
@@ -700,7 +729,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
@@ -714,7 +743,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
+      "stale": true,
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -749,6 +779,7 @@
           "lag": 52
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
@@ -762,7 +793,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -807,7 +838,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "VR2lt6batc4",
@@ -853,7 +884,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
@@ -867,7 +898,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -916,7 +947,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -964,7 +995,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "u2qI2EclYSY",
@@ -1008,21 +1039,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "6pgXGe7Ra7M",
-        "title": "Облавы на мужчин в Омске. Встреча России, Украины и США пройдет в ОАЭ. Выборы в Израиле завершились",
-        "published": "2026-10-28T05:59:39.000Z",
-        "duration": 3250,
+        "videoId": "yzwAuzK-SzE",
+        "title": "Кремль — о переговорах в Абу-Даби. В Омске мужчин забирают на войну. Путин назвал Маска гениальным",
+        "published": "2026-10-28T15:00:08.000Z",
+        "duration": 4081,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "observedLocal": "06:59",
+      "checked": "2026-10-28T16:16:41.351Z",
+      "observedLocal": "16:00",
       "history": [
-        {
-          "v": "ZoUU3klQl1A",
-          "lag": null
-        },
         {
           "v": "G7PtpnZGF_I",
           "lag": null
@@ -1058,10 +1085,14 @@
         {
           "v": "6pgXGe7Ra7M",
           "lag": 720
+        },
+        {
+          "v": "yzwAuzK-SzE",
+          "lag": 1260
         }
       ],
       "delivery": "posted",
-      "readyAfter": 1020
+      "readyAfter": 1260
     },
     "tvp": {
       "latest": {
@@ -1073,7 +1104,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "19:21",
       "history": [
         {
@@ -1096,7 +1127,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
@@ -1109,7 +1140,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1119,7 +1150,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
@@ -1133,7 +1164,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "hd2aeCHKo8I",
@@ -1189,8 +1220,8 @@
         "title": "Le journal de 20h de France Télévisions - 28 octobre 2026",
         "scheduledStart": "2026-10-28T18:57:00Z"
       },
-      "checked": "2026-10-28T08:58:23.364Z",
-      "observedLocal": "19:57",
+      "checked": "2026-10-28T16:16:41.351Z",
+      "stale": true,
       "history": [
         {
           "v": "MJplTQ_9fhc",
@@ -1238,7 +1269,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "qwonEGI7BBY",
@@ -1284,15 +1315,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-28T08:58:23.364Z"
+        "checked": "2026-10-28T16:16:41.351Z"
       },
       "history": []
     },
@@ -1306,7 +1337,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1359,7 +1390,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "FbzAbIQRxmk",
@@ -1406,12 +1437,12 @@
         "videoId": "oCFnEJtHBEg",
         "title": "LE JOURNAL TELEVISE DE 20H - MARDI 27 OCTOBRE 2026",
         "published": "2026-10-27T20:01:22.000Z",
-        "duration": 3212,
+        "duration": 3201,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -1464,7 +1495,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "21:57",
       "history": [
         {
@@ -1517,7 +1548,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1570,7 +1601,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "17:40",
       "history": [
         {
@@ -1611,7 +1642,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1659,7 +1690,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1703,7 +1734,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1746,9 +1777,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-28T08:58:23.364Z",
-      "observedLocal": "18:59",
+      "upcoming": {
+        "videoId": "yujk3J922YE",
+        "title": "EN VIVO: Las noticias de la noche, miércoles 28 de octubre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-10-28T23:00:00Z"
+      },
+      "checked": "2026-10-28T16:16:41.351Z",
+      "stale": true,
       "history": [
         {
           "v": "7hmiy1oz5A0",
@@ -1792,7 +1827,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-28T23:00:00Z"
       },
-      "checked": "2026-10-28T08:58:23.364Z",
+      "checked": "2026-10-28T16:16:41.351Z",
       "observedLocal": "19:59",
       "history": [
         {
