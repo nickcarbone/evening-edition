@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T01:13:15.293Z",
-  "lastFull": "2026-10-29T01:13:15.293Z",
+  "generated": "2026-10-29T07:39:52.186Z",
+  "lastFull": "2026-10-29T07:39:52.186Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -66,7 +66,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "stale": true,
       "history": [
         {
@@ -78,22 +78,21 @@
           "lag": 151
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 155
     },
     "nmas": {
       "latest": {
-        "videoId": "-7H6YRmwvts",
-        "title": "Investigan muerte de perros en el Parque España, CDMX | En Punto - 27 de Octubre 2026",
-        "published": "2026-10-28T04:28:22.000Z",
-        "duration": 2258,
+        "videoId": "_ejWr9tckgU",
+        "title": "Fallece Cuauhtémoc Cárdenas Solórzano, fundador del PRD | En Punto - 28 de Octubre 2026",
+        "published": "2026-10-29T04:28:41.000Z",
+        "duration": 2255,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
-      "stale": true,
+      "checked": "2026-10-29T07:39:52.186Z",
+      "observedLocal": "22:28",
       "history": [
         {
           "v": "9SuAcKAQaYg",
@@ -122,9 +121,12 @@
         {
           "v": "-7H6YRmwvts",
           "lag": -2
+        },
+        {
+          "v": "_ejWr9tckgU",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -138,7 +140,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
+      "stale": true,
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -173,6 +176,7 @@
           "lag": 303
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
@@ -186,7 +190,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "8pDIglfUNvE",
@@ -238,7 +242,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "stale": true,
       "history": [
         {
@@ -276,15 +280,15 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "p0t2u_QyjHg",
-        "title": "习近平致电祝贺卢拉当选连任巴西总统 | CCTV「新闻联播」20261027",
-        "published": "2026-10-28T02:29:33.000Z",
+        "videoId": "akA6G2Cd9sI",
+        "title": "【持之以恒推进全面从严治党】严明纪律规矩 推动营造风清气正的政治生态 | CCTV「新闻联播」20261028",
+        "published": "2026-10-29T02:54:41.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -317,6 +321,10 @@
         {
           "v": "p0t2u_QyjHg",
           "lag": 930
+        },
+        {
+          "v": "akA6G2Cd9sI",
+          "lag": 955
         }
       ],
       "delivery": "posted",
@@ -332,7 +340,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "568OPMxfM-k",
@@ -384,7 +392,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "17:59",
       "history": [
         {
@@ -437,7 +445,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "stale": true,
       "history": [
         {
@@ -478,12 +486,12 @@
         "videoId": "dkQJWUIZIVQ",
         "title": "Pegawai Polis Langgar Maut Pelajar Di Hukum Penjara 7 Tahun 6 Bulan | Buletin Utama, 28 Oktober 2026",
         "published": "2026-10-28T11:57:33.000Z",
-        "duration": 3572,
+        "duration": 3469,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -536,7 +544,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "ymST6QmY4TI",
@@ -592,7 +600,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -637,7 +645,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
+      "stale": true,
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -676,6 +685,7 @@
           "lag": 84
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -689,8 +699,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
-      "observedLocal": "22:16",
+      "checked": "2026-10-29T07:39:52.186Z",
+      "stale": true,
       "history": [
         {
           "v": "hJwwu9c-E8k",
@@ -733,6 +743,7 @@
           "lag": 76
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 80
     },
@@ -740,7 +751,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -754,7 +765,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -806,7 +817,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -855,7 +866,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "VR2lt6batc4",
@@ -903,9 +914,9 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -919,7 +930,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -972,7 +983,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -1024,7 +1035,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "u2qI2EclYSY",
@@ -1072,25 +1083,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "yzwAuzK-SzE",
-        "title": "Кремль — о переговорах в Абу-Даби. В Омске мужчин забирают на войну. Путин назвал Маска гениальным",
-        "published": "2026-10-28T15:00:08.000Z",
-        "duration": 4081,
+        "videoId": "FZbQ5bKoBrw",
+        "title": "Москву атаковали 600 дронов. С кем Путин будет делить Африку. Apple показала сенсорный Macbook",
+        "published": "2026-10-29T05:59:52.000Z",
+        "duration": 2867,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "FZbQ5bKoBrw",
-        "title": "Утро на Дожде с Надеждой Метальниковой в 9.00 мск",
-        "scheduledStart": "2026-10-29T06:00:00Z"
-      },
-      "checked": "2026-10-29T01:13:15.293Z",
-      "observedLocal": "16:00",
+      "upcoming": null,
+      "checked": "2026-10-29T07:39:52.186Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "G7PtpnZGF_I",
-          "lag": null
-        },
         {
           "v": "ejHurD1HHnc",
           "lag": null
@@ -1126,6 +1129,10 @@
         {
           "v": "yzwAuzK-SzE",
           "lag": 1260
+        },
+        {
+          "v": "FZbQ5bKoBrw",
+          "lag": 720
         }
       ],
       "delivery": "posted",
@@ -1141,7 +1148,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:20",
       "history": [
         {
@@ -1168,7 +1175,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -1181,7 +1188,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1191,7 +1198,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -1205,7 +1212,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "hd2aeCHKo8I",
@@ -1260,8 +1267,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "upcoming": {
+        "videoId": "rt-UpZhofKM",
+        "title": "Le journal de 20h de France Télévisions - 29 Oct 2026",
+        "scheduledStart": "2026-10-29T18:57:00Z"
+      },
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1314,7 +1325,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "qwonEGI7BBY",
@@ -1364,7 +1375,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -1372,7 +1383,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-29T01:13:15.293Z"
+        "checked": "2026-10-29T07:39:52.186Z"
       },
       "history": []
     },
@@ -1386,7 +1397,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1439,7 +1450,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "FbzAbIQRxmk",
@@ -1495,7 +1506,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1552,7 +1563,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1601,15 +1612,15 @@
     },
     "global": {
       "latest": {
-        "videoId": "u1SKx4z1YAA",
-        "title": "Global National: Oct. 27, 2026 | New MAID legislation opens door to advanced requests",
-        "published": "2026-10-28T02:00:11.000Z",
-        "duration": 1225,
+        "videoId": "bo-CSSojyiw",
+        "title": "Global National: Oct. 28, 2026 | Family of soldier injured at CFB Wainwright shares grief",
+        "published": "2026-10-29T02:00:08.000Z",
+        "duration": 1357,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1647,6 +1658,10 @@
         {
           "v": "u1SKx4z1YAA",
           "lag": 270
+        },
+        {
+          "v": "bo-CSSojyiw",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1662,7 +1677,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "17:31",
       "history": [
         {
@@ -1707,7 +1722,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1751,16 +1766,15 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "vcct7jUrCZ4",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 27",
-        "published": "2026-10-28T02:02:43.000Z",
-        "duration": 1245,
+        "videoId": "S8iPg96AMu0",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 28",
+        "published": "2026-10-29T01:56:20.000Z",
+        "duration": 1270,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
-      "stale": true,
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1789,24 +1803,26 @@
         {
           "v": "vcct7jUrCZ4",
           "lag": 213
+        },
+        {
+          "v": "S8iPg96AMu0",
+          "lag": 206
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
     "abc": {
       "latest": {
-        "videoId": "hw2s3b7afAY",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026",
-        "published": "2026-10-28T02:00:00.000Z",
-        "duration": 1210,
+        "videoId": "oFGWW0ioKgY",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 28, 2026",
+        "published": "2026-10-29T02:00:28.000Z",
+        "duration": 1232,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
-      "stale": true,
+      "checked": "2026-10-29T07:39:52.186Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1835,9 +1851,12 @@
         {
           "v": "hw2s3b7afAY",
           "lag": 210
+        },
+        {
+          "v": "oFGWW0ioKgY",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
@@ -1846,12 +1865,12 @@
         "videoId": "yujk3J922YE",
         "title": "Las noticias de la noche, miércoles 28 de octubre de 2026 | Noticias Telemundo",
         "published": "2026-10-28T22:59:12.000Z",
-        "duration": 1791,
+        "duration": 1547,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1891,12 +1910,16 @@
         "videoId": "-zVHi4m9fwY",
         "title": "Encontraron el cuerpo de Nancy Godoy tras 21 días de búsqueda en Corrientes | TELENOCHE 28/10/26",
         "published": "2026-10-28T22:59:41.000Z",
-        "duration": 3919,
+        "duration": 3165,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-29T01:13:15.293Z",
+      "upcoming": {
+        "videoId": "20MWUkBlBl0",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-10-29T23:00:00Z"
+      },
+      "checked": "2026-10-29T07:39:52.186Z",
       "observedLocal": "19:59",
       "history": [
         {
