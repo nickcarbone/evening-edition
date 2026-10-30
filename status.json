@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T13:33:05.033Z",
-  "lastFull": "2026-10-30T13:33:05.033Z",
+  "generated": "2026-10-30T18:51:02.643Z",
+  "lastFull": "2026-10-30T18:51:02.643Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "wKieesdWziI",
         "title": "JORNAL DA CULTURA | Após visitar Jair Bolsonaro, presidente do PL critica carta de Flávio | 29/10/26",
         "published": "2026-10-29T23:55:11.000Z",
-        "duration": 3919,
+        "duration": 3021,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "stale": true,
       "history": [
         {
@@ -95,7 +95,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -140,16 +140,15 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "D53-6gz_bAU",
-        "title": "Mahasiswa Trisakti Demo di Patung Kuda Jakarta Tuntut Perbaikan Ekonomi | KOMPAS PETANG",
-        "published": "2026-10-29T12:45:27.000Z",
-        "duration": 4289,
+        "videoId": "H5zXsV8jlws",
+        "title": "PDI-P & PKS Kompak Bahas Ijazah Gibran, PSI Tak Gentar | KOMPAS PETANG",
+        "published": "2026-10-30T13:42:29.000Z",
+        "duration": 4390,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "stale": true,
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -186,10 +185,14 @@
         {
           "v": "D53-6gz_bAU",
           "lag": 165
+        },
+        {
+          "v": "H5zXsV8jlws",
+          "lag": 222
         }
       ],
       "delivery": "posted",
-      "readyAfter": 165
+      "readyAfter": 175
     },
     "tvb": {
       "latest": {
@@ -201,7 +204,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "ILu6jjyJiE0",
@@ -257,7 +260,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "18:19",
       "history": [
         {
@@ -310,7 +313,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -366,7 +369,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "MBs24_k9bO4",
@@ -414,21 +417,17 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "b34yC8Sh6ZQ",
-        "title": "ข่าวค่ำ | 29 ต.ค. 69",
-        "published": "2026-10-29T10:59:17.000Z",
-        "duration": 9015,
+        "videoId": "qO_o3kHKQ7g",
+        "title": "ข่าวค่ำ | 30 ต.ค. 69",
+        "published": "2026-10-30T10:56:39.000Z",
+        "duration": 9013,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "stale": true,
+      "checked": "2026-10-30T18:51:02.643Z",
+      "observedLocal": "17:56",
       "history": [
-        {
-          "v": "jnb_Y6VxkJ4",
-          "lag": 0
-        },
         {
           "v": "CDItX_cPDHQ",
           "lag": 0
@@ -464,9 +463,12 @@
         {
           "v": "b34yC8Sh6ZQ",
           "lag": -1
+        },
+        {
+          "v": "qO_o3kHKQ7g",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -480,7 +482,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "20:58",
       "history": [
         {
@@ -526,14 +528,14 @@
     "tv3my": {
       "latest": {
         "videoId": "fxzTSNfu3dU",
-        "title": "Buletin Utama, 30 Oktober 2026",
+        "title": "Malaysia Terima Dua Daripada 18 Pesawat Tempur Korea Selatan | Buletin Utama, 30 Oktober 2026",
         "published": "2026-10-30T11:56:51.000Z",
-        "duration": 3815,
+        "duration": 3601,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -582,24 +584,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "8dZW0nekQ0E",
-        "title": "TOLOnews - 6pm News - 29 Oct 2026 | گزارش ریچارد بنت در باره افغانستان",
-        "published": "2026-10-29T14:39:31.000Z",
-        "duration": 1175,
+        "videoId": "Gph6B0wlpNk",
+        "title": "TOLOnews - 6pm News - 30 Oct 2026 | مجاهد: افغانستان خواهان تنش با پاکستان نیست",
+        "published": "2026-10-30T14:31:15.000Z",
+        "duration": 1162,
         "embeddable": true
       },
-      "live": {
-        "videoId": "SbdIj4lzu9c",
-        "title": "TOLOnews - 6pm News - 30 Oct 2026 | مجاهد: افغانستان خواهان تنش با پاکستان نیست",
-        "start": "2026-10-30T13:30:35Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
-        {
-          "v": "1ecp1HwVEiI",
-          "lag": 1
-        },
         {
           "v": "kDrfjeXButc",
           "lag": 56
@@ -635,22 +629,26 @@
         {
           "v": "SbdIj4lzu9c",
           "lag": 1
+        },
+        {
+          "v": "Gph6B0wlpNk",
+          "lag": 61
         }
       ],
       "delivery": "posted",
-      "readyAfter": 55
+      "readyAfter": 60
     },
     "btv": {
       "latest": {
-        "videoId": "AFPMzTR-7RI",
-        "title": "রাত ৮টার সংবাদ",
-        "published": "2026-10-29T13:59:29.000Z",
-        "duration": 1481,
+        "videoId": "IxB0t9N19go",
+        "title": "রাত ৮টার সংবাদ- ৩০ অক্টোবর, ২০২৬",
+        "published": "2026-10-30T13:59:28.000Z",
+        "duration": 1460,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -684,6 +682,10 @@
         {
           "v": "AFPMzTR-7RI",
           "lag": -1
+        },
+        {
+          "v": "IxB0t9N19go",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -699,7 +701,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "stale": true,
       "history": [
         {
@@ -745,21 +747,17 @@
     },
     "geo": {
       "latest": {
-        "videoId": "MtLdgjdKhZ4",
-        "title": "A NEW POLITICAL CHAPTER - GOVT & OPPOSITION | Geo News 9 PM Geo Bulletin | 29th Oct 2026",
-        "published": "2026-10-29T17:30:34.000Z",
-        "duration": 1235,
+        "videoId": "qT8jefILP4M",
+        "title": "SAUDI COALITION'S CLAIM - HOUTHI MISSILE DESTROYED | Geo News 9 PM Geo Bulletin | 30th Oct 2026",
+        "published": "2026-10-30T17:39:25.000Z",
+        "duration": 905,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "stale": true,
+      "checked": "2026-10-30T18:51:02.643Z",
+      "observedLocal": "22:39",
       "history": [
-        {
-          "v": "owwW3eGMFlA",
-          "lag": 88
-        },
         {
           "v": "Di1NFVFHzec",
           "lag": 48
@@ -795,32 +793,34 @@
         {
           "v": "MtLdgjdKhZ4",
           "lag": 91
+        },
+        {
+          "v": "qT8jefILP4M",
+          "lag": 99
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 90
+      "readyAfter": 95
     },
     "trt": {
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
     "citizen": {
       "latest": {
-        "videoId": "GPZX7-oGx3o",
-        "title": "CITIZEN NIPASHE ~ OCT 28, 2026",
-        "published": "2026-10-28T17:06:07.000Z",
-        "duration": 1929,
+        "videoId": "6uqENi6ntDQ",
+        "title": "CITIZEN NIPASHE WIKENDI ~ Oct 30, 2026",
+        "published": "2026-10-30T17:00:28.000Z",
+        "duration": 1971,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "stale": true,
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -857,24 +857,27 @@
         {
           "v": "GPZX7-oGx3o",
           "lag": 66
+        },
+        {
+          "v": "6uqENi6ntDQ",
+          "lag": 60
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
     "tvr": {
       "latest": {
-        "videoId": "iTj5iTEWrUM",
-        "title": "Telejurnal 19 - Ediția din 29 octombrie 2026",
-        "published": "2026-10-29T17:00:30.000Z",
-        "duration": 2182,
+        "videoId": "Ltbo1aZ4MRo",
+        "title": "Telejurnal 19 - Ediția din 30 octombrie 2026",
+        "published": "2026-10-30T16:59:22.000Z",
+        "duration": 2467,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "observedLocal": "19:00",
+      "checked": "2026-10-30T18:51:02.643Z",
+      "observedLocal": "18:59",
       "history": [
         {
           "v": "ETfyrAga93E",
@@ -911,6 +914,10 @@
         {
           "v": "iTj5iTEWrUM",
           "lag": 1
+        },
+        {
+          "v": "Ltbo1aZ4MRo",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -926,7 +933,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "_RM8hPJauVE",
@@ -976,27 +983,23 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
     "ebc": {
       "latest": {
-        "videoId": "rblww8GgLyc",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ....ጥቅምት 19/2019 ዓ.ም  |  EBC |Ethiopia | EBCDOTSTREAM|Ethiopia",
-        "published": "2026-10-29T17:00:12.000Z",
-        "duration": 3364,
+        "videoId": "i4SxE1--KYk",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ....ጥቅምት 20/2019 ዓ.ም | Ebc |Ethiopia | EBCDOTSTREAM",
+        "published": "2026-10-30T17:00:39.000Z",
+        "duration": 3644,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "20:00",
       "history": [
-        {
-          "v": "qYMZzBj2y-w",
-          "lag": -1
-        },
         {
           "v": "m1VmU8NQhX4",
           "lag": 0
@@ -1032,6 +1035,10 @@
         {
           "v": "rblww8GgLyc",
           "lag": 0
+        },
+        {
+          "v": "i4SxE1--KYk",
+          "lag": 1
         }
       ],
       "delivery": "live",
@@ -1039,20 +1046,16 @@
     },
     "sabc1": {
       "latest": {
-        "videoId": "IRBeCZMkThY",
-        "title": "Iindaba zesiXhosa @19H00 | 29 October 2026",
-        "published": "2026-10-29T17:55:54.000Z",
-        "duration": 1417,
+        "videoId": "RQ02zYvJsL4",
+        "title": "Izindaba zesiZulu @19H00 l 30 October 2026",
+        "published": "2026-10-30T17:45:01.000Z",
+        "duration": 1342,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
-        {
-          "v": "EvLCju6r3HQ",
-          "lag": 61
-        },
         {
           "v": "IW_sd1fsGnQ",
           "lag": 46
@@ -1088,6 +1091,10 @@
         {
           "v": "IRBeCZMkThY",
           "lag": 56
+        },
+        {
+          "v": "RQ02zYvJsL4",
+          "lag": 45
         }
       ],
       "delivery": "posted",
@@ -1103,7 +1110,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "V4rhP7HVbbM",
@@ -1151,21 +1158,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "ynCnt94io3I",
-        "title": "США просят страны Балтии не называть Путина крысой. В Самаре горит НПЗ. В Алешках начали эвакуацию",
-        "published": "2026-10-30T11:00:09.000Z",
-        "duration": 1637,
+        "videoId": "KwulxdFo3h8",
+        "title": "Путин задумался о мире. Алешки: война на паузе. Кремль вербует Маска. Новый провал Москвы в Европе",
+        "published": "2026-10-30T14:59:57.000Z",
+        "duration": 4778,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
-      "observedLocal": "12:00",
+      "checked": "2026-10-30T18:51:02.643Z",
+      "observedLocal": "15:59",
       "history": [
-        {
-          "v": "kFk160eJ8x0",
-          "lag": 1260
-        },
         {
           "v": "_9WKssqKsJQ",
           "lag": 119
@@ -1201,6 +1204,10 @@
         {
           "v": "ynCnt94io3I",
           "lag": 1020
+        },
+        {
+          "v": "KwulxdFo3h8",
+          "lag": 1260
         }
       ],
       "delivery": "posted",
@@ -1216,7 +1223,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1247,7 +1254,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
@@ -1260,7 +1267,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1270,7 +1277,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
@@ -1284,7 +1291,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "IPROokzwO9w",
@@ -1339,12 +1346,8 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "FxNnufnkC1o",
-        "title": "Le journal de 20h de France Télévisions - 30 octobre 2026",
-        "scheduledStart": "2026-10-30T18:57:00Z"
-      },
-      "checked": "2026-10-30T13:33:05.033Z",
+      "upcoming": null,
+      "checked": "2026-10-30T18:51:02.643Z",
       "stale": true,
       "history": [
         {
@@ -1388,6 +1391,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -1401,7 +1405,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "BbCxIXfCoqU",
@@ -1451,7 +1455,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
@@ -1459,7 +1463,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-30T13:33:05.033Z"
+        "checked": "2026-10-30T18:51:02.643Z"
       },
       "history": []
     },
@@ -1473,7 +1477,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1530,7 +1534,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "Fy6QGAegh8Y",
@@ -1586,7 +1590,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1643,7 +1647,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1700,7 +1704,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1757,7 +1761,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "observedLocal": "17:35",
       "history": [
         {
@@ -1806,7 +1810,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1862,7 +1866,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1914,7 +1918,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T13:33:05.033Z",
+      "checked": "2026-10-30T18:51:02.643Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1970,8 +1974,8 @@
         "title": "Las noticias de la noche, viernes 30 de octubre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-10-30T23:00:00Z"
       },
-      "checked": "2026-10-30T13:33:05.033Z",
-      "observedLocal": "18:59",
+      "checked": "2026-10-30T18:51:02.643Z",
+      "stale": true,
       "history": [
         {
           "v": "7hmiy1oz5A0",
@@ -2018,13 +2022,9 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "DUSg3SPYODY",
-        "title": "TELENOCHE ¡EN VIVO!",
-        "scheduledStart": "2026-10-30T23:00:00Z"
-      },
-      "checked": "2026-10-30T13:33:05.033Z",
-      "observedLocal": "19:59",
+      "upcoming": null,
+      "checked": "2026-10-30T18:51:02.643Z",
+      "stale": true,
       "history": [
         {
           "v": "rXK5Y2-hHec",
@@ -2059,6 +2059,7 @@
           "lag": -1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
