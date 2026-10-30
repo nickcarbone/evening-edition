@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T18:51:02.643Z",
-  "lastFull": "2026-10-30T18:51:02.643Z",
+  "generated": "2026-10-30T23:13:21.520Z",
+  "lastFull": "2026-10-30T23:13:21.520Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,8 +12,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "upcoming": {
+        "videoId": "sjE6_D2BwoU",
+        "title": "JORNAL DA CULTURA | 30/10/26",
+        "scheduledStart": "2026-10-30T23:58:00Z"
+      },
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +74,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "stale": true,
       "history": [
         {
@@ -95,8 +99,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
-      "observedLocal": "22:28",
+      "checked": "2026-10-30T23:13:21.520Z",
+      "stale": true,
       "history": [
         {
           "v": "9SuAcKAQaYg",
@@ -135,6 +139,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -148,7 +153,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "9iH7RBJicoE",
@@ -204,7 +209,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "ILu6jjyJiE0",
@@ -260,7 +265,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "18:19",
       "history": [
         {
@@ -313,7 +318,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -369,7 +374,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "MBs24_k9bO4",
@@ -425,7 +430,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "17:56",
       "history": [
         {
@@ -482,7 +487,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "20:58",
       "history": [
         {
@@ -535,7 +540,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -592,7 +597,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "kDrfjeXButc",
@@ -648,7 +653,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -693,16 +698,15 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "VqsrCSpAjFs",
-        "title": "28 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-10-28T15:23:41.000Z",
-        "duration": 2120,
+        "videoId": "_77K2945Q8k",
+        "title": "30 қазан 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-10-30T19:51:21.000Z",
+        "duration": 2821,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
-      "stale": true,
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -739,11 +743,14 @@
         {
           "v": "VqsrCSpAjFs",
           "lag": 84
+        },
+        {
+          "v": "_77K2945Q8k",
+          "lag": 351
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 100
+      "readyAfter": 110
     },
     "geo": {
       "latest": {
@@ -755,7 +762,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "22:39",
       "history": [
         {
@@ -806,7 +813,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
@@ -820,7 +827,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -876,7 +883,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -933,7 +940,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "_RM8hPJauVE",
@@ -981,9 +988,9 @@
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
@@ -992,12 +999,12 @@
         "videoId": "i4SxE1--KYk",
         "title": "የምሽት 2 ሰዓት አማርኛ ዜና ....ጥቅምት 20/2019 ዓ.ም | Ebc |Ethiopia | EBCDOTSTREAM",
         "published": "2026-10-30T17:00:39.000Z",
-        "duration": 3644,
+        "duration": 3632,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1054,7 +1061,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "IW_sd1fsGnQ",
@@ -1102,20 +1109,16 @@
     },
     "hrt": {
       "latest": {
-        "videoId": "Wpk8UrUwUg4",
-        "title": "Dnevnik, 29. 10. 2026.",
-        "published": "2026-10-29T19:48:51.000Z",
-        "duration": 3143,
+        "videoId": "MmHApTNz-Ko",
+        "title": "Dnevnik, 30. 10. 2026.",
+        "published": "2026-10-30T19:52:22.000Z",
+        "duration": 3121,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
-        {
-          "v": "V4rhP7HVbbM",
-          "lag": 105
-        },
         {
           "v": "nq3Vdx7FHjI",
           "lag": 97
@@ -1151,6 +1154,10 @@
         {
           "v": "Wpk8UrUwUg4",
           "lag": 109
+        },
+        {
+          "v": "MmHApTNz-Ko",
+          "lag": 112
         }
       ],
       "delivery": "posted",
@@ -1166,7 +1173,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1223,7 +1230,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1254,7 +1261,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
@@ -1267,7 +1274,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1277,26 +1284,22 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
     "tagesschau": {
       "latest": {
-        "videoId": "9VnIZ9q3wkE",
-        "title": "tagesschau 20:00 Uhr, 29.10.2026",
-        "published": "2026-10-29T19:31:41.000Z",
-        "duration": 968,
+        "videoId": "m3cRUr8MgSk",
+        "title": "tagesschau 20:00 Uhr, 30.10.2026",
+        "published": "2026-10-30T19:43:25.000Z",
+        "duration": 967,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
-        {
-          "v": "IPROokzwO9w",
-          "lag": 30
-        },
         {
           "v": "kRdgDU7RZpQ",
           "lag": 37
@@ -1332,6 +1335,10 @@
         {
           "v": "9VnIZ9q3wkE",
           "lag": 32
+        },
+        {
+          "v": "m3cRUr8MgSk",
+          "lag": 43
         }
       ],
       "delivery": "posted",
@@ -1339,21 +1346,17 @@
     },
     "france2": {
       "latest": {
-        "videoId": "rt-UpZhofKM",
-        "title": "Le journal de 20h de France Télévisions - 29 octobre 2026",
-        "published": "2026-10-29T18:57:19.000Z",
-        "duration": 3553,
+        "videoId": "FxNnufnkC1o",
+        "title": "Le journal de 20h de France Télévisions - 30 octobre 2026",
+        "published": "2026-10-30T18:57:19.000Z",
+        "duration": 2280,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
-      "stale": true,
+      "checked": "2026-10-30T23:13:21.520Z",
+      "observedLocal": "19:57",
       "history": [
-        {
-          "v": "MJplTQ_9fhc",
-          "lag": -3
-        },
         {
           "v": "EspEkJkK6zU",
           "lag": -3
@@ -1389,28 +1392,27 @@
         {
           "v": "rt-UpZhofKM",
           "lag": -3
+        },
+        {
+          "v": "FxNnufnkC1o",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "la7": {
       "latest": {
-        "videoId": "dos_F7qWVjs",
-        "title": "Edizione delle ore 20.00 del 29/10/2026",
-        "published": "2026-10-29T20:17:38.000Z",
-        "duration": 2109,
+        "videoId": "GEdHU4NPzfM",
+        "title": "Edizione delle ore 20.00 del 30/10/2026",
+        "published": "2026-10-30T20:03:37.000Z",
+        "duration": 1895,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
-        {
-          "v": "BbCxIXfCoqU",
-          "lag": 63
-        },
         {
           "v": "Cv8CFsj7pdI",
           "lag": 61
@@ -1446,6 +1448,10 @@
         {
           "v": "dos_F7qWVjs",
           "lag": 78
+        },
+        {
+          "v": "GEdHU4NPzfM",
+          "lag": 64
         }
       ],
       "delivery": "posted",
@@ -1455,7 +1461,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
@@ -1463,27 +1469,23 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-30T18:51:02.643Z"
+        "checked": "2026-10-30T23:13:21.520Z"
       },
       "history": []
     },
     "tv3gh": {
       "latest": {
-        "videoId": "dcxc-IcNqBE",
-        "title": "LIVE: News360; NPP Denies Plans To Impose Parliamentary Candidates || 29-10-2026",
-        "published": "2026-10-29T19:02:23.000Z",
-        "duration": 3691,
+        "videoId": "kMM4mLybKsU",
+        "title": "LIVE: News360; JUSAG Declares Indefinite Strike Over Unpaid Salaries ||  30-10-2026",
+        "published": "2026-10-30T19:01:35.000Z",
+        "duration": 3562,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
-      "observedLocal": "19:02",
+      "checked": "2026-10-30T23:13:21.520Z",
+      "observedLocal": "19:01",
       "history": [
-        {
-          "v": "JjCXLHt6Pp0",
-          "lag": 1
-        },
         {
           "v": "IQx8aCGWDOY",
           "lag": 2
@@ -1519,6 +1521,10 @@
         {
           "v": "dcxc-IcNqBE",
           "lag": 2
+        },
+        {
+          "v": "kMM4mLybKsU",
+          "lag": 2
         }
       ],
       "delivery": "live",
@@ -1534,7 +1540,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "Fy6QGAegh8Y",
@@ -1582,21 +1588,17 @@
     },
     "rtssn": {
       "latest": {
-        "videoId": "4KZM4kVfQsI",
-        "title": "LE JOURNAL TELEVISE DE 20H - JEUDI 29 OCTOBRE 2026",
-        "published": "2026-10-29T20:00:24.000Z",
-        "duration": 3331,
+        "videoId": "Yw3UHy5gcB8",
+        "title": "LE JOURNAL TELEVISE DE 20H - VENDREDI 30 OCTOBRE 2026",
+        "published": "2026-10-30T20:00:02.000Z",
+        "duration": 3766,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "20:00",
       "history": [
-        {
-          "v": "vbY3KWWFG_w",
-          "lag": 0
-        },
         {
           "v": "oQO8niUySU4",
           "lag": 0
@@ -1632,6 +1634,10 @@
         {
           "v": "4KZM4kVfQsI",
           "lag": 0
+        },
+        {
+          "v": "Yw3UHy5gcB8",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1639,21 +1645,17 @@
     },
     "channels": {
       "latest": {
-        "videoId": "ZDForcmAWjc",
-        "title": "News At 10 | 29/10/2026",
-        "published": "2026-10-29T20:59:51.000Z",
-        "duration": 3338,
+        "videoId": "aarZBTt9YgA",
+        "title": "News At 10",
+        "published": "2026-10-30T20:59:59.000Z",
+        "duration": 3765,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "21:59",
       "history": [
-        {
-          "v": "Fn6n-7gS5WM",
-          "lag": 0
-        },
         {
           "v": "ZF_J6Vpn1Z4",
           "lag": 0
@@ -1689,6 +1691,10 @@
         {
           "v": "ZDForcmAWjc",
           "lag": 0
+        },
+        {
+          "v": "aarZBTt9YgA",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1704,7 +1710,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1761,7 +1767,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "observedLocal": "17:35",
       "history": [
         {
@@ -1810,7 +1816,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1866,7 +1872,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1918,7 +1924,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
+      "stale": true,
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1957,6 +1964,7 @@
           "lag": 210
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
@@ -1968,13 +1976,13 @@
         "duration": 1454,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "iKZO9COODlA",
         "title": "Las noticias de la noche, viernes 30 de octubre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-10-30T23:00:00Z"
+        "start": "2026-10-30T22:59:13Z"
       },
-      "checked": "2026-10-30T18:51:02.643Z",
+      "upcoming": null,
+      "checked": "2026-10-30T23:13:21.520Z",
       "stale": true,
       "history": [
         {
@@ -2008,6 +2016,10 @@
         {
           "v": "Y4um0w1X5Tg",
           "lag": 29
+        },
+        {
+          "v": "iKZO9COODlA",
+          "lag": 29
         }
       ],
       "delivery": "posted",
@@ -2021,9 +2033,13 @@
         "duration": 3028,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "DUSg3SPYODY",
+        "title": "OPERATIVO PAPA: Argentina se prepara para recibir a León XIV | TELENOCHE ¡EN VIVO!",
+        "start": "2026-10-30T22:59:58Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-30T18:51:02.643Z",
+      "checked": "2026-10-30T23:13:21.520Z",
       "stale": true,
       "history": [
         {
@@ -2057,9 +2073,12 @@
         {
           "v": "20MWUkBlBl0",
           "lag": -1
+        },
+        {
+          "v": "DUSg3SPYODY",
+          "lag": 0
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
