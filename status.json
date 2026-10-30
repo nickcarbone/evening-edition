@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T06:25:52.998Z",
-  "lastFull": "2026-10-30T06:25:52.998Z",
+  "generated": "2026-10-30T13:33:05.033Z",
+  "lastFull": "2026-10-30T13:33:05.033Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "stale": true,
       "history": [
         {
@@ -95,7 +95,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -148,7 +148,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "stale": true,
       "history": [
         {
@@ -188,26 +188,21 @@
           "lag": 165
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 165
     },
     "tvb": {
       "latest": {
-        "videoId": "YSEu75FGddw",
-        "title": "無綫TVB六點半新聞報道｜何永賢辭任房屋局長｜為宏福苑火災承擔政治責任｜屯門有工業大廈法團違反輸入外勞規定　禁止申請一年｜美國指華大基因等三間中國公司涉助強迫勞動　禁止產品進口美國｜20261029",
-        "published": "2026-10-29T11:00:03.000Z",
-        "duration": 2692,
+        "videoId": "d9ShWZ-y8FM",
+        "title": "無綫TVB六點半新聞報道｜國泰航空第三方系統疑被入侵 盜去約5.3萬名乘客預訂資料｜幣安遭歷來最大規模黑客攻擊料損失折合逾490億港元 已暫停存取功能｜朝鮮舉行無人航空技術展覽會 金正恩出席並觀摩試射",
+        "published": "2026-10-30T12:17:12.000Z",
+        "duration": 1985,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
-        {
-          "v": "8pDIglfUNvE",
-          "lag": 22
-        },
         {
           "v": "ILu6jjyJiE0",
           "lag": 19
@@ -243,6 +238,10 @@
         {
           "v": "YSEu75FGddw",
           "lag": 30
+        },
+        {
+          "v": "d9ShWZ-y8FM",
+          "lag": 107
         }
       ],
       "delivery": "posted",
@@ -250,16 +249,16 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "n1g-TLyKoVY",
-        "title": "TV Patrol Livestream | October 29, 2026 Full Episode Replay",
-        "published": "2026-10-29T10:20:05.000Z",
-        "duration": 4707,
+        "videoId": "cPLD2md8D1g",
+        "title": "TV Patrol Livestream | October 30, 2026 Full Episode Replay",
+        "published": "2026-10-30T10:19:34.000Z",
+        "duration": 4829,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "stale": true,
+      "checked": "2026-10-30T13:33:05.033Z",
+      "observedLocal": "18:19",
       "history": [
         {
           "v": "dK3eiIyE7a4",
@@ -292,9 +291,12 @@
         {
           "v": "n1g-TLyKoVY",
           "lag": -10
+        },
+        {
+          "v": "cPLD2md8D1g",
+          "lag": -10
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -308,7 +310,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -356,20 +358,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "kXgi-d58yCk",
-        "title": "20261029 公視晚間新聞 完整版（無網路版權內容除外）｜中選會系統外洩候選人個資 主委游盈隆道歉稱廠商無心疏失",
-        "published": "2026-10-29T12:40:27.000Z",
-        "duration": 3419,
+        "videoId": "FuvNe8OKF6w",
+        "title": "20261030 公視晚間新聞 完整版（無網路版權內容除外）｜立院三讀加重毒駕刑責 10年內累犯致死者可求處死刑",
+        "published": "2026-10-30T12:45:02.000Z",
+        "duration": 2671,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
-        {
-          "v": "568OPMxfM-k",
-          "lag": 100
-        },
         {
           "v": "MBs24_k9bO4",
           "lag": 103
@@ -405,6 +403,10 @@
         {
           "v": "kXgi-d58yCk",
           "lag": 100
+        },
+        {
+          "v": "FuvNe8OKF6w",
+          "lag": 105
         }
       ],
       "delivery": "posted",
@@ -420,8 +422,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "observedLocal": "17:59",
+      "checked": "2026-10-30T13:33:05.033Z",
+      "stale": true,
       "history": [
         {
           "v": "jnb_Y6VxkJ4",
@@ -464,21 +466,22 @@
           "lag": -1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "kbs": {
       "latest": {
-        "videoId": "p89nsbWcTOA",
-        "title": "[풀영상] 뉴스9 : ‘서울 경계 5km 이내’ 김포·구리 등 신규 택지에 7만 6천여 호 공급…서울엔 ‘0호’ – 2026년 10월 29일(목) / KBS",
-        "published": "2026-10-29T11:57:17.000Z",
-        "duration": 2894,
+        "videoId": "ML1EyO-doQg",
+        "title": "[풀영상] 뉴스9 : 북, 자폭 드론 30종·초대형 방사포 등 공개하며 무력시위…주한미군사령관 “‘킬 웹’ 구축해야” – 2026년 10월 30일(금) / KBS",
+        "published": "2026-10-30T11:58:00.000Z",
+        "duration": 2851,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "stale": true,
+      "checked": "2026-10-30T13:33:05.033Z",
+      "observedLocal": "20:58",
       "history": [
         {
           "v": "NhGwumycrYM",
@@ -511,29 +514,28 @@
         {
           "v": "p89nsbWcTOA",
           "lag": -3
+        },
+        {
+          "v": "ML1EyO-doQg",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "u-UIB9eH6N8",
-        "title": "Isu Tanah Terhad, Konsep Kubur Bertingkat Dilaksana | Buletin Utama, 29 Oktober 2026",
-        "published": "2026-10-29T11:57:30.000Z",
-        "duration": 3600,
+        "videoId": "fxzTSNfu3dU",
+        "title": "Buletin Utama, 30 Oktober 2026",
+        "published": "2026-10-30T11:56:51.000Z",
+        "duration": 3815,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "observedLocal": "19:57",
+      "checked": "2026-10-30T13:33:05.033Z",
+      "observedLocal": "19:56",
       "history": [
-        {
-          "v": "RuJOVTVUsu8",
-          "lag": -5
-        },
         {
           "v": "h7enESliWgY",
           "lag": -5
@@ -569,6 +571,10 @@
         {
           "v": "u-UIB9eH6N8",
           "lag": -2
+        },
+        {
+          "v": "fxzTSNfu3dU",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -582,14 +588,14 @@
         "duration": 1175,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "SbdIj4lzu9c",
+        "title": "TOLOnews - 6pm News - 30 Oct 2026 | مجاهد: افغانستان خواهان تنش با پاکستان نیست",
+        "start": "2026-10-30T13:30:35Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
-        {
-          "v": "jvebvJ5oraA",
-          "lag": 72
-        },
         {
           "v": "1ecp1HwVEiI",
           "lag": 1
@@ -625,10 +631,14 @@
         {
           "v": "8dZW0nekQ0E",
           "lag": 70
+        },
+        {
+          "v": "SbdIj4lzu9c",
+          "lag": 1
         }
       ],
       "delivery": "posted",
-      "readyAfter": 60
+      "readyAfter": 55
     },
     "btv": {
       "latest": {
@@ -640,7 +650,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -689,7 +699,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "stale": true,
       "history": [
         {
@@ -743,8 +753,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "observedLocal": "22:30",
+      "checked": "2026-10-30T13:33:05.033Z",
+      "stale": true,
       "history": [
         {
           "v": "owwW3eGMFlA",
@@ -787,6 +797,7 @@
           "lag": 91
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 90
     },
@@ -794,7 +805,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
@@ -808,7 +819,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "stale": true,
       "history": [
         {
@@ -862,7 +873,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -915,7 +926,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "_RM8hPJauVE",
@@ -965,7 +976,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
@@ -979,7 +990,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1036,7 +1047,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "EvLCju6r3HQ",
@@ -1092,7 +1103,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "V4rhP7HVbbM",
@@ -1140,24 +1151,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "BoC4qS-g_TU",
-        "title": "«Ножичком по горлышку»: Альбац — почему Путин боится убийства и как элиты просят его закончить войну",
-        "published": "2026-10-30T03:00:33.000Z",
-        "duration": 2058,
+        "videoId": "ynCnt94io3I",
+        "title": "США просят страны Балтии не называть Путина крысой. В Самаре горит НПЗ. В Алешках начали эвакуацию",
+        "published": "2026-10-30T11:00:09.000Z",
+        "duration": 1637,
         "embeddable": true
       },
-      "live": {
-        "videoId": "i_AuLD-q3Sg",
-        "title": "«Новая газета» закрывается. Украина готова обсуждать вопросы территорий. Приморца похитили на фронт",
-        "start": "2026-10-30T05:59:29Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
+      "observedLocal": "12:00",
       "history": [
-        {
-          "v": "PLEPEwzeWeU",
-          "lag": 1020
-        },
         {
           "v": "kFk160eJ8x0",
           "lag": 1260
@@ -1193,6 +1197,10 @@
         {
           "v": "BoC4qS-g_TU",
           "lag": 541
+        },
+        {
+          "v": "ynCnt94io3I",
+          "lag": 1020
         }
       ],
       "delivery": "posted",
@@ -1200,16 +1208,16 @@
     },
     "tvp": {
       "latest": {
-        "videoId": "9s3MkM1e7RU",
-        "title": "Katastrofa kolejowa w Hiszpanii. Dziesiątki zabitych i rannych | 19.30 | 28.10.2026",
-        "published": "2026-10-28T18:20:54.000Z",
-        "duration": 1781,
+        "videoId": "kQhzDFUW34U",
+        "title": "Kaczyński o wyjściu z UE. Burza po słowach prezesa PiS | 19.30 | 29.10.2026",
+        "published": "2026-10-29T18:17:37.000Z",
+        "duration": 1714,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "observedLocal": "19:20",
+      "checked": "2026-10-30T13:33:05.033Z",
+      "observedLocal": "19:17",
       "history": [
         {
           "v": "ujsyvNmiLQk",
@@ -1226,6 +1234,10 @@
         {
           "v": "9s3MkM1e7RU",
           "lag": -9
+        },
+        {
+          "v": "kQhzDFUW34U",
+          "lag": -12
         }
       ],
       "delivery": "live",
@@ -1235,7 +1247,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
@@ -1248,7 +1260,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1258,7 +1270,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
@@ -1272,7 +1284,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "IPROokzwO9w",
@@ -1327,9 +1339,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
-      "observedLocal": "19:57",
+      "upcoming": {
+        "videoId": "FxNnufnkC1o",
+        "title": "Le journal de 20h de France Télévisions - 30 octobre 2026",
+        "scheduledStart": "2026-10-30T18:57:00Z"
+      },
+      "checked": "2026-10-30T13:33:05.033Z",
+      "stale": true,
       "history": [
         {
           "v": "MJplTQ_9fhc",
@@ -1385,7 +1401,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "BbCxIXfCoqU",
@@ -1435,15 +1451,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-10-30T06:25:52.998Z"
+        "checked": "2026-10-30T13:33:05.033Z"
       },
       "history": []
     },
@@ -1457,7 +1473,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1514,7 +1530,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "Fy6QGAegh8Y",
@@ -1570,7 +1586,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1622,12 +1638,12 @@
         "videoId": "ZDForcmAWjc",
         "title": "News At 10 | 29/10/2026",
         "published": "2026-10-29T20:59:51.000Z",
-        "duration": 3690,
+        "duration": 3338,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1684,7 +1700,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1741,7 +1757,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "17:35",
       "history": [
         {
@@ -1790,7 +1806,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "KUI3WHgXLpI",
@@ -1846,7 +1862,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1898,7 +1914,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1945,12 +1961,16 @@
         "videoId": "Y4um0w1X5Tg",
         "title": "Las noticias de la noche, jueves 29 de octubre de 2026 | Noticias Telemundo",
         "published": "2026-10-29T22:59:14.000Z",
-        "duration": 1513,
+        "duration": 1454,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-30T06:25:52.998Z",
+      "upcoming": {
+        "videoId": "iKZO9COODlA",
+        "title": "Las noticias de la noche, viernes 30 de octubre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-10-30T23:00:00Z"
+      },
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2003,7 +2023,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-10-30T23:00:00Z"
       },
-      "checked": "2026-10-30T06:25:52.998Z",
+      "checked": "2026-10-30T13:33:05.033Z",
       "observedLocal": "19:59",
       "history": [
         {
