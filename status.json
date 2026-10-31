@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T02:42:34.420Z",
-  "lastFull": "2026-10-31T02:42:34.420Z",
+  "generated": "2026-10-31T09:57:00.724Z",
+  "lastFull": "2026-10-31T09:57:00.724Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "stale": true,
       "history": [
         {
@@ -87,16 +87,16 @@
     },
     "nmas": {
       "latest": {
-        "videoId": "7yfzEsaCfuE",
-        "title": "Políticos rinden homenaje a Cuauhtémoc Cárdenas | En Punto - 29 de Octubre 2026",
-        "published": "2026-10-30T04:28:29.000Z",
-        "duration": 2237,
+        "videoId": "0JyCN9p9_98",
+        "title": "Sheinbaum rinde homenaje a Cuauhtémoc Cárdenas en Bellas Artes | En Punto - 30 de Octubre 2026",
+        "published": "2026-10-31T04:27:48.000Z",
+        "duration": 2430,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
-      "stale": true,
+      "checked": "2026-10-31T09:57:00.724Z",
+      "observedLocal": "22:27",
       "history": [
         {
           "v": "9SuAcKAQaYg",
@@ -133,9 +133,12 @@
         {
           "v": "7yfzEsaCfuE",
           "lag": -2
+        },
+        {
+          "v": "0JyCN9p9_98",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -147,14 +150,15 @@
         "duration": 4390,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "RgKo7sJm0Dc",
+        "title": "LIVE - Usai Putusan MA, Khozinudin Cs Datangi Rumah Prabowo | KOMPAS PETANG",
+        "start": "2026-10-31T09:00:24Z"
+      },
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
+      "stale": true,
       "history": [
-        {
-          "v": "9iH7RBJicoE",
-          "lag": 71
-        },
         {
           "v": "uPHUxKUrq2E",
           "lag": 175
@@ -190,6 +194,10 @@
         {
           "v": "H5zXsV8jlws",
           "lag": 222
+        },
+        {
+          "v": "RgKo7sJm0Dc",
+          "lag": -60
         }
       ],
       "delivery": "posted",
@@ -205,7 +213,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "ILu6jjyJiE0",
@@ -261,7 +269,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "stale": true,
       "history": [
         {
@@ -315,7 +323,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "p5n6f8DQAE4",
@@ -371,7 +379,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "MBs24_k9bO4",
@@ -427,7 +435,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "17:56",
       "history": [
         {
@@ -484,7 +492,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "stale": true,
       "history": [
         {
@@ -538,7 +546,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -595,7 +603,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "kDrfjeXButc",
@@ -651,7 +659,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -704,7 +712,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
+      "stale": true,
       "history": [
         {
           "v": "Z2HmqUHEocc",
@@ -747,6 +756,7 @@
           "lag": 351
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -760,8 +770,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
-      "observedLocal": "22:39",
+      "checked": "2026-10-31T09:57:00.724Z",
+      "stale": true,
       "history": [
         {
           "v": "Di1NFVFHzec",
@@ -804,6 +814,7 @@
           "lag": 99
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -811,7 +822,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -825,7 +836,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "vfGgOT-ug4I",
@@ -881,7 +892,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -938,7 +949,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "_RM8hPJauVE",
@@ -988,7 +999,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -1002,7 +1013,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1059,7 +1070,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "IW_sd1fsGnQ",
@@ -1115,7 +1126,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "nq3Vdx7FHjI",
@@ -1163,21 +1174,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "KwulxdFo3h8",
-        "title": "Путин задумался о мире. Алешки: война на паузе. Кремль вербует Маска. Новый провал Москвы в Европе",
-        "published": "2026-10-30T14:59:57.000Z",
-        "duration": 4778,
+        "videoId": "k1CphTUbhxI",
+        "title": "Баронесса де Синяк на НТВ. Скандал из клипа Крида. Александр Анатольевич: с MTV на «СВО»",
+        "published": "2026-10-31T04:00:10.000Z",
+        "duration": 4573,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
-      "observedLocal": "15:59",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
-        {
-          "v": "_9WKssqKsJQ",
-          "lag": 119
-        },
         {
           "v": "6pgXGe7Ra7M",
           "lag": 720
@@ -1213,6 +1219,10 @@
         {
           "v": "KwulxdFo3h8",
           "lag": 1260
+        },
+        {
+          "v": "k1CphTUbhxI",
+          "lag": 600
         }
       ],
       "delivery": "posted",
@@ -1228,7 +1238,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1259,7 +1269,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -1272,7 +1282,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1282,7 +1292,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -1296,7 +1306,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "kRdgDU7RZpQ",
@@ -1351,8 +1361,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "upcoming": {
+        "videoId": "F1Fp9DP18H0",
+        "title": "Le journal de 20h de France Télévisions - 31 Octobre 2026",
+        "scheduledStart": "2026-10-31T18:57:00Z"
+      },
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1409,7 +1423,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "Cv8CFsj7pdI",
@@ -1459,7 +1473,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -1467,7 +1481,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-31T02:42:34.420Z"
+        "checked": "2026-10-31T09:57:00.724Z"
       },
       "history": []
     },
@@ -1481,7 +1495,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1538,7 +1552,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "Fy6QGAegh8Y",
@@ -1594,7 +1608,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1651,7 +1665,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1708,7 +1722,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1765,7 +1779,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "stale": true,
       "history": [
         {
@@ -1815,7 +1829,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "ZF9N7CxOWZ8",
@@ -1871,7 +1885,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1927,7 +1941,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -1983,7 +1997,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2036,7 +2050,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T02:42:34.420Z",
+      "checked": "2026-10-31T09:57:00.724Z",
       "observedLocal": "19:59",
       "history": [
         {
