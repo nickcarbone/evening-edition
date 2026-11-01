@@ -1,29 +1,21 @@
 {
-  "generated": "2026-10-31T23:43:39.775Z",
-  "lastFull": "2026-10-31T23:43:39.775Z",
+  "generated": "2026-11-01T06:49:34.980Z",
+  "lastFull": "2026-11-01T06:49:34.980Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "sjE6_D2BwoU",
-        "title": "JORNAL DA CULTURA | Itamaraty investiga participação argentina na fuga de Flávio | 30/10/2026",
-        "published": "2026-10-30T23:55:10.000Z",
-        "duration": 3126,
+        "videoId": "SrrAWx0Args",
+        "title": "JORNAL DA CULTURA |  Cerrado atinge menor nível da série histórica | 31/10/2026",
+        "published": "2026-10-31T23:55:11.000Z",
+        "duration": 3924,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "SrrAWx0Args",
-        "title": "JORNAL DA CULTURA |  Cerrado atinge menor nível da série histórica | 31/10/2026",
-        "scheduledStart": "2026-11-01T00:00:00Z"
-      },
-      "checked": "2026-10-31T23:43:39.775Z",
+      "upcoming": null,
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "1pc_ROEQLeU",
-          "lag": -13
-        },
         {
           "v": "xFMVxSvvS0A",
           "lag": -13
@@ -59,6 +51,10 @@
         {
           "v": "sjE6_D2BwoU",
           "lag": -5
+        },
+        {
+          "v": "SrrAWx0Args",
+          "lag": 1435
         }
       ],
       "delivery": "live",
@@ -66,16 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "eHOGslQ_7xU",
-        "title": "Noticias Caracol | Emisión central fin de semana (25 de octubre de 2026)",
-        "published": "2026-10-26T02:30:31.000Z",
-        "duration": 2264,
+        "videoId": "yLbtDhaADc8",
+        "title": "Noticias Caracol | Emisión central fin de semana (31 de octubre de 2026)",
+        "published": "2026-11-01T01:27:20.000Z",
+        "duration": 1884,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
-      "stale": true,
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -84,6 +79,10 @@
         {
           "v": "eHOGslQ_7xU",
           "lag": 151
+        },
+        {
+          "v": "yLbtDhaADc8",
+          "lag": 87
         }
       ],
       "delivery": "posted",
@@ -99,8 +98,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
-      "observedLocal": "22:27",
+      "checked": "2026-11-01T06:49:34.980Z",
+      "stale": true,
       "history": [
         {
           "v": "9SuAcKAQaYg",
@@ -143,6 +142,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -156,8 +156,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
-      "observedLocal": "16:00",
+      "checked": "2026-11-01T06:49:34.980Z",
+      "stale": true,
       "history": [
         {
           "v": "uPHUxKUrq2E",
@@ -213,7 +213,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "67CBbgwHlno",
@@ -269,7 +269,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "stale": true,
       "history": [
         {
@@ -315,20 +315,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "uBl_bI2UVAQ",
-        "title": "中国共产党第二十届中央委员会第五次全体会议公报 | CCTV「新闻联播」20261029",
-        "published": "2026-10-30T03:18:39.000Z",
-        "duration": 2400,
+        "videoId": "JaHw-WP6QTY",
+        "title": "征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 | CCTV「新闻联播」20261030",
+        "published": "2026-11-01T06:42:59.000Z",
+        "duration": 2700,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
-        {
-          "v": "p5n6f8DQAE4",
-          "lag": 928
-        },
         {
           "v": "5-RhgZK5DPY",
           "lag": 945
@@ -364,10 +360,14 @@
         {
           "v": "uBl_bI2UVAQ",
           "lag": 979
+        },
+        {
+          "v": "JaHw-WP6QTY",
+          "lag": 1183
         }
       ],
       "delivery": "posted",
-      "readyAfter": 955
+      "readyAfter": 980
     },
     "pts": {
       "latest": {
@@ -379,7 +379,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "tAtQlfOQQ_w",
@@ -435,7 +435,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -492,7 +492,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "20:57",
       "history": [
         {
@@ -549,7 +549,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "19:55",
       "history": [
         {
@@ -606,7 +606,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "I1kem_uqTrU",
@@ -657,12 +657,12 @@
         "videoId": "XwXntsTAfJ8",
         "title": "রাত ৮টার সংবাদ",
         "published": "2026-10-31T14:00:05.000Z",
-        "duration": 1824,
+        "duration": 1822,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -719,7 +719,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "nApuE13AX-k",
@@ -775,8 +775,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
-      "observedLocal": "22:12",
+      "checked": "2026-11-01T06:49:34.980Z",
+      "stale": true,
       "history": [
         {
           "v": "McnsluXv7Wk",
@@ -819,6 +819,7 @@
           "lag": 73
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -826,7 +827,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -840,7 +841,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "MjjBYi2okiw",
@@ -896,7 +897,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -953,7 +954,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "X0F9RgG0iaQ",
@@ -1003,7 +1004,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -1017,7 +1018,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1074,7 +1075,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "lg6dtawPxpc",
@@ -1130,7 +1131,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "iyHEI0-r7OA",
@@ -1178,21 +1179,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "pbWiazFAUqQ",
-        "title": "Угроза теракта в Москве. Звезда «Игры престолов» в Киеве. Собчак ответила Латвии",
-        "published": "2026-10-31T14:59:45.000Z",
-        "duration": 3647,
+        "videoId": "HhiDbqjejXU",
+        "title": "Самая изощренная манипуляция — через помощь | Связка «Спасатель — Жертва»",
+        "published": "2026-11-01T06:00:02.000Z",
+        "duration": 3357,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
-        {
-          "v": "FZbQ5bKoBrw",
-          "lag": 720
-        },
         {
           "v": "COV5yN7Gmus",
           "lag": 1019
@@ -1228,6 +1224,10 @@
         {
           "v": "T7O7tUnGdKs",
           "lag": 1019
+        },
+        {
+          "v": "HhiDbqjejXU",
+          "lag": null
         }
       ],
       "delivery": "posted",
@@ -1243,7 +1243,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "19:22",
       "history": [
         {
@@ -1278,7 +1278,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -1291,7 +1291,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1301,7 +1301,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -1315,7 +1315,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "Bemx6OAmR9A",
@@ -1371,7 +1371,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1428,7 +1428,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "T1I9Mpb1D6E",
@@ -1478,7 +1478,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -1486,7 +1486,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-10-31T23:43:39.775Z"
+        "checked": "2026-11-01T06:49:34.980Z"
       },
       "history": []
     },
@@ -1500,7 +1500,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1557,7 +1557,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "2NWjkAVMzqY",
@@ -1613,7 +1613,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1670,7 +1670,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1719,21 +1719,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "lhoByJPRl5s",
-        "title": "Global National: Oct. 30, 2026 | World's biggest heist from Binance worth $6.3B in cryptocurrency",
-        "published": "2026-10-31T02:00:08.000Z",
-        "duration": 1347,
+        "videoId": "mrTOpTAbZkc",
+        "title": "Global National: Oct. 31, 2026 | Russia-Ukraine war divides G20 foreign ministers at Atlanta talks",
+        "published": "2026-11-01T02:00:10.000Z",
+        "duration": 1326,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "1p9e0cZGmwY",
-          "lag": 270
-        },
         {
           "v": "Q0tWfPUO9tw",
           "lag": 270
@@ -1769,6 +1765,10 @@
         {
           "v": "lhoByJPRl5s",
           "lag": 270
+        },
+        {
+          "v": "mrTOpTAbZkc",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1784,7 +1784,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "stale": true,
       "history": [
         {
@@ -1834,7 +1834,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "ZF9N7CxOWZ8",
@@ -1890,7 +1890,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "ECTn-iO356M",
@@ -1946,7 +1946,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "history": [
         {
           "v": "N7-sBNIRg20",
@@ -2002,7 +2002,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2055,7 +2055,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-10-31T23:43:39.775Z",
+      "checked": "2026-11-01T06:49:34.980Z",
       "observedLocal": "19:59",
       "history": [
         {
