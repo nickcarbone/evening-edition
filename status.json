@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T02:44:06.564Z",
-  "lastFull": "2026-11-02T02:44:06.564Z",
+  "generated": "2026-11-02T11:40:18.004Z",
+  "lastFull": "2026-11-02T11:40:18.004Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -102,7 +102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -160,7 +160,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
+      "stale": true,
       "history": [
         {
           "v": "sUVCfUvlW6I",
@@ -208,20 +209,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "AEt2ohTvWjM",
-        "title": "無綫TVB六點半新聞報道｜俄羅斯烏克蘭於奧列什基實施局部停火 部分居民撤離到烏克蘭｜特朗普指弗拉維奧可無限期留在美國 暫未有計劃與其會面｜澳洲悉尼有大學發起模擬競賽讓學生以AI操控社交媒體干預投票手段",
-        "published": "2026-11-01T10:59:22.000Z",
-        "duration": 2400,
+        "videoId": "L74XZk07oFg",
+        "title": "無綫TVB六點半新聞報道｜全國人大常委會會議審議多項法律修訂草案 包括擬修改刑事訴訟法｜廣州前市委書記郭永航嚴重違紀違法｜美國佛州有商務飛機墜毀機上9人全部喪生 墜落速度最高達1分鐘3萬呎｜TVB",
+        "published": "2026-11-02T10:53:40.000Z",
+        "duration": 2009,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
-        {
-          "v": "fklfINQQO7Q",
-          "lag": 17
-        },
         {
           "v": "AZo32q4gyEQ",
           "lag": 128
@@ -257,6 +254,10 @@
         {
           "v": "AEt2ohTvWjM",
           "lag": 29
+        },
+        {
+          "v": "L74XZk07oFg",
+          "lag": 24
         }
       ],
       "delivery": "posted",
@@ -270,9 +271,13 @@
         "duration": 4829,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "9eca6KtCIXA",
+        "title": "LIVE: TV Patrol Livestream | November 2, 2026 Full Episode",
+        "start": "2026-11-02T10:23:03Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -310,28 +315,27 @@
         {
           "v": "cPLD2md8D1g",
           "lag": -10
+        },
+        {
+          "v": "9eca6KtCIXA",
+          "lag": -7
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "yqS9NYjiWY0",
-        "title": "【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章 | CCTV「新闻联播」20261031",
-        "published": "2026-11-01T07:11:43.000Z",
-        "duration": 1800,
+        "videoId": "-cfgDW2hpWQ",
+        "title": "习近平关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明 | CCTV「新闻联播」20261101",
+        "published": "2026-11-02T02:52:46.000Z",
+        "duration": 2699,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
-        {
-          "v": "D29j12qlGKw",
-          "lag": 948
-        },
         {
           "v": "MAPRdcJdofQ",
           "lag": 939
@@ -367,6 +371,10 @@
         {
           "v": "yqS9NYjiWY0",
           "lag": 1212
+        },
+        {
+          "v": "-cfgDW2hpWQ",
+          "lag": 953
         }
       ],
       "delivery": "posted",
@@ -382,7 +390,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "FlqPLzw96lA",
@@ -438,8 +446,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
-      "observedLocal": "18:01",
+      "checked": "2026-11-02T11:40:18.004Z",
+      "stale": true,
       "history": [
         {
           "v": "TrVc4ZtjajI",
@@ -482,6 +490,7 @@
           "lag": 1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -494,8 +503,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "upcoming": {
+        "videoId": "2-eXjkqQX2Q",
+        "title": "[🔴LIVE] 뉴스9 – 11월 2일(월) / KBS",
+        "scheduledStart": "2026-11-02T12:00:00Z"
+      },
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -539,7 +552,6 @@
           "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -548,12 +560,12 @@
         "videoId": "K9gwDSNkrWY",
         "title": "Suami, Isteri Maut MPV Dihempap Lori Muatan Tar | Buletin Utama, 1 November 2026",
         "published": "2026-11-01T11:56:04.000Z",
-        "duration": 3588,
+        "duration": 3480,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -610,7 +622,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "_qk_fuD85-k",
@@ -666,7 +678,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -723,7 +735,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
+      "stale": true,
       "history": [
         {
           "v": "qEytwHb0tPs",
@@ -766,6 +779,7 @@
           "lag": 159
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -779,8 +793,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
-      "observedLocal": "22:14",
+      "checked": "2026-11-02T11:40:18.004Z",
+      "stale": true,
       "history": [
         {
           "v": "emE_Kzs-t3U",
@@ -823,6 +837,7 @@
           "lag": 75
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -830,7 +845,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -844,7 +859,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
+      "stale": true,
       "history": [
         {
           "v": "86rfFyLyiK8",
@@ -887,6 +903,7 @@
           "lag": 52
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
@@ -900,7 +917,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -957,7 +974,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "tLm1yJTXIEY",
@@ -1007,7 +1024,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -1021,7 +1038,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1078,7 +1095,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "YM7PgNPZ810",
@@ -1134,7 +1151,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "JGubl89d3bg",
@@ -1182,25 +1199,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "uxDQYgClIIU",
-        "title": "Дефицит бензина. Угроза теракта в Москве: задержан подросток. Петербуржца избили и послали на фронт",
-        "published": "2026-11-01T14:59:29.000Z",
-        "duration": 3145,
+        "videoId": "QaAkcmxKb-U",
+        "title": "Россия атаковала больницу в Херсоне. Взломали телефоны немецких депутатов. Имитация полета на Марс",
+        "published": "2026-11-02T10:59:34.000Z",
+        "duration": 2031,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "jzQnEgoSNSw",
-        "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
-        "scheduledStart": "2026-11-02T06:00:00Z"
-      },
-      "checked": "2026-11-02T02:44:06.564Z",
-      "observedLocal": "15:59",
+      "upcoming": null,
+      "checked": "2026-11-02T11:40:18.004Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "i_AuLD-q3Sg",
-          "lag": 719
-        },
         {
           "v": "BoC4qS-g_TU",
           "lag": 541
@@ -1236,6 +1245,10 @@
         {
           "v": "uxDQYgClIIU",
           "lag": null
+        },
+        {
+          "v": "QaAkcmxKb-U",
+          "lag": null
         }
       ],
       "delivery": "posted",
@@ -1251,7 +1264,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "19:22",
       "history": [
         {
@@ -1286,7 +1299,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -1299,7 +1312,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1309,7 +1322,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -1323,7 +1336,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "J8V20jgbiqc",
@@ -1378,8 +1391,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "upcoming": {
+        "videoId": "qrE1aGLSrcQ",
+        "title": "Le journal de 20h de France Télévisions - 02 Nov 2026",
+        "scheduledStart": "2026-11-02T18:57:00Z"
+      },
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1436,7 +1453,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "LLKGZr5feF4",
@@ -1486,7 +1503,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -1494,7 +1511,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-02T02:44:06.564Z"
+        "checked": "2026-11-02T11:40:18.004Z"
       },
       "history": []
     },
@@ -1508,7 +1525,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1565,7 +1582,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "lEdMzoG4dxs",
@@ -1621,7 +1638,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1678,7 +1695,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1727,25 +1744,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "mrTOpTAbZkc",
-        "title": "Global National: Oct. 31, 2026 | Russia-Ukraine war divides G20 foreign ministers at Atlanta talks",
-        "published": "2026-11-01T02:00:10.000Z",
-        "duration": 1326,
+        "videoId": "1a0tycgnB44",
+        "title": "Global National: Nov. 1, 2026 | 4 teenagers killed in Puslinch, Ontario, crash",
+        "published": "2026-11-02T03:00:10.000Z",
+        "duration": 1355,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "1a0tycgnB44",
-        "title": "Global National: Nov. 1, 2026 | 4 teenagers killed in Puslinch, Ontario, crash",
-        "scheduledStart": "2026-11-02T03:00:00Z"
-      },
-      "checked": "2026-11-02T02:44:06.564Z",
+      "upcoming": null,
+      "checked": "2026-11-02T11:40:18.004Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "Q0tWfPUO9tw",
-          "lag": 270
-        },
         {
           "v": "zd5Tl3G5iqA",
           "lag": 270
@@ -1781,6 +1790,10 @@
         {
           "v": "mrTOpTAbZkc",
           "lag": 270
+        },
+        {
+          "v": "1a0tycgnB44",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1796,7 +1809,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -1846,7 +1859,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "ZF9N7CxOWZ8",
@@ -1902,7 +1915,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "history": [
         {
           "v": "gq00OwraXYs",
@@ -1958,7 +1971,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -2016,7 +2029,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
@@ -2070,7 +2083,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T02:44:06.564Z",
+      "checked": "2026-11-02T11:40:18.004Z",
       "stale": true,
       "history": [
         {
