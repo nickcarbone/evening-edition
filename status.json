@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T23:04:21.487Z",
-  "lastFull": "2026-11-01T23:04:21.487Z",
+  "generated": "2026-11-02T02:44:06.564Z",
+  "lastFull": "2026-11-02T02:44:06.564Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -62,15 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "yLbtDhaADc8",
-        "title": "Noticias Caracol | Emisión central fin de semana (31 de octubre de 2026)",
-        "published": "2026-11-01T01:27:20.000Z",
-        "duration": 1884,
+        "videoId": "no-mlxlzMIM",
+        "title": "Noticias Caracol | Emisión central fin de semana (01 de noviembre de 2026)",
+        "published": "2026-11-02T02:15:16.000Z",
+        "duration": 3523,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -83,6 +83,10 @@
         {
           "v": "yLbtDhaADc8",
           "lag": 87
+        },
+        {
+          "v": "no-mlxlzMIM",
+          "lag": 135
         }
       ],
       "delivery": "posted",
@@ -98,7 +102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [
         {
@@ -156,7 +160,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "sUVCfUvlW6I",
@@ -212,7 +216,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "fklfINQQO7Q",
@@ -268,7 +272,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [
         {
@@ -322,7 +326,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "D29j12qlGKw",
@@ -378,7 +382,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "FlqPLzw96lA",
@@ -434,7 +438,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -491,8 +495,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-02T02:44:06.564Z",
+      "stale": true,
       "history": [
         {
           "v": "eoaHS92J_MU",
@@ -535,6 +539,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -548,7 +553,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -605,7 +610,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "_qk_fuD85-k",
@@ -661,7 +666,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -718,7 +723,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "qEytwHb0tPs",
@@ -774,7 +779,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "22:14",
       "history": [
         {
@@ -825,7 +830,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -839,7 +844,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "86rfFyLyiK8",
@@ -895,7 +900,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -952,7 +957,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "tLm1yJTXIEY",
@@ -1000,9 +1005,9 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -1016,7 +1021,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1073,7 +1078,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "YM7PgNPZ810",
@@ -1129,7 +1134,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "JGubl89d3bg",
@@ -1189,7 +1194,7 @@
         "title": "Утро на Дожде. Трансляция начнется в 9:00 мск",
         "scheduledStart": "2026-11-02T06:00:00Z"
       },
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1246,7 +1251,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "19:22",
       "history": [
         {
@@ -1281,7 +1286,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -1294,7 +1299,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1304,7 +1309,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -1318,7 +1323,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "J8V20jgbiqc",
@@ -1374,7 +1379,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1431,7 +1436,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "LLKGZr5feF4",
@@ -1481,7 +1486,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -1489,7 +1494,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-01T23:04:21.487Z"
+        "checked": "2026-11-02T02:44:06.564Z"
       },
       "history": []
     },
@@ -1503,7 +1508,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1560,7 +1565,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "lEdMzoG4dxs",
@@ -1616,7 +1621,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1666,14 +1671,14 @@
     "channels": {
       "latest": {
         "videoId": "2O-WxcMuDPw",
-        "title": "News At 10",
+        "title": "News At 10 | 01/11/2026",
         "published": "2026-11-01T20:59:03.000Z",
-        "duration": 3705,
+        "duration": 3261,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1729,8 +1734,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "upcoming": {
+        "videoId": "1a0tycgnB44",
+        "title": "Global National: Nov. 1, 2026 | 4 teenagers killed in Puslinch, Ontario, crash",
+        "scheduledStart": "2026-11-02T03:00:00Z"
+      },
+      "checked": "2026-11-02T02:44:06.564Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1787,7 +1796,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [
         {
@@ -1837,7 +1846,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
         {
           "v": "ZF9N7CxOWZ8",
@@ -1885,20 +1894,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "kxB2HqO-u7I",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 30",
-        "published": "2026-10-31T01:55:16.000Z",
-        "duration": 1261,
+        "videoId": "nZfZTYOC5MU",
+        "title": "NBC Nightly News Full Episode - Nov. 1",
+        "published": "2026-11-02T00:55:29.000Z",
+        "duration": 1208,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "history": [
-        {
-          "v": "ECTn-iO356M",
-          "lag": 207
-        },
         {
           "v": "gq00OwraXYs",
           "lag": 207
@@ -1934,6 +1939,10 @@
         {
           "v": "kxB2HqO-u7I",
           "lag": 205
+        },
+        {
+          "v": "nZfZTYOC5MU",
+          "lag": 85
         }
       ],
       "delivery": "posted",
@@ -1949,7 +1958,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [
         {
@@ -2007,8 +2016,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
-      "observedLocal": "18:59",
+      "checked": "2026-11-02T02:44:06.564Z",
+      "stale": true,
       "history": [
         {
           "v": "7hmiy1oz5A0",
@@ -2047,6 +2056,7 @@
           "lag": 29
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
@@ -2060,7 +2070,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-01T23:04:21.487Z",
+      "checked": "2026-11-02T02:44:06.564Z",
       "stale": true,
       "history": [
         {
