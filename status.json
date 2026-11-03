@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-02T20:53:39.857Z",
-  "lastFull": "2026-11-02T20:53:39.857Z",
+  "generated": "2026-11-03T03:03:55.241Z",
+  "lastFull": "2026-11-03T03:03:55.241Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "SrrAWx0Args",
-        "title": "JORNAL DA CULTURA |  Cerrado atinge menor nível da série histórica | 31/10/2026",
-        "published": "2026-10-31T23:55:11.000Z",
-        "duration": 3924,
+        "videoId": "p-ut_VCZOBY",
+        "title": "JORNAL DA CULTURA | 02/11/2026",
+        "published": "2026-11-02T23:55:11.000Z",
+        "duration": 3907,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "p-ut_VCZOBY",
-        "title": "JORNAL DA CULTURA | 02/11/2026",
-        "scheduledStart": "2026-11-03T00:00:00Z"
-      },
-      "checked": "2026-11-02T20:53:39.857Z",
+      "upcoming": null,
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "xFMVxSvvS0A",
-          "lag": -13
-        },
         {
           "v": "ha6vAIFsqnw",
           "lag": -13
@@ -59,6 +51,10 @@
         {
           "v": "SrrAWx0Args",
           "lag": 1435
+        },
+        {
+          "v": "p-ut_VCZOBY",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -66,15 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "no-mlxlzMIM",
-        "title": "Noticias Caracol | Emisión central fin de semana (01 de noviembre de 2026)",
-        "published": "2026-11-02T02:15:16.000Z",
-        "duration": 3523,
+        "videoId": "AYVAYLuqh60",
+        "title": "Noticias Caracol | Emisión central fin de semana (02 de noviembre de 2026)",
+        "published": "2026-11-03T02:43:26.000Z",
+        "duration": 3653,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -91,6 +87,10 @@
         {
           "v": "no-mlxlzMIM",
           "lag": 135
+        },
+        {
+          "v": "AYVAYLuqh60",
+          "lag": 163
         }
       ],
       "delivery": "posted",
@@ -106,7 +106,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "stale": true,
       "history": [
         {
@@ -164,7 +164,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "nio2dhmOcJI",
@@ -220,7 +220,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "AZo32q4gyEQ",
@@ -276,8 +276,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
-      "observedLocal": "18:23",
+      "checked": "2026-11-03T03:03:55.241Z",
+      "stale": true,
       "history": [
         {
           "v": "dK3eiIyE7a4",
@@ -320,6 +320,7 @@
           "lag": -7
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -333,7 +334,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "MAPRdcJdofQ",
@@ -389,7 +390,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "r-hhvOyh7BA",
@@ -445,7 +446,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -502,7 +503,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "stale": true,
       "history": [
         {
@@ -546,6 +547,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -559,7 +561,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -616,7 +618,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "CsCGmy6RMaE",
@@ -672,7 +674,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -729,7 +731,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "W3JfCLlvkbc",
@@ -785,7 +787,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "22:49",
       "history": [
         {
@@ -836,7 +838,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -850,7 +852,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "xmQRfVbapoQ",
@@ -906,7 +908,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -963,7 +965,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "VyLCxy8ac2M",
@@ -1011,9 +1013,9 @@
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -1027,7 +1029,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1084,7 +1086,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "y2eNMmhUwNA",
@@ -1140,7 +1142,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "148F8QY4Yac",
@@ -1188,21 +1190,20 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "BFr4v39FQmw",
-        "title": "Зеленский выдвинул ультиматум Трампу. Якубович в базе ГУР. Россияне остались без денег в Сербии",
-        "published": "2026-11-02T15:00:10.000Z",
-        "duration": 3000,
+        "videoId": "-kJiF1uUm2I",
+        "title": "Симоньян и запрещенные вещества. Соловьев ругает Котрикадзе. Малахов и белки-зомби. Киборг-Путин",
+        "published": "2026-11-03T03:00:12.000Z",
+        "duration": 1830,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
-      "observedLocal": "16:00",
+      "upcoming": {
+        "videoId": "9fFDhtTFV_w",
+        "title": "Утро на Дожде с Анной Монгайт в 9.00 мск",
+        "scheduledStart": "2026-11-03T06:00:00Z"
+      },
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
-        {
-          "v": "ynCnt94io3I",
-          "lag": 1020
-        },
         {
           "v": "KwulxdFo3h8",
           "lag": 1260
@@ -1238,6 +1239,10 @@
         {
           "v": "BFr4v39FQmw",
           "lag": null
+        },
+        {
+          "v": "-kJiF1uUm2I",
+          "lag": 540
         }
       ],
       "delivery": "posted",
@@ -1253,7 +1258,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:22",
       "history": [
         {
@@ -1288,7 +1293,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -1301,7 +1306,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1311,7 +1316,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -1325,7 +1330,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "pM6Rh5wNk-k",
@@ -1381,7 +1386,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1438,7 +1443,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
         {
           "v": "EFZc12PojYQ",
@@ -1488,7 +1493,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -1496,7 +1501,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-02T20:53:39.857Z"
+        "checked": "2026-11-03T03:03:55.241Z"
       },
       "history": []
     },
@@ -1505,12 +1510,12 @@
         "videoId": "APjprHyeea4",
         "title": "LIVE: News360; Gov't Approves Arrears Payment For JUSAG ||  02-10-2026",
         "published": "2026-11-02T19:00:38.000Z",
-        "duration": 3660,
+        "duration": 3666,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1559,20 +1564,16 @@
     },
     "rti": {
       "latest": {
-        "videoId": "CNyDTtPqslA",
-        "title": "Le 20 Heures de RTI 1 du 01 novembre 2026 par Hermann Guivé",
-        "published": "2026-11-01T21:17:28.000Z",
-        "duration": 1882,
+        "videoId": "0Aaz6SMbFNc",
+        "title": "Le 20 Heures de RTI 1 du 02 novembre 2026 par Fatou Fofana",
+        "published": "2026-11-02T21:20:58.000Z",
+        "duration": 1838,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
-        {
-          "v": "lEdMzoG4dxs",
-          "lag": 95
-        },
         {
           "v": "3G2Y2JXdY2k",
           "lag": 87
@@ -1608,6 +1609,10 @@
         {
           "v": "CNyDTtPqslA",
           "lag": 77
+        },
+        {
+          "v": "0Aaz6SMbFNc",
+          "lag": 81
         }
       ],
       "delivery": "posted",
@@ -1623,7 +1628,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1672,25 +1677,17 @@
     },
     "channels": {
       "latest": {
-        "videoId": "2O-WxcMuDPw",
-        "title": "News At 10 | 01/11/2026",
-        "published": "2026-11-01T20:59:03.000Z",
-        "duration": 3261,
+        "videoId": "fTPyUUp9G9c",
+        "title": "News At 10",
+        "published": "2026-11-02T21:00:16.000Z",
+        "duration": 3630,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "fTPyUUp9G9c",
-        "title": "News At 10",
-        "scheduledStart": "2026-11-02T21:00:00Z"
-      },
-      "checked": "2026-11-02T20:53:39.857Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-03T03:03:55.241Z",
+      "observedLocal": "22:00",
       "history": [
-        {
-          "v": "gWA7uELcqiQ",
-          "lag": 3
-        },
         {
           "v": "eKhX9WjPEVM",
           "lag": 1
@@ -1726,6 +1723,10 @@
         {
           "v": "2O-WxcMuDPw",
           "lag": -1
+        },
+        {
+          "v": "fTPyUUp9G9c",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1739,15 +1740,15 @@
         "duration": 1210,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "rMW8VfaiijI",
+        "title": "Global National: Nov. 2, 2026 | Republicans, Democrats make final pitches to voters before midterms",
+        "start": "2026-11-03T03:00:06Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "zd5Tl3G5iqA",
-          "lag": 270
-        },
         {
           "v": "YhiWc4GbnkE",
           "lag": 150
@@ -1783,6 +1784,10 @@
         {
           "v": "1a0tycgnB44",
           "lag": 270
+        },
+        {
+          "v": "rMW8VfaiijI",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1790,20 +1795,16 @@
     },
     "rcan": {
       "latest": {
-        "videoId": "3_D3n-IKbec",
-        "title": "LSQ - Le téléjournal 18 h du jeudi 29 octobre 2026",
-        "published": "2026-10-29T21:35:05.000Z",
-        "duration": 2861,
+        "videoId": "LDwCa_wzO_o",
+        "title": "LSQ - Le téléjournal 18 h du lundi 2 novembre 2026",
+        "published": "2026-11-02T22:31:38.000Z",
+        "duration": 3076,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "LDwCa_wzO_o",
-        "title": "LSQ - Le téléjournal 18 h du lundi 2 novembre 2026",
-        "scheduledStart": "2026-11-02T23:00:00Z"
-      },
-      "checked": "2026-11-02T20:53:39.857Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-03T03:03:55.241Z",
+      "observedLocal": "17:31",
       "history": [
         {
           "v": "V6Bo74uMy_s",
@@ -1836,6 +1837,10 @@
         {
           "v": "3_D3n-IKbec",
           "lag": -25
+        },
+        {
+          "v": "LDwCa_wzO_o",
+          "lag": -28
         }
       ],
       "delivery": "live",
@@ -1843,20 +1848,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "KIjeMHrR9IM",
-        "title": "PBS News Hour full episode, Oct. 30, 2026",
-        "published": "2026-10-30T23:21:58.000Z",
+        "videoId": "OpJqDti4PrE",
+        "title": "PBS News Hour full episode, Nov. 2, 2026",
+        "published": "2026-11-03T00:34:56.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
-        {
-          "v": "ZF9N7CxOWZ8",
-          "lag": 74
-        },
         {
           "v": "F0p_t03WJYQ",
           "lag": 84
@@ -1892,6 +1893,10 @@
         {
           "v": "KIjeMHrR9IM",
           "lag": 82
+        },
+        {
+          "v": "OpJqDti4PrE",
+          "lag": 95
         }
       ],
       "delivery": "posted",
@@ -1899,20 +1904,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "nZfZTYOC5MU",
-        "title": "NBC Nightly News Full Episode - Nov. 1",
-        "published": "2026-11-02T00:55:29.000Z",
-        "duration": 1208,
+        "videoId": "rIQ4xuwo7m0",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 2",
+        "published": "2026-11-03T02:55:39.000Z",
+        "duration": 1241,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
-        {
-          "v": "gq00OwraXYs",
-          "lag": 207
-        },
         {
           "v": "j7fxfUJvnBI",
           "lag": 211
@@ -1948,6 +1949,10 @@
         {
           "v": "nZfZTYOC5MU",
           "lag": 85
+        },
+        {
+          "v": "rIQ4xuwo7m0",
+          "lag": 206
         }
       ],
       "delivery": "posted",
@@ -1955,21 +1960,16 @@
     },
     "abc": {
       "latest": {
-        "videoId": "ffTyZvmAS4g",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 30, 2026",
-        "published": "2026-10-31T02:00:21.000Z",
-        "duration": 1229,
+        "videoId": "PINv0sphqZI",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 2, 2026",
+        "published": "2026-11-03T03:00:10.000Z",
+        "duration": 1238,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
-      "stale": true,
+      "checked": "2026-11-03T03:03:55.241Z",
       "history": [
-        {
-          "v": "N7-sBNIRg20",
-          "lag": 210
-        },
         {
           "v": "kuNd0CQigGQ",
           "lag": 210
@@ -2005,28 +2005,27 @@
         {
           "v": "ffTyZvmAS4g",
           "lag": 210
+        },
+        {
+          "v": "PINv0sphqZI",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
     "telemundo": {
       "latest": {
-        "videoId": "iKZO9COODlA",
-        "title": "Las noticias de la noche, viernes 30 de octubre de 2026 | Noticias Telemundo",
-        "published": "2026-10-30T22:59:13.000Z",
-        "duration": 1509,
+        "videoId": "xaew2VJrXao",
+        "title": "Las noticias de la noche, lunes 2 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-02T23:59:17.000Z",
+        "duration": 1505,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "xaew2VJrXao",
-        "title": "EN VIVO: Las noticias de la noche, lunes 2 de noviembre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-11-03T00:00:00Z"
-      },
-      "checked": "2026-11-02T20:53:39.857Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-03T03:03:55.241Z",
+      "observedLocal": "18:59",
       "history": [
         {
           "v": "7hmiy1oz5A0",
@@ -2063,6 +2062,10 @@
         {
           "v": "iKZO9COODlA",
           "lag": 29
+        },
+        {
+          "v": "xaew2VJrXao",
+          "lag": 29
         }
       ],
       "delivery": "posted",
@@ -2070,16 +2073,20 @@
     },
     "telenoche": {
       "latest": {
-        "videoId": "DUSg3SPYODY",
-        "title": "OPERATIVO PAPA: Argentina se prepara para recibir a León XIV | TELENOCHE 30/10/26",
-        "published": "2026-10-30T22:59:58.000Z",
-        "duration": 3102,
+        "videoId": "Om7Yej-D-s0",
+        "title": "¡QUÉ BODA! Lali y Pedro sorprendieron con detalles inesperados en su gran noche | TELENOCHE 02/11/26",
+        "published": "2026-11-02T23:00:51.000Z",
+        "duration": 3067,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-02T20:53:39.857Z",
-      "stale": true,
+      "upcoming": {
+        "videoId": "mKR1Jhp55RY",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-11-03T23:00:00Z"
+      },
+      "checked": "2026-11-03T03:03:55.241Z",
+      "observedLocal": "20:00",
       "history": [
         {
           "v": "rXK5Y2-hHec",
@@ -2116,9 +2123,12 @@
         {
           "v": "DUSg3SPYODY",
           "lag": 0
+        },
+        {
+          "v": "Om7Yej-D-s0",
+          "lag": 1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
