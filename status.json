@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T06:58:01.774Z",
-  "lastFull": "2026-11-04T06:58:01.774Z",
+  "generated": "2026-11-04T15:45:38.152Z",
+  "lastFull": "2026-11-04T15:45:38.152Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "CV_tXBlAuFM",
         "title": "JORNAL DA CULTURA | Democratas devem conquistar maioria do Congresso | 03/11/2026",
         "published": "2026-11-03T23:55:12.000Z",
-        "duration": 3964,
+        "duration": 3114,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -110,7 +110,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "22:28",
       "history": [
         {
@@ -159,20 +159,16 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "l2KoXHVE4g0",
-        "title": "Denny Indrayana Minta Wapres Gibran Mundur usai Putusan MA Batalkan Suket | KOMPAS PETANG",
-        "published": "2026-11-04T03:34:29.000Z",
-        "duration": 4223,
+        "videoId": "GzoH8phr84w",
+        "title": "Parpol Minta Otak Penyadapan Presiden Prabowo Dibongkar | KOMPAS PETANG",
+        "published": "2026-11-04T11:45:08.000Z",
+        "duration": 4391,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
-        {
-          "v": "iO0ibL-By3s",
-          "lag": -60
-        },
         {
           "v": "_kNw6IslAOA",
           "lag": 96
@@ -208,6 +204,10 @@
         {
           "v": "l2KoXHVE4g0",
           "lag": 1054
+        },
+        {
+          "v": "GzoH8phr84w",
+          "lag": 105
         }
       ],
       "delivery": "posted",
@@ -215,20 +215,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "KmezeDQ3cf8",
-        "title": "無綫TVB六點半新聞報道｜中國美國代表商雙邊農產品貿易 據報中國今年採購美國非大豆農產品或跌至七年最低｜美國中期選舉著眼關鍵戰場州　分析指農民生計等成影響選民投票決定因素｜20261103 TVB",
-        "published": "2026-11-03T10:48:07.000Z",
-        "duration": 2045,
+        "videoId": "dvJ4UAMLYyE",
+        "title": "無綫TVB六點半新聞報道｜美國中期選舉結果｜CNN指民主黨可奪回參眾議院控制權 特朗普稱願接受結果｜特朗普政府將變「跛腳鴨」　分析料重創總統共和黨內影響力｜格陵蘭議會通過丹麥及美國簽訂安全協議｜TVB",
+        "published": "2026-11-04T11:02:05.000Z",
+        "duration": 2018,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
-        {
-          "v": "oJTGP8pBAHU",
-          "lag": 25
-        },
         {
           "v": "Zw-X2WFE2sg",
           "lag": 30
@@ -264,28 +260,28 @@
         {
           "v": "KmezeDQ3cf8",
           "lag": 18
+        },
+        {
+          "v": "dvJ4UAMLYyE",
+          "lag": 32
         }
       ],
       "delivery": "posted",
-      "readyAfter": 30
+      "readyAfter": 35
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "9O_dV5KnNhs",
-        "title": "TV Patrol Livestream | November 3, 2026 Full Episode Replay",
-        "published": "2026-11-03T10:20:15.000Z",
-        "duration": 4660,
+        "videoId": "raHM2Lnsd5s",
+        "title": "TV Patrol Livestream | November 4, 2026 Full Episode Replay",
+        "published": "2026-11-04T10:19:39.000Z",
+        "duration": 4764,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "stale": true,
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "18:19",
       "history": [
-        {
-          "v": "VnQjTeBVwKg",
-          "lag": -9
-        },
         {
           "v": "hCPe-vBlMIg",
           "lag": -10
@@ -321,9 +317,12 @@
         {
           "v": "9O_dV5KnNhs",
           "lag": -10
+        },
+        {
+          "v": "raHM2Lnsd5s",
+          "lag": -10
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -337,7 +336,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "uT-ZMz6By-U",
@@ -385,20 +384,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "sFqe22tuRno",
-        "title": "20261103 公視晚間新聞 完整版（無網路版權內容除外）｜北投中繼市場鷹架倒塌釀4傷 蔣萬安勒令停工徹查重罰250萬",
-        "published": "2026-11-03T12:39:54.000Z",
-        "duration": 3088,
+        "videoId": "zXG0CpxG0CA",
+        "title": "20261104 公視晚間新聞 完整版｜民主黨近40年首度翻轉德州參院 期中選舉奪下參眾兩院",
+        "published": "2026-11-04T12:55:22.000Z",
+        "duration": 3420,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
-        {
-          "v": "daY0vYIQpbY",
-          "lag": 56
-        },
         {
           "v": "jr3X7lJEUx0",
           "lag": 101
@@ -434,28 +429,28 @@
         {
           "v": "sFqe22tuRno",
           "lag": 100
+        },
+        {
+          "v": "zXG0CpxG0CA",
+          "lag": 115
         }
       ],
       "delivery": "posted",
-      "readyAfter": 105
+      "readyAfter": 110
     },
     "thaipbs": {
       "latest": {
-        "videoId": "A-IVuiIUBuI",
-        "title": "ข่าวค่ำ | 3 พ.ย. 69",
-        "published": "2026-11-03T11:01:55.000Z",
-        "duration": 8988,
+        "videoId": "XcbZrTFpreE",
+        "title": "ข่าวค่ำ | 4 พ.ย. 69",
+        "published": "2026-11-04T11:02:08.000Z",
+        "duration": 9005,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "18:01",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "18:02",
       "history": [
-        {
-          "v": "Z7E5JKdBNeU",
-          "lag": 0
-        },
         {
           "v": "5Y6NyyiOl7w",
           "lag": 0
@@ -491,6 +486,10 @@
         {
           "v": "A-IVuiIUBuI",
           "lag": 2
+        },
+        {
+          "v": "XcbZrTFpreE",
+          "lag": 2
         }
       ],
       "delivery": "live",
@@ -498,21 +497,17 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "f6hdnX65qM4",
-        "title": "[풀영상] 뉴스9 : [단독] 유출 ‘1호기 명단’ 파일 저자, 외교부 영문 약칭 ‘mofa’…이 대통령 여권 재발급, 경찰 수사 착수 – 2026년 11월 3일(화) / KBS",
-        "published": "2026-11-03T11:57:23.000Z",
-        "duration": 2729,
+        "videoId": "XT7ipqwo2_s",
+        "title": "[풀영상] 뉴스9 : 미 중간선거 민주당 상·하원 ‘압승’, 트럼프 ‘패배’ 인정 – 2026년 11월 4일(수) / KBS",
+        "published": "2026-11-04T11:57:24.000Z",
+        "duration": 2815,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "stale": true,
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "20:57",
       "history": [
-        {
-          "v": "DEQqdzTjMVA",
-          "lag": -2
-        },
         {
           "v": "LRWFZ3Qa06Q",
           "lag": -2
@@ -548,29 +543,28 @@
         {
           "v": "f6hdnX65qM4",
           "lag": -3
+        },
+        {
+          "v": "XT7ipqwo2_s",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "LkLUeQGnG-Q",
-        "title": "PM Arah RTB Sungai Buloh, Sungai Damansara Dipercepat | Buletin Utama, 3 November 2026",
-        "published": "2026-11-03T11:57:14.000Z",
-        "duration": 3578,
+        "videoId": "9ZHateLsFGw",
+        "title": "864 VVIP Termasuk Ahli Parlimen, Gagal Bayar Caruman PERKESO | Buletin Utama, 4 November 2026",
+        "published": "2026-11-04T11:56:57.000Z",
+        "duration": 3598,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "19:57",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "19:56",
       "history": [
-        {
-          "v": "7N77Zf-cams",
-          "lag": -2
-        },
         {
           "v": "_09IQcKO2EI",
           "lag": -3
@@ -606,6 +600,10 @@
         {
           "v": "LkLUeQGnG-Q",
           "lag": -3
+        },
+        {
+          "v": "9ZHateLsFGw",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -613,20 +611,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "s-tG-Yxb4Tc",
-        "title": "TOLOnews - 6pm News - 03 November 2026 | تاکید سازمان ملل بر پیامدهای محرومیت دختران از آموزش",
-        "published": "2026-11-03T14:16:26.000Z",
-        "duration": 1173,
+        "videoId": "2rCLy8BH7Us",
+        "title": "TOLOnews - 6pm News - 04 November 2026 |  امضا دو قرارداد بزرگ معدن‌ها",
+        "published": "2026-11-04T14:41:27.000Z",
+        "duration": 1143,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
-        {
-          "v": "tjvdXurI99U",
-          "lag": 1
-        },
         {
           "v": "kTUrbpLWt48",
           "lag": 48
@@ -662,28 +656,28 @@
         {
           "v": "s-tG-Yxb4Tc",
           "lag": 46
+        },
+        {
+          "v": "2rCLy8BH7Us",
+          "lag": 71
         }
       ],
       "delivery": "posted",
-      "readyAfter": 55
+      "readyAfter": 65
     },
     "btv": {
       "latest": {
-        "videoId": "Yo5i-aYwRmo",
+        "videoId": "cX31J_q4Mic",
         "title": "রাত ৮টার সংবাদ",
-        "published": "2026-11-03T13:59:33.000Z",
-        "duration": 2161,
+        "published": "2026-11-04T14:00:26.000Z",
+        "duration": 1859,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "19:59",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "20:00",
       "history": [
-        {
-          "v": "pqSUVpqOPVk",
-          "lag": 0
-        },
         {
           "v": "N14Fu1Yiu1o",
           "lag": 0
@@ -719,6 +713,10 @@
         {
           "v": "Yo5i-aYwRmo",
           "lag": 0
+        },
+        {
+          "v": "cX31J_q4Mic",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -734,7 +732,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "stale": true,
       "history": [
         {
@@ -792,7 +790,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "stale": true,
       "history": [
         {
@@ -844,7 +842,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -858,7 +856,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "stale": true,
       "history": [
         {
           "v": "2uZuaK76n9Q",
@@ -901,6 +900,7 @@
           "lag": 53
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 60
     },
@@ -914,7 +914,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -963,20 +963,16 @@
     },
     "novas": {
       "latest": {
-        "videoId": "TDmJOpXqFNw",
-        "title": "DNEVNIK - CELA EMISIJA - 02.11.2026.",
-        "published": "2026-11-02T20:42:04.000Z",
-        "duration": 3000,
+        "videoId": "5NZsgh0Hvjc",
+        "title": "DNEVNIK - CELA EMISIJA - 03.11.2026.",
+        "published": "2026-11-04T10:05:57.000Z",
+        "duration": 3457,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
-        {
-          "v": "VyLCxy8ac2M",
-          "lag": 201
-        },
         {
           "v": "QYo0zljvshY",
           "lag": 190
@@ -1012,6 +1008,10 @@
         {
           "v": "TDmJOpXqFNw",
           "lag": 192
+        },
+        {
+          "v": "5NZsgh0Hvjc",
+          "lag": 996
         }
       ],
       "delivery": "posted",
@@ -1021,7 +1021,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -1035,7 +1035,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1092,7 +1092,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "grQGOkZ0pQQ",
@@ -1148,7 +1148,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "4a3pxA9R45A",
@@ -1196,29 +1196,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "SbmJ2Uenk9I",
-        "title": "Выборы в США: в Конгрессе меняется власть. Россияне застряли в Черногории. Бойкот на ЧМ по хоккею",
-        "published": "2026-11-03T15:48:12.000Z",
-        "duration": 2996,
+        "videoId": "09FNvtVHQ-A",
+        "title": "Республиканцы проиграли выборы. Венгрия откажется от российского газа. Импортный алкоголь подорожает",
+        "published": "2026-11-04T10:59:54.000Z",
+        "duration": 1911,
         "embeddable": true
       },
       "live": {
-        "videoId": "TcKa9OVZ2S0",
-        "title": "Выборы в США: первые результаты. Демократы уверенно побеждают",
-        "start": "2026-11-04T06:18:59Z"
+        "videoId": "0DCYUyAKALI",
+        "title": "План Путина после победы демократов. В России сокращают бюджетников. Блэкаут в Крыму",
+        "start": "2026-11-04T15:00:30Z"
       },
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "16:48",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "HhiDbqjejXU",
-          "lag": null
-        },
-        {
-          "v": "zC9ii3ANfiM",
-          "lag": null
-        },
         {
           "v": "uxDQYgClIIU",
           "lag": null
@@ -1250,10 +1242,18 @@
         {
           "v": "TcKa9OVZ2S0",
           "lag": 739
+        },
+        {
+          "v": "0DCYUyAKALI",
+          "lag": 1261
+        },
+        {
+          "v": "09FNvtVHQ-A",
+          "lag": 1020
         }
       ],
       "delivery": "posted",
-      "readyAfter": 1020
+      "readyAfter": 1265
     },
     "tvp": {
       "latest": {
@@ -1265,8 +1265,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "19:22",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "stale": true,
       "history": [
         {
           "v": "ujsyvNmiLQk",
@@ -1300,7 +1300,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -1313,7 +1313,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1323,7 +1323,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -1337,7 +1337,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "-nBMoYdzYG8",
@@ -1392,9 +1392,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "19:57",
+      "upcoming": {
+        "videoId": "nbMXh-2cl-E",
+        "title": "Le journal de 20h de France Télévisions - 04 novembre 2026",
+        "scheduledStart": "2026-11-04T18:57:00Z"
+      },
+      "checked": "2026-11-04T15:45:38.152Z",
+      "stale": true,
       "history": [
         {
           "v": "MmeqOuQxxAU",
@@ -1450,7 +1454,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "doDD5Shj_wc",
@@ -1500,7 +1504,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -1508,7 +1512,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T06:58:01.774Z"
+        "checked": "2026-11-04T15:45:38.152Z"
       },
       "history": []
     },
@@ -1522,7 +1526,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1579,7 +1583,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "mx6ZQeb5A7E",
@@ -1635,7 +1639,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1692,7 +1696,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1749,7 +1753,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1806,7 +1810,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "observedLocal": "17:35",
       "history": [
         {
@@ -1863,7 +1867,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "history": [
         {
           "v": "b1rMHoVLeBQ",
@@ -1919,7 +1923,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
       "stale": true,
       "history": [
         {
@@ -1977,7 +1981,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "stale": true,
       "history": [
         {
           "v": "OmxzmpPeGW0",
@@ -2020,6 +2025,7 @@
           "lag": 75
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
@@ -2032,8 +2038,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-04T06:58:01.774Z",
+      "upcoming": {
+        "videoId": "vJ_cFiHsxUI",
+        "title": "EN VIVO: Las noticias de la noche, miércoles 4 de noviembre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-11-05T00:00:00Z"
+      },
+      "checked": "2026-11-04T15:45:38.152Z",
       "stale": true,
       "history": [
         {
@@ -2077,7 +2087,6 @@
           "lag": 29
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
@@ -2095,8 +2104,8 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-04T23:00:00Z"
       },
-      "checked": "2026-11-04T06:58:01.774Z",
-      "observedLocal": "19:59",
+      "checked": "2026-11-04T15:45:38.152Z",
+      "stale": true,
       "history": [
         {
           "v": "CV-C9DwNFOs",
