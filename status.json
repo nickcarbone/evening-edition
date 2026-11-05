@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T02:45:37.253Z",
-  "lastFull": "2026-11-05T02:45:37.253Z",
+  "generated": "2026-11-05T11:29:09.183Z",
+  "lastFull": "2026-11-05T11:29:09.183Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
+      "stale": true,
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -102,21 +103,17 @@
     },
     "nmas": {
       "latest": {
-        "videoId": "6_lbZTw8Urg",
-        "title": "Demócrtas avanzan en Elecciones Intermedias de Estados Unidos | En Punto - 3 de Noviembre 2026",
-        "published": "2026-11-04T04:28:27.000Z",
-        "duration": 2232,
+        "videoId": "IU-asSVMit0",
+        "title": "Voto latino clave para la victoria demócrata en Texas y California | En Punto - 4 de Noviembre 2026",
+        "published": "2026-11-05T04:27:15.000Z",
+        "duration": 2251,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
-      "stale": true,
+      "checked": "2026-11-05T11:29:09.183Z",
+      "observedLocal": "22:27",
       "history": [
-        {
-          "v": "aCXxZgXHlw8",
-          "lag": -2
-        },
         {
           "v": "4mInWHxpra4",
           "lag": -2
@@ -152,9 +149,12 @@
         {
           "v": "6_lbZTw8Urg",
           "lag": -2
+        },
+        {
+          "v": "IU-asSVMit0",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -168,7 +168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "stale": true,
       "history": [
         {
@@ -212,26 +212,21 @@
           "lag": 105
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
     "tvb": {
       "latest": {
-        "videoId": "dvJ4UAMLYyE",
-        "title": "無綫TVB六點半新聞報道｜美國中期選舉結果｜CNN指民主黨可奪回參眾議院控制權 特朗普稱願接受結果｜特朗普政府將變「跛腳鴨」　分析料重創總統共和黨內影響力｜格陵蘭議會通過丹麥及美國簽訂安全協議｜TVB",
-        "published": "2026-11-04T11:02:05.000Z",
-        "duration": 2018,
+        "videoId": "YtVFaEGl-bw",
+        "title": "無綫TVB六點半新聞報道｜王毅晤朝鮮勞動黨代表團｜韓國擬擴大「清海部隊」亞丁灣任務範圍　為參與恢復霍爾木茲海峽通航做準備｜澳洲老牌高級百貨公司陷財困進入自願託管程序　外界料將關閉多間分店及裁員｜TVB",
+        "published": "2026-11-05T10:51:00.000Z",
+        "duration": 2100,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
-        {
-          "v": "Zw-X2WFE2sg",
-          "lag": 30
-        },
         {
           "v": "xNO3CDNxKSc",
           "lag": 25
@@ -267,6 +262,10 @@
         {
           "v": "dvJ4UAMLYyE",
           "lag": 32
+        },
+        {
+          "v": "YtVFaEGl-bw",
+          "lag": 21
         }
       ],
       "delivery": "posted",
@@ -280,15 +279,15 @@
         "duration": 4764,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "AQgRhZcG1Zg",
+        "title": "LIVE: TV Patrol Livestream | November 5, 2026 Full Episode",
+        "start": "2026-11-05T10:19:55Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "stale": true,
       "history": [
-        {
-          "v": "hCPe-vBlMIg",
-          "lag": -10
-        },
         {
           "v": "Y35CXEWd66k",
           "lag": -10
@@ -324,9 +323,12 @@
         {
           "v": "raHM2Lnsd5s",
           "lag": -10
+        },
+        {
+          "v": "AQgRhZcG1Zg",
+          "lag": -10
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -340,7 +342,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "MO-kXf9M2Lc",
@@ -396,7 +398,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "jr3X7lJEUx0",
@@ -452,8 +454,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
-      "observedLocal": "18:02",
+      "checked": "2026-11-05T11:29:09.183Z",
+      "stale": true,
       "history": [
         {
           "v": "5Y6NyyiOl7w",
@@ -496,6 +498,7 @@
           "lag": 2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -508,8 +511,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "upcoming": {
+        "videoId": "g5j64K1IHu8",
+        "title": "[🔴LIVE] 뉴스9 – 11월 5일(목) / KBS",
+        "scheduledStart": "2026-11-05T12:00:00Z"
+      },
+      "checked": "2026-11-05T11:29:09.183Z",
       "stale": true,
       "history": [
         {
@@ -553,7 +560,6 @@
           "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -567,7 +573,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -624,7 +630,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "kTUrbpLWt48",
@@ -680,7 +686,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -737,7 +743,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
+      "stale": true,
       "history": [
         {
           "v": "rTO6yxBPifg",
@@ -780,6 +787,7 @@
           "lag": 108
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -793,8 +801,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
-      "observedLocal": "22:26",
+      "checked": "2026-11-05T11:29:09.183Z",
+      "stale": true,
       "history": [
         {
           "v": "01Y5c2nG3-o",
@@ -837,6 +845,7 @@
           "lag": 86
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -844,7 +853,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -858,7 +867,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
+      "stale": true,
       "history": [
         {
           "v": "Tfxei_yWuQk",
@@ -901,6 +911,7 @@
           "lag": 61
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
@@ -914,7 +925,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -971,7 +982,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "Mm5iS_rIU80",
@@ -1021,7 +1032,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -1035,7 +1046,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1092,7 +1103,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "Opp9G3taAV8",
@@ -1148,7 +1159,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "U15B7e4vdsQ",
@@ -1196,29 +1207,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "0DCYUyAKALI",
-        "title": "План Путина после победы демократов. В России сокращают бюджетников. Блэкаут в Крыму",
-        "published": "2026-11-04T15:00:30.000Z",
-        "duration": 3800,
+        "videoId": "Pjr13aalxQg",
+        "title": "Что Трамп будет делать после поражения? Лантратова и Лубинец едут в США. Николая II испортил ИИ",
+        "published": "2026-11-05T05:59:31.000Z",
+        "duration": 2820,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
-        "videoId": "Pjr13aalxQg",
-        "title": "Утро на Дожде с Полиной Милушковой в 9.00 мск",
-        "scheduledStart": "2026-11-05T06:00:00Z"
+      "live": {
+        "videoId": "8BzFiE9v1HI",
+        "title": "Делегации России и Украины в Белом доме. Роналду завершает карьеру. Франция готовится к протестам",
+        "start": "2026-11-05T11:00:14Z"
       },
-      "checked": "2026-11-05T02:45:37.253Z",
-      "observedLocal": "16:00",
+      "upcoming": null,
+      "checked": "2026-11-05T11:29:09.183Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "uxDQYgClIIU",
-          "lag": null
-        },
-        {
-          "v": "QaAkcmxKb-U",
-          "lag": null
-        },
         {
           "v": "BFr4v39FQmw",
           "lag": null
@@ -1250,10 +1253,18 @@
         {
           "v": "09FNvtVHQ-A",
           "lag": 1020
+        },
+        {
+          "v": "8BzFiE9v1HI",
+          "lag": 1020
+        },
+        {
+          "v": "Pjr13aalxQg",
+          "lag": 720
         }
       ],
       "delivery": "posted",
-      "readyAfter": 1265
+      "readyAfter": 1020
     },
     "tvp": {
       "latest": {
@@ -1265,7 +1276,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:19",
       "history": [
         {
@@ -1304,7 +1315,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -1317,7 +1328,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1327,7 +1338,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -1341,7 +1352,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "tbbyApHfeLc",
@@ -1396,8 +1407,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "upcoming": {
+        "videoId": "6_ZnDRe79Rs",
+        "title": "Le journal de 20h de France Télévisions - 5 novembre 2026",
+        "scheduledStart": "2026-11-05T18:57:00Z"
+      },
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1454,7 +1469,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "A5ye-IV5M64",
@@ -1504,7 +1519,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -1512,7 +1527,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-05T02:45:37.253Z"
+        "checked": "2026-11-05T11:29:09.183Z"
       },
       "history": []
     },
@@ -1526,7 +1541,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1583,7 +1598,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "oj05yTKdfMc",
@@ -1639,7 +1654,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1691,12 +1706,12 @@
         "videoId": "GIUDnfeFn-w",
         "title": "News At 10 | 4/11/2026",
         "published": "2026-11-04T20:58:10.000Z",
-        "duration": 3770,
+        "duration": 3089,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "21:58",
       "history": [
         {
@@ -1745,25 +1760,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "zyerb5QEHCc",
-        "title": "Global National: Nov. 3, 2026 | US Congress up for grabs as Americans vote in midterm elections",
-        "published": "2026-11-04T03:00:08.000Z",
-        "duration": 1343,
+        "videoId": "cExocKFNQ_c",
+        "title": "Global National: Nov. 4, 2026 | Democrats seize control of US House, Senate in midterm elections",
+        "published": "2026-11-05T03:00:09.000Z",
+        "duration": 1344,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "cExocKFNQ_c",
-        "title": "Global National: Nov. 4, 2026 | Democrats seize control of US House, Senate in midterm elections",
-        "scheduledStart": "2026-11-05T03:00:00Z"
-      },
-      "checked": "2026-11-05T02:45:37.253Z",
+      "upcoming": null,
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "FvSI5SlxvBY",
-          "lag": 270
-        },
         {
           "v": "aSTlZ7N3bbY",
           "lag": 270
@@ -1799,6 +1806,10 @@
         {
           "v": "zyerb5QEHCc",
           "lag": 270
+        },
+        {
+          "v": "cExocKFNQ_c",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1814,7 +1825,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "17:46",
       "history": [
         {
@@ -1871,7 +1882,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
         {
           "v": "L1XJgJObhHI",
@@ -1919,21 +1930,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "rIQ4xuwo7m0",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 2",
-        "published": "2026-11-03T02:55:39.000Z",
-        "duration": 1241,
+        "videoId": "zcc_usaUoP0",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 4",
+        "published": "2026-11-05T02:55:17.000Z",
+        "duration": 1254,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
-      "stale": true,
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
-        {
-          "v": "j7fxfUJvnBI",
-          "lag": 211
-        },
         {
           "v": "8-2Oi8whWIA",
           "lag": 206
@@ -1969,29 +1975,27 @@
         {
           "v": "rIQ4xuwo7m0",
           "lag": 206
+        },
+        {
+          "v": "zcc_usaUoP0",
+          "lag": 205
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 215
+      "readyAfter": 210
     },
     "abc": {
       "latest": {
-        "videoId": "8YAWAgXwSzk",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 3, 2026",
-        "published": "2026-11-04T00:45:21.000Z",
-        "duration": 1223,
+        "videoId": "WVRxYD45RA8",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 4, 2026",
+        "published": "2026-11-05T03:00:05.000Z",
+        "duration": 1230,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
-      "stale": true,
+      "checked": "2026-11-05T11:29:09.183Z",
       "history": [
-        {
-          "v": "OmxzmpPeGW0",
-          "lag": 211
-        },
         {
           "v": "s19sW_20bzg",
           "lag": 210
@@ -2027,23 +2031,26 @@
         {
           "v": "8YAWAgXwSzk",
           "lag": 75
+        },
+        {
+          "v": "WVRxYD45RA8",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
     "telemundo": {
       "latest": {
         "videoId": "vJ_cFiHsxUI",
-        "title": "EN VIVO: Las noticias de la noche, miércoles 4 de noviembre de 2026 | Noticias Telemundo",
+        "title": "Las noticias de la noche, miércoles 4 de noviembre de 2026 | Noticias Telemundo",
         "published": "2026-11-05T01:28:14.000Z",
-        "duration": 1845,
+        "duration": 1541,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "20:28",
       "history": [
         {
@@ -2095,7 +2102,7 @@
         "videoId": "9lX-1O1V5lE",
         "title": "Nelson Castro contó cómo salvó a una pasajera rumbo a Roma | TELENOCHE DEL 04/11/26",
         "published": "2026-11-04T22:59:51.000Z",
-        "duration": 3933,
+        "duration": 3036,
         "embeddable": true
       },
       "live": null,
@@ -2104,7 +2111,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-05T23:00:00Z"
       },
-      "checked": "2026-11-05T02:45:37.253Z",
+      "checked": "2026-11-05T11:29:09.183Z",
       "observedLocal": "19:59",
       "history": [
         {
