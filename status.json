@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-04T22:11:03.358Z",
-  "lastFull": "2026-11-04T22:11:03.358Z",
+  "generated": "2026-11-05T02:45:37.253Z",
+  "lastFull": "2026-11-05T02:45:37.253Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "CV_tXBlAuFM",
-        "title": "JORNAL DA CULTURA | Democratas devem conquistar maioria do Congresso | 03/11/2026",
-        "published": "2026-11-03T23:55:12.000Z",
-        "duration": 3114,
+        "videoId": "Q7auxKn64lY",
+        "title": "JORNAL DA CULTURA | Presidente do Senado adia votação da redução de maioridade penal | 04/11/2026",
+        "published": "2026-11-04T23:55:12.000Z",
+        "duration": 3928,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Q7auxKn64lY",
-        "title": "JORNAL DA CULTURA | 04/11/2026",
-        "scheduledStart": "2026-11-05T00:00:00Z"
-      },
-      "checked": "2026-11-04T22:11:03.358Z",
+      "upcoming": null,
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "Jx46nxinvME",
-          "lag": -13
-        },
         {
           "v": "awmLYpduPOY",
           "lag": 1435
@@ -59,6 +51,10 @@
         {
           "v": "CV_tXBlAuFM",
           "lag": -5
+        },
+        {
+          "v": "Q7auxKn64lY",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -114,7 +110,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "stale": true,
       "history": [
         {
@@ -172,7 +168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "stale": true,
       "history": [
         {
@@ -216,6 +212,7 @@
           "lag": 105
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
@@ -229,7 +226,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "Zw-X2WFE2sg",
@@ -285,8 +282,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
-      "observedLocal": "18:19",
+      "checked": "2026-11-05T02:45:37.253Z",
+      "stale": true,
       "history": [
         {
           "v": "hCPe-vBlMIg",
@@ -329,25 +326,22 @@
           "lag": -10
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "GJsJL6aSzUU",
-        "title": "【学习贯彻党的二十届五中全会精神】永葆生机活力 为中国式现代化提供坚强保障 | CCTV「新闻联播」20261103",
-        "published": "2026-11-04T02:36:10.000Z",
+        "videoId": "Dou6n8JrV6I",
+        "title": "【学习贯彻党的二十届五中全会精神】全面从严治党 全面从严治军 走好新的赶考之路 | CCTV「新闻联播」20261104",
+        "published": "2026-11-05T02:23:24.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
-        {
-          "v": "uT-ZMz6By-U",
-          "lag": 942
-        },
         {
           "v": "MO-kXf9M2Lc",
           "lag": 916
@@ -383,6 +377,10 @@
         {
           "v": "GJsJL6aSzUU",
           "lag": 936
+        },
+        {
+          "v": "Dou6n8JrV6I",
+          "lag": 923
         }
       ],
       "delivery": "posted",
@@ -398,7 +396,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "jr3X7lJEUx0",
@@ -454,7 +452,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "18:02",
       "history": [
         {
@@ -511,8 +509,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-05T02:45:37.253Z",
+      "stale": true,
       "history": [
         {
           "v": "LRWFZ3Qa06Q",
@@ -555,6 +553,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -568,7 +567,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -625,7 +624,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "kTUrbpLWt48",
@@ -681,7 +680,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -738,7 +737,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "rTO6yxBPifg",
@@ -794,7 +793,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "22:26",
       "history": [
         {
@@ -845,7 +844,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -859,7 +858,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "Tfxei_yWuQk",
@@ -915,7 +914,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -972,7 +971,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "Mm5iS_rIU80",
@@ -1020,9 +1019,9 @@
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -1036,7 +1035,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1093,7 +1092,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "Opp9G3taAV8",
@@ -1149,7 +1148,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "U15B7e4vdsQ",
@@ -1204,8 +1203,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "upcoming": {
+        "videoId": "Pjr13aalxQg",
+        "title": "Утро на Дожде с Полиной Милушковой в 9.00 мск",
+        "scheduledStart": "2026-11-05T06:00:00Z"
+      },
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "16:00",
       "history": [
         {
@@ -1262,7 +1265,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "19:19",
       "history": [
         {
@@ -1301,7 +1304,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -1314,7 +1317,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1324,7 +1327,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -1338,7 +1341,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "tbbyApHfeLc",
@@ -1394,7 +1397,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1451,7 +1454,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "A5ye-IV5M64",
@@ -1501,7 +1504,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -1509,7 +1512,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-04T22:11:03.358Z"
+        "checked": "2026-11-05T02:45:37.253Z"
       },
       "history": []
     },
@@ -1523,7 +1526,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1580,7 +1583,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
         {
           "v": "oj05yTKdfMc",
@@ -1636,7 +1639,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1693,7 +1696,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "21:58",
       "history": [
         {
@@ -1749,8 +1752,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "upcoming": {
+        "videoId": "cExocKFNQ_c",
+        "title": "Global National: Nov. 4, 2026 | Democrats seize control of US House, Senate in midterm elections",
+        "scheduledStart": "2026-11-05T03:00:00Z"
+      },
+      "checked": "2026-11-05T02:45:37.253Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1799,25 +1806,17 @@
     },
     "rcan": {
       "latest": {
-        "videoId": "Y3ixtkesC1k",
-        "title": "LSQ - Le téléjournal 18 h du mardi 3 novembre 2026",
-        "published": "2026-11-03T22:35:31.000Z",
-        "duration": 3150,
+        "videoId": "y55dWlr7gNs",
+        "title": "LSQ - Le téléjournal 18 h du mercredi 4 novembre 2026",
+        "published": "2026-11-04T22:46:06.000Z",
+        "duration": 2496,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "y55dWlr7gNs",
-        "title": "LSQ - Le téléjournal 18 h du mercredi 4 novembre 2026",
-        "scheduledStart": "2026-11-04T23:00:00Z"
-      },
-      "checked": "2026-11-04T22:11:03.358Z",
-      "observedLocal": "17:35",
+      "upcoming": null,
+      "checked": "2026-11-05T02:45:37.253Z",
+      "observedLocal": "17:46",
       "history": [
-        {
-          "v": "V6Bo74uMy_s",
-          "lag": -25
-        },
         {
           "v": "quJJ28w4DV4",
           "lag": -18
@@ -1853,6 +1852,10 @@
         {
           "v": "Y3ixtkesC1k",
           "lag": -24
+        },
+        {
+          "v": "y55dWlr7gNs",
+          "lag": -14
         }
       ],
       "delivery": "live",
@@ -1860,20 +1863,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "R6RA6H0LXrA",
-        "title": "PBS News Hour full episode, Nov. 3, 2026",
-        "published": "2026-11-04T00:24:56.000Z",
+        "videoId": "C41BehiqM1A",
+        "title": "PBS News Hour full episode, Nov. 4, 2026",
+        "published": "2026-11-05T00:30:49.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "history": [
-        {
-          "v": "b1rMHoVLeBQ",
-          "lag": 86
-        },
         {
           "v": "L1XJgJObhHI",
           "lag": 997
@@ -1909,6 +1908,10 @@
         {
           "v": "R6RA6H0LXrA",
           "lag": 85
+        },
+        {
+          "v": "C41BehiqM1A",
+          "lag": 91
         }
       ],
       "delivery": "posted",
@@ -1924,7 +1927,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "stale": true,
       "history": [
         {
@@ -1982,7 +1985,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
+      "checked": "2026-11-05T02:45:37.253Z",
       "stale": true,
       "history": [
         {
@@ -2032,21 +2035,17 @@
     },
     "telemundo": {
       "latest": {
-        "videoId": "xaew2VJrXao",
-        "title": "Las noticias de la noche, lunes 2 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-02T23:59:17.000Z",
-        "duration": 1490,
+        "videoId": "vJ_cFiHsxUI",
+        "title": "EN VIVO: Las noticias de la noche, miércoles 4 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-05T01:28:14.000Z",
+        "duration": 1845,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
-      "stale": true,
+      "checked": "2026-11-05T02:45:37.253Z",
+      "observedLocal": "20:28",
       "history": [
-        {
-          "v": "7hmiy1oz5A0",
-          "lag": 29
-        },
         {
           "v": "Vjd2FCFSj-Y",
           "lag": 29
@@ -2082,29 +2081,32 @@
         {
           "v": "xaew2VJrXao",
           "lag": 29
+        },
+        {
+          "v": "vJ_cFiHsxUI",
+          "lag": 118
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
     "telenoche": {
       "latest": {
-        "videoId": "mKR1Jhp55RY",
-        "title": "Violencia en Palermo: un grupo de jóvenes atacó a mujeres trans y travestis | TELENOCHE 03/11/26",
-        "published": "2026-11-03T22:59:35.000Z",
-        "duration": 3151,
+        "videoId": "9lX-1O1V5lE",
+        "title": "Nelson Castro contó cómo salvó a una pasajera rumbo a Roma | TELENOCHE DEL 04/11/26",
+        "published": "2026-11-04T22:59:51.000Z",
+        "duration": 3933,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-04T22:11:03.358Z",
-      "stale": true,
+      "upcoming": {
+        "videoId": "q6xZdodbLyM",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-11-05T23:00:00Z"
+      },
+      "checked": "2026-11-05T02:45:37.253Z",
+      "observedLocal": "19:59",
       "history": [
-        {
-          "v": "CV-C9DwNFOs",
-          "lag": 0
-        },
         {
           "v": "8MIWweH0HdQ",
           "lag": 0
@@ -2140,9 +2142,12 @@
         {
           "v": "mKR1Jhp55RY",
           "lag": 0
+        },
+        {
+          "v": "9lX-1O1V5lE",
+          "lag": 0
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
