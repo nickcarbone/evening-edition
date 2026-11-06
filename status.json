@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T07:23:14.186Z",
-  "lastFull": "2026-11-06T07:23:14.186Z",
+  "generated": "2026-11-06T15:23:21.713Z",
+  "lastFull": "2026-11-06T15:23:21.713Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "pVpZZsqKwr8",
         "title": "JORNAL DA CULTURA | Lula reúne equipe econômica em meio a debate sobre gastos públicos | 05/11/2026",
         "published": "2026-11-05T23:55:11.000Z",
-        "duration": 3914,
+        "duration": 3033,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "stale": true,
       "history": [
         {
@@ -111,7 +111,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "22:27",
       "history": [
         {
@@ -160,21 +160,16 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "GzoH8phr84w",
-        "title": "Parpol Minta Otak Penyadapan Presiden Prabowo Dibongkar | KOMPAS PETANG",
-        "published": "2026-11-04T11:45:08.000Z",
-        "duration": 4391,
+        "videoId": "pauZJR1_h_M",
+        "title": "Tertawakan Jokowi Unjuk Ijazah, Roy: Itu Palsu | KOMPAS PETANG",
+        "published": "2026-11-06T13:00:21.000Z",
+        "duration": 4359,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
-      "stale": true,
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
-        {
-          "v": "_kNw6IslAOA",
-          "lag": 96
-        },
         {
           "v": "UTCZvC0f7UQ",
           "lag": 72
@@ -210,9 +205,12 @@
         {
           "v": "GzoH8phr84w",
           "lag": 105
+        },
+        {
+          "v": "pauZJR1_h_M",
+          "lag": 180
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
@@ -226,7 +224,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "xNO3CDNxKSc",
@@ -282,7 +280,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "stale": true,
       "history": [
         {
@@ -340,7 +338,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "p0t2u_QyjHg",
@@ -388,20 +386,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "HDkSiIb-wX0",
-        "title": "20261105 公視晚間新聞 完整版（無網路版權內容除外）｜民主黨重掌國會對台軍售影響 顧立雄：與美方共同確保進度",
-        "published": "2026-11-05T12:16:24.000Z",
-        "duration": 3266,
+        "videoId": "-ev-DIG_RRI",
+        "title": "20261106 公視晚間新聞 完整版（無網路版權內容除外）｜台股跌落4萬國安基金進場護盤 金管會宣布限空令9日上路",
+        "published": "2026-11-06T12:38:46.000Z",
+        "duration": 3261,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
-        {
-          "v": "52x3DbmGvoA",
-          "lag": 99
-        },
         {
           "v": "1lQunw17qnY",
           "lag": 106
@@ -437,6 +431,10 @@
         {
           "v": "HDkSiIb-wX0",
           "lag": 76
+        },
+        {
+          "v": "-ev-DIG_RRI",
+          "lag": 99
         }
       ],
       "delivery": "posted",
@@ -444,21 +442,17 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "GlQNgOu4GFM",
-        "title": "ข่าวค่ำ | 5 พ.ย. 69",
-        "published": "2026-11-05T11:01:54.000Z",
-        "duration": 9166,
+        "videoId": "vz-67MEKFIA",
+        "title": "ข่าวค่ำ | 6 พ.ย. 69",
+        "published": "2026-11-06T11:01:42.000Z",
+        "duration": 9186,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "18:01",
       "history": [
-        {
-          "v": "moEVTwq6Qkw",
-          "lag": 2
-        },
         {
           "v": "cfCGU3vhpbU",
           "lag": -1
@@ -494,6 +488,10 @@
         {
           "v": "GlQNgOu4GFM",
           "lag": 2
+        },
+        {
+          "v": "vz-67MEKFIA",
+          "lag": 2
         }
       ],
       "delivery": "live",
@@ -501,21 +499,17 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "g5j64K1IHu8",
-        "title": "[풀영상] 뉴스9 : ‘압승’ 미 민주당 “내년 1월 전 이란전 끝내야”…밴스 부통령 “전쟁 끝내야 지지 회복” – 2026년 11월 5일(목) / KBS",
-        "published": "2026-11-05T11:58:00.000Z",
-        "duration": 2939,
+        "videoId": "tL9eGs2ubSA",
+        "title": "[풀영상] 뉴스9 : ‘검은 금요일’ 코스피 한때 5천 선 아래로…미 민주당 ‘AI 규제론’ 속 K-반도체 어디로? – 2026년 11월 6일(금) / KBS",
+        "published": "2026-11-06T11:57:50.000Z",
+        "duration": 2857,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
-      "stale": true,
+      "checked": "2026-11-06T15:23:21.713Z",
+      "observedLocal": "20:57",
       "history": [
-        {
-          "v": "sjkBi10XpXA",
-          "lag": -5
-        },
         {
           "v": "IXx3iR07LnM",
           "lag": -4
@@ -551,29 +545,28 @@
         {
           "v": "g5j64K1IHu8",
           "lag": -2
+        },
+        {
+          "v": "tL9eGs2ubSA",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "cNvM4eZI6as",
-        "title": "PRN Melaka: PM Gesa Beri Mandat Kepada Calon Selari Kerajaan Pusat | Buletin Utama, 5 November 2026",
-        "published": "2026-11-05T11:57:54.000Z",
-        "duration": 3676,
+        "videoId": "jZ-hIYlAvYQ",
+        "title": "Pelaksanaan Tahanan Rumah Najib Wajar Ditangguh Untuk Penelitian Lanjut  | Buletin Utama, 6 Nov 2026",
+        "published": "2026-11-06T11:57:43.000Z",
+        "duration": 3543,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:57",
       "history": [
-        {
-          "v": "cji2D4wsm1k",
-          "lag": -2
-        },
         {
           "v": "dkQJWUIZIVQ",
           "lag": -2
@@ -609,6 +602,10 @@
         {
           "v": "cNvM4eZI6as",
           "lag": -2
+        },
+        {
+          "v": "jZ-hIYlAvYQ",
+          "lag": -2
         }
       ],
       "delivery": "live",
@@ -616,20 +613,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "PwI2qzZ3-s8",
-        "title": "TOLOnews - 6pm News - 05November 2026 | گماشتن سفیران غیرمقیم برای افغانستان",
-        "published": "2026-11-05T14:52:33.000Z",
-        "duration": 1159,
+        "videoId": "e0QmaSjkS6A",
+        "title": "TOLOnews - 6pm News - 06 November 2026 | مجاهد: هشدارهای سفر به افغانستان غیرموجه است",
+        "published": "2026-11-06T14:25:12.000Z",
+        "duration": 1066,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
-        {
-          "v": "Nkmak6tA8oY",
-          "lag": 50
-        },
         {
           "v": "8dZW0nekQ0E",
           "lag": 70
@@ -665,6 +658,10 @@
         {
           "v": "PwI2qzZ3-s8",
           "lag": 83
+        },
+        {
+          "v": "e0QmaSjkS6A",
+          "lag": 55
         }
       ],
       "delivery": "posted",
@@ -680,7 +677,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -729,21 +726,16 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "CfmeQV0FRjw",
-        "title": "05 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-11-05T15:19:50.000Z",
-        "duration": 2823,
+        "videoId": "_oddQqXHXW0",
+        "title": "06 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-11-06T15:13:20.000Z",
+        "duration": 2762,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
-      "stale": true,
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
-        {
-          "v": "bsnxpUdprCw",
-          "lag": 68
-        },
         {
           "v": "6Hs9hpabLIg",
           "lag": 111
@@ -779,9 +771,12 @@
         {
           "v": "CfmeQV0FRjw",
           "lag": 80
+        },
+        {
+          "v": "_oddQqXHXW0",
+          "lag": 73
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -795,7 +790,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "stale": true,
       "history": [
         {
@@ -847,7 +842,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
@@ -861,7 +856,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
+      "stale": true,
       "history": [
         {
           "v": "G6egFYk7VKM",
@@ -904,6 +900,7 @@
           "lag": 50
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 65
     },
@@ -917,7 +914,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -974,7 +971,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "MfVyKQs1cSg",
@@ -1024,7 +1021,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
@@ -1038,7 +1035,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1095,7 +1092,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "XQmnuUkt8C8",
@@ -1151,7 +1148,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "e4Nc5QFb2hU",
@@ -1199,24 +1196,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "5esrn6ifIYQ",
-        "title": "Монеточка, Дельфин, Face, Kazka, Shortparis. Что мы слушали в 2018-м",
-        "published": "2026-11-06T07:00:13.000Z",
-        "duration": 1929,
+        "videoId": "owOZy-R3_Co",
+        "title": "Киев остался без света. Останина пожаловалась на рейв в Ленинке. В Подмосковье сожгли 800 коров",
+        "published": "2026-11-06T10:59:29.000Z",
+        "duration": 1864,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "sTz6C17lzDs",
+        "title": "Путин хочет уйти «на пенсию». Лукашенко раскрыл план Кремля? Трампа заставят помочь Киеву. Касьянов",
+        "start": "2026-11-06T14:59:31Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "4v9rhi_eyJc",
-          "lag": 1020
-        },
-        {
-          "v": "9fFDhtTFV_w",
-          "lag": 720
-        },
         {
           "v": "SbmJ2Uenk9I",
           "lag": 1308
@@ -1248,6 +1242,14 @@
         {
           "v": "5esrn6ifIYQ",
           "lag": 780
+        },
+        {
+          "v": "sTz6C17lzDs",
+          "lag": 1260
+        },
+        {
+          "v": "owOZy-R3_Co",
+          "lag": 1019
         }
       ],
       "delivery": "posted",
@@ -1263,7 +1265,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:19",
       "history": [
         {
@@ -1306,7 +1308,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
@@ -1319,7 +1321,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1329,7 +1331,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
@@ -1343,7 +1345,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "0kwJfVgKL-8",
@@ -1400,11 +1402,11 @@
       "live": null,
       "upcoming": {
         "videoId": "axjVy0gMJfU",
-        "title": "Le journal de 20h de France Télévisions - 06 Nov 2026",
+        "title": "Le journal de 20h de France Télévisions - 6 novembre 2026",
         "scheduledStart": "2026-11-06T18:57:00Z"
       },
-      "checked": "2026-11-06T07:23:14.186Z",
-      "observedLocal": "19:57",
+      "checked": "2026-11-06T15:23:21.713Z",
+      "stale": true,
       "history": [
         {
           "v": "ua6NsIHtbNU",
@@ -1460,7 +1462,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "ysiIkqwKHXQ",
@@ -1510,15 +1512,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-06T07:23:14.186Z"
+        "checked": "2026-11-06T15:23:21.713Z"
       },
       "history": []
     },
@@ -1532,7 +1534,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1589,7 +1591,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "QfiAGDHMxPI",
@@ -1645,7 +1647,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1702,7 +1704,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1759,7 +1761,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1816,7 +1818,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "17:37",
       "history": [
         {
@@ -1873,7 +1875,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "HAlut6If39w",
@@ -1929,7 +1931,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "-ruULCHm9eQ",
@@ -1985,7 +1987,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "history": [
         {
           "v": "yoTFcE-3NK0",
@@ -2040,9 +2042,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
-      "observedLocal": "18:59",
+      "upcoming": {
+        "videoId": "DDvvPi0OmIk",
+        "title": "EN VIVO: Las noticias de la noche, viernes 6 de noviembre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-11-07T00:00:00Z"
+      },
+      "checked": "2026-11-06T15:23:21.713Z",
+      "stale": true,
       "history": [
         {
           "v": "ZfJRIHBeopw",
@@ -2098,7 +2104,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-06T07:23:14.186Z",
+      "checked": "2026-11-06T15:23:21.713Z",
       "observedLocal": "19:59",
       "history": [
         {
