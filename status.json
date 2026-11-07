@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T01:11:55.082Z",
-  "lastFull": "2026-11-07T01:11:55.082Z",
+  "generated": "2026-11-07T07:46:05.433Z",
+  "lastFull": "2026-11-07T07:46:05.433Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -12,8 +12,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "upcoming": {
+        "videoId": "FBTxcfLDE7c",
+        "title": "JORNAL DA CULTURA | 07/11/2026",
+        "scheduledStart": "2026-11-08T00:00:00Z"
+      },
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +74,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "stale": true,
       "history": [
         {
@@ -98,27 +102,22 @@
           "lag": 165
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 165
     },
     "nmas": {
       "latest": {
-        "videoId": "lxyECiR63Pg",
-        "title": "Día negro en Wall Street: ¿Qué pasó tras la victoria demócrata? | En Punto - 5 de Noviembre 2026",
-        "published": "2026-11-06T04:27:17.000Z",
+        "videoId": "EuejtSYA7IU",
+        "title": "EN VIVO: Sheinbaum lanza advertencia contra el INE | En Punto - 6 de Noviembre 2026",
+        "published": "2026-11-07T04:28:22.000Z",
         "duration": 2249,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "stale": true,
+      "checked": "2026-11-07T07:46:05.433Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "A5Ip8ZnFPaM",
-          "lag": -2
-        },
         {
           "v": "78O3UmPwJNY",
           "lag": -1
@@ -154,9 +153,12 @@
         {
           "v": "lxyECiR63Pg",
           "lag": -3
+        },
+        {
+          "v": "EuejtSYA7IU",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -170,7 +172,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
+      "stale": true,
       "history": [
         {
           "v": "UTCZvC0f7UQ",
@@ -213,6 +216,7 @@
           "lag": 180
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
@@ -226,7 +230,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "xNO3CDNxKSc",
@@ -282,7 +286,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "stale": true,
       "history": [
         {
@@ -340,7 +344,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "p0t2u_QyjHg",
@@ -396,7 +400,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "1lQunw17qnY",
@@ -452,7 +456,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -509,8 +513,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-07T07:46:05.433Z",
+      "stale": true,
       "history": [
         {
           "v": "IXx3iR07LnM",
@@ -553,6 +557,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -566,7 +571,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -623,7 +628,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "8dZW0nekQ0E",
@@ -679,7 +684,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -736,7 +741,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
+      "stale": true,
       "history": [
         {
           "v": "6Hs9hpabLIg",
@@ -779,6 +785,7 @@
           "lag": 73
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -792,7 +799,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "stale": true,
       "history": [
         {
@@ -844,7 +851,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -858,7 +865,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
+      "stale": true,
       "history": [
         {
           "v": "EUu1Ga7k6Ec",
@@ -901,6 +909,7 @@
           "lag": 89
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 70
     },
@@ -914,7 +923,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -971,7 +980,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "C7ZKNVqU3D8",
@@ -1021,7 +1030,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -1035,7 +1044,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1092,7 +1101,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "E5P-c45knvc",
@@ -1148,7 +1157,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "tHdqXHveQ_Q",
@@ -1196,21 +1205,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "sTz6C17lzDs",
-        "title": "Путин хочет уйти «на пенсию». Лукашенко раскрыл план Кремля. Трампа заставят помочь Киеву? Касьянов",
-        "published": "2026-11-06T14:59:31.000Z",
-        "duration": 5763,
+        "videoId": "GmRS-3z4M2g",
+        "title": "Развод Сережи и Андрея. Слепаков плохо пошутил. Миронов о накале в РФ. Девушка Абрамовича из Киева",
+        "published": "2026-11-07T04:00:21.000Z",
+        "duration": 5544,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
-        {
-          "v": "SbmJ2Uenk9I",
-          "lag": 1308
-        },
         {
           "v": "TcKa9OVZ2S0",
           "lag": 739
@@ -1246,6 +1250,10 @@
         {
           "v": "owOZy-R3_Co",
           "lag": 1019
+        },
+        {
+          "v": "GmRS-3z4M2g",
+          "lag": 600
         }
       ],
       "delivery": "posted",
@@ -1261,7 +1269,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:27",
       "history": [
         {
@@ -1308,7 +1316,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -1321,7 +1329,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1331,7 +1339,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -1345,7 +1353,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "QwGuhdnFPyo",
@@ -1400,8 +1408,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "upcoming": {
+        "videoId": "i9GnVTVzXBQ",
+        "title": "Le journal de 20h de France Télévisions - 7 novembre 2026",
+        "scheduledStart": "2026-11-07T18:57:00Z"
+      },
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1458,7 +1470,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "AR41X3FYhfA",
@@ -1508,7 +1520,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -1516,7 +1528,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-07T01:11:55.082Z"
+        "checked": "2026-11-07T07:46:05.433Z"
       },
       "history": []
     },
@@ -1530,7 +1542,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:01",
       "history": [
         {
@@ -1587,7 +1599,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "QfiAGDHMxPI",
@@ -1643,7 +1655,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1700,7 +1712,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1749,21 +1761,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "sjaakQjnDjs",
-        "title": "Global National: Nov. 5, 2026 | Liberals table 2026 federal budget",
-        "published": "2026-11-06T03:00:08.000Z",
-        "duration": 1305,
+        "videoId": "7M_UKYz6Cps",
+        "title": "Global National: Nov. 6, 2026 | Carney touts budget plan to end homelessness",
+        "published": "2026-11-07T03:00:08.000Z",
+        "duration": 1332,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "u1SKx4z1YAA",
-          "lag": 270
-        },
         {
           "v": "bo-CSSojyiw",
           "lag": 270
@@ -1799,6 +1807,10 @@
         {
           "v": "sjaakQjnDjs",
           "lag": 270
+        },
+        {
+          "v": "7M_UKYz6Cps",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1814,8 +1826,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "observedLocal": "17:37",
+      "checked": "2026-11-07T07:46:05.433Z",
+      "stale": true,
       "history": [
         {
           "v": "ZiZFnBCWKKU",
@@ -1858,6 +1870,7 @@
           "lag": -23
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -1871,7 +1884,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
         {
           "v": "gXExSSoPVHU",
@@ -1919,21 +1932,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "PdfIgtsNxlc",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 5",
-        "published": "2026-11-06T02:53:50.000Z",
-        "duration": 1066,
+        "videoId": "n7bhuYLJNrw",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 6",
+        "published": "2026-11-07T03:02:28.000Z",
+        "duration": 1244,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "stale": true,
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
-        {
-          "v": "-ruULCHm9eQ",
-          "lag": 80
-        },
         {
           "v": "lBc449d-K6c",
           "lag": 303
@@ -1969,29 +1977,27 @@
         {
           "v": "PdfIgtsNxlc",
           "lag": 204
+        },
+        {
+          "v": "n7bhuYLJNrw",
+          "lag": 212
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 210
+      "readyAfter": 215
     },
     "abc": {
       "latest": {
-        "videoId": "plW_FaJNITw",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 5, 2026",
-        "published": "2026-11-06T03:00:07.000Z",
-        "duration": 1246,
+        "videoId": "vBUPhXyBJjc",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026",
+        "published": "2026-11-07T03:00:10.000Z",
+        "duration": 1244,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
-      "stale": true,
+      "checked": "2026-11-07T07:46:05.433Z",
       "history": [
-        {
-          "v": "yoTFcE-3NK0",
-          "lag": 210
-        },
         {
           "v": "m2vL5Bdlq8U",
           "lag": 256
@@ -2027,9 +2033,12 @@
         {
           "v": "plW_FaJNITw",
           "lag": 210
+        },
+        {
+          "v": "vBUPhXyBJjc",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
@@ -2043,7 +2052,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2093,14 +2102,14 @@
     "telenoche": {
       "latest": {
         "videoId": "AYvPzqqi5lY",
-        "title": "¡LLEGÓ EL PAPA! León XIV aterrizó a Uruguay y prepara su visita a la Argentina | TELENOCHE EN VIVO",
+        "title": "¡LLEGÓ EL PAPA! León XIV aterrizó en Uruguay y prepara su visita a la Argentina | TELENOCHE 06/11/26",
         "published": "2026-11-06T22:59:30.000Z",
         "duration": 3950,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-07T01:11:55.082Z",
+      "checked": "2026-11-07T07:46:05.433Z",
       "observedLocal": "19:59",
       "history": [
         {
