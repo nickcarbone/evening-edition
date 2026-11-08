@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T02:41:41.880Z",
-  "lastFull": "2026-11-08T02:41:41.880Z",
+  "generated": "2026-11-08T10:45:42.048Z",
+  "lastFull": "2026-11-08T10:45:42.048Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -62,16 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "Rhyq8uvD3eo",
-        "title": "Noticias Caracol | Emisión Central (3 de noviembre de 2026)",
-        "published": "2026-11-04T02:44:41.000Z",
-        "duration": 1934,
+        "videoId": "jsWl3tKHsdU",
+        "title": "Noticias Caracol | Emisión Central fin de semana (07 de noviembre de 2026)",
+        "published": "2026-11-08T03:36:09.000Z",
+        "duration": 1913,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
-      "stale": true,
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -96,6 +95,10 @@
         {
           "v": "Rhyq8uvD3eo",
           "lag": 165
+        },
+        {
+          "v": "jsWl3tKHsdU",
+          "lag": 216
         }
       ],
       "delivery": "posted",
@@ -111,7 +114,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "stale": true,
       "history": [
         {
@@ -169,8 +172,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
-      "observedLocal": "16:01",
+      "checked": "2026-11-08T10:45:42.048Z",
+      "stale": true,
       "history": [
         {
           "v": "scf_B8AJers",
@@ -226,7 +229,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "0Rjq6eRa7fo",
@@ -282,7 +285,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "stale": true,
       "history": [
         {
@@ -332,20 +335,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "ECwuQhSmznA",
-        "title": "【学习贯彻党的二十届五中全会精神】严字当头 实干为要 把学习成效转化为干事创业的强大动力 | CCTV「新闻联播」20261105",
-        "published": "2026-11-06T02:57:40.000Z",
-        "duration": 1800,
+        "videoId": "mMhSHItVUtc",
+        "title": "【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面 | CCTV「新闻联播」20261107",
+        "published": "2026-11-08T07:40:51.000Z",
+        "duration": 1799,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
-        {
-          "v": "p0t2u_QyjHg",
-          "lag": 930
-        },
         {
           "v": "akA6G2Cd9sI",
           "lag": 955
@@ -381,10 +380,14 @@
         {
           "v": "ECwuQhSmznA",
           "lag": 958
+        },
+        {
+          "v": "mMhSHItVUtc",
+          "lag": 1241
         }
       ],
       "delivery": "posted",
-      "readyAfter": 1005
+      "readyAfter": 1185
     },
     "pts": {
       "latest": {
@@ -396,7 +399,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "kXgi-d58yCk",
@@ -452,7 +455,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -509,8 +512,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-08T10:45:42.048Z",
+      "stale": true,
       "history": [
         {
           "v": "Ocw_5UEaXtY",
@@ -553,6 +556,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -566,7 +570,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:55",
       "history": [
         {
@@ -623,7 +627,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "SbdIj4lzu9c",
@@ -679,7 +683,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -736,7 +740,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
+      "stale": true,
       "history": [
         {
           "v": "VqsrCSpAjFs",
@@ -779,6 +784,7 @@
           "lag": 54
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -792,8 +798,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
-      "observedLocal": "22:19",
+      "checked": "2026-11-08T10:45:42.048Z",
+      "stale": true,
       "history": [
         {
           "v": "MtLdgjdKhZ4",
@@ -836,6 +842,7 @@
           "lag": 80
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -843,7 +850,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
@@ -857,7 +864,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "GPZX7-oGx3o",
@@ -913,7 +920,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -970,7 +977,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "Nh5sDFu_abg",
@@ -1018,9 +1025,9 @@
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
@@ -1029,12 +1036,12 @@
         "videoId": "GQBPjG5K6sU",
         "title": "የምሽት 2 ሰዓት አማርኛ ዜና .... ጥቅምት 28/2019 ዓ.ም    | ebc | etv | ebcdotstream | news",
         "published": "2026-11-07T16:59:02.000Z",
-        "duration": 3290,
+        "duration": 3275,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1091,7 +1098,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "IRBeCZMkThY",
@@ -1147,7 +1154,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "Wpk8UrUwUg4",
@@ -1202,8 +1209,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "upcoming": {
+        "videoId": "5HqQDfCd4UQ",
+        "title": "Массовые задержания в центре Москвы. Теракт в Кракове: 6 погибших. Штраф Буданову за русский язык",
+        "scheduledStart": "2026-11-08T11:00:00Z"
+      },
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1260,7 +1271,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:27",
       "history": [
         {
@@ -1307,7 +1318,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
@@ -1320,7 +1331,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1330,7 +1341,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
@@ -1344,7 +1355,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "9VnIZ9q3wkE",
@@ -1399,8 +1410,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "upcoming": {
+        "videoId": "w4za16cc3qI",
+        "title": "Le journal de 20h de France Télévisions - 8 novembre 2026",
+        "scheduledStart": "2026-11-08T18:57:00Z"
+      },
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1457,7 +1472,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "dos_F7qWVjs",
@@ -1507,7 +1522,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
@@ -1515,22 +1530,22 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-08T02:41:41.880Z"
+        "checked": "2026-11-08T10:45:42.048Z"
       },
       "history": []
     },
     "tv3gh": {
       "latest": {
-        "videoId": "xZ4iYmjOZcI",
-        "title": "LIVE: News360; El Niño Could Disrupt Ghana's Agriculture || 06-11-2026",
-        "published": "2026-11-06T19:01:31.000Z",
-        "duration": 3640,
+        "videoId": "o7EEfbQWUgI",
+        "title": "LIVE: News360 || 07-11-2026",
+        "published": "2026-11-07T19:03:57.000Z",
+        "duration": 3331,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
-      "observedLocal": "19:01",
+      "checked": "2026-11-08T10:45:42.048Z",
+      "observedLocal": "19:03",
       "history": [
         {
           "v": "dcxc-IcNqBE",
@@ -1586,7 +1601,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "ZPhWsziwPxA",
@@ -1642,7 +1657,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "20:02",
       "history": [
         {
@@ -1692,14 +1707,14 @@
     "channels": {
       "latest": {
         "videoId": "tvuqUab2vYg",
-        "title": "News At 10",
+        "title": "News At 10 | 7/11/2026",
         "published": "2026-11-07T21:00:06.000Z",
-        "duration": 3651,
+        "duration": 3390,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1748,25 +1763,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "7M_UKYz6Cps",
-        "title": "Global National: Nov. 6, 2026 | Carney touts budget plan to end homelessness",
-        "published": "2026-11-07T03:00:08.000Z",
-        "duration": 1332,
+        "videoId": "0brf9IQ3NEg",
+        "title": "Global National: Nov. 7, 2026 | Trump doubles down on his agenda following US midterms outcome",
+        "published": "2026-11-08T03:00:11.000Z",
+        "duration": 1315,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "0brf9IQ3NEg",
-        "title": "Global National: Nov. 7, 2026 | Trump doubles down on his agenda following US midterms outcome",
-        "scheduledStart": "2026-11-08T03:00:00Z"
-      },
-      "checked": "2026-11-08T02:41:41.880Z",
+      "upcoming": null,
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "bo-CSSojyiw",
-          "lag": 270
-        },
         {
           "v": "CqqXhieYYG0",
           "lag": 270
@@ -1802,6 +1809,10 @@
         {
           "v": "7M_UKYz6Cps",
           "lag": 270
+        },
+        {
+          "v": "0brf9IQ3NEg",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1817,7 +1828,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "stale": true,
       "history": [
         {
@@ -1875,7 +1886,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "gXExSSoPVHU",
@@ -1931,7 +1942,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "lBc449d-K6c",
@@ -1987,7 +1998,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "history": [
         {
           "v": "m2vL5Bdlq8U",
@@ -2043,7 +2054,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2100,7 +2111,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-08T02:41:41.880Z",
+      "checked": "2026-11-08T10:45:42.048Z",
       "observedLocal": "19:59",
       "history": [
         {
