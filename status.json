@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T01:12:25.852Z",
-  "lastFull": "2026-11-09T01:12:25.852Z",
+  "generated": "2026-11-09T08:40:04.086Z",
+  "lastFull": "2026-11-09T08:40:04.086Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -62,15 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "jsWl3tKHsdU",
-        "title": "Noticias Caracol | Emisión Central fin de semana (07 de noviembre de 2026)",
-        "published": "2026-11-08T03:36:09.000Z",
-        "duration": 1913,
+        "videoId": "qIsTKD05VHI",
+        "title": "Noticias Caracol | Emisión Central fin de semana (08 de noviembre de 2026)",
+        "published": "2026-11-09T03:41:03.000Z",
+        "duration": 3899,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -99,10 +99,14 @@
         {
           "v": "jsWl3tKHsdU",
           "lag": 216
+        },
+        {
+          "v": "qIsTKD05VHI",
+          "lag": 221
         }
       ],
       "delivery": "posted",
-      "readyAfter": 165
+      "readyAfter": 220
     },
     "nmas": {
       "latest": {
@@ -114,7 +118,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
@@ -172,7 +176,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
+      "stale": true,
       "history": [
         {
           "v": "D53-6gz_bAU",
@@ -215,6 +220,7 @@
           "lag": 101
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 180
     },
@@ -228,7 +234,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "YSEu75FGddw",
@@ -284,7 +290,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
@@ -334,20 +340,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "mMhSHItVUtc",
-        "title": "【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面 | CCTV「新闻联播」20261107",
-        "published": "2026-11-08T07:40:51.000Z",
-        "duration": 1799,
+        "videoId": "qbTrEgIYryo",
+        "title": "【学习贯彻党的二十届五中全会精神】同心同行强根基 从严从实担使命 | CCTV「新闻联播」20261108",
+        "published": "2026-11-09T03:15:29.000Z",
+        "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
-        {
-          "v": "akA6G2Cd9sI",
-          "lag": 955
-        },
         {
           "v": "uBl_bI2UVAQ",
           "lag": 979
@@ -383,6 +385,10 @@
         {
           "v": "mMhSHItVUtc",
           "lag": 1241
+        },
+        {
+          "v": "qbTrEgIYryo",
+          "lag": 975
         }
       ],
       "delivery": "posted",
@@ -398,7 +404,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "FuvNe8OKF6w",
@@ -454,7 +460,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -511,7 +517,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
@@ -555,6 +561,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -568,7 +575,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -625,7 +632,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "Gph6B0wlpNk",
@@ -681,7 +688,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -738,7 +745,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
+      "stale": true,
       "history": [
         {
           "v": "_77K2945Q8k",
@@ -781,6 +789,7 @@
           "lag": 57
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -794,8 +803,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
-      "observedLocal": "22:14",
+      "checked": "2026-11-09T08:40:04.086Z",
+      "stale": true,
       "history": [
         {
           "v": "UIBzdpJc4Us",
@@ -838,6 +847,7 @@
           "lag": 75
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 80
     },
@@ -845,7 +855,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -859,7 +869,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "6uqENi6ntDQ",
@@ -915,7 +925,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "18:58",
       "history": [
         {
@@ -972,7 +982,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "cVoYwPkYztE",
@@ -1022,7 +1032,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -1036,7 +1046,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1093,7 +1103,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "RQ02zYvJsL4",
@@ -1149,7 +1159,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "MmHApTNz-Ko",
@@ -1197,25 +1207,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "nbG2ltKELZo",
-        "title": "Хакеры: 400 тысяч россиян погибли на войне. Атака на мост под Ростовом. Кэти Пэрри отменяют",
-        "published": "2026-11-08T15:00:04.000Z",
-        "duration": 3254,
+        "videoId": "qVt5JggEQ1M",
+        "title": "Трамп: «Украина примет другую форму». Петербург под атакой дронов. Усадьбу Гитлера консервируют",
+        "published": "2026-11-09T05:59:54.000Z",
+        "duration": 2938,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "qVt5JggEQ1M",
-        "title": "Утро на Дожде с Сергеем Кривохарченко в 9.00 мск",
-        "scheduledStart": "2026-11-09T06:00:00Z"
-      },
-      "checked": "2026-11-09T01:12:25.852Z",
-      "observedLocal": "16:00",
+      "upcoming": null,
+      "checked": "2026-11-09T08:40:04.086Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "8BzFiE9v1HI",
-          "lag": 1020
-        },
         {
           "v": "Pjr13aalxQg",
           "lag": 720
@@ -1251,6 +1253,10 @@
         {
           "v": "nbG2ltKELZo",
           "lag": null
+        },
+        {
+          "v": "qVt5JggEQ1M",
+          "lag": null
         }
       ],
       "delivery": "posted",
@@ -1266,7 +1272,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:27",
       "history": [
         {
@@ -1313,7 +1319,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -1326,7 +1332,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1336,7 +1342,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -1350,7 +1356,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "m3cRUr8MgSk",
@@ -1405,8 +1411,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "upcoming": {
+        "videoId": "2COKv1LbQYs",
+        "title": "Le journal de 20h de France Télévisions - 09 Nov 2026",
+        "scheduledStart": "2026-11-09T18:57:00Z"
+      },
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1463,7 +1473,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "GEdHU4NPzfM",
@@ -1513,7 +1523,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -1521,7 +1531,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-09T01:12:25.852Z"
+        "checked": "2026-11-09T08:40:04.086Z"
       },
       "history": []
     },
@@ -1535,7 +1545,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1592,7 +1602,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "QDT-zlunrgY",
@@ -1648,7 +1658,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1705,7 +1715,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1754,21 +1764,16 @@
     },
     "global": {
       "latest": {
-        "videoId": "0brf9IQ3NEg",
-        "title": "Global National: Nov. 7, 2026 | Trump doubles down on his agenda following US midterms outcome",
-        "published": "2026-11-08T03:00:11.000Z",
-        "duration": 1315,
+        "videoId": "vkMGD3idaXw",
+        "title": "Global National: Nov. 8, 2026 | Canada honours CFB Wainwright victim Pte. Aidan Goulding",
+        "published": "2026-11-09T03:00:23.000Z",
+        "duration": 1328,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
-      "observedLocal": "22:00",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
-        {
-          "v": "CqqXhieYYG0",
-          "lag": 270
-        },
         {
           "v": "lhoByJPRl5s",
           "lag": 270
@@ -1804,6 +1809,10 @@
         {
           "v": "0brf9IQ3NEg",
           "lag": 270
+        },
+        {
+          "v": "vkMGD3idaXw",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1819,7 +1828,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
@@ -1877,7 +1886,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "gXExSSoPVHU",
@@ -1933,7 +1942,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
         {
           "v": "vcct7jUrCZ4",
@@ -1981,21 +1990,16 @@
     },
     "abc": {
       "latest": {
-        "videoId": "vBUPhXyBJjc",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026",
-        "published": "2026-11-07T03:00:10.000Z",
-        "duration": 1244,
+        "videoId": "OhbO9psQeZU",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 08, 2026",
+        "published": "2026-11-09T03:00:16.000Z",
+        "duration": 1255,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
-      "stale": true,
+      "checked": "2026-11-09T08:40:04.086Z",
       "history": [
-        {
-          "v": "m2vL5Bdlq8U",
-          "lag": 256
-        },
         {
           "v": "hw2s3b7afAY",
           "lag": 210
@@ -2031,9 +2035,12 @@
         {
           "v": "vBUPhXyBJjc",
           "lag": 210
+        },
+        {
+          "v": "OhbO9psQeZU",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
@@ -2047,7 +2054,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
@@ -2105,7 +2112,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-09T01:12:25.852Z",
+      "checked": "2026-11-09T08:40:04.086Z",
       "stale": true,
       "history": [
         {
