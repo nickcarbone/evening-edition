@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-10T23:42:45.009Z",
-  "lastFull": "2026-11-10T23:42:45.009Z",
+  "generated": "2026-11-11T07:06:22.083Z",
+  "lastFull": "2026-11-11T07:06:22.083Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "vZZ_hX1XM4k",
-        "title": "JORNAL DA CULTURA | Fachin decide arquivar Inquérito das Fake News | 09/11/2026",
-        "published": "2026-11-09T23:55:10.000Z",
-        "duration": 3111,
+        "videoId": "Ti41gAztCsc",
+        "title": "JORNAL DA CULTURA | PF afasta delegados que apuravam relação de ministros com Vorcaro | 10/11/2026",
+        "published": "2026-11-10T23:55:11.000Z",
+        "duration": 3921,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "Ti41gAztCsc",
-        "title": "JORNAL DA CULTURA | PF afasta delegados que apuravam relação de ministros com Vorcaro | 10/11/2026",
-        "scheduledStart": "2026-11-10T23:58:00Z"
-      },
-      "checked": "2026-11-10T23:42:45.009Z",
+      "upcoming": null,
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "wKieesdWziI",
-          "lag": -5
-        },
         {
           "v": "sjE6_D2BwoU",
           "lag": -5
@@ -59,6 +51,10 @@
         {
           "v": "vZZ_hX1XM4k",
           "lag": -5
+        },
+        {
+          "v": "Ti41gAztCsc",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "stale": true,
       "history": [
         {
@@ -110,27 +106,22 @@
           "lag": 221
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 220
     },
     "nmas": {
       "latest": {
-        "videoId": "N_4TzKuVBJA",
-        "title": "EN VIVO: Bloqueos y marchas desquician la CDMX | En Punto con Enrique Acevedo - 9 de Noviembre 2026",
-        "published": "2026-11-10T04:28:40.000Z",
-        "duration": 2255,
+        "videoId": "4tr2tIHOpGY",
+        "title": "EN VIVO: Taddei entrega oficina del INE fuera de plazo | En Punto - 10 de Noviembre 2026",
+        "published": "2026-11-11T04:28:34.000Z",
+        "duration": 2266,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "stale": true,
+      "checked": "2026-11-11T07:06:22.083Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "-7H6YRmwvts",
-          "lag": -2
-        },
         {
           "v": "_ejWr9tckgU",
           "lag": -1
@@ -166,9 +157,12 @@
         {
           "v": "N_4TzKuVBJA",
           "lag": -1
+        },
+        {
+          "v": "4tr2tIHOpGY",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -182,7 +176,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
+      "stale": true,
       "history": [
         {
           "v": "RgKo7sJm0Dc",
@@ -225,6 +220,7 @@
           "lag": 91
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
@@ -238,7 +234,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "d9ShWZ-y8FM",
@@ -294,8 +290,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "observedLocal": "18:20",
+      "checked": "2026-11-11T07:06:22.083Z",
+      "stale": true,
       "history": [
         {
           "v": "8_cxJfWPPmM",
@@ -338,25 +334,22 @@
           "lag": -10
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "fcHSB7gPKEs",
-        "title": "习近平致电祝贺约托娃当选保加利亚总统 | CCTV「新闻联播」20261109",
-        "published": "2026-11-10T02:49:24.000Z",
+        "videoId": "PjzTAPYHBlE",
+        "title": "习近平同志《论减贫脱贫》出版发行 | CCTV「新闻联播」20261110",
+        "published": "2026-11-11T02:18:15.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
-        {
-          "v": "JaHw-WP6QTY",
-          "lag": 1183
-        },
         {
           "v": "yqS9NYjiWY0",
           "lag": 1212
@@ -392,10 +385,14 @@
         {
           "v": "fcHSB7gPKEs",
           "lag": 949
+        },
+        {
+          "v": "PjzTAPYHBlE",
+          "lag": 918
         }
       ],
       "delivery": "posted",
-      "readyAfter": 1185
+      "readyAfter": 1005
     },
     "pts": {
       "latest": {
@@ -407,7 +404,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "wDTGMNyrC1Q",
@@ -463,7 +460,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -520,8 +517,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-11T07:06:22.083Z",
+      "stale": true,
       "history": [
         {
           "v": "ML1EyO-doQg",
@@ -564,6 +561,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -577,7 +575,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -634,7 +632,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "O7tiYA5Ekb4",
@@ -690,7 +688,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -747,7 +745,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
+      "stale": true,
       "history": [
         {
           "v": "YNAU2uIFbW4",
@@ -790,6 +789,7 @@
           "lag": 145
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 140
     },
@@ -803,8 +803,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "observedLocal": "22:28",
+      "checked": "2026-11-11T07:06:22.083Z",
+      "stale": true,
       "history": [
         {
           "v": "rSUGMjztxNw",
@@ -847,6 +847,7 @@
           "lag": 89
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 90
     },
@@ -854,7 +855,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
@@ -868,7 +869,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "HsJT1AEgqR8",
@@ -924,7 +925,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "18:58",
       "history": [
         {
@@ -981,7 +982,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "X6k2tG-CbLs",
@@ -1029,9 +1030,9 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
@@ -1045,7 +1046,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -1102,7 +1103,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "WfQOcQ6JGjg",
@@ -1158,7 +1159,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "i9RSSqS191o",
@@ -1206,25 +1207,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "9qZbF1zRIXE",
-        "title": "Абу-Даби: первые итоги переговоров. Падение IT-гигантов. Мэра в Перу выбрали монеткой",
-        "published": "2026-11-10T15:54:29.000Z",
-        "duration": 2950,
+        "videoId": "kHj9tLR5thQ",
+        "title": "Сигма-бой Охлобыстин. Симоньян и Соловьев утешают Трампа. Общий ген русских и северокорейцев",
+        "published": "2026-11-11T07:00:10.000Z",
+        "duration": 1833,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "UjKowmMysmQ",
-        "title": "Утро на Дожде с Надеждой Метальниковой. 11 ноября, 09:00 Мск",
-        "scheduledStart": "2026-11-11T06:00:00Z"
-      },
-      "checked": "2026-11-10T23:42:45.009Z",
-      "observedLocal": "16:54",
+      "upcoming": null,
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
-        {
-          "v": "sTz6C17lzDs",
-          "lag": 1260
-        },
         {
           "v": "owOZy-R3_Co",
           "lag": 1019
@@ -1260,6 +1252,10 @@
         {
           "v": "9qZbF1zRIXE",
           "lag": 1314
+        },
+        {
+          "v": "kHj9tLR5thQ",
+          "lag": 780
         }
       ],
       "delivery": "posted",
@@ -1275,7 +1271,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "19:20",
       "history": [
         {
@@ -1326,7 +1322,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
@@ -1339,7 +1335,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1349,7 +1345,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
@@ -1363,7 +1359,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "HL5L60wzWwM",
@@ -1418,8 +1414,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "upcoming": {
+        "videoId": "wFhMVCRbZRE",
+        "title": "Le journal de 20h de France Télévisions - 11 Nov 2026",
+        "scheduledStart": "2026-11-11T18:57:00Z"
+      },
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1476,7 +1476,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "meZYvMVhSs0",
@@ -1526,15 +1526,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-10T23:42:45.009Z"
+        "checked": "2026-11-11T07:06:22.083Z"
       },
       "history": []
     },
@@ -1548,7 +1548,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1605,7 +1605,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
         {
           "v": "ZXjXDeZWBKc",
@@ -1661,7 +1661,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1718,7 +1718,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1767,21 +1767,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "RA91-5yTI3s",
-        "title": "Global National: Nov. 9, 2026 | Nvidia CEO under scrutiny for affair with alleged Chinese spy",
-        "published": "2026-11-10T03:00:07.000Z",
-        "duration": 1353,
+        "videoId": "Dfb-BZ81UnI",
+        "title": "Global National: Nov. 10, 2026 | Stellantis deal to sell Brampton plant \"underhanded,\" Unifor says",
+        "published": "2026-11-11T03:00:10.000Z",
+        "duration": 1319,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "mrTOpTAbZkc",
-          "lag": 270
-        },
         {
           "v": "1a0tycgnB44",
           "lag": 270
@@ -1817,6 +1813,10 @@
         {
           "v": "RA91-5yTI3s",
           "lag": 270
+        },
+        {
+          "v": "Dfb-BZ81UnI",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1832,7 +1832,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "observedLocal": "17:37",
       "history": [
         {
@@ -1881,20 +1881,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "nvOuuuy9Y00",
-        "title": "PBS News Hour full episode, Nov. 9, 2026",
-        "published": "2026-11-10T00:22:34.000Z",
+        "videoId": "Rh1tKGIswZA",
+        "title": "PBS News Hour full episode, Nov. 10, 2026",
+        "published": "2026-11-11T00:18:06.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
-        {
-          "v": "2sS0ZeLxC9I",
-          "lag": 96
-        },
         {
           "v": "q88wL4MDzxw",
           "lag": 89
@@ -1930,27 +1926,27 @@
         {
           "v": "nvOuuuy9Y00",
           "lag": 83
+        },
+        {
+          "v": "Rh1tKGIswZA",
+          "lag": 78
         }
       ],
       "delivery": "posted",
-      "readyAfter": 95
+      "readyAfter": 90
     },
     "nbc": {
       "latest": {
-        "videoId": "f4jLmH1jhbA",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 9",
-        "published": "2026-11-10T03:11:21.000Z",
-        "duration": 1087,
+        "videoId": "OXsmwfMv8A0",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 10",
+        "published": "2026-11-11T03:15:15.000Z",
+        "duration": 1124,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
-        {
-          "v": "S8iPg96AMu0",
-          "lag": 206
-        },
         {
           "v": "Bjj4kbjWhRQ",
           "lag": 204
@@ -1986,28 +1982,27 @@
         {
           "v": "f4jLmH1jhbA",
           "lag": 221
+        },
+        {
+          "v": "OXsmwfMv8A0",
+          "lag": 225
         }
       ],
       "delivery": "posted",
-      "readyAfter": 215
+      "readyAfter": 225
     },
     "abc": {
       "latest": {
-        "videoId": "QO4jM2m6Z68",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 9, 2026",
-        "published": "2026-11-10T03:30:23.000Z",
-        "duration": 1231,
+        "videoId": "U0e7ha8IK4Q",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 10, 2026",
+        "published": "2026-11-11T03:00:33.000Z",
+        "duration": 1250,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "stale": true,
+      "checked": "2026-11-11T07:06:22.083Z",
       "history": [
-        {
-          "v": "oFGWW0ioKgY",
-          "lag": 210
-        },
         {
           "v": "zPD9PPWsDfE",
           "lag": 210
@@ -2043,29 +2038,28 @@
         {
           "v": "QO4jM2m6Z68",
           "lag": 240
+        },
+        {
+          "v": "U0e7ha8IK4Q",
+          "lag": 211
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
     "telemundo": {
       "latest": {
-        "videoId": "_QqQHH-6vBo",
-        "title": "Las noticias de la noche, lunes 9 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-09T23:59:16.000Z",
-        "duration": 1546,
+        "videoId": "UE3uuCu9Py8",
+        "title": "Las noticias de la noche, martes 10 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-10T23:59:15.000Z",
+        "duration": 1545,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "stale": true,
+      "checked": "2026-11-11T07:06:22.083Z",
+      "observedLocal": "18:59",
       "history": [
-        {
-          "v": "eYdVda16g38",
-          "lag": 29
-        },
         {
           "v": "wB4LOaPdx3E",
           "lag": 29
@@ -2101,28 +2095,31 @@
         {
           "v": "_QqQHH-6vBo",
           "lag": 29
+        },
+        {
+          "v": "UE3uuCu9Py8",
+          "lag": 29
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
     "telenoche": {
       "latest": {
-        "videoId": "2HI-C8tYMY8",
-        "title": "MÁS DE 2 MILLONES DE FIELES EN LA PRIMERA MISA DE LEÓN XIV | TELENOCHE DEL 09/11/26",
-        "published": "2026-11-09T23:00:06.000Z",
-        "duration": 3081,
+        "videoId": "5dIEkDLAIQM",
+        "title": "LOS JÓVENES, PROTAGONISTAS DE UNA NOCHE HISTÓRICA CON EL PAPA LEÓN XIV I TELENOCHE DEL 10/11/26",
+        "published": "2026-11-10T23:00:23.000Z",
+        "duration": 4545,
         "embeddable": true
       },
-      "live": {
-        "videoId": "5dIEkDLAIQM",
-        "title": "LOS JÓVENES, PROTAGONISTAS DE UNA NOCHE HISTÓRICA CON EL PAPA LEÓN XIV I TELENOCHE ¡EN VIVO!",
-        "start": "2026-11-10T23:00:23Z"
+      "live": null,
+      "upcoming": {
+        "videoId": "Zhx0jLq5Jf8",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-11-11T23:00:00Z"
       },
-      "upcoming": null,
-      "checked": "2026-11-10T23:42:45.009Z",
-      "stale": true,
+      "checked": "2026-11-11T07:06:22.083Z",
+      "observedLocal": "20:00",
       "history": [
         {
           "v": "-zVHi4m9fwY",
