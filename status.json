@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T03:20:52.140Z",
-  "lastFull": "2026-11-12T03:20:52.140Z",
+  "generated": "2026-11-12T11:50:15.762Z",
+  "lastFull": "2026-11-12T11:50:15.762Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -111,21 +111,17 @@
     },
     "nmas": {
       "latest": {
-        "videoId": "4tr2tIHOpGY",
-        "title": "EN VIVO: Taddei entrega oficina del INE fuera de plazo | En Punto - 10 de Noviembre 2026",
-        "published": "2026-11-11T04:28:34.000Z",
-        "duration": 2266,
+        "videoId": "oAxA3xYkfnM",
+        "title": "EN VIVO: Buscan víctimas atrapadas tras colapso en Nueva York | En Punto - 11 de Noviembre 2026",
+        "published": "2026-11-12T04:28:31.000Z",
+        "duration": 2240,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
-      "stale": true,
+      "checked": "2026-11-12T11:50:15.762Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "_ejWr9tckgU",
-          "lag": -1
-        },
         {
           "v": "7yfzEsaCfuE",
           "lag": -2
@@ -161,9 +157,12 @@
         {
           "v": "4tr2tIHOpGY",
           "lag": -1
+        },
+        {
+          "v": "oAxA3xYkfnM",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -177,7 +176,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -221,26 +220,21 @@
           "lag": 150
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "tvb": {
       "latest": {
-        "videoId": "jcwzARnXfKE",
-        "title": "無綫TVB六點半新聞報道｜黃仁勳婚外情｜有Nvidia股東已提集體訴訟 公司無單一大股東為控制權帶來隱憂｜國台辦包括半導體在內兩岸產供鏈保持穩定強韌｜APEC領導人會議中方已多次就中日關係闡明立場",
-        "published": "2026-11-11T10:50:21.000Z",
-        "duration": 2145,
+        "videoId": "2lD3Pd64CBE",
+        "title": "無綫TVB六點半新聞報道｜黃仁勳婚外情｜輝達董事會商討黃仁勳去向　北京反對美國泛化國家安全概念｜俄烏美和談主要議題仍有重大分歧　澤連斯基稱談判或明年前有突破｜央視指解放軍空軍整體作戰能力居世界前列｜",
+        "published": "2026-11-12T10:49:24.000Z",
+        "duration": 2197,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
-        {
-          "v": "1vj4pg27Dcs",
-          "lag": 89
-        },
         {
           "v": "AEt2ohTvWjM",
           "lag": 29
@@ -276,10 +270,14 @@
         {
           "v": "jcwzARnXfKE",
           "lag": 20
+        },
+        {
+          "v": "2lD3Pd64CBE",
+          "lag": 19
         }
       ],
       "delivery": "posted",
-      "readyAfter": 60
+      "readyAfter": 35
     },
     "tvpatrol": {
       "latest": {
@@ -289,15 +287,15 @@
         "duration": 4665,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "Y4HztorxXvQ",
+        "title": "LIVE: TV Patrol Livestream | November 12, 2026 Full Episode",
+        "start": "2026-11-12T10:19:46Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
-        {
-          "v": "0iuKarv2-Gc",
-          "lag": -10
-        },
         {
           "v": "n1g-TLyKoVY",
           "lag": -10
@@ -333,9 +331,12 @@
         {
           "v": "EB3VeBJ_fMc",
           "lag": -5
+        },
+        {
+          "v": "Y4HztorxXvQ",
+          "lag": -10
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -349,7 +350,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "-cfgDW2hpWQ",
@@ -405,7 +406,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "0S4KOwDSabg",
@@ -461,8 +462,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
-      "observedLocal": "18:02",
+      "checked": "2026-11-12T11:50:15.762Z",
+      "stale": true,
       "history": [
         {
           "v": "NEdKorieOx4",
@@ -505,6 +506,7 @@
           "lag": 2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -517,8 +519,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "upcoming": {
+        "videoId": "3ijNrxJ-CBM",
+        "title": "[🔴LIVE] 뉴스9 : 이번엔 ‘사내 불륜’…“엔비디아, 젠슨 황 후임자 물색 중” – 11월 12일(목) / KBS",
+        "scheduledStart": "2026-11-12T12:00:00Z"
+      },
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -562,7 +568,6 @@
           "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -575,8 +580,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "upcoming": {
+        "videoId": "IM280Ch6FD4",
+        "title": "Buletin Utama, 12 November 2026",
+        "scheduledStart": "2026-11-12T12:00:00Z"
+      },
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -633,7 +642,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "nhSCXsNMsEE",
@@ -689,8 +698,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
-      "observedLocal": "20:01",
+      "checked": "2026-11-12T11:50:15.762Z",
+      "stale": true,
       "history": [
         {
           "v": "IxB0t9N19go",
@@ -733,6 +742,7 @@
           "lag": 2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -746,7 +756,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
+      "stale": true,
       "history": [
         {
           "v": "fTP2vPW-0uU",
@@ -789,6 +800,7 @@
           "lag": 90
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -802,7 +814,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -854,7 +866,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -868,7 +880,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -926,7 +938,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [
         {
@@ -984,7 +996,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "TDmJOpXqFNw",
@@ -1034,7 +1046,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -1048,7 +1060,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1105,7 +1117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "I5K662HLzOQ",
@@ -1161,7 +1173,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "FaCSZHtmmbQ",
@@ -1209,25 +1221,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "TMcZsX44Jwk",
-        "title": "Украина: Мир возможен до конца года. 100 млн за возвращение Сабурова. Расследование против Трампа",
-        "published": "2026-11-11T15:00:13.000Z",
-        "duration": 4097,
+        "videoId": "it4FS9gNRLY",
+        "title": "Кого взорвали в Петербурге? Сотрудников ГИБДД пытали в ФСБ. Лерчек попросила о помиловании",
+        "published": "2026-11-12T10:59:53.000Z",
+        "duration": 2030,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "KIntNGf8xQk",
-        "title": "Утро на Дожде с Валерией Ратниковой в 9.00 мск",
-        "scheduledStart": "2026-11-12T06:00:00Z"
-      },
-      "checked": "2026-11-12T03:20:52.140Z",
-      "observedLocal": "16:00",
+      "upcoming": null,
+      "checked": "2026-11-12T11:50:15.762Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "xRWpxF-Vvkw",
-          "lag": 1260
-        },
         {
           "v": "GSffARCTMg4",
           "lag": 1020
@@ -1263,6 +1267,10 @@
         {
           "v": "JCiyp8EezaI",
           "lag": 1019
+        },
+        {
+          "v": "it4FS9gNRLY",
+          "lag": 1020
         }
       ],
       "delivery": "posted",
@@ -1278,7 +1286,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "19:20",
       "history": [
         {
@@ -1329,7 +1337,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -1342,7 +1350,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1352,7 +1360,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -1366,7 +1374,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "jpPwu0jcdE4",
@@ -1421,9 +1429,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
-      "observedLocal": "19:57",
+      "upcoming": {
+        "videoId": "KRLUz8iPwlA",
+        "title": "Le journal de 20h de France Télévisions - 12 novembre 2026",
+        "scheduledStart": "2026-11-12T18:57:00Z"
+      },
+      "checked": "2026-11-12T11:50:15.762Z",
+      "stale": true,
       "history": [
         {
           "v": "qrE1aGLSrcQ",
@@ -1479,7 +1491,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "1IMShrP5Igg",
@@ -1529,7 +1541,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -1537,7 +1549,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-12T03:20:52.140Z"
+        "checked": "2026-11-12T11:50:15.762Z"
       },
       "history": []
     },
@@ -1551,7 +1563,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "19:06",
       "history": [
         {
@@ -1608,7 +1620,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "CNyDTtPqslA",
@@ -1664,7 +1676,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1714,14 +1726,14 @@
     "channels": {
       "latest": {
         "videoId": "3ml9a4oym1Q",
-        "title": "News At 10",
+        "title": "News At 10 | 11/11/2026",
         "published": "2026-11-11T21:00:31.000Z",
-        "duration": 3615,
+        "duration": 2775,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1770,19 +1782,15 @@
     },
     "global": {
       "latest": {
-        "videoId": "Dfb-BZ81UnI",
-        "title": "Global National: Nov. 10, 2026 | Stellantis deal to sell Brampton plant \"underhanded,\" Unifor says",
-        "published": "2026-11-11T03:00:10.000Z",
-        "duration": 1319,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "iaF2xDhnnOk",
         "title": "Global National: Nov. 11, 2026 | Thousands attend Remembrance Day ceremony in Ottawa",
-        "start": "2026-11-12T03:00:09Z"
+        "published": "2026-11-12T03:00:09.000Z",
+        "duration": 1343,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1839,7 +1847,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "17:39",
       "history": [
         {
@@ -1896,7 +1904,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
         {
           "v": "G7HapDofeBk",
@@ -1944,21 +1952,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "OXsmwfMv8A0",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 10",
-        "published": "2026-11-11T03:15:15.000Z",
-        "duration": 1124,
+        "videoId": "t1dwd4BsLqI",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 11",
+        "published": "2026-11-12T03:27:33.000Z",
+        "duration": 1202,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
-      "stale": true,
+      "checked": "2026-11-12T11:50:15.762Z",
       "history": [
-        {
-          "v": "Bjj4kbjWhRQ",
-          "lag": 204
-        },
         {
           "v": "kxB2HqO-u7I",
           "lag": 205
@@ -1994,9 +1997,12 @@
         {
           "v": "OXsmwfMv8A0",
           "lag": 225
+        },
+        {
+          "v": "t1dwd4BsLqI",
+          "lag": 238
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
@@ -2010,7 +2016,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
+      "stale": true,
       "history": [
         {
           "v": "ffTyZvmAS4g",
@@ -2053,6 +2060,7 @@
           "lag": 225
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
@@ -2065,8 +2073,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-12T03:20:52.140Z",
+      "upcoming": {
+        "videoId": "vIdgz2W79xk",
+        "title": "EN VIVO: Las noticias de la noche, jueves 12 de noviembre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-11-13T00:00:00Z"
+      },
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2127,7 +2139,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-12T23:00:00Z"
       },
-      "checked": "2026-11-12T03:20:52.140Z",
+      "checked": "2026-11-12T11:50:15.762Z",
       "observedLocal": "20:00",
       "history": [
         {
