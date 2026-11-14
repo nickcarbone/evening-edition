@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-13T22:51:27.983Z",
-  "lastFull": "2026-11-13T22:51:27.983Z",
+  "generated": "2026-11-14T03:33:18.229Z",
+  "lastFull": "2026-11-14T03:33:18.229Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "_k41OsDpKU0",
-        "title": "JORNAL DA CULTURA | Dino mantém fim da escala 6x1 para dezembro | 12/11/2026",
-        "published": "2026-11-12T23:55:12.000Z",
-        "duration": 3005,
+        "videoId": "xmuLQyk2lbs",
+        "title": "JORNAL DA CULTURA | Governo articula votação do ajuste fiscal na Câmara | 13/11/2026",
+        "published": "2026-11-13T23:58:36.000Z",
+        "duration": 3775,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "xmuLQyk2lbs",
-        "title": "JORNAL DA CULTURA | Governo articula votação do ajuste fiscal na Câmara | 13/11/2026",
-        "scheduledStart": "2026-11-14T00:00:00Z"
-      },
-      "checked": "2026-11-13T22:51:27.983Z",
-      "observedLocal": "20:55",
+      "upcoming": null,
+      "checked": "2026-11-14T03:33:18.229Z",
+      "observedLocal": "20:58",
       "history": [
-        {
-          "v": "p-ut_VCZOBY",
-          "lag": -5
-        },
         {
           "v": "CV_tXBlAuFM",
           "lag": -5
@@ -59,6 +51,10 @@
         {
           "v": "_k41OsDpKU0",
           "lag": -5
+        },
+        {
+          "v": "xmuLQyk2lbs",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "stale": true,
       "history": [
         {
@@ -110,6 +106,7 @@
           "lag": 221
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 220
     },
@@ -123,7 +120,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "stale": true,
       "history": [
         {
@@ -181,7 +178,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "l2KoXHVE4g0",
@@ -237,7 +234,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "L74XZk07oFg",
@@ -293,8 +290,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
-      "observedLocal": "18:20",
+      "checked": "2026-11-14T03:33:18.229Z",
+      "stale": true,
       "history": [
         {
           "v": "cPLD2md8D1g",
@@ -337,6 +334,7 @@
           "lag": -10
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -350,7 +348,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "XooxXJ1t_xA",
@@ -406,7 +404,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "zXG0CpxG0CA",
@@ -462,7 +460,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "18:01",
       "history": [
         {
@@ -519,8 +517,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-14T03:33:18.229Z",
+      "stale": true,
       "history": [
         {
           "v": "f6hdnX65qM4",
@@ -563,6 +561,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -576,7 +575,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -633,7 +632,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "2rCLy8BH7Us",
@@ -689,7 +688,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -746,7 +745,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "QY9fUEkgt98",
@@ -802,7 +801,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "22:20",
       "history": [
         {
@@ -853,7 +852,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -867,7 +866,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "Wndx0D-ugco",
@@ -923,7 +922,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "stale": true,
       "history": [
         {
@@ -981,7 +980,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "81bjeRZM-A4",
@@ -1031,7 +1030,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -1045,7 +1044,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1102,7 +1101,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "Oq_lf3vNBP8",
@@ -1158,7 +1157,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "KFZgL0RKM3Q",
@@ -1214,7 +1213,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1271,7 +1270,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:15",
       "history": [
         {
@@ -1322,7 +1321,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -1335,7 +1334,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1345,7 +1344,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -1359,7 +1358,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "7gY0cLyCsyM",
@@ -1415,7 +1414,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1472,7 +1471,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "Zj15pmC5dfI",
@@ -1522,7 +1521,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -1530,7 +1529,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-13T22:51:27.983Z"
+        "checked": "2026-11-14T03:33:18.229Z"
       },
       "history": []
     },
@@ -1544,7 +1543,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1601,7 +1600,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
         {
           "v": "0Aaz6SMbFNc",
@@ -1657,7 +1656,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1714,7 +1713,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1763,21 +1762,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "QfsoF-YerbU",
-        "title": "Global National: Nov. 12, 2026 | What’s next after Nvidia CEO resigns over affairs",
-        "published": "2026-11-13T03:00:14.000Z",
-        "duration": 1317,
+        "videoId": "bBKHHAYOmJs",
+        "title": "Global National: Nov. 13, 2026 | FAA issues nationwide ground-stop for all US flights",
+        "published": "2026-11-14T03:00:10.000Z",
+        "duration": 1339,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "zyerb5QEHCc",
-          "lag": 270
-        },
         {
           "v": "cExocKFNQ_c",
           "lag": 270
@@ -1813,6 +1808,10 @@
         {
           "v": "QfsoF-YerbU",
           "lag": 270
+        },
+        {
+          "v": "bBKHHAYOmJs",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1828,7 +1827,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "observedLocal": "17:34",
       "history": [
         {
@@ -1877,20 +1876,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "RTgmjLhrXVM",
-        "title": "PBS News Hour full episode, Nov. 12, 2026",
-        "published": "2026-11-13T00:48:08.000Z",
+        "videoId": "mkCF59W4A4g",
+        "title": "PBS News Hour full episode, Nov. 13, 2026",
+        "published": "2026-11-14T00:14:43.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "history": [
-        {
-          "v": "KIjeMHrR9IM",
-          "lag": 82
-        },
         {
           "v": "OpJqDti4PrE",
           "lag": 95
@@ -1926,6 +1921,10 @@
         {
           "v": "RTgmjLhrXVM",
           "lag": 108
+        },
+        {
+          "v": "mkCF59W4A4g",
+          "lag": 75
         }
       ],
       "delivery": "posted",
@@ -1941,7 +1940,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
+      "stale": true,
       "history": [
         {
           "v": "nZfZTYOC5MU",
@@ -1984,6 +1984,7 @@
           "lag": 201
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
@@ -1997,7 +1998,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
+      "checked": "2026-11-14T03:33:18.229Z",
       "stale": true,
       "history": [
         {
@@ -2047,25 +2048,17 @@
     },
     "telemundo": {
       "latest": {
-        "videoId": "vIdgz2W79xk",
-        "title": "Las noticias de la noche, jueves 12 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-12T23:59:17.000Z",
-        "duration": 1544,
+        "videoId": "hd0t9V1bLro",
+        "title": "Las noticias de la noche, viernes 13 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-13T23:59:12.000Z",
+        "duration": 1545,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "hd0t9V1bLro",
-        "title": "EN VIVO: Las noticias de la noche, viernes 13 de noviembre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-11-14T00:00:00Z"
-      },
-      "checked": "2026-11-13T22:51:27.983Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-14T03:33:18.229Z",
+      "observedLocal": "18:59",
       "history": [
-        {
-          "v": "Y4um0w1X5Tg",
-          "lag": 29
-        },
         {
           "v": "iKZO9COODlA",
           "lag": 29
@@ -2101,6 +2094,10 @@
         {
           "v": "vIdgz2W79xk",
           "lag": 29
+        },
+        {
+          "v": "hd0t9V1bLro",
+          "lag": 29
         }
       ],
       "delivery": "posted",
@@ -2108,21 +2105,17 @@
     },
     "telenoche": {
       "latest": {
-        "videoId": "kFu1Td2PUqM",
-        "title": "León XIV en Perú: emoción, lágrimas y un mensaje sobre el valor de la mujer | TELENOCHE DEL 12/11/26",
-        "published": "2026-11-12T22:59:35.000Z",
-        "duration": 3023,
+        "videoId": "ubqEDUrA-2s",
+        "title": "EE.UU.: ORDENARON ATERRIZAR A TODOS LOS VUELOS | TELENOCHE DEL 13/11/26",
+        "published": "2026-11-13T22:59:53.000Z",
+        "duration": 3890,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-13T22:51:27.983Z",
-      "stale": true,
+      "checked": "2026-11-14T03:33:18.229Z",
+      "observedLocal": "19:59",
       "history": [
-        {
-          "v": "DUSg3SPYODY",
-          "lag": 0
-        },
         {
           "v": "Om7Yej-D-s0",
           "lag": 1
@@ -2158,9 +2151,12 @@
         {
           "v": "kFu1Td2PUqM",
           "lag": 0
+        },
+        {
+          "v": "ubqEDUrA-2s",
+          "lag": 0
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
