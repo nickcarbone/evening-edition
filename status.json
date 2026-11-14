@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T10:55:08.307Z",
-  "lastFull": "2026-11-14T10:55:08.307Z",
+  "generated": "2026-11-14T17:18:15.655Z",
+  "lastFull": "2026-11-14T17:18:15.655Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,16 @@
         "videoId": "xmuLQyk2lbs",
         "title": "JORNAL DA CULTURA | Governo articula votação do ajuste fiscal na Câmara | 13/11/2026",
         "published": "2026-11-13T23:58:36.000Z",
-        "duration": 3775,
+        "duration": 3189,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "upcoming": {
+        "videoId": "r3pZnD6eD9M",
+        "title": "JORNAL DA CULTURA | 14/11/2026",
+        "scheduledStart": "2026-11-14T23:58:00Z"
+      },
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "20:58",
       "history": [
         {
@@ -70,7 +74,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "stale": true,
       "history": [
         {
@@ -120,7 +124,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "22:27",
       "history": [
         {
@@ -169,21 +173,16 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "XT0-nLjapqU",
-        "title": "Bursa Nama Wapres, Dari Muzani hingga Cak Imin | KOMPAS PETANG",
-        "published": "2026-11-13T13:00:19.000Z",
-        "duration": 4167,
+        "videoId": "KGOmXrhH80E",
+        "title": "Usai Mundur, Gibran 'Diadang' Kasus Pemalsuan Suket | KOMPAS PETANG",
+        "published": "2026-11-14T17:16:39.000Z",
+        "duration": 5881,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "stale": true,
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
-        {
-          "v": "l2KoXHVE4g0",
-          "lag": 1054
-        },
         {
           "v": "GzoH8phr84w",
           "lag": 105
@@ -219,6 +218,10 @@
         {
           "v": "XT0-nLjapqU",
           "lag": 180
+        },
+        {
+          "v": "KGOmXrhH80E",
+          "lag": 437
         }
       ],
       "delivery": "posted",
@@ -226,20 +229,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "B_veYO3e4NU",
-        "title": "無綫TVB六點半新聞報道｜APEC領導人會議｜下周深圳舉行 將主持並發表講話｜中美俄元首會否會面成焦點 本港學者認為有機會成事｜微軟系統故障波及逾70國服務仍未完全恢復 公司稱部分伺服器未能正常運作",
-        "published": "2026-11-13T10:47:24.000Z",
-        "duration": 2001,
+        "videoId": "SfjR1gW-fqE",
+        "title": "無綫TVB六點半新聞報道｜黃仁勳婚外情 據報FBI調查至少一年　未能證明黃樂為北京從事間諜活動｜白宮稱美中俄領導人下周於深圳舉行三方會談　商裁減核武及伊朗戰事｜美國當局一度下停飛令影響約1.5萬班機",
+        "published": "2026-11-14T11:35:50.000Z",
+        "duration": 1610,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
-        {
-          "v": "L74XZk07oFg",
-          "lag": 24
-        },
         {
           "v": "KmezeDQ3cf8",
           "lag": 18
@@ -275,10 +274,14 @@
         {
           "v": "B_veYO3e4NU",
           "lag": 17
+        },
+        {
+          "v": "SfjR1gW-fqE",
+          "lag": 66
         }
       ],
       "delivery": "posted",
-      "readyAfter": 35
+      "readyAfter": 60
     },
     "tvpatrol": {
       "latest": {
@@ -290,7 +293,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "stale": true,
       "history": [
         {
@@ -348,7 +351,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "XooxXJ1t_xA",
@@ -396,20 +399,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "DZfsk5i4Uo4",
-        "title": "20261113 公視晚間新聞 完整版（無網路版權內容除外）｜立院三讀拍板產假增為14週 育兒留停期限放寬至子女滿9歲",
-        "published": "2026-11-13T12:36:03.000Z",
-        "duration": 3076,
+        "videoId": "D1ZIVfC7O_M",
+        "title": "20261114 公視晚間新聞 完整版（無網路版權內容除外）｜北市公辦政見發表蔣提4年施政 沈攻兒虐、營養午餐議題",
+        "published": "2026-11-14T11:50:34.000Z",
+        "duration": 1786,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
-        {
-          "v": "zXG0CpxG0CA",
-          "lag": 115
-        },
         {
           "v": "HDkSiIb-wX0",
           "lag": 76
@@ -445,6 +444,10 @@
         {
           "v": "DZfsk5i4Uo4",
           "lag": 96
+        },
+        {
+          "v": "D1ZIVfC7O_M",
+          "lag": 51
         }
       ],
       "delivery": "posted",
@@ -452,21 +455,17 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "9C80O5QxUmQ",
-        "title": "ข่าวค่ำ | 13 พ.ย. 69",
-        "published": "2026-11-13T11:01:17.000Z",
-        "duration": 8984,
+        "videoId": "ROJZH31bOYk",
+        "title": "ข่าวค่ำ | 14 พ.ย. 69",
+        "published": "2026-11-14T11:00:36.000Z",
+        "duration": 8061,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "observedLocal": "18:01",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "observedLocal": "18:00",
       "history": [
-        {
-          "v": "XcbZrTFpreE",
-          "lag": 2
-        },
         {
           "v": "GlQNgOu4GFM",
           "lag": 2
@@ -502,6 +501,10 @@
         {
           "v": "9C80O5QxUmQ",
           "lag": 1
+        },
+        {
+          "v": "ROJZH31bOYk",
+          "lag": 1
         }
       ],
       "delivery": "live",
@@ -509,21 +512,17 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "OuLM2OoL5bc",
-        "title": "[풀영상] 뉴스9 : ‘불륜 스캔들’ 젠슨 황 엔비디아 CEO 사실상 해임…주가 하락 등 후폭풍 – 2026년 11월 13일(금) / KBS",
-        "published": "2026-11-13T11:57:37.000Z",
-        "duration": 2850,
+        "videoId": "i9icsWLq6MM",
+        "title": "[풀영상] 뉴스9 : 미국 항공 대란, 4시간여 동안 ‘이착륙 전면 중단’…인천공항도 50편 출발·도착 지연 - 2026년 11월 14일(토) / KBS",
+        "published": "2026-11-14T11:57:38.000Z",
+        "duration": 1204,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "stale": true,
+      "checked": "2026-11-14T17:18:15.655Z",
+      "observedLocal": "20:57",
       "history": [
-        {
-          "v": "f6hdnX65qM4",
-          "lag": -3
-        },
         {
           "v": "XT7ipqwo2_s",
           "lag": -3
@@ -559,9 +558,12 @@
         {
           "v": "OuLM2OoL5bc",
           "lag": -2
+        },
+        {
+          "v": "i9icsWLq6MM",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -575,8 +577,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "observedLocal": "19:57",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "stale": true,
       "history": [
         {
           "v": "9ZHateLsFGw",
@@ -619,25 +621,22 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tolo": {
       "latest": {
-        "videoId": "NWCCpo_4l78",
-        "title": "TOLOnews - 6pm News - 13 November 2026 | واکنش روسیه به گزارش افزایش تولید تریاک در افغانستان",
-        "published": "2026-11-13T14:25:45.000Z",
-        "duration": 1068,
+        "videoId": "box9oYn1RCE",
+        "title": "TOLOnews - 6pm News - 14 November 2026 | توقف بررسی جنایت‌های جنگی امریکا در افغانستان",
+        "published": "2026-11-14T14:18:38.000Z",
+        "duration": 1179,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
-        {
-          "v": "2rCLy8BH7Us",
-          "lag": 71
-        },
         {
           "v": "PwI2qzZ3-s8",
           "lag": 83
@@ -673,10 +672,14 @@
         {
           "v": "NWCCpo_4l78",
           "lag": 56
+        },
+        {
+          "v": "box9oYn1RCE",
+          "lag": 49
         }
       ],
       "delivery": "posted",
-      "readyAfter": 75
+      "readyAfter": 60
     },
     "btv": {
       "latest": {
@@ -688,8 +691,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "observedLocal": "20:00",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "stale": true,
       "history": [
         {
           "v": "XwXntsTAfJ8",
@@ -732,26 +735,22 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "kz24": {
       "latest": {
-        "videoId": "xJyZXx1bTWA",
-        "title": "13 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-11-13T15:29:17.000Z",
-        "duration": 2662,
+        "videoId": "ixBBsFZeTO0",
+        "title": "14 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-11-14T15:25:23.000Z",
+        "duration": 1283,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "stale": true,
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
-        {
-          "v": "QY9fUEkgt98",
-          "lag": 108
-        },
         {
           "v": "CfmeQV0FRjw",
           "lag": 80
@@ -787,33 +786,32 @@
         {
           "v": "xJyZXx1bTWA",
           "lag": 89
+        },
+        {
+          "v": "ixBBsFZeTO0",
+          "lag": 85
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
     "geo": {
       "latest": {
-        "videoId": "D96K0nCCBUI",
-        "title": "Split in PTI.. Big confession | Geo News 9 PM Geo Bulletin | 13th Nov 2026",
-        "published": "2026-11-13T17:20:52.000Z",
-        "duration": 850,
+        "videoId": "OzXX0vXAWQ0",
+        "title": "Pakistan's Minister to visit India - Pak-India Relations | 9PM Headlines Geo News (14 Nov 2026)",
+        "published": "2026-11-14T16:54:19.000Z",
+        "duration": 1361,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "jKkODOuOWEo",
+        "title": "RESIGNATION DEMAND - TRUMP URGED TO ACT | Geo News 9 PM Geo Bulletin | 14th Nov 2026",
+        "start": "2026-11-14T17:17:05Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "stale": true,
+      "checked": "2026-11-14T17:18:15.655Z",
+      "observedLocal": "21:54",
       "history": [
-        {
-          "v": "iM2gOQhv1MU",
-          "lag": 78
-        },
-        {
-          "v": "dpsPzKlDFvI",
-          "lag": 44
-        },
         {
           "v": "8N15mZ4dbOs",
           "lag": 80
@@ -845,9 +843,16 @@
         {
           "v": "YoDgGpx3HEo",
           "lag": 50
+        },
+        {
+          "v": "jKkODOuOWEo",
+          "lag": 77
+        },
+        {
+          "v": "OzXX0vXAWQ0",
+          "lag": 54
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -855,7 +860,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -869,7 +874,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "stale": true,
       "history": [
         {
           "v": "Wndx0D-ugco",
@@ -912,6 +918,7 @@
           "lag": 74
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -925,7 +932,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "stale": true,
       "history": [
         {
@@ -983,7 +990,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "81bjeRZM-A4",
@@ -1033,7 +1040,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -1045,15 +1052,15 @@
         "duration": 3266,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "CPVds-aV9FY",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ... ኅዳር 05/2019 ዓ.ም  | EBC | EBCDOTSTREAM",
+        "start": "2026-11-14T16:59:34Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "19:59",
       "history": [
-        {
-          "v": "lK_LHM9OUUk",
-          "lag": 0
-        },
         {
           "v": "yfqb65N8Ey4",
           "lag": 0
@@ -1089,6 +1096,10 @@
         {
           "v": "aamZVQyg_Ac",
           "lag": 0
+        },
+        {
+          "v": "CPVds-aV9FY",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1104,7 +1115,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "Oq_lf3vNBP8",
@@ -1160,7 +1171,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "KFZgL0RKM3Q",
@@ -1208,24 +1219,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "Kfu-bSMGDoA",
-        "title": "Что с Киркоровым? Скандал с HR Яндекса. Злая «Школа злословия». 7000 обезьян Путина. Мама Тимати",
-        "published": "2026-11-14T04:00:35.000Z",
-        "duration": 5373,
+        "videoId": "ujBlDGO9JpE",
+        "title": "ВСУ ударили по ключевому НПЗ России. Слежка за россиянами через провайдеров. Галямину задержали",
+        "published": "2026-11-14T15:00:05.000Z",
+        "duration": 3126,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "wVEf4Ei83BE",
-        "title": "Донбасс в обмен на НАТО: предложение США Киеву. Что обсудят Путин, Трамп и Си. Лерчек помиловали",
-        "scheduledStart": "2026-11-14T11:00:00Z"
-      },
-      "checked": "2026-11-14T10:55:08.307Z",
+      "upcoming": null,
+      "checked": "2026-11-14T17:18:15.655Z",
+      "observedLocal": "16:00",
       "history": [
-        {
-          "v": "JrQQZ5qcjsA",
-          "lag": 720
-        },
         {
           "v": "9qZbF1zRIXE",
           "lag": 1314
@@ -1261,6 +1265,10 @@
         {
           "v": "Kfu-bSMGDoA",
           "lag": 601
+        },
+        {
+          "v": "ujBlDGO9JpE",
+          "lag": 1260
         }
       ],
       "delivery": "posted",
@@ -1276,7 +1284,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "19:15",
       "history": [
         {
@@ -1327,7 +1335,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -1340,7 +1348,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1350,7 +1358,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -1364,7 +1372,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "7gY0cLyCsyM",
@@ -1424,8 +1432,8 @@
         "title": "Le journal de 20h de France Télévisions - 14 novembre 2026",
         "scheduledStart": "2026-11-14T18:57:00Z"
       },
-      "checked": "2026-11-14T10:55:08.307Z",
-      "observedLocal": "19:57",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "stale": true,
       "history": [
         {
           "v": "nbMXh-2cl-E",
@@ -1481,7 +1489,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "W3Cu9ifCxZI",
@@ -1531,7 +1539,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -1539,7 +1547,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-14T10:55:08.307Z"
+        "checked": "2026-11-14T17:18:15.655Z"
       },
       "history": []
     },
@@ -1553,7 +1561,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "19:02",
       "history": [
         {
@@ -1610,7 +1618,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "0Aaz6SMbFNc",
@@ -1666,7 +1674,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1723,7 +1731,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1780,7 +1788,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1837,8 +1845,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
-      "observedLocal": "17:34",
+      "checked": "2026-11-14T17:18:15.655Z",
+      "stale": true,
       "history": [
         {
           "v": "-se3Un4s-t0",
@@ -1881,6 +1889,7 @@
           "lag": -26
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -1894,7 +1903,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "OpJqDti4PrE",
@@ -1950,7 +1959,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "rIQ4xuwo7m0",
@@ -2006,7 +2015,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "history": [
         {
           "v": "8YAWAgXwSzk",
@@ -2062,7 +2071,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2119,7 +2128,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-14T10:55:08.307Z",
+      "checked": "2026-11-14T17:18:15.655Z",
       "observedLocal": "19:59",
       "history": [
         {
