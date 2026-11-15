@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-15T01:19:56.568Z",
-  "lastFull": "2026-11-15T01:19:56.568Z",
+  "generated": "2026-11-15T08:26:23.374Z",
+  "lastFull": "2026-11-15T08:26:23.374Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -106,7 +106,6 @@
           "lag": 221
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 220
     },
@@ -120,7 +119,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -178,7 +177,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "GzoH8phr84w",
@@ -234,7 +233,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "KmezeDQ3cf8",
@@ -290,7 +289,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -340,20 +339,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "zbkkedztskQ",
-        "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话 | CCTV「新闻联播」20261112",
-        "published": "2026-11-13T02:11:06.000Z",
-        "duration": 1798,
+        "videoId": "qjeHxCCJVXg",
+        "title": "【建设亚太共同体 促进共同繁荣】创新亚太 携手同行 | CCTV「新闻联播」20261114",
+        "published": "2026-11-15T07:19:12.000Z",
+        "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
-        {
-          "v": "XooxXJ1t_xA",
-          "lag": 1005
-        },
         {
           "v": "GJsJL6aSzUU",
           "lag": 936
@@ -389,6 +384,10 @@
         {
           "v": "zbkkedztskQ",
           "lag": 911
+        },
+        {
+          "v": "qjeHxCCJVXg",
+          "lag": 1219
         }
       ],
       "delivery": "posted",
@@ -404,7 +403,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "HDkSiIb-wX0",
@@ -460,7 +459,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -517,8 +516,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-15T08:26:23.374Z",
+      "stale": true,
       "history": [
         {
           "v": "XT7ipqwo2_s",
@@ -561,6 +560,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -574,7 +574,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -631,7 +631,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "PwI2qzZ3-s8",
@@ -687,7 +687,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -745,7 +745,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "CfmeQV0FRjw",
@@ -801,8 +801,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
-      "observedLocal": "22:17",
+      "checked": "2026-11-15T08:26:23.374Z",
+      "stale": true,
       "history": [
         {
           "v": "8N15mZ4dbOs",
@@ -845,6 +845,7 @@
           "lag": 54
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -852,7 +853,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -866,7 +867,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "IXbgokROPmY",
@@ -922,7 +923,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -980,7 +981,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "C1i5tFrXqGY",
@@ -1030,7 +1031,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -1044,7 +1045,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1101,7 +1102,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "4NSyLm97bPQ",
@@ -1157,7 +1158,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "HYNB4yHebzg",
@@ -1205,21 +1206,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "ujBlDGO9JpE",
-        "title": "ВСУ ударили по ключевому НПЗ России. Слежка за россиянами через провайдеров. Галямину задержали",
-        "published": "2026-11-14T15:00:05.000Z",
-        "duration": 3126,
+        "videoId": "FmmrwRT_9hg",
+        "title": "Нарциссизм: откуда он берется и как от него избавиться",
+        "published": "2026-11-15T06:00:17.000Z",
+        "duration": 3533,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
-      "observedLocal": "16:00",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
-        {
-          "v": "9qZbF1zRIXE",
-          "lag": 1314
-        },
         {
           "v": "kHj9tLR5thQ",
           "lag": 780
@@ -1255,6 +1251,10 @@
         {
           "v": "ujBlDGO9JpE",
           "lag": 1260
+        },
+        {
+          "v": "FmmrwRT_9hg",
+          "lag": null
         }
       ],
       "delivery": "posted",
@@ -1270,7 +1270,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "19:20",
       "history": [
         {
@@ -1321,7 +1321,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -1334,7 +1334,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1344,7 +1344,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -1358,7 +1358,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "5F5XsJLTSVI",
@@ -1413,8 +1413,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "upcoming": {
+        "videoId": "x9M3gZED6pc",
+        "title": "Le journal de 20h de France Télévisions - 15 Nov 2026",
+        "scheduledStart": "2026-11-15T18:57:00Z"
+      },
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1471,7 +1475,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "V0VFHzHMpMU",
@@ -1521,7 +1525,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -1529,7 +1533,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-15T01:19:56.568Z"
+        "checked": "2026-11-15T08:26:23.374Z"
       },
       "history": []
     },
@@ -1543,7 +1547,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "19:03",
       "history": [
         {
@@ -1600,7 +1604,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "Q2XHgLOdiFI",
@@ -1656,7 +1660,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1713,7 +1717,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1762,25 +1766,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "bBKHHAYOmJs",
-        "title": "Global National: Nov. 13, 2026 | FAA issues nationwide ground-stop for all US flights",
-        "published": "2026-11-14T03:00:10.000Z",
-        "duration": 1339,
+        "videoId": "8U6tjWJnJy8",
+        "title": "Global National: Nov. 14, 2026 | 5th Canadian soldier dead after CFB Wainwright fire",
+        "published": "2026-11-15T03:00:08.000Z",
+        "duration": 1282,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "8U6tjWJnJy8",
-        "title": "Global National: Nov. 14, 2026 | 5th Canadian soldier dead after CFB Wainwright fire",
-        "scheduledStart": "2026-11-15T03:00:00Z"
-      },
-      "checked": "2026-11-15T01:19:56.568Z",
+      "upcoming": null,
+      "checked": "2026-11-15T08:26:23.374Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "cExocKFNQ_c",
-          "lag": 270
-        },
         {
           "v": "sjaakQjnDjs",
           "lag": 270
@@ -1816,6 +1812,10 @@
         {
           "v": "bBKHHAYOmJs",
           "lag": 270
+        },
+        {
+          "v": "8U6tjWJnJy8",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1831,7 +1831,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "stale": true,
       "history": [
         {
@@ -1889,7 +1889,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "OpJqDti4PrE",
@@ -1945,7 +1945,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "rIQ4xuwo7m0",
@@ -2001,7 +2001,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
+      "checked": "2026-11-15T08:26:23.374Z",
       "history": [
         {
           "v": "8YAWAgXwSzk",
@@ -2057,8 +2057,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
-      "observedLocal": "18:59",
+      "checked": "2026-11-15T08:26:23.374Z",
+      "stale": true,
       "history": [
         {
           "v": "iKZO9COODlA",
@@ -2101,6 +2101,7 @@
           "lag": 29
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
@@ -2114,8 +2115,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-15T01:19:56.568Z",
-      "observedLocal": "19:59",
+      "checked": "2026-11-15T08:26:23.374Z",
+      "stale": true,
       "history": [
         {
           "v": "Om7Yej-D-s0",
@@ -2158,6 +2159,7 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
