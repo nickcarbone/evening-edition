@@ -1,25 +1,21 @@
 {
-  "generated": "2026-11-17T02:36:54.994Z",
-  "lastFull": "2026-11-17T02:36:54.994Z",
+  "generated": "2026-11-17T11:08:08.751Z",
+  "lastFull": "2026-11-17T11:08:08.751Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "r3pZnD6eD9M",
-        "title": "JORNAL DA CULTURA | STF leva julgamento sobre escala 6x1 ao plenário físico | 14/11/2026",
-        "published": "2026-11-14T23:55:15.000Z",
-        "duration": 2994,
+        "videoId": "OxM0XHeqGn0",
+        "title": "JORNAL DA CULTURA | Reação negativa do mercado com proposta de ajuste fiscal do governo | 16/11/2026",
+        "published": "2026-11-16T23:55:11.000Z",
+        "duration": 3592,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "Q7auxKn64lY",
-          "lag": -5
-        },
         {
           "v": "pVpZZsqKwr8",
           "lag": -5
@@ -55,6 +51,10 @@
         {
           "v": "r3pZnD6eD9M",
           "lag": 1435
+        },
+        {
+          "v": "OxM0XHeqGn0",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -62,16 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "qIsTKD05VHI",
-        "title": "Noticias Caracol | Emisión Central fin de semana (08 de noviembre de 2026)",
-        "published": "2026-11-09T03:41:03.000Z",
-        "duration": 3899,
+        "videoId": "BUwOHpsq13Q",
+        "title": "Noticias Caracol | Emisión central fin de semana (16 de noviembre de 2026)",
+        "published": "2026-11-17T02:51:34.000Z",
+        "duration": 3495,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "stale": true,
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -104,28 +103,28 @@
         {
           "v": "qIsTKD05VHI",
           "lag": 221
+        },
+        {
+          "v": "BUwOHpsq13Q",
+          "lag": 172
         }
       ],
       "delivery": "posted",
-      "readyAfter": 220
+      "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "DVB_PNfCdSg",
-        "title": "EN VIVO: Falla masiva paraliza vuelos en Estados Unidos | En Punto - 13 de Noviembre 2026",
-        "published": "2026-11-14T04:27:21.000Z",
-        "duration": 2249,
+        "videoId": "4-_WNpStcAE",
+        "title": "EN VIVO: Falla masiva en bancos de Estados Unidos | En Punto - 16 de Noviembre 2026",
+        "published": "2026-11-17T04:28:27.000Z",
+        "duration": 2350,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "stale": true,
+      "checked": "2026-11-17T11:08:08.751Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "Ts_QOeKYpAo",
-          "lag": -2
-        },
         {
           "v": "6_lbZTw8Urg",
           "lag": -2
@@ -161,9 +160,12 @@
         {
           "v": "DVB_PNfCdSg",
           "lag": -3
+        },
+        {
+          "v": "4-_WNpStcAE",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -177,7 +179,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "stale": true,
       "history": [
         {
           "v": "NS4jwAoI8SY",
@@ -225,20 +228,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "8rb2xFx9eEk",
-        "title": "無綫TVB六點半新聞報道｜中國俄羅斯美國元首會晤｜北京稱具開創性意義 就圍繞維護世界和平深入交換意見｜中國上月就業、物價形勢總體穩定　全國城鎮失業率按月跌0.1%｜八達嶺長城迎來入冬後第二場大雪｜",
-        "published": "2026-11-16T10:52:49.000Z",
-        "duration": 2194,
+        "videoId": "PGA86U6ZoHk",
+        "title": "無綫TVB六點半新聞報道｜中國駐日本使館提醒中國公民 富士山封山期勿擅自登山｜日本群馬縣一名男子被熊襲擊受傷 當局捕獲一隻幼熊｜特朗普啟程訪問亞洲 將與中俄元首討論裁減核武承認為棘手議題｜TVB",
+        "published": "2026-11-17T11:01:24.000Z",
+        "duration": 2071,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
-        {
-          "v": "YtVFaEGl-bw",
-          "lag": 21
-        },
         {
           "v": "Gg9czjvyN8s",
           "lag": 60
@@ -274,6 +273,10 @@
         {
           "v": "8rb2xFx9eEk",
           "lag": 23
+        },
+        {
+          "v": "PGA86U6ZoHk",
+          "lag": 31
         }
       ],
       "delivery": "posted",
@@ -287,15 +290,15 @@
         "duration": 6235,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "ohGPDaEVV-g",
+        "title": "LIVE: TV Patrol Livestream | November 17, 2026 Full Episode",
+        "start": "2026-11-17T10:22:29Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "stale": true,
       "history": [
-        {
-          "v": "9eca6KtCIXA",
-          "lag": -7
-        },
         {
           "v": "9O_dV5KnNhs",
           "lag": -10
@@ -331,28 +334,27 @@
         {
           "v": "cPEgnV3u-Fk",
           "lag": -9
+        },
+        {
+          "v": "ohGPDaEVV-g",
+          "lag": -8
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "dmji1VJG3YQ",
-        "title": "【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展 | CCTV「新闻联播」20261115",
-        "published": "2026-11-16T02:34:34.000Z",
+        "videoId": "fICzjy7FQQA",
+        "title": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新局面 | CCTV「新闻联播」20261116",
+        "published": "2026-11-17T02:39:54.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
-        {
-          "v": "Dou6n8JrV6I",
-          "lag": 923
-        },
         {
           "v": "ECwuQhSmznA",
           "lag": 958
@@ -388,6 +390,10 @@
         {
           "v": "dmji1VJG3YQ",
           "lag": 935
+        },
+        {
+          "v": "fICzjy7FQQA",
+          "lag": 940
         }
       ],
       "delivery": "posted",
@@ -403,7 +409,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "stale": true,
       "history": [
         {
           "v": "W0G3fpoywaE",
@@ -446,6 +453,7 @@
           "lag": 108
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -459,8 +467,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "observedLocal": "18:00",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "stale": true,
       "history": [
         {
           "v": "HRkZ9Fo2xxk",
@@ -503,6 +511,7 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -516,7 +525,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "stale": true,
       "history": [
         {
@@ -574,7 +583,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -631,7 +640,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "7np4BAaYXzY",
@@ -687,7 +696,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "stale": true,
       "history": [
         {
@@ -745,7 +754,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "stale": true,
       "history": [
         {
           "v": "AEKkMNskIOM",
@@ -788,6 +798,7 @@
           "lag": 80
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -801,8 +812,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "observedLocal": "22:44",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "stale": true,
       "history": [
         {
           "v": "mjtp0kZQQ6M",
@@ -845,6 +856,7 @@
           "lag": 105
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 90
     },
@@ -852,7 +864,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
@@ -866,7 +878,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "stale": true,
       "history": [
         {
@@ -924,7 +936,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -981,7 +993,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "ysDx_rA4SCk",
@@ -1031,7 +1043,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
@@ -1045,7 +1057,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1102,7 +1114,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "SSCY069TWnc",
@@ -1158,7 +1170,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "Kd9EOxhwb2Y",
@@ -1206,25 +1218,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "gzTmTWRov9U",
-        "title": "Путин приказал убить Зеленского? Военные РФ жалуются на командование. Убийцы Немцова на свободе",
-        "published": "2026-11-16T14:59:11.000Z",
-        "duration": 3657,
+        "videoId": "JT1h3S6AFsg",
+        "title": "Крымский мост частично обрушился. Три крупных НПЗ России остановились. Паттинсон — новый Джеймс Бонд",
+        "published": "2026-11-17T05:59:33.000Z",
+        "duration": 2876,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "9hs-wO6cXII",
+        "title": "Удар по Крымскому мосту: Путин молчит. Ответ Европы на «новую Ялту». В Праге столкнулись два поезда",
+        "start": "2026-11-17T10:59:35Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-17T11:08:08.751Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "it4FS9gNRLY",
-          "lag": 1020
-        },
-        {
-          "v": "a_hQQGFKdzY",
-          "lag": 1260
-        },
         {
           "v": "vvZcvr0jEAE",
           "lag": 781
@@ -1256,6 +1264,14 @@
         {
           "v": "gzTmTWRov9U",
           "lag": null
+        },
+        {
+          "v": "9hs-wO6cXII",
+          "lag": 1020
+        },
+        {
+          "v": "JT1h3S6AFsg",
+          "lag": 720
         }
       ],
       "delivery": "posted",
@@ -1271,7 +1287,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "19:19",
       "history": [
         {
@@ -1322,7 +1338,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
@@ -1335,7 +1351,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1345,7 +1361,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
@@ -1359,7 +1375,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "TxHkyZxH0u8",
@@ -1414,8 +1430,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "upcoming": {
+        "videoId": "9C4BDNlmccU",
+        "title": "Le journal de 20h de France Télévisions - 17 Nov 2026",
+        "scheduledStart": "2026-11-17T18:57:00Z"
+      },
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1472,7 +1492,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "prCpt2UCLyc",
@@ -1522,15 +1542,15 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
     "dr": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-17T02:36:54.994Z"
+        "checked": "2026-11-17T11:08:08.751Z"
       },
       "history": []
     },
@@ -1544,7 +1564,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "19:03",
       "history": [
         {
@@ -1601,7 +1621,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "lzpLFOu9GG4",
@@ -1657,7 +1677,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1714,7 +1734,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1763,25 +1783,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "Rq_ncxnzpvc",
-        "title": "Global National: Nov. 15, 2026 | IIHF confirms Russia won’t compete at world juniors",
-        "published": "2026-11-16T03:00:11.000Z",
-        "duration": 1283,
+        "videoId": "A3w7BstNhjk",
+        "title": "Global National: Nov. 16, 2026 | Why Quebecor wants to buy Telus for $31B",
+        "published": "2026-11-17T03:00:11.000Z",
+        "duration": 1324,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "A3w7BstNhjk",
-        "title": "Global National: Nov. 16, 2026 | Why Quebecor wants to buy Telus for $31B",
-        "scheduledStart": "2026-11-17T03:00:00Z"
-      },
-      "checked": "2026-11-17T02:36:54.994Z",
+      "upcoming": null,
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "7M_UKYz6Cps",
-          "lag": 270
-        },
         {
           "v": "0brf9IQ3NEg",
           "lag": 270
@@ -1817,6 +1829,10 @@
         {
           "v": "Rq_ncxnzpvc",
           "lag": 270
+        },
+        {
+          "v": "A3w7BstNhjk",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1832,7 +1848,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "17:38",
       "history": [
         {
@@ -1889,7 +1905,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "R6RA6H0LXrA",
@@ -1937,21 +1953,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "8ZPyK75QnAc",
-        "title": "NBC Nightly News Full Episode - Nov. 15",
-        "published": "2026-11-16T00:45:24.000Z",
-        "duration": 1284,
+        "videoId": "y9IdkZaATJA",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 16",
+        "published": "2026-11-17T02:51:47.000Z",
+        "duration": 978,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
-      "stale": true,
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
-        {
-          "v": "zcc_usaUoP0",
-          "lag": 205
-        },
         {
           "v": "PdfIgtsNxlc",
           "lag": 204
@@ -1987,9 +1998,12 @@
         {
           "v": "8ZPyK75QnAc",
           "lag": 75
+        },
+        {
+          "v": "y9IdkZaATJA",
+          "lag": 202
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 240
     },
@@ -2003,7 +2017,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "history": [
         {
           "v": "plW_FaJNITw",
@@ -2054,12 +2068,12 @@
         "videoId": "QSwMXAJXLW4",
         "title": "Las noticias de la noche, lunes 16 de noviembre de 2026 | Noticias Telemundo",
         "published": "2026-11-16T23:59:18.000Z",
-        "duration": 1545,
+        "duration": 1258,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -2111,7 +2125,7 @@
         "videoId": "JL4jewXi_T4",
         "title": "¡SIGUE EL DRAMA EN LANÚS! Un trabajador desaparecido y un cuerpo sin identificar TELENOCHE 16/11/26",
         "published": "2026-11-16T23:00:19.000Z",
-        "duration": 3857,
+        "duration": 2983,
         "embeddable": true
       },
       "live": null,
@@ -2120,7 +2134,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-17T23:00:00Z"
       },
-      "checked": "2026-11-17T02:36:54.994Z",
+      "checked": "2026-11-17T11:08:08.751Z",
       "observedLocal": "20:00",
       "history": [
         {
