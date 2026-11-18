@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T10:42:45.184Z",
-  "lastFull": "2026-11-18T10:42:45.184Z",
+  "generated": "2026-11-18T19:34:45.261Z",
+  "lastFull": "2026-11-18T19:34:45.261Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "kBf2LqwrpCs",
         "title": "JORNAL DA CULTURA | Análise dos destaques do ajuste fiscal no Senado é adiada | 17/11/2026",
         "published": "2026-11-17T23:55:10.000Z",
-        "duration": 3987,
+        "duration": 3074,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [
         {
@@ -124,8 +124,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "22:28",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "stale": true,
       "history": [
         {
           "v": "IU-asSVMit0",
@@ -168,6 +168,7 @@
           "lag": -1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -181,7 +182,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [
         {
@@ -230,20 +231,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "PGA86U6ZoHk",
-        "title": "無綫TVB六點半新聞報道｜中國駐日本使館提醒中國公民 富士山封山期勿擅自登山｜日本群馬縣一名男子被熊襲擊受傷 當局捕獲一隻幼熊｜特朗普啟程訪問亞洲 將與中俄元首討論裁減核武承認為棘手議題｜TVB",
-        "published": "2026-11-17T11:01:24.000Z",
-        "duration": 2071,
+        "videoId": "Qgol8C7RpcE",
+        "title": "無綫TVB六點半新聞報道｜APEC特朗普抵達深圳 習近平親自到機場迎接｜習近平會見普京 普京稱期待俄中美元首三方會晤｜四方安全對話大合照環節成特朗普記者會　莫迪圖打斷不成功場面一度尷尬｜TVBNews",
+        "published": "2026-11-18T10:56:21.000Z",
+        "duration": 1921,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "Gg9czjvyN8s",
-          "lag": 60
-        },
         {
           "v": "I_bgtoHFTfI",
           "lag": 116
@@ -279,27 +276,27 @@
         {
           "v": "PGA86U6ZoHk",
           "lag": 31
+        },
+        {
+          "v": "Qgol8C7RpcE",
+          "lag": 26
         }
       ],
       "delivery": "posted",
-      "readyAfter": 60
+      "readyAfter": 35
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "ohGPDaEVV-g",
-        "title": "TV Patrol Livestream | November 17, 2026 Full Episode Replay",
-        "published": "2026-11-17T10:22:29.000Z",
-        "duration": 4871,
+        "videoId": "N92TXyntaXI",
+        "title": "TV Patrol Livestream | November 18, 2026 Full Episode Replay",
+        "published": "2026-11-18T10:19:23.000Z",
+        "duration": 4115,
         "embeddable": true
       },
-      "live": {
-        "videoId": "N92TXyntaXI",
-        "title": "LIVE: TV Patrol Livestream | November 18, 2026 Full Episode",
-        "start": "2026-11-18T10:19:23Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "stale": true,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "18:19",
       "history": [
         {
           "v": "raHM2Lnsd5s",
@@ -355,7 +352,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "mMhSHItVUtc",
@@ -403,21 +400,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "RcSrO96eBuA",
-        "title": "20261117 公視晚間新聞 完整版（無網路版權內容除外）｜美加嚴AI晶片出口管制 新規將5國列入高風險轉運清單",
-        "published": "2026-11-17T12:15:49.000Z",
-        "duration": 3253,
+        "videoId": "8hpB1KF2A9A",
+        "title": "20261118 公視晚間新聞 完整版｜APEC領袖代表施振榮抵深圳 稱此行「暢通無阻」不太習慣",
+        "published": "2026-11-18T12:43:40.000Z",
+        "duration": 3271,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "stale": true,
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "Er8vK7q5gCo",
-          "lag": 55
-        },
         {
           "v": "u8HrNfp70Ps",
           "lag": 100
@@ -453,9 +445,12 @@
         {
           "v": "RcSrO96eBuA",
           "lag": 76
+        },
+        {
+          "v": "8hpB1KF2A9A",
+          "lag": 104
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 100
     },
@@ -469,7 +464,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [
         {
@@ -519,21 +514,17 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "MU7e-WPg7Tc",
-        "title": "[풀영상] 뉴스9 : 정부, 수능 시험장에서 ‘단추’ 가리고 ‘안경’ 전수 검사…수험생·학부모는 ‘불안’ – 2026년 11월 17일(화) / KBS",
-        "published": "2026-11-17T11:57:43.000Z",
-        "duration": 2867,
+        "videoId": "NrY8BY4gysY",
+        "title": "[풀영상] 뉴스9 : [단독] “AI가 풀고 ‘소형 모니터’로” 세무사 시험 부정 수법…법학적성시험 만점자도 수사 – 2026년 11월 18일(수) / KBS",
+        "published": "2026-11-18T11:57:29.000Z",
+        "duration": 2884,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "stale": true,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "20:57",
       "history": [
-        {
-          "v": "icT-0hFMPCk",
-          "lag": -3
-        },
         {
           "v": "2jrJNpaaHyw",
           "lag": -2
@@ -569,29 +560,28 @@
         {
           "v": "MU7e-WPg7Tc",
           "lag": -2
+        },
+        {
+          "v": "NrY8BY4gysY",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "TyCHUo_ZBlc",
-        "title": "Malaysia-Perancis Perkukuh Kerjasama Dalam Pelbagai Sektor | Buletin Utama, 17 November 2026",
-        "published": "2026-11-17T11:56:25.000Z",
-        "duration": 3576,
+        "videoId": "6VFPQT7B34M",
+        "title": "Ekonomi Malaysia Atasi Unjuran Awal, Berkembang 5.5% Suku Ketiga | Buletin Utama, 18 November 2026",
+        "published": "2026-11-18T11:55:47.000Z",
+        "duration": 3602,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "19:56",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "19:55",
       "history": [
-        {
-          "v": "SlOhrtjM6MM",
-          "lag": -3
-        },
         {
           "v": "TQZ3JjAk8ys",
           "lag": -3
@@ -627,6 +617,10 @@
         {
           "v": "TyCHUo_ZBlc",
           "lag": -4
+        },
+        {
+          "v": "6VFPQT7B34M",
+          "lag": -4
         }
       ],
       "delivery": "live",
@@ -634,20 +628,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "SZDvgBIuqEk",
-        "title": "TOLOnews - 6pm News - 17 Nov 2026 | سفر رهبر امارت اسلامی به کابل و سخنرانی در نشست علمی",
-        "published": "2026-11-17T14:27:36.000Z",
-        "duration": 1204,
+        "videoId": "KL5x8n_8PfE",
+        "title": "TOLOnews - 6pm News - 18 Nov 2026 | بانک جهانی: رشد سه‌درصدی اقتصاد افغانستان در ۲۰۲۶",
+        "published": "2026-11-18T14:23:10.000Z",
+        "duration": 1320,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "KuQ7jTV4btg",
-          "lag": 47
-        },
         {
           "v": "npj8g8lSljs",
           "lag": 54
@@ -683,6 +673,10 @@
         {
           "v": "SZDvgBIuqEk",
           "lag": 58
+        },
+        {
+          "v": "KL5x8n_8PfE",
+          "lag": 53
         }
       ],
       "delivery": "posted",
@@ -698,7 +692,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [
         {
@@ -748,21 +742,16 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "4KjrgdEflXY",
-        "title": "17 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-11-17T15:17:04.000Z",
-        "duration": 2763,
+        "videoId": "z04hlqld8nI",
+        "title": "18 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-11-18T16:32:23.000Z",
+        "duration": 3038,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "stale": true,
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "cW6SlhInp8k",
-          "lag": 57
-        },
         {
           "v": "XqWtSwtkvJE",
           "lag": 139
@@ -798,29 +787,28 @@
         {
           "v": "4KjrgdEflXY",
           "lag": 77
+        },
+        {
+          "v": "z04hlqld8nI",
+          "lag": 152
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 110
+      "readyAfter": 140
     },
     "geo": {
       "latest": {
-        "videoId": "FN7V6EXlwq0",
-        "title": "PETROL PRICE CUT - RS 3 PER LITRE | Geo News 9 PM Geo Bulletin | 17th Nov 2026",
-        "published": "2026-11-17T17:14:22.000Z",
-        "duration": 1032,
+        "videoId": "qE_sZBnKvCU",
+        "title": "BILAWAL BHUTTO'S WARNING - STANCE ON SINDH DIVISION | Geo News 9 PM Geo Bulletin | 18th Nov 2026",
+        "published": "2026-11-18T17:34:01.000Z",
+        "duration": 831,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "stale": true,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "22:34",
       "history": [
-        {
-          "v": "_LCAIgWfrHs",
-          "lag": 89
-        },
         {
           "v": "_vRGWoark6o",
           "lag": 96
@@ -856,17 +844,20 @@
         {
           "v": "FN7V6EXlwq0",
           "lag": 74
+        },
+        {
+          "v": "qE_sZBnKvCU",
+          "lag": 94
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 90
+      "readyAfter": 95
     },
     "trt": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
@@ -880,7 +871,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [
         {
@@ -930,21 +921,17 @@
     },
     "tvr": {
       "latest": {
-        "videoId": "CmTsXVB8xOo",
-        "title": "TeleJURNAL 19: CNAS propune plata contribuţiei şi pentru cei care nu au venituri declarate",
-        "published": "2026-11-17T16:59:16.000Z",
-        "duration": 2172,
+        "videoId": "FQYaL7bemh8",
+        "title": "TeleJURNAL 19: Călin Georgescu va fi plasat în arest la domiciliu (@TVR1)",
+        "published": "2026-11-18T17:00:35.000Z",
+        "duration": 2160,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "18:59",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "19:00",
       "history": [
-        {
-          "v": "_FIvPqZTNWY",
-          "lag": -1
-        },
         {
           "v": "vgeUH9Be-Bg",
           "lag": -1
@@ -980,6 +967,10 @@
         {
           "v": "CmTsXVB8xOo",
           "lag": -1
+        },
+        {
+          "v": "FQYaL7bemh8",
+          "lag": 1
         }
       ],
       "delivery": "live",
@@ -995,7 +986,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "aGoohcogsMg",
@@ -1043,29 +1034,25 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
     "ebc": {
       "latest": {
-        "videoId": "PZr1CyxivrI",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና  ... ኅዳር 08/2019 ዓ.ም   | EBC | EBCDOTSTREAM",
-        "published": "2026-11-17T16:59:10.000Z",
-        "duration": 3260,
+        "videoId": "BG45VR9odRI",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ...ኅዳር 09/2019 ዓ.ም  | EBC | EBCDOTSTREAM",
+        "published": "2026-11-18T17:00:16.000Z",
+        "duration": 3274,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "19:59",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "20:00",
       "history": [
-        {
-          "v": "QWQfSjKfcCk",
-          "lag": 0
-        },
         {
           "v": "T37YfVCQVPc",
           "lag": 0
@@ -1101,6 +1088,10 @@
         {
           "v": "PZr1CyxivrI",
           "lag": -1
+        },
+        {
+          "v": "BG45VR9odRI",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1108,20 +1099,16 @@
     },
     "sabc1": {
       "latest": {
-        "videoId": "WCWDq9G0XXg",
-        "title": "Iindaba zesiXhosa @19H00 | 17 November 2026",
-        "published": "2026-11-17T17:49:44.000Z",
-        "duration": 1239,
+        "videoId": "RhKHJjCAG4k",
+        "title": "Izindaba zesiZulu @19H00 l 18 November 2026",
+        "published": "2026-11-18T18:03:29.000Z",
+        "duration": 1536,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "ehGKYZ_9jx8",
-          "lag": 92
-        },
         {
           "v": "Jx1rtw_xeb4",
           "lag": 44
@@ -1157,6 +1144,10 @@
         {
           "v": "WCWDq9G0XXg",
           "lag": 50
+        },
+        {
+          "v": "RhKHJjCAG4k",
+          "lag": 63
         }
       ],
       "delivery": "posted",
@@ -1164,20 +1155,16 @@
     },
     "hrt": {
       "latest": {
-        "videoId": "uTRlicGMHaU",
-        "title": "Dnevnik, 17. 11. 2026.",
-        "published": "2026-11-17T19:29:28.000Z",
-        "duration": 3209,
+        "videoId": "Iwd_35VE4vI",
+        "title": "Dnevnik, 18. 11. 2026.",
+        "published": "2026-11-18T19:30:16.000Z",
+        "duration": 3207,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "4jimFO4n5Zw",
-          "lag": 97
-        },
         {
           "v": "NPXHQkIMTpk",
           "lag": 116
@@ -1213,6 +1200,10 @@
         {
           "v": "uTRlicGMHaU",
           "lag": 89
+        },
+        {
+          "v": "Iwd_35VE4vI",
+          "lag": 90
         }
       ],
       "delivery": "posted",
@@ -1220,25 +1211,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "461bj5TCMi8",
-        "title": "Встреча Путина и Си Цзиньпина. Ан-12 разбился в Кузбассе: 19 погибших. Госдума повышает штрафы",
-        "published": "2026-11-18T05:59:35.000Z",
-        "duration": 3175,
+        "videoId": "iweaiYQlII8",
+        "title": "Путин, Си и Трамп поделят мир? Сбой интернета по всей планете. Эпштейна могли задушить",
+        "published": "2026-11-18T14:59:13.000Z",
+        "duration": 3479,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "zozzv1bqaD0",
-        "title": "Переговоры Путина и Си Цзиньпина. ФСБ отключает интернет в регионах. Пентагон критикует Украину",
-        "scheduledStart": "2026-11-18T11:00:00Z"
-      },
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "06:59",
+      "upcoming": null,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "15:59",
       "history": [
-        {
-          "v": "Kfu-bSMGDoA",
-          "lag": 601
-        },
         {
           "v": "ujBlDGO9JpE",
           "lag": 1260
@@ -1274,6 +1257,10 @@
         {
           "v": "461bj5TCMi8",
           "lag": 720
+        },
+        {
+          "v": "iweaiYQlII8",
+          "lag": 1259
         }
       ],
       "delivery": "posted",
@@ -1281,21 +1268,17 @@
     },
     "tvp": {
       "latest": {
-        "videoId": "nVmYbn0TLqc",
-        "title": "Wniosek o wotum nieufności dla rządu | 19.30 | 17.11.2026",
-        "published": "2026-11-17T18:23:11.000Z",
-        "duration": 1684,
+        "videoId": "pnmQJz4KCBM",
+        "title": "Akt dywersji na terenie Polski udaremniony | 19.30 | 18.11.2026",
+        "published": "2026-11-18T18:20:33.000Z",
+        "duration": 1761,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "19:23",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "observedLocal": "19:20",
       "history": [
-        {
-          "v": "WEAEZQ8Tias",
-          "lag": -8
-        },
         {
           "v": "0R_Rbwz1od8",
           "lag": -10
@@ -1331,6 +1314,10 @@
         {
           "v": "nVmYbn0TLqc",
           "lag": -7
+        },
+        {
+          "v": "pnmQJz4KCBM",
+          "lag": -9
         }
       ],
       "delivery": "live",
@@ -1340,7 +1327,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
@@ -1353,7 +1340,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1363,26 +1350,22 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
     "tagesschau": {
       "latest": {
-        "videoId": "T1WP71DUmK8",
-        "title": "tagesschau 20:00 Uhr, 17.11.2026",
-        "published": "2026-11-17T19:47:23.000Z",
-        "duration": 914,
+        "videoId": "qQmFqnqdoEQ",
+        "title": "tagesschau 20:00 Uhr, 18.11.2026",
+        "published": "2026-11-18T19:31:34.000Z",
+        "duration": 1014,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
-        {
-          "v": "XemZmZ4AqUU",
-          "lag": 28
-        },
         {
           "v": "sqNV-C54MWI",
           "lag": 30
@@ -1418,6 +1401,10 @@
         {
           "v": "T1WP71DUmK8",
           "lag": 47
+        },
+        {
+          "v": "qQmFqnqdoEQ",
+          "lag": 32
         }
       ],
       "delivery": "posted",
@@ -1431,19 +1418,15 @@
         "duration": 3493,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
+      "live": {
         "videoId": "EOUOsd3AyMo",
         "title": "Le journal de 20h de France Télévisions - 18 novembre 2026",
-        "scheduledStart": "2026-11-18T18:57:00Z"
+        "start": "2026-11-18T18:57:24Z"
       },
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "19:57",
+      "upcoming": null,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "stale": true,
       "history": [
-        {
-          "v": "w4za16cc3qI",
-          "lag": -2
-        },
         {
           "v": "2COKv1LbQYs",
           "lag": -2
@@ -1479,6 +1462,10 @@
         {
           "v": "9C4BDNlmccU",
           "lag": -3
+        },
+        {
+          "v": "EOUOsd3AyMo",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -1494,7 +1481,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "FBzrsEnyLQ0",
@@ -1544,7 +1531,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
@@ -1552,7 +1539,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-18T10:42:45.184Z"
+        "checked": "2026-11-18T19:34:45.261Z"
       },
       "history": []
     },
@@ -1564,15 +1551,15 @@
         "duration": 3580,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "q6LgvuCgAh4",
+        "title": "LIVE: News360 || 18-11-2026",
+        "start": "2026-11-18T19:00:22Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "observedLocal": "19:00",
       "history": [
-        {
-          "v": "o7EEfbQWUgI",
-          "lag": 4
-        },
         {
           "v": "KfZOtPsoj6U",
           "lag": 2
@@ -1608,6 +1595,10 @@
         {
           "v": "8HEyk_Z740U",
           "lag": 1
+        },
+        {
+          "v": "q6LgvuCgAh4",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1623,7 +1614,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "HeIScV2ZzSk",
@@ -1679,7 +1670,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1736,8 +1727,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "22:00",
+      "checked": "2026-11-18T19:34:45.261Z",
+      "stale": true,
       "history": [
         {
           "v": "5sDbXwlxnQ0",
@@ -1780,20 +1771,21 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "global": {
       "latest": {
         "videoId": "r4d3C9F2CzQ",
-        "title": "Global National: Nov. 16, 2026 | Widespread tech outages disrupt services millions rely on",
+        "title": "Global National: Nov. 17, 2026 | Widespread tech outages disrupt services millions rely on",
         "published": "2026-11-18T03:00:10.000Z",
         "duration": 1343,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1849,8 +1841,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "upcoming": {
+        "videoId": "_kRbNtMYtR0",
+        "title": "Le téléjournal 18 h du mercredi 18 novembre 2026",
+        "scheduledStart": "2026-11-18T23:00:00Z"
+      },
+      "checked": "2026-11-18T19:34:45.261Z",
       "observedLocal": "17:31",
       "history": [
         {
@@ -1907,7 +1903,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "C41BehiqM1A",
@@ -1963,7 +1959,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "n7bhuYLJNrw",
@@ -2019,7 +2015,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
+      "checked": "2026-11-18T19:34:45.261Z",
       "history": [
         {
           "v": "vBUPhXyBJjc",
@@ -2074,9 +2070,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "22:59",
+      "upcoming": {
+        "videoId": "pmPdvliF_T4",
+        "title": "EN VIVO: Las noticias de la noche, miércoles 18 de noviembre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-11-19T04:00:00Z"
+      },
+      "checked": "2026-11-18T19:34:45.261Z",
+      "stale": true,
       "history": [
         {
           "v": "vJ_cFiHsxUI",
@@ -2131,13 +2131,9 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "tKiaSBuJH44",
-        "title": "TELENOCHE ¡EN VIVO!",
-        "scheduledStart": "2026-11-18T23:00:00Z"
-      },
-      "checked": "2026-11-18T10:42:45.184Z",
-      "observedLocal": "19:59",
+      "upcoming": null,
+      "checked": "2026-11-18T19:34:45.261Z",
+      "stale": true,
       "history": [
         {
           "v": "9lX-1O1V5lE",
@@ -2180,6 +2176,7 @@
           "lag": 0
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
