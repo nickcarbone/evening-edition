@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T01:28:35.417Z",
-  "lastFull": "2026-11-19T01:28:35.417Z",
+  "generated": "2026-11-19T09:29:13.253Z",
+  "lastFull": "2026-11-19T09:29:13.253Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [
         {
@@ -110,27 +110,22 @@
           "lag": 172
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "joxR5Pbri6w",
-        "title": "EN VIVO: México pierde certificación contra el sarampión | En Punto - 17 de Noviembre 2026",
-        "published": "2026-11-18T04:28:30.000Z",
-        "duration": 2219,
+        "videoId": "WHMO0O8ufdA",
+        "title": "EN VIVO: Sheinbaum y Trump en la APEC | En Punto - 18 de Noviembre 2026",
+        "published": "2026-11-19T04:28:13.000Z",
+        "duration": 2237,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "stale": true,
+      "checked": "2026-11-19T09:29:13.253Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "IU-asSVMit0",
-          "lag": -3
-        },
         {
           "v": "lxyECiR63Pg",
           "lag": -3
@@ -166,9 +161,12 @@
         {
           "v": "joxR5Pbri6w",
           "lag": -1
+        },
+        {
+          "v": "WHMO0O8ufdA",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -182,7 +180,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [
         {
@@ -226,6 +224,7 @@
           "lag": 124
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 210
     },
@@ -239,7 +238,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "I_bgtoHFTfI",
@@ -295,8 +294,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "observedLocal": "18:19",
+      "checked": "2026-11-19T09:29:13.253Z",
+      "stale": true,
       "history": [
         {
           "v": "raHM2Lnsd5s",
@@ -339,25 +338,22 @@
           "lag": -11
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "cctv": {
       "latest": {
-        "videoId": "LK6u-o1fTY4",
-        "title": "习近平会见越共中央总书记、国家主席苏林 | CCTV「新闻联播」20261117",
-        "published": "2026-11-18T02:44:43.000Z",
+        "videoId": "4GjQQ0BA3DQ",
+        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 | CCTV「新闻联播」20261118",
+        "published": "2026-11-19T02:26:30.000Z",
         "duration": 2100,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
-        {
-          "v": "mMhSHItVUtc",
-          "lag": 1241
-        },
         {
           "v": "qbTrEgIYryo",
           "lag": 975
@@ -393,10 +389,14 @@
         {
           "v": "LK6u-o1fTY4",
           "lag": 945
+        },
+        {
+          "v": "4GjQQ0BA3DQ",
+          "lag": 927
         }
       ],
       "delivery": "posted",
-      "readyAfter": 975
+      "readyAfter": 950
     },
     "pts": {
       "latest": {
@@ -408,7 +408,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "u8HrNfp70Ps",
@@ -464,7 +464,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [
         {
@@ -522,8 +522,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-19T09:29:13.253Z",
+      "stale": true,
       "history": [
         {
           "v": "2jrJNpaaHyw",
@@ -566,6 +566,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -579,7 +580,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:55",
       "history": [
         {
@@ -636,7 +637,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "npj8g8lSljs",
@@ -692,7 +693,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [
         {
@@ -750,7 +751,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
+      "stale": true,
       "history": [
         {
           "v": "XqWtSwtkvJE",
@@ -793,6 +795,7 @@
           "lag": 152
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 140
     },
@@ -806,8 +809,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "observedLocal": "22:34",
+      "checked": "2026-11-19T09:29:13.253Z",
+      "stale": true,
       "history": [
         {
           "v": "_vRGWoark6o",
@@ -850,6 +853,7 @@
           "lag": 94
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 95
     },
@@ -857,7 +861,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -871,7 +875,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [
         {
@@ -929,7 +933,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -986,7 +990,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "mtsTIeIfSLQ",
@@ -1036,7 +1040,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -1050,7 +1054,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1107,7 +1111,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "Jx1rtw_xeb4",
@@ -1163,7 +1167,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "NPXHQkIMTpk",
@@ -1211,21 +1215,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "iweaiYQlII8",
-        "title": "Путин, Си и Трамп поделят мир? Сбой интернета по всей планете. Эпштейна могли задушить",
-        "published": "2026-11-18T14:59:13.000Z",
-        "duration": 3479,
+        "videoId": "Axy7REa6zfg",
+        "title": "Путин и Трамп встретились в Китае. Крымский мост атаковали третий раз за неделю. Вышла GTA 6",
+        "published": "2026-11-19T05:59:36.000Z",
+        "duration": 3216,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-19T09:29:13.253Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "ujBlDGO9JpE",
-          "lag": 1260
-        },
         {
           "v": "FmmrwRT_9hg",
           "lag": null
@@ -1261,6 +1261,10 @@
         {
           "v": "iweaiYQlII8",
           "lag": 1259
+        },
+        {
+          "v": "Axy7REa6zfg",
+          "lag": 720
         }
       ],
       "delivery": "posted",
@@ -1276,7 +1280,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:20",
       "history": [
         {
@@ -1327,7 +1331,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -1340,7 +1344,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1350,7 +1354,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -1364,7 +1368,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "sqNV-C54MWI",
@@ -1419,8 +1423,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "upcoming": {
+        "videoId": "znSY-Onp4a0",
+        "title": "Le journal de 20h de France Télévisions - 19 Nov 2026",
+        "scheduledStart": "2026-11-19T18:57:00Z"
+      },
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1477,7 +1485,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "12Tx5Gb3oj0",
@@ -1527,7 +1535,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -1535,7 +1543,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-19T01:28:35.417Z"
+        "checked": "2026-11-19T09:29:13.253Z"
       },
       "history": []
     },
@@ -1549,7 +1557,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1606,7 +1614,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "lX-g-2zOhxk",
@@ -1662,7 +1670,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1719,7 +1727,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1768,21 +1776,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "r4d3C9F2CzQ",
-        "title": "Global National: Nov. 17, 2026 | Widespread tech outages disrupt services millions rely on",
-        "published": "2026-11-18T03:00:10.000Z",
-        "duration": 1343,
+        "videoId": "mvj5wExDG90",
+        "title": "Global National: Nov. 18, 2026 | Carney and Trump meet at China summit, no progress on trade deal",
+        "published": "2026-11-19T03:00:07.000Z",
+        "duration": 1339,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "vkMGD3idaXw",
-          "lag": 270
-        },
         {
           "v": "RA91-5yTI3s",
           "lag": 270
@@ -1818,6 +1822,10 @@
         {
           "v": "r4d3C9F2CzQ",
           "lag": 270
+        },
+        {
+          "v": "mvj5wExDG90",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1833,7 +1841,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "17:33",
       "history": [
         {
@@ -1890,7 +1898,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
         {
           "v": "OWEQwyJYCJQ",
@@ -1938,21 +1946,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "TwmYO5Xj4JI",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 17",
-        "published": "2026-11-18T03:04:58.000Z",
-        "duration": 1127,
+        "videoId": "yEwSLqFr_-s",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 18",
+        "published": "2026-11-19T02:57:29.000Z",
+        "duration": 1278,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "stale": true,
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
-        {
-          "v": "n7bhuYLJNrw",
-          "lag": 212
-        },
         {
           "v": "39YZp6BL-6I",
           "lag": 1000
@@ -1988,29 +1991,27 @@
         {
           "v": "TwmYO5Xj4JI",
           "lag": 215
+        },
+        {
+          "v": "yEwSLqFr_-s",
+          "lag": 207
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 240
     },
     "abc": {
       "latest": {
-        "videoId": "UOG9S-zeahU",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 17, 2026",
-        "published": "2026-11-18T03:00:16.000Z",
-        "duration": 1244,
+        "videoId": "Kqgy7QJ01-w",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 18, 2026",
+        "published": "2026-11-19T03:00:34.000Z",
+        "duration": 1233,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "stale": true,
+      "checked": "2026-11-19T09:29:13.253Z",
       "history": [
-        {
-          "v": "vBUPhXyBJjc",
-          "lag": 210
-        },
         {
           "v": "OhbO9psQeZU",
           "lag": 210
@@ -2046,29 +2047,28 @@
         {
           "v": "UOG9S-zeahU",
           "lag": 210
+        },
+        {
+          "v": "Kqgy7QJ01-w",
+          "lag": 211
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
     "telemundo": {
       "latest": {
-        "videoId": "4O5Vj8mJRYg",
-        "title": "Las noticias de la noche, martes 17 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-18T03:59:13.000Z",
-        "duration": 1547,
+        "videoId": "pmPdvliF_T4",
+        "title": "Las noticias de la noche, miércoles 18 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-19T03:59:16.000Z",
+        "duration": 1558,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
-      "stale": true,
+      "checked": "2026-11-19T09:29:13.253Z",
+      "observedLocal": "22:59",
       "history": [
-        {
-          "v": "vJ_cFiHsxUI",
-          "lag": 118
-        },
         {
           "v": "v2hppPt_-Ic",
           "lag": 29
@@ -2104,9 +2104,12 @@
         {
           "v": "4O5Vj8mJRYg",
           "lag": 269
+        },
+        {
+          "v": "pmPdvliF_T4",
+          "lag": 269
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 30
     },
@@ -2115,12 +2118,16 @@
         "videoId": "tKiaSBuJH44",
         "title": "¡TRUMP, PUTIN Y XI JINPING! La cumbre que puede cambiar el tablero mundial | TELENOCHE 18/11/26",
         "published": "2026-11-18T23:00:01.000Z",
-        "duration": 3912,
+        "duration": 3091,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-19T01:28:35.417Z",
+      "upcoming": {
+        "videoId": "POOPEdeUmhA",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-11-19T23:00:00Z"
+      },
+      "checked": "2026-11-19T09:29:13.253Z",
       "observedLocal": "20:00",
       "history": [
         {
