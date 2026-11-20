@@ -423,7 +423,7 @@ async function findEdition(b){
       new Promise(res => { const pl = new YT.Player(host.id, {width: 2, height: 2, playerVars: {listType: "playlist", list: "UU" + src.channel_id.slice(2), mute: 1, autoplay: 0, origin: location.origin}, events: {onReady: () => res(pl)}}); }),
       new Promise((_, rej) => setTimeout(() => rej(new Error("probe player timed out")), 15000))]);
     const ids = await until(() => { const l = p.getPlaylist(); return l && l.length ? l : null; }, 8000) || [];
-    let top = ids.slice(0, 15);
+    let top = ids.slice(0, 25);
     const cut = st.latest ? top.indexOf(st.latest.videoId) : -1;
     if (cut >= 0) top = top.slice(0, cut);
     if (!top.length) return null;
@@ -439,9 +439,9 @@ async function findEdition(b){
         return FOUND[b.id] = {videoId: id, title, live: true, air: s.live ? s.liveStart : s.next, at: Date.now()};
       }
       if (dur >= minSec){
-        // the newest full upload belongs to the airing after the checker's latest, and never to one still on air
-        const airings = starts(b, now).filter(t => t <= now - (s.live ? (now - s.liveStart) + 6e4 : 0));
-        let air = airings.filter(t => statusAir == null || t > statusAir + 36e5)[0];
+        // the newest full upload belongs at the earliest to the first airing after the checker's latest
+        // (a stream that has just ended counts: the archive of today's live is a full upload)
+        const air = starts(b, now).filter(t => t <= now && (statusAir == null || t > statusAir + 36e5))[0];
         if (air == null) continue;
         return FOUND[b.id] = {videoId: id, title, live: false, air, at: Date.now()};
       }
@@ -452,6 +452,7 @@ async function findEdition(b){
     document.getElementById(host.id)?.remove();
   }
 }
+window.eeDebug = () => ({found: JSON.parse(JSON.stringify(FOUND)), tried: Object.fromEntries(Object.entries(discovering).map(([k, v]) => [k, new Date(v.at).toISOString()]))});
 // what changes for a bulletin once discovery has run: retune if it's on screen, announce posted arrivals
 function afterFound(b, beforeId){
   const now = Date.now(), pl = plan(b, now);
