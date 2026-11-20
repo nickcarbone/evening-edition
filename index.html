@@ -323,9 +323,16 @@ function plan(b, now, opts = {}){
     if (liveV && s.live){
       return embed ? {kind:"yt", id: liveV.videoId, live:true} : {kind:"out", url:"https://www.youtube.com/watch?v=" + liveV.videoId, label:"Watch live on YouTube", why:"The broadcaster doesn't allow this stream to play inside other sites."};
     }
+    const f = FOUND[b.id];
+    if (f && embed && f.live && s.live && Math.abs(f.air - s.liveStart) < 36e5) return {kind:"yt", id: f.videoId, live:true, found:true, title: f.title};
     // a live or scheduled edition the checker saw that has since finished is newer than its "latest"
     const done = [st.live, st.upcoming && Date.parse(st.upcoming.scheduledStart) < now ? st.upcoming : null].find(Boolean);
     const latest = done ? {videoId: done.videoId, title: done.title, published: done.scheduledStart || done.start, embeddable: true} : st.latest;
+    // a found edition that has finished, or a full upload, newer than the checker's latest
+    if (f && embed && !(f.live && s.live && Math.abs(f.air - s.liveStart) < 36e5) && f.air <= now){
+      const statusAir = latest && latest.published ? airtimeOf(b, Date.parse(latest.published)) : null;
+      if (statusAir == null || f.air > statusAir + 36e5) return {kind:"yt", id: f.videoId, live:false, found:true, title: f.title, published: new Date(f.at).toISOString(), air: f.air};
+    }
     if (latest){
       if (embed && latest.embeddable !== false) return {kind:"yt", id: latest.videoId, live:false, title: latest.title, published: latest.published};
       return {kind:"out", url:"https://www.youtube.com/watch?v=" + latest.videoId, label:"Open on YouTube", why:"The broadcaster doesn't allow this edition to play inside other sites.", title: latest.title, published: latest.published};
@@ -360,7 +367,7 @@ function editionOf(b, now){
   if (pl.kind === "yt" && pl.live) return {pl, kind: "live"};
   if (!((pl.kind === "yt" || pl.kind === "out") && pl.published)) return {pl, kind: "none"};
   const pub = Date.parse(pl.published), s = stateOf(b, now), last = s.last;
-  const air = airtimeOf(b, pub);
+  const air = pl.air != null ? pl.air : airtimeOf(b, pub);
   const fresh = last == null || (air != null ? air >= last - 36e5 : pub >= last - 72e5);
   const due = last != null ? last + readyAfterOf(b) * 6e4 : null;
   const ed = {pl, kind: fresh ? "fresh" : "old", pub, air, last, due};
@@ -371,6 +378,105 @@ function editionOf(b, now){
     ed.label = (isPrev ? (d === 1 ? "Yesterday's edition" : "Previous edition") : "Older edition") + " · " + dateLabel(b.tz, air != null ? air : pub);
   }
   return ed;
+}
+
+/* ---------- finding editions the checker hasn't seen yet ---------- */
+// The checker only knows what it saw on its last run, which can be hours ago. Without an API key the
+// page can still read a channel's newest uploads, through a hidden player cueing its uploads playlist,
+// and their titles, from YouTube's oEmbed service. A cued video also reports its length: a full
+// edition has one, and a live or scheduled stream reads 0. Matching titles against the bulletin's
+// pattern keeps out the channel's other streams and clips.
+const FOUND = {};
+const LIVE_WORDS = "live|en vivo|ao vivo|en direct|direkt|na żywo|uživo|canlı|ライブ|라이브|直播|สด|ถ่ายทอดสด";
+// leading live markers on stream titles: "🔴 [Live] ", "[🔴LIVE] ", "LIVE: " and the like
+const LEAD_RX = new RegExp("^(?:[\\s\\uFE0F|:·\\-–—]|\\p{Extended_Pictographic}|[\\[【(（]\\s*(?:\\p{Extended_Pictographic}|\\uFE0F|\\s)*(?:" + LIVE_WORDS + ")?\\s*[\\]】)）]|(?:" + LIVE_WORDS + ")(?![\\p{L}\\p{N}]))+", "iu");
+const cleanTitle = t => (t || "").replace(LEAD_RX, "");
+function titleFits(src, t){ if (!src.title_pattern) return true; const rx = new RegExp(src.title_pattern, "iu"); return rx.test(t) || rx.test(cleanTitle(t)); }
+const until = (fn, ms, step = 250) => new Promise(r => { const t0 = Date.now(); const t = setInterval(() => { let v = null; try { v = fn(); } catch {} if (v || Date.now() - t0 > ms){ clearInterval(t); r(v || null); } }, step); });
+function ytApi(){ if (window.YT && YT.Player) return Promise.resolve(); loadYT(); return until(() => window.YT && YT.Player, 20000).then(ok => { if (!ok) throw new Error("YouTube API didn't load"); }); }
+const oembed = id => fetch("https://www.youtube.com/oembed?format=json&url=" + encodeURIComponent("https://www.youtube.com/watch?v=" + id)).then(r => r.ok ? r.json() : null).then(j => j && j.title).catch(() => null);
+
+let discoverChain = Promise.resolve();
+const discovering = {};
+function discover(b){
+  const d = discovering[b.id], now = Date.now();
+  if (d && d.pending) return d.pending;
+  if (d && now - d.at < 4 * 6e4) return Promise.resolve(FOUND[b.id] || null);
+  const job = discoverChain.then(() => findEdition(b)).catch(e => { console.warn("discover", b.id, e); return null; });
+  discoverChain = job;
+  discovering[b.id] = {at: now, pending: job};
+  job.then(() => { discovering[b.id] = {at: Date.now()}; });
+  return job;
+}
+async function findEdition(b){
+  const src = b.sources.find(x => x.type === "youtube"); if (!src || src.embeddable === false) return null;
+  const now = Date.now(), s = stateOf(b, now), st = STATUS[b.id] || {};
+  const soon = !s.live && s.next && s.next - now < 20 * 6e4;
+  const wantLive = s.live || soon;
+  const statusAir = st.latest && st.latest.published ? airtimeOf(b, Date.parse(st.latest.published)) : null;
+  await ytApi();
+  const host = document.createElement("div"); host.id = "probe-" + b.id;
+  host.style.cssText = "position:fixed;left:-50px;top:0;width:2px;height:2px;opacity:0;pointer-events:none";
+  document.body.appendChild(host);
+  let p = null;
+  try {
+    p = await Promise.race([
+      new Promise(res => { const pl = new YT.Player(host.id, {width: 2, height: 2, playerVars: {listType: "playlist", list: "UU" + src.channel_id.slice(2), mute: 1, autoplay: 0, origin: location.origin}, events: {onReady: () => res(pl)}}); }),
+      new Promise((_, rej) => setTimeout(() => rej(new Error("probe player timed out")), 15000))]);
+    const ids = await until(() => { const l = p.getPlaylist(); return l && l.length ? l : null; }, 8000) || [];
+    let top = ids.slice(0, 15);
+    const cut = st.latest ? top.indexOf(st.latest.videoId) : -1;
+    if (cut >= 0) top = top.slice(0, cut);
+    if (!top.length) return null;
+    const titles = await Promise.all(top.map(oembed));
+    const minSec = (b.min_minutes || 10) * 60;
+    for (let i = 0; i < top.length; i++){
+      const id = top[i], title = titles[i];
+      if (!title || !titleFits(src, title)) continue;
+      p.cueVideoById(id);
+      if (!await until(() => p.getVideoData().video_id === id && p.getPlayerState() === 5, 6000)) continue;
+      const dur = (await until(() => p.getDuration() > 0 && p.getDuration(), 2500)) || 0;
+      if (dur === 0 && wantLive){
+        return FOUND[b.id] = {videoId: id, title, live: true, air: s.live ? s.liveStart : s.next, at: Date.now()};
+      }
+      if (dur >= minSec){
+        // the newest full upload belongs to the airing after the checker's latest, and never to one still on air
+        const airings = starts(b, now).filter(t => t <= now - (s.live ? (now - s.liveStart) + 6e4 : 0));
+        let air = airings.filter(t => statusAir == null || t > statusAir + 36e5)[0];
+        if (air == null) continue;
+        return FOUND[b.id] = {videoId: id, title, live: false, air, at: Date.now()};
+      }
+    }
+    return null;
+  } finally {
+    try { p && p.destroy(); } catch {}
+    document.getElementById(host.id)?.remove();
+  }
+}
+// what changes for a bulletin once discovery has run: retune if it's on screen, announce posted arrivals
+function afterFound(b, beforeId){
+  const now = Date.now(), pl = plan(b, now);
+  if (!pl.found || pl.id === beforeId) return;
+  if (current && current.id === b.id){ tune(b, {auto: true}); toast((pl.live ? "Found today's live stream: " : "Found a newer edition: ") + b.programme); }
+  else if (deliveryOf(b) === "posted" && editionOf(b, now).kind === "fresh") announceArrivals([b]);
+  renderDial(); renderNext();
+}
+function lookFor(b){ const before = plan(b, Date.now()).id; return discover(b).then(() => afterFound(b, before)); }
+// every two minutes: live bulletins on air (or about to start) with no stream known, posted ones past due
+function sweep(){
+  if (document.hidden) return;
+  const now = Date.now(), want = [];
+  for (const b of visible()){
+    if (!hasYT(b)) continue;
+    const s = stateOf(b, now), ed = editionOf(b, now);
+    if (deliveryOf(b) === "live"){
+      const st = STATUS[b.id] || {};
+      if (s.live && ed.kind !== "live") want.push(b);
+      else if (!s.live && s.next && s.next - now < 15 * 6e4 && !st.upcoming && !(FOUND[b.id] && FOUND[b.id].live && FOUND[b.id].air === s.next)) want.push(b);
+    }
+    else if (ed.kind === "old" && ed.due != null && now >= ed.due - 15 * 6e4 && now - ed.last < DAY) want.push(b);
+  }
+  for (const b of want.slice(0, 4)) lookFor(b);
 }
 
 /* ---------- player ---------- */
@@ -415,7 +521,7 @@ function stopAll(){
 function showYT(){ const f = $("#yt"); if (f) f.style.visibility = "visible"; }
 function onYTError(code){
   if (!current) return;
-  const st = STATUS[current.id] || {}, v = (st.live || st.latest || {}).videoId;
+  const pl = plan(current, Date.now()), v = pl.kind === "yt" ? pl.id : null;
   showCard({
     h: "This edition won't play here",
     p: code === 100 ? "YouTube says the video is no longer available. The checker will pick a newer edition on its next run." : "YouTube refused to play it inside this page. The broadcaster may limit it to YouTube itself or to some countries.",
@@ -529,8 +635,9 @@ function tune(b, opts = {}){
       buttons: [["Watch the channel now", () => tune(b, {channel: true})]]
     });
   }
-  else showCard({h: "No edition yet", p: "The checker hasn't found a full edition of this bulletin. It looks again every few minutes around airtime."});
+  else showCard({h: "No edition yet", p: "The checker hasn't found a full edition of this bulletin yet. The page is looking on the broadcaster's channel too."});
   renderIdent(true); renderDial(); renderNext();
+  if (hasYT(b)){ const ed = editionOf(b, now); if (ed.kind === "old" || ed.kind === "none" || (stateOf(b, now).live && ed.kind !== "live")) lookFor(b); }
 }
 
 /* ---------- ident ---------- */
@@ -823,7 +930,17 @@ async function start(){
   setInterval(tick, 15000); tick();
   // refresh the status file every five minutes so a long-open tab picks up new editions
   setInterval(refreshStatus, 5 * 6e4);
+  setInterval(sweep, 2 * 6e4); setTimeout(sweep, 8000);
   document.addEventListener("visibilitychange", () => { if (!document.hidden) refreshStatus(); });
+}
+function announceArrivals(arrived){
+  if (!arrived.length) return;
+  if (prefs.follow && catchQueue == null){
+    for (const b of arrived) if (!followQueue.some(x => x.id === b.id)) followQueue.push(b);
+    if (!busy()) playQueued();
+    else toast("Just posted: " + arrived.map(b => b.programme).join(", ") + ". Plays when this one ends.");
+  }
+  else toast("Just posted: " + arrived.map(b => b.programme).join(", "));
 }
 async function refreshStatus(){
   let s; try { s = await getJSON("status.json"); } catch { return; }
@@ -832,14 +949,7 @@ async function refreshStatus(){
   for (const b of LINEUP) if (deliveryOf(b) === "posted"){ const ed = editionOf(b, now); if (ed.kind === "fresh") freshBefore.set(b.id, ed.pl.id); }
   STATUS = s.bulletins || {}; statusMeta = s;
   const arrived = visible().filter(b => deliveryOf(b) === "posted").filter(b => { const ed = editionOf(b, now); return ed.kind === "fresh" && freshBefore.get(b.id) !== ed.pl.id && !prefs.watched.has(ed.pl.id); });
-  if (arrived.length){
-    if (prefs.follow && catchQueue == null){
-      for (const b of arrived) if (!followQueue.some(x => x.id === b.id)) followQueue.push(b);
-      if (!busy()) playQueued();
-      else toast("Just posted: " + arrived.map(b => b.programme).join(", ") + ". Plays when this one ends.");
-    }
-    else toast("Just posted: " + arrived.map(b => b.programme).join(", "));
-  }
+  announceArrivals(arrived);
   renderDial(); renderNext(); renderIdent(false); updateCatchLabel();
 }
 start();

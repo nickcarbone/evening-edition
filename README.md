@@ -41,6 +41,7 @@ then open http://localhost:8000.
 ## Using it
 
 - **Two lanes.** *Live* is the timeline of bulletins that stream as they air: official streams, links, and YouTube channels that broadcast live. *Posted* holds bulletins the broadcaster uploads after the broadcast, newest first. A posted bulletin leaves the lane once its next broadcast has aired and comes back when that edition is up; until then it sits behind the "not up yet" link, with the time it's usually posted.
+- **The page looks for itself.** The checker only knows what it saw on its last run. When a live bulletin is on air (or about to start) with no stream known, or a posted one is past its usual time, the open page reads the broadcaster's newest uploads straight from YouTube, keeps titles matching the bulletin's pattern, and checks their length: a live or scheduled stream reads zero, a full edition at least `min_minutes`. It needs no API key. It runs when you tune to a bulletin and every two minutes in the background, and switches the player over when it finds something newer.
 - **Older editions are flagged.** When the newest edition the page has is older than the latest broadcast, say Sunday's while Monday's has aired, the player shows a "Yesterday's edition" badge with the date, and the tile and clock panel say so.
 - **Flip** with the arrow keys, the arrows on the clock panel, or a swipe across it on a phone. Tap any tile. The arrows step through the Live lane, then Posted, then the ones not up yet.
 - **Follow live** switches the player to each live bulletin as it starts, and plays posted editions as they arrive, waiting for the end of whatever is playing.
@@ -93,6 +94,7 @@ On a public repository Actions minutes are free. Each run that finds something n
 
 ## Known limits
 
-- Live detection depends on broadcasters scheduling their streams ahead, which most of these do. One that goes live without notice is picked up on the next run.
+- Live detection depends on broadcasters scheduling their streams ahead, which most of these do. One that goes live without notice is picked up by the open page within two minutes, or on the checker's next run.
+- Titles are matched with any leading live marker ("🔴 [Live] ", "[🔴LIVE] ", "LIVE: ") removed, so a pattern anchored with `^` still matches a live stream.
 - Some streams are blocked outside their country during programmes without foreign rights. DR1 played from the US at 2am Eastern on 20 October and was blocked at 3:40am.
 - Embedded YouTube will not play in some automated or data-centre browsers; this is YouTube's own check and doesn't affect normal viewing.

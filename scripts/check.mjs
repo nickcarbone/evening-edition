@@ -46,6 +46,12 @@ async function api(path, params) {
   return r.json();
 }
 
+// live streams often carry a marker before the bulletin's name ("🔴 [Live] ข่าวค่ำ", "[🔴LIVE] 뉴스9"),
+// which defeats patterns anchored to the start of the title; match against the title without it too
+const LIVE_WORDS = "live|en vivo|ao vivo|en direct|direkt|na żywo|uživo|canlı|ライブ|라이브|直播|สด|ถ่ายทอดสด";
+const LEAD_RX = new RegExp("^(?:[\\s\\uFE0F|:·\\-–—]|\\p{Extended_Pictographic}|[\\[【(（]\\s*(?:\\p{Extended_Pictographic}|\\uFE0F|\\s)*(?:" + LIVE_WORDS + ")?\\s*[\\]】)）]|(?:" + LIVE_WORDS + ")(?![\\p{L}\\p{N}]))+", "iu");
+const cleanTitle = t => (t || "").replace(LEAD_RX, "");
+
 const seconds = iso => {
   const m = /^P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?)?$/.exec(iso || "");
   return m ? (+m[1] || 0) * 86400 + (+m[2] || 0) * 3600 + (+m[3] || 0) * 60 + (+m[4] || 0) : 0;
@@ -126,7 +132,7 @@ for (const b of ytBulletins) {
       const rx = src.title_pattern ? new RegExp(src.title_pattern, "iu") : null;
       for (const it of res.items || []) {
         const title = it.snippet?.title || "";
-        if (rx && !rx.test(title)) continue;
+        if (rx && !rx.test(title) && !rx.test(cleanTitle(title))) continue;
         list.push({ videoId: it.contentDetails.videoId, title, embeddableHint: src.embeddable !== false });
       }
     } catch (e) {
