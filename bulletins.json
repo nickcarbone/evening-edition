@@ -147,7 +147,7 @@
           "type": "youtube",
           "channel_id": "UCE2606prvXQc_noEqKxVJXA",
           "channel_name": "ABS-CBN News",
-          "title_pattern": "TV Patrol Livestream",
+          "title_pattern": "TV Patrol (Livestream|Playback)",
           "embeddable": true
         }
       ]

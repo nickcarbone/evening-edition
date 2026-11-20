@@ -669,8 +669,9 @@ function renderIdent(enter){
     else span.textContent = (s.live ? "On air now, live stream not found yet" : "Today's live edition wasn't found") + " · showing " + ed.label.split(" · ")[0].toLowerCase();
   }
   else if (ed.kind === "fresh"){
-    span.textContent = posted ? "Posted " + ago(now - ed.pub) + " ago" + (ed.air != null ? " · " + dateLabel(b.tz, ed.air) + " edition" : "")
-                              : "Latest edition · aired " + ago(now - ed.pub) + " ago";
+    const aired = ed.pl.found && ed.air != null ? ed.air : ed.pub;
+    span.textContent = posted ? (ed.pl.found ? "Found on the channel " : "Posted ") + ago(now - ed.pub) + " ago" + (ed.air != null ? " · " + dateLabel(b.tz, ed.air) + " edition" : "")
+                              : "Latest edition · aired " + ago(Math.max(0, now - aired)) + " ago";
   }
   else if (s.live && !hasYT(b)){ el.classList.add("live"); span.textContent = "On air · started " + ago(now - s.liveStart) + " ago"; }
   else span.textContent = s.next ? "Next on air in " + ago(s.next - now) : "";
@@ -773,7 +774,7 @@ function postedTile(b, text, extra = ""){
 function renderPosted(now){
   const {avail, waiting} = postedSplit(now), lane = $("#posted"), due = $("#due"), dueBtn = $("#dueBtn");
   lane.innerHTML = ""; due.innerHTML = "";
-  for (const {b, ed} of avail) lane.appendChild(postedTile(b, "Posted " + whenLabel(ed.pub) + " · " + b.country));
+  for (const {b, ed} of avail) lane.appendChild(postedTile(b, (ed.pl.found ? "Found " : "Posted ") + whenLabel(ed.pub) + " · " + b.country));
   if (!avail.length) lane.innerHTML = '<p class="empty">Nothing posted yet for this filter.</p>';
   for (const {b, ed} of waiting){
     const t = ed.kind === "old" ? (ed.due > now ? "Due about " + userClock(ed.due) : "Late · usually up by " + userClock(ed.due)) : "No edition found yet";
