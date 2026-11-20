@@ -372,10 +372,9 @@ function editionOf(b, now){
   const due = last != null ? last + readyAfterOf(b) * 6e4 : null;
   const ed = {pl, kind: fresh ? "fresh" : "old", pub, air, last, due};
   if (!fresh){
-    const prevAir = starts(b, last - 6e4).filter(t => t < last - 6e4).pop();
-    const isPrev = air != null && prevAir != null && Math.abs(air - prevAir) < 36e5;
-    const d = dayNum(b.tz, last) - dayNum(b.tz, air != null ? air : pub);
-    ed.label = (isPrev ? (d === 1 ? "Yesterday's edition" : "Previous edition") : "Older edition") + " · " + dateLabel(b.tz, air != null ? air : pub);
+    // counted from today in the bulletin's own country, so the word always matches the date shown
+    const d = dayNum(b.tz, now) - dayNum(b.tz, air != null ? air : pub);
+    ed.label = (d === 1 ? "Yesterday's edition" : d <= 0 ? "Earlier edition" : "Older edition") + " · " + dateLabel(b.tz, air != null ? air : pub);
   }
   return ed;
 }
@@ -465,7 +464,7 @@ function lookFor(b){ const before = plan(b, Date.now()).id; return discover(b).t
 // every two minutes: live bulletins on air (or about to start) with no stream known, posted ones past due
 function sweep(){
   if (document.hidden) return;
-  const now = Date.now(), want = [];
+  const now = Date.now(), want = [], later = [];
   for (const b of visible()){
     if (!hasYT(b)) continue;
     const s = stateOf(b, now), ed = editionOf(b, now);
@@ -473,10 +472,12 @@ function sweep(){
       const st = STATUS[b.id] || {};
       if (s.live && ed.kind !== "live") want.push(b);
       else if (!s.live && s.next && s.next - now < 15 * 6e4 && !st.upcoming && !(FOUND[b.id] && FOUND[b.id].live && FOUND[b.id].air === s.next)) want.push(b);
+      // aired without the checker seeing it: the finished stream is usually on the channel
+      else if (!s.live && ed.kind === "old" && now - ed.last < DAY) later.push(b);
     }
     else if (ed.kind === "old" && ed.due != null && now >= ed.due - 15 * 6e4 && now - ed.last < DAY) want.push(b);
   }
-  for (const b of want.slice(0, 4)) lookFor(b);
+  for (const b of [...want, ...later].slice(0, 4)) lookFor(b);
 }
 
 /* ---------- player ---------- */
