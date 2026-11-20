@@ -411,7 +411,9 @@ async function findEdition(b){
   const src = b.sources.find(x => x.type === "youtube"); if (!src || src.embeddable === false) return null;
   const now = Date.now(), s = stateOf(b, now), st = STATUS[b.id] || {};
   const soon = !s.live && s.next && s.next - now < 20 * 6e4;
-  const wantLive = s.live || soon;
+  // bulletins overrun, and a stream that has just ended reads as length 0 until YouTube has processed it
+  const justEnded = !s.live && s.last != null && now - s.last < (b.minutes + 30) * 6e4;
+  const wantLive = s.live || soon || justEnded;
   const statusAir = st.latest && st.latest.published ? airtimeOf(b, Date.parse(st.latest.published)) : null;
   await ytApi();
   const host = document.createElement("div"); host.id = "probe-" + b.id;
@@ -436,7 +438,7 @@ async function findEdition(b){
       if (!await until(() => p.getVideoData().video_id === id && p.getPlayerState() === 5, 6000)) continue;
       const dur = (await until(() => p.getDuration() > 0 && p.getDuration(), 2500)) || 0;
       if (dur === 0 && wantLive){
-        return FOUND[b.id] = {videoId: id, title, live: true, air: s.live ? s.liveStart : s.next, at: Date.now()};
+        return FOUND[b.id] = {videoId: id, title, live: true, air: s.live ? s.liveStart : soon ? s.next : s.last, at: Date.now()};
       }
       if (dur >= minSec){
         // the newest full upload belongs at the earliest to the first airing after the checker's latest
@@ -472,6 +474,7 @@ function sweep(){
     if (deliveryOf(b) === "live"){
       const st = STATUS[b.id] || {};
       if (s.live && ed.kind !== "live") want.push(b);
+      else if (!s.live && ed.kind === "old" && s.last != null && now - s.last < (b.minutes + 30) * 6e4) want.push(b);
       else if (!s.live && s.next && s.next - now < 15 * 6e4 && !st.upcoming && !(FOUND[b.id] && FOUND[b.id].live && FOUND[b.id].air === s.next)) want.push(b);
       // aired without the checker seeing it: the finished stream is usually on the channel
       else if (!s.live && ed.kind === "old" && now - ed.last < DAY) later.push(b);
