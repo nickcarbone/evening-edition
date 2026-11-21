@@ -1,23 +1,19 @@
 {
-  "generated": "2026-11-21T00:12:56.720Z",
-  "lastFull": "2026-11-21T00:12:56.720Z",
+  "generated": "2026-11-21T07:41:06.546Z",
+  "lastFull": "2026-11-21T07:41:06.546Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "O6CebJw04xI",
-        "title": "JORNAL DA CULTURA | 19/11/2026",
-        "published": "2026-11-19T23:55:10.000Z",
-        "duration": 3086,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "bZuHDMRP6ac",
         "title": "JORNAL DA CULTURA | Trump diz que Filipinas não comprarão mais do Brasil | 20/11/2026",
-        "start": "2026-11-20T23:55:10Z"
+        "published": "2026-11-20T23:55:10.000Z",
+        "duration": 3912,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "stale": true,
       "history": [
         {
@@ -114,27 +110,22 @@
           "lag": 172
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "4os_BxbO424",
-        "title": "EN VIVO: Trump, Xi y Putin inician diálogo nuclear | En Punto - 19 de Noviembre 2026",
-        "published": "2026-11-20T04:28:11.000Z",
-        "duration": 2226,
+        "videoId": "6H-GdUhF4Cg",
+        "title": "EN VIVO: Operativo contra ‘El Chapo Isidro’ en Guasave, Sinaloa | En Punto -20 de Noviembre 2026",
+        "published": "2026-11-21T04:27:44.000Z",
+        "duration": 2272,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "stale": true,
+      "checked": "2026-11-21T07:41:06.546Z",
+      "observedLocal": "22:27",
       "history": [
-        {
-          "v": "EuejtSYA7IU",
-          "lag": -2
-        },
         {
           "v": "N_4TzKuVBJA",
           "lag": -1
@@ -170,9 +161,12 @@
         {
           "v": "4os_BxbO424",
           "lag": -2
+        },
+        {
+          "v": "6H-GdUhF4Cg",
+          "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -186,7 +180,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "stale": true,
       "history": [
         {
@@ -230,6 +224,7 @@
           "lag": -60
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 395
     },
@@ -243,7 +238,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "jcwzARnXfKE",
@@ -291,21 +286,17 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "0teWKaYwvFs",
+        "videoId": "k-0_EY0jA8Q",
         "title": "TV Patrol Playback North America | November 20, 2026",
-        "published": "2026-11-20T22:30:09.000Z",
+        "published": "2026-11-21T01:30:09.000Z",
         "duration": 4026,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "06:30",
+      "checked": "2026-11-21T07:41:06.546Z",
+      "observedLocal": "09:30",
       "history": [
-        {
-          "v": "xP6w3pSw6zs",
-          "lag": -10
-        },
         {
           "v": "EB3VeBJ_fMc",
           "lag": -5
@@ -341,6 +332,10 @@
         {
           "v": "0teWKaYwvFs",
           "lag": 720
+        },
+        {
+          "v": "k-0_EY0jA8Q",
+          "lag": 900
         }
       ],
       "delivery": "live",
@@ -356,7 +351,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "fcHSB7gPKEs",
@@ -412,7 +407,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "T_3Sd6aSPpY",
@@ -468,7 +463,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "18:03",
       "history": [
         {
@@ -525,8 +520,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-21T07:41:06.546Z",
+      "stale": true,
       "history": [
         {
           "v": "hSM_oE8etS0",
@@ -569,6 +564,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -582,7 +578,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "19:55",
       "history": [
         {
@@ -639,7 +635,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "14kg0iYIIZY",
@@ -695,7 +691,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -752,7 +748,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
+      "stale": true,
       "history": [
         {
           "v": "r8nvyGxV2gk",
@@ -795,6 +792,7 @@
           "lag": 153
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -808,8 +806,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "21:59",
+      "checked": "2026-11-21T07:41:06.546Z",
+      "stale": true,
       "history": [
         {
           "v": "D96K0nCCBUI",
@@ -852,6 +850,7 @@
           "lag": 60
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -859,7 +858,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -873,7 +872,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "ELGU08W8YTg",
@@ -929,7 +928,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -986,7 +985,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "VLtPEIh8SNQ",
@@ -1036,7 +1035,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -1050,7 +1049,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1107,7 +1106,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "0UOyLB_7VH8",
@@ -1163,7 +1162,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "WcD3hrFWttU",
@@ -1211,21 +1210,16 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "Et6WZCHQ8nU",
-        "title": "Итоги «исторического» саммита Путина, Трампа и Си. Разгром клана Шойгу. Ракеты в Польше",
-        "published": "2026-11-20T14:59:39.000Z",
-        "duration": 3503,
+        "videoId": "aKI2ljqd0Ws",
+        "title": "Путина задвинули. VIP-мужчины Оксаны Федоровой. Газманов про Пугачеву. Шым про Басту. Ответ Лазерсон",
+        "published": "2026-11-21T04:00:25.000Z",
+        "duration": 4757,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
-        {
-          "v": "gzTmTWRov9U",
-          "lag": null
-        },
         {
           "v": "9hs-wO6cXII",
           "lag": 1020
@@ -1261,6 +1255,10 @@
         {
           "v": "Et6WZCHQ8nU",
           "lag": 1260
+        },
+        {
+          "v": "aKI2ljqd0Ws",
+          "lag": 600
         }
       ],
       "delivery": "posted",
@@ -1276,7 +1274,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1327,7 +1325,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -1340,7 +1338,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1350,7 +1348,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -1364,7 +1362,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "-80edadbcAs",
@@ -1419,8 +1417,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "upcoming": {
+        "videoId": "NhpWZcaKjgw",
+        "title": "Le journal de 20h de France Télévisions - 21 Nov 2026",
+        "scheduledStart": "2026-11-21T18:57:00Z"
+      },
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1477,7 +1479,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "OL2P22_uHws",
@@ -1527,7 +1529,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -1535,7 +1537,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-21T00:12:56.720Z"
+        "checked": "2026-11-21T07:41:06.546Z"
       },
       "history": []
     },
@@ -1549,7 +1551,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1606,7 +1608,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
         {
           "v": "gy05-DPJqpI",
@@ -1662,7 +1664,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1719,7 +1721,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1768,21 +1770,16 @@
     },
     "global": {
       "latest": {
-        "videoId": "zDJKLFcAV7s",
-        "title": "Global National: Nov. 19, 2026 | Trump, Putin, Xi meet at high-stakes APEC summit in China",
-        "published": "2026-11-20T03:00:07.000Z",
-        "duration": 1331,
+        "videoId": "g5G4kZkAx5Y",
+        "title": "Global National: Nov. 20, 2026 | Ford car assembly plant reopens in Ontario",
+        "published": "2026-11-21T03:00:09.000Z",
+        "duration": 1337,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "22:00",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
-        {
-          "v": "Dfb-BZ81UnI",
-          "lag": 270
-        },
         {
           "v": "iaF2xDhnnOk",
           "lag": 270
@@ -1818,6 +1815,10 @@
         {
           "v": "zDJKLFcAV7s",
           "lag": 270
+        },
+        {
+          "v": "g5G4kZkAx5Y",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1833,8 +1834,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "observedLocal": "17:31",
+      "checked": "2026-11-21T07:41:06.546Z",
+      "stale": true,
       "history": [
         {
           "v": "y55dWlr7gNs",
@@ -1877,25 +1878,22 @@
           "lag": -29
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "pbs": {
       "latest": {
-        "videoId": "56GuOAuCpMU",
-        "title": "PBS News Hour full episode, Nov. 19, 2026",
-        "published": "2026-11-20T00:19:22.000Z",
+        "videoId": "bcxbRdcUeFo",
+        "title": "PBS News Hour full episode, Nov. 20, 2026",
+        "published": "2026-11-21T00:19:22.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
-        {
-          "v": "J-IJ3XU7tT8",
-          "lag": 87
-        },
         {
           "v": "nvOuuuy9Y00",
           "lag": 83
@@ -1931,6 +1929,10 @@
         {
           "v": "56GuOAuCpMU",
           "lag": 79
+        },
+        {
+          "v": "bcxbRdcUeFo",
+          "lag": 79
         }
       ],
       "delivery": "posted",
@@ -1938,21 +1940,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "PVqerL_yMpE",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 19",
-        "published": "2026-11-20T02:55:31.000Z",
-        "duration": 1163,
+        "videoId": "LLd6dhfGpPA",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 20",
+        "published": "2026-11-21T02:49:16.000Z",
+        "duration": 936,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "stale": true,
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
-        {
-          "v": "f4jLmH1jhbA",
-          "lag": 221
-        },
         {
           "v": "OXsmwfMv8A0",
           "lag": 225
@@ -1988,29 +1985,27 @@
         {
           "v": "PVqerL_yMpE",
           "lag": 206
+        },
+        {
+          "v": "LLd6dhfGpPA",
+          "lag": 199
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
     "abc": {
       "latest": {
-        "videoId": "Kqgy7QJ01-w",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 18, 2026",
-        "published": "2026-11-19T03:00:34.000Z",
-        "duration": 1233,
+        "videoId": "y3DJc15tzsQ",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026",
+        "published": "2026-11-21T03:00:12.000Z",
+        "duration": 1218,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "stale": true,
+      "checked": "2026-11-21T07:41:06.546Z",
       "history": [
-        {
-          "v": "OhbO9psQeZU",
-          "lag": 210
-        },
         {
           "v": "QO4jM2m6Z68",
           "lag": 240
@@ -2046,29 +2041,28 @@
         {
           "v": "Kqgy7QJ01-w",
           "lag": 211
+        },
+        {
+          "v": "y3DJc15tzsQ",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 225
     },
     "telemundo": {
       "latest": {
-        "videoId": "3Ima6hYY-jw",
-        "title": "Las noticias de la noche, jueves 19 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-20T03:59:18.000Z",
-        "duration": 1560,
+        "videoId": "jnnHsqpLQtQ",
+        "title": "Las noticias de la noche, viernes 20 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-21T03:59:17.000Z",
+        "duration": 1558,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
-      "stale": true,
+      "checked": "2026-11-21T07:41:06.546Z",
+      "observedLocal": "22:59",
       "history": [
-        {
-          "v": "DDvvPi0OmIk",
-          "lag": 29
-        },
         {
           "v": "_QqQHH-6vBo",
           "lag": 29
@@ -2104,9 +2098,12 @@
         {
           "v": "3Ima6hYY-jw",
           "lag": 269
+        },
+        {
+          "v": "jnnHsqpLQtQ",
+          "lag": 269
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
@@ -2120,7 +2117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T00:12:56.720Z",
+      "checked": "2026-11-21T07:41:06.546Z",
       "stale": true,
       "history": [
         {
