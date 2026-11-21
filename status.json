@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T07:41:06.546Z",
-  "lastFull": "2026-11-21T07:41:06.546Z",
+  "generated": "2026-11-21T15:38:08.369Z",
+  "lastFull": "2026-11-21T15:38:08.369Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "stale": true,
       "history": [
         {
@@ -123,7 +123,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "22:27",
       "history": [
         {
@@ -172,21 +172,16 @@
     },
     "kompas": {
       "latest": {
-        "videoId": "aBVWr2jYV0s",
-        "title": "Polri Tidak Uji Ulang Ijazah Jokowi, Roy Suryo Tersudut? | KOMPAS PETANG",
-        "published": "2026-11-19T18:35:16.000Z",
-        "duration": 4155,
+        "videoId": "6XjlQtPh6Ng",
+        "title": "Kereta Api Tabrak Angkot Hingga Terbakar di Simalungun Sumatera Utara | KOMPAS PETANG",
+        "published": "2026-11-21T13:06:55.000Z",
+        "duration": 5795,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "stale": true,
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
-        {
-          "v": "EEZmzse4BXA",
-          "lag": 91
-        },
         {
           "v": "jzHAO09egWc",
           "lag": 150
@@ -222,28 +217,27 @@
         {
           "v": "CtWxqSL-wCI",
           "lag": -60
+        },
+        {
+          "v": "6XjlQtPh6Ng",
+          "lag": 187
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 395
     },
     "tvb": {
       "latest": {
-        "videoId": "POztqUpItMQ",
-        "title": "無綫TVB六點半新聞報道｜習近平就中國澳洲關係提四點意見 黃循財稱願與中方增強政治互信｜彭麗媛與領導人夫人團參觀嶺南非遺展 指願加強文化交流互鑒｜首爾地鐵工會展開按章工作冀向資方施壓取消裁員計劃｜",
-        "published": "2026-11-20T10:45:15.000Z",
-        "duration": 1868,
+        "videoId": "sxVx8FV2w1k",
+        "title": "無綫TVB六點半新聞報道｜特朗普稱與習近平談設AI防護機制　警告美資企業設海外數據中心將被徵重稅｜據報美國證券交易委員會調查輝達　黃將出席國會聽證會公開作證｜特朗普指同中俄元首保持良好關係",
+        "published": "2026-11-21T12:52:12.000Z",
+        "duration": 2251,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
-        {
-          "v": "jcwzARnXfKE",
-          "lag": 20
-        },
         {
           "v": "2lD3Pd64CBE",
           "lag": 19
@@ -279,10 +273,14 @@
         {
           "v": "POztqUpItMQ",
           "lag": 15
+        },
+        {
+          "v": "sxVx8FV2w1k",
+          "lag": 142
         }
       ],
       "delivery": "posted",
-      "readyAfter": 30
+      "readyAfter": 35
     },
     "tvpatrol": {
       "latest": {
@@ -294,8 +292,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "observedLocal": "09:30",
+      "checked": "2026-11-21T15:38:08.369Z",
+      "stale": true,
       "history": [
         {
           "v": "EB3VeBJ_fMc",
@@ -351,7 +349,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "fcHSB7gPKEs",
@@ -399,20 +397,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "W4l4qoc_PfA",
-        "title": "20261120 公視晚間新聞 完整版（無網路版權內容除外）｜立院三讀普發2萬特別條例 綠白聯手否決仍不敵藍人數優勢",
-        "published": "2026-11-20T12:43:07.000Z",
-        "duration": 3381,
+        "videoId": "TRgvvQQ6Nlo",
+        "title": "20261121 公視晚間新聞 完整版｜ 金管會祭第3波限空令 23日起全面禁止平盤以下放空",
+        "published": "2026-11-21T12:01:16.000Z",
+        "duration": 1790,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
-        {
-          "v": "T_3Sd6aSPpY",
-          "lag": 99
-        },
         {
           "v": "S9crmlarzcI",
           "lag": 90
@@ -448,6 +442,10 @@
         {
           "v": "W4l4qoc_PfA",
           "lag": 103
+        },
+        {
+          "v": "TRgvvQQ6Nlo",
+          "lag": 61
         }
       ],
       "delivery": "posted",
@@ -455,21 +453,17 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "DtxP9xzfpEM",
-        "title": "ข่าวค่ำ | 20 พ.ย. 69",
-        "published": "2026-11-20T11:03:05.000Z",
-        "duration": 8865,
+        "videoId": "cmVggg5dAcE",
+        "title": "ข่าวค่ำ | 21 พ.ย. 69",
+        "published": "2026-11-21T11:00:12.000Z",
+        "duration": 8261,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "observedLocal": "18:03",
+      "checked": "2026-11-21T15:38:08.369Z",
+      "observedLocal": "18:00",
       "history": [
-        {
-          "v": "AnvLemeiQwA",
-          "lag": 1
-        },
         {
           "v": "YwHAjmAMfvI",
           "lag": 2
@@ -505,6 +499,10 @@
         {
           "v": "DtxP9xzfpEM",
           "lag": 3
+        },
+        {
+          "v": "cmVggg5dAcE",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -512,21 +510,17 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "o7w66ng8OBo",
-        "title": "[풀영상] 뉴스9 : 수능 부정행위자 ‘13명 추가’ 적발…“시험 공정성 회복 TF 구성, 과거 부정행위도 엄벌” – 2026년 11월 20일(금) / KBS",
-        "published": "2026-11-20T11:57:29.000Z",
-        "duration": 2800,
+        "videoId": "WJNqyP2g6II",
+        "title": "[풀영상] 뉴스9 : 수능 후 첫 주말, 오늘부터 논술 시험…AI 부정 방지용 ‘앞치마’·탐지 장비도 등장 – 2026년 11월 21일(토) / KBS",
+        "published": "2026-11-21T11:57:19.000Z",
+        "duration": 1217,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "stale": true,
+      "checked": "2026-11-21T15:38:08.369Z",
+      "observedLocal": "20:57",
       "history": [
-        {
-          "v": "hSM_oE8etS0",
-          "lag": -2
-        },
         {
           "v": "3ijNrxJ-CBM",
           "lag": -2
@@ -562,29 +556,28 @@
         {
           "v": "o7w66ng8OBo",
           "lag": -3
+        },
+        {
+          "v": "WJNqyP2g6II",
+          "lag": -3
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "K3Pknk_WvzM",
-        "title": "Ismail Lasim Perlu Buktikan Dapat Sokongan Majoriti Adun | Buletin Utama, 20 November 2026",
-        "published": "2026-11-20T11:55:42.000Z",
-        "duration": 3607,
+        "videoId": "b2vYNWSTdgg",
+        "title": "Pembangunan Pusat Data Tidak Jejas Bekalan Elektrik Untuk Industri | Buletin Utama, 21 November 2026",
+        "published": "2026-11-21T11:55:39.000Z",
+        "duration": 3545,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "19:55",
       "history": [
-        {
-          "v": "AX2_Wh8H25M",
-          "lag": -3
-        },
         {
           "v": "IM280Ch6FD4",
           "lag": -2
@@ -620,6 +613,10 @@
         {
           "v": "K3Pknk_WvzM",
           "lag": -4
+        },
+        {
+          "v": "b2vYNWSTdgg",
+          "lag": -4
         }
       ],
       "delivery": "live",
@@ -627,20 +624,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "8Waazz9cfq0",
-        "title": "TOLOnews - 6pm News - 20 Nov 2026 | واکنش مجاهد به نگرانی‌های امنیتی روسیه و امریکا",
-        "published": "2026-11-20T14:41:29.000Z",
-        "duration": 1018,
+        "videoId": "SvetYvlxdD8",
+        "title": "TOLOnews - 6pm News - 21 Nov 2026 | زاخارووا: روسیه آماده همکاری برای گفت‌وگوی کابل و اسلام‌آباد است",
+        "published": "2026-11-21T14:18:29.000Z",
+        "duration": 1187,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
-        {
-          "v": "14kg0iYIIZY",
-          "lag": 49
-        },
         {
           "v": "_DSsWDdS8YM",
           "lag": 85
@@ -676,6 +669,10 @@
         {
           "v": "8Waazz9cfq0",
           "lag": 71
+        },
+        {
+          "v": "SvetYvlxdD8",
+          "lag": 48
         }
       ],
       "delivery": "posted",
@@ -683,21 +680,17 @@
     },
     "btv": {
       "latest": {
-        "videoId": "IB6EpzoSSDI",
-        "title": "রাত ৮টার সংবাদ - ২০ নভেম্বর, ২০২৬",
-        "published": "2026-11-20T14:00:10.000Z",
-        "duration": 2144,
+        "videoId": "CXxEHjDA4Mk",
+        "title": "রাত ৮টার সংবাদ",
+        "published": "2026-11-21T13:59:32.000Z",
+        "duration": 1506,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "observedLocal": "20:00",
+      "checked": "2026-11-21T15:38:08.369Z",
+      "observedLocal": "19:59",
       "history": [
-        {
-          "v": "-CXK_ShfdJQ",
-          "lag": 2
-        },
         {
           "v": "TaAXcC84kG4",
           "lag": -1
@@ -733,6 +726,10 @@
         {
           "v": "IB6EpzoSSDI",
           "lag": 0
+        },
+        {
+          "v": "CXxEHjDA4Mk",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -740,21 +737,16 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "S0m_v1dIZvQ",
-        "title": "20 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-11-20T16:32:59.000Z",
-        "duration": 2614,
+        "videoId": "73u71AFJgGA",
+        "title": "21 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-11-21T15:28:25.000Z",
+        "duration": 1866,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
-      "stale": true,
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
-        {
-          "v": "r8nvyGxV2gk",
-          "lag": 90
-        },
         {
           "v": "uki-V9gUNgU",
           "lag": 110
@@ -790,9 +782,12 @@
         {
           "v": "S0m_v1dIZvQ",
           "lag": 153
+        },
+        {
+          "v": "73u71AFJgGA",
+          "lag": 88
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 110
     },
@@ -806,7 +801,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "stale": true,
       "history": [
         {
@@ -858,7 +853,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -872,7 +867,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "ELGU08W8YTg",
@@ -928,7 +923,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -985,7 +980,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "VLtPEIh8SNQ",
@@ -1035,7 +1030,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -1049,7 +1044,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1106,7 +1101,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "0UOyLB_7VH8",
@@ -1162,7 +1157,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "WcD3hrFWttU",
@@ -1210,24 +1205,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "aKI2ljqd0Ws",
-        "title": "Путина задвинули. VIP-мужчины Оксаны Федоровой. Газманов про Пугачеву. Шым про Басту. Ответ Лазерсон",
-        "published": "2026-11-21T04:00:25.000Z",
-        "duration": 4757,
+        "videoId": "uyfv3DJ1DDY",
+        "title": "«Откровения» Путина в фильме Кустурицы. Представители ЕС готовы ехать в Москву. Связи Эпштейна с РФ",
+        "published": "2026-11-21T10:59:20.000Z",
+        "duration": 2046,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "RIxxvWGYGKg",
+        "title": "Протасевич обманом снял Сапегу для ТВ. Покушение на Киевстонера. ИИ разгадал «задачу тысячелетия»",
+        "start": "2026-11-21T14:59:17Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "9hs-wO6cXII",
-          "lag": 1020
-        },
-        {
-          "v": "JT1h3S6AFsg",
-          "lag": 720
-        },
         {
           "v": "qmgg2-bK3us",
           "lag": 1318
@@ -1259,6 +1251,14 @@
         {
           "v": "aKI2ljqd0Ws",
           "lag": 600
+        },
+        {
+          "v": "RIxxvWGYGKg",
+          "lag": 1259
+        },
+        {
+          "v": "uyfv3DJ1DDY",
+          "lag": 1019
         }
       ],
       "delivery": "posted",
@@ -1274,7 +1274,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1325,7 +1325,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -1338,7 +1338,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1348,7 +1348,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -1362,7 +1362,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "-80edadbcAs",
@@ -1419,11 +1419,11 @@
       "live": null,
       "upcoming": {
         "videoId": "NhpWZcaKjgw",
-        "title": "Le journal de 20h de France Télévisions - 21 Nov 2026",
+        "title": "Le journal de 20h de France Télévisions - 21 novembre 2026",
         "scheduledStart": "2026-11-21T18:57:00Z"
       },
-      "checked": "2026-11-21T07:41:06.546Z",
-      "observedLocal": "19:57",
+      "checked": "2026-11-21T15:38:08.369Z",
+      "stale": true,
       "history": [
         {
           "v": "wFhMVCRbZRE",
@@ -1479,7 +1479,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "OL2P22_uHws",
@@ -1529,7 +1529,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -1537,7 +1537,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-21T07:41:06.546Z"
+        "checked": "2026-11-21T15:38:08.369Z"
       },
       "history": []
     },
@@ -1551,7 +1551,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1608,7 +1608,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "gy05-DPJqpI",
@@ -1664,7 +1664,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1721,7 +1721,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1778,7 +1778,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "iaF2xDhnnOk",
@@ -1834,7 +1834,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "stale": true,
       "history": [
         {
@@ -1892,7 +1892,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "nvOuuuy9Y00",
@@ -1948,7 +1948,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "OXsmwfMv8A0",
@@ -2004,7 +2004,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "history": [
         {
           "v": "QO4jM2m6Z68",
@@ -2060,7 +2060,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "observedLocal": "22:59",
       "history": [
         {
@@ -2117,7 +2117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T07:41:06.546Z",
+      "checked": "2026-11-21T15:38:08.369Z",
       "stale": true,
       "history": [
         {
