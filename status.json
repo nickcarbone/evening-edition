@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-21T21:09:39.091Z",
-  "lastFull": "2026-11-21T21:09:39.091Z",
+  "generated": "2026-11-22T01:34:04.381Z",
+  "lastFull": "2026-11-22T01:34:04.381Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "bZuHDMRP6ac",
-        "title": "JORNAL DA CULTURA | Trump diz que Filipinas não comprarão mais do Brasil | 20/11/2026",
-        "published": "2026-11-20T23:55:10.000Z",
-        "duration": 3912,
+        "videoId": "nRHZjAfzruk",
+        "title": "JORNAL DA CULTURA | Lula fala sobre projeto fiscal e programas sociais | 21/11/2026",
+        "published": "2026-11-21T23:55:13.000Z",
+        "duration": 4009,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "nRHZjAfzruk",
-        "title": "JORNAL DA CULTURA | 21/11/2026",
-        "scheduledStart": "2026-11-22T00:00:00Z"
-      },
-      "checked": "2026-11-21T21:09:39.091Z",
+      "upcoming": null,
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "Ti41gAztCsc",
-          "lag": -5
-        },
         {
           "v": "ubCq2fYJzFY",
           "lag": -5
@@ -59,6 +51,10 @@
         {
           "v": "bZuHDMRP6ac",
           "lag": -5
+        },
+        {
+          "v": "nRHZjAfzruk",
+          "lag": 1435
         }
       ],
       "delivery": "live",
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [
         {
@@ -127,7 +123,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "22:27",
       "history": [
         {
@@ -184,7 +180,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "jzHAO09egWc",
@@ -240,7 +236,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "2lD3Pd64CBE",
@@ -294,15 +290,15 @@
         "duration": 4026,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "oL3jCij8Epg",
+        "title": "TV Patrol Playback North America | November 21, 2026",
+        "start": "2026-11-22T01:30:07Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [
-        {
-          "v": "EB3VeBJ_fMc",
-          "lag": -5
-        },
         {
           "v": "Y4HztorxXvQ",
           "lag": -10
@@ -338,6 +334,10 @@
         {
           "v": "k-0_EY0jA8Q",
           "lag": 900
+        },
+        {
+          "v": "oL3jCij8Epg",
+          "lag": null
         }
       ],
       "delivery": "live",
@@ -353,7 +353,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "fcHSB7gPKEs",
@@ -409,7 +409,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "S9crmlarzcI",
@@ -465,7 +465,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -522,7 +522,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "20:57",
       "history": [
         {
@@ -579,7 +579,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "19:55",
       "history": [
         {
@@ -636,7 +636,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "_DSsWDdS8YM",
@@ -692,7 +692,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -749,7 +749,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "uki-V9gUNgU",
@@ -805,7 +805,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "21:45",
       "history": [
         {
@@ -856,7 +856,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -870,7 +870,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [
         {
@@ -928,7 +928,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -985,7 +985,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "i7l6EoTneUg",
@@ -1035,7 +1035,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -1049,7 +1049,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "20:05",
       "history": [
         {
@@ -1106,7 +1106,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "9BgUQxV3CYs",
@@ -1162,7 +1162,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "2wg_KveF61Y",
@@ -1218,7 +1218,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1275,7 +1275,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1326,7 +1326,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -1339,7 +1339,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1347,9 +1347,9 @@
     },
     "ert": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -1363,7 +1363,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "jKPPF7q30AM",
@@ -1419,7 +1419,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1476,7 +1476,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "T4UGBJMR7cg",
@@ -1526,7 +1526,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -1534,7 +1534,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-21T21:09:39.091Z"
+        "checked": "2026-11-22T01:34:04.381Z"
       },
       "history": []
     },
@@ -1548,7 +1548,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1597,20 +1597,16 @@
     },
     "rti": {
       "latest": {
-        "videoId": "XCU9_8ii5PM",
-        "title": "Le 20 Heures de RTI 1 du 19 novembre 2026 par Marie Laure N'goran",
-        "published": "2026-11-19T21:32:02.000Z",
-        "duration": 1792,
+        "videoId": "thLqBFGs6ug",
+        "title": "Le 20 Heures de RTI 1 du 21 novembre 2026 par Kolo Coulibaly",
+        "published": "2026-11-21T22:35:14.000Z",
+        "duration": 2417,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
-        {
-          "v": "gy05-DPJqpI",
-          "lag": 101
-        },
         {
           "v": "-_g6UCZJ4o4",
           "lag": 150
@@ -1646,10 +1642,14 @@
         {
           "v": "XCU9_8ii5PM",
           "lag": 92
+        },
+        {
+          "v": "thLqBFGs6ug",
+          "lag": 155
         }
       ],
       "delivery": "posted",
-      "readyAfter": 105
+      "readyAfter": 115
     },
     "rtssn": {
       "latest": {
@@ -1661,7 +1661,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1710,19 +1710,15 @@
     },
     "channels": {
       "latest": {
-        "videoId": "oUdtctdolsc",
-        "title": "News At 10",
-        "published": "2026-11-20T20:59:58.000Z",
-        "duration": 3645,
+        "videoId": "LWxRvM7CuRo",
+        "title": "News At 10 | 21 / 11 / 2026",
+        "published": "2026-11-21T20:59:29.000Z",
+        "duration": 3705,
         "embeddable": true
       },
-      "live": {
-        "videoId": "LWxRvM7CuRo",
-        "title": "News At 10",
-        "start": "2026-11-21T20:59:29Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1778,8 +1774,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "upcoming": {
+        "videoId": "qilU66zEWjc",
+        "title": "Global National: Nov. 21, 2026 | FBI investigating suspected criminal database hack",
+        "scheduledStart": "2026-11-22T03:00:00Z"
+      },
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "iaF2xDhnnOk",
@@ -1835,7 +1835,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [
         {
@@ -1893,7 +1893,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "nvOuuuy9Y00",
@@ -1949,7 +1949,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "OXsmwfMv8A0",
@@ -2005,7 +2005,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "history": [
         {
           "v": "QO4jM2m6Z68",
@@ -2061,7 +2061,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "observedLocal": "22:59",
       "history": [
         {
@@ -2118,7 +2118,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-21T21:09:39.091Z",
+      "checked": "2026-11-22T01:34:04.381Z",
       "stale": true,
       "history": [
         {
