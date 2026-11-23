@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T22:47:25.554Z",
-  "lastFull": "2026-11-22T22:47:25.554Z",
+  "generated": "2026-11-23T03:59:29.526Z",
+  "lastFull": "2026-11-23T03:59:29.526Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -62,16 +62,15 @@
     },
     "caracol": {
       "latest": {
-        "videoId": "BUwOHpsq13Q",
-        "title": "Noticias Caracol | Emisión central fin de semana (16 de noviembre de 2026)",
-        "published": "2026-11-17T02:51:34.000Z",
-        "duration": 3495,
+        "videoId": "hxwbszhDDlc",
+        "title": "Noticias Caracol | Emisión central fin de semana (22 de noviembre de 2026)",
+        "published": "2026-11-23T02:43:11.000Z",
+        "duration": 3905,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
-      "stale": true,
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -108,6 +107,10 @@
         {
           "v": "BUwOHpsq13Q",
           "lag": 172
+        },
+        {
+          "v": "hxwbszhDDlc",
+          "lag": 163
         }
       ],
       "delivery": "posted",
@@ -123,7 +126,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "stale": true,
       "history": [
         {
@@ -181,7 +184,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "Yz2uOZYiDms",
@@ -237,7 +240,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "B_veYO3e4NU",
@@ -285,25 +288,17 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "k-0_EY0jA8Q",
-        "title": "TV Patrol Playback North America | November 20, 2026",
-        "published": "2026-11-21T01:30:09.000Z",
-        "duration": 4026,
+        "videoId": "sWEjIfUvjIc",
+        "title": "TV Patrol Playback North America | November 22, 2026",
+        "published": "2026-11-23T01:30:07.000Z",
+        "duration": 2597,
         "embeddable": true
       },
-      "live": {
-        "videoId": "bXcocQ5usZo",
-        "title": "TV Patrol Playback North America | November 22, 2026",
-        "start": "2026-11-22T22:30:08Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
-      "stale": true,
+      "checked": "2026-11-23T03:59:29.526Z",
+      "observedLocal": "09:30",
       "history": [
-        {
-          "v": "TwmNuUNY4Vo",
-          "lag": -10
-        },
         {
           "v": "cPEgnV3u-Fk",
           "lag": -9
@@ -339,6 +334,10 @@
         {
           "v": "bXcocQ5usZo",
           "lag": null
+        },
+        {
+          "v": "sWEjIfUvjIc",
+          "lag": null
         }
       ],
       "delivery": "live",
@@ -346,20 +345,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "SETqOmbq8SM",
-        "title": "【新思想引领新征程】努力让老年人的生活更加幸福美满 | CCTV「新闻联播」20261121",
-        "published": "2026-11-22T06:45:50.000Z",
+        "videoId": "GrzCa6JiYzs",
+        "title": "【新思想引领新征程】帮扶不断线 幸福不掉队 | CCTV「新闻联播」20261122",
+        "published": "2026-11-23T03:15:46.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
-        {
-          "v": "PjzTAPYHBlE",
-          "lag": 918
-        },
         {
           "v": "HSlsiKHJkfk",
           "lag": 947
@@ -395,10 +390,14 @@
         {
           "v": "SETqOmbq8SM",
           "lag": 1186
+        },
+        {
+          "v": "GrzCa6JiYzs",
+          "lag": 976
         }
       ],
       "delivery": "posted",
-      "readyAfter": 950
+      "readyAfter": 980
     },
     "pts": {
       "latest": {
@@ -410,7 +409,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "DZfsk5i4Uo4",
@@ -466,7 +465,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -523,8 +522,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-23T03:59:29.526Z",
+      "stale": true,
       "history": [
         {
           "v": "OuLM2OoL5bc",
@@ -567,6 +566,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -580,7 +580,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "19:58",
       "history": [
         {
@@ -637,7 +637,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "NWCCpo_4l78",
@@ -688,12 +688,12 @@
         "videoId": "c6U8ILPWwec",
         "title": "রাত ৮টার সংবাদ",
         "published": "2026-11-22T13:59:30.000Z",
-        "duration": 1912,
+        "duration": 1909,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -750,7 +750,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "xJyZXx1bTWA",
@@ -806,7 +806,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "22:12",
       "history": [
         {
@@ -857,7 +857,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -871,7 +871,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "stale": true,
       "history": [
         {
@@ -929,7 +929,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -986,7 +986,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "FpvN_ZL94uc",
@@ -1036,7 +1036,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -1050,7 +1050,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1107,7 +1107,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "90-gGzTcipY",
@@ -1163,7 +1163,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "Mw7yOk1BHlk",
@@ -1219,7 +1219,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1276,7 +1276,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1327,7 +1327,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -1340,7 +1340,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1350,7 +1350,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -1364,7 +1364,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "UjVz2Gl67B4",
@@ -1420,7 +1420,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1477,7 +1477,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "nd8Y1BETTmM",
@@ -1527,7 +1527,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -1535,7 +1535,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-22T22:47:25.554Z"
+        "checked": "2026-11-23T03:59:29.526Z"
       },
       "history": []
     },
@@ -1549,7 +1549,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1606,7 +1606,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "CBVezUZGhf0",
@@ -1662,7 +1662,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1719,7 +1719,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1768,21 +1768,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "qilU66zEWjc",
-        "title": "Global National: Nov. 21, 2026 | FBI investigating suspected criminal database hack",
-        "published": "2026-11-22T03:00:09.000Z",
-        "duration": 1309,
+        "videoId": "BkqO85ANUVg",
+        "title": "Global National: Nov. 22, 2026 | COP31 climate talks collapse with no deal",
+        "published": "2026-11-23T03:00:07.000Z",
+        "duration": 1331,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "QfsoF-YerbU",
-          "lag": 270
-        },
         {
           "v": "bBKHHAYOmJs",
           "lag": 270
@@ -1818,6 +1814,10 @@
         {
           "v": "qilU66zEWjc",
           "lag": 270
+        },
+        {
+          "v": "BkqO85ANUVg",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1833,7 +1833,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "stale": true,
       "history": [
         {
@@ -1891,7 +1891,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
         {
           "v": "nvOuuuy9Y00",
@@ -1939,20 +1939,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "5BpiZZvfqiM",
-        "title": "NBC Nightly News Full Episode - Nov. 21",
-        "published": "2026-11-22T16:49:35.000Z",
-        "duration": 1294,
+        "videoId": "Kghu8a7-Mak",
+        "title": "NBC Nightly News Full Episode - Nov. 22",
+        "published": "2026-11-23T00:37:33.000Z",
+        "duration": 1310,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
-        {
-          "v": "ejKTsVz1w0k",
-          "lag": 201
-        },
         {
           "v": "cOteXwTYbiQ",
           "lag": 266
@@ -1988,6 +1984,10 @@
         {
           "v": "5BpiZZvfqiM",
           "lag": 1040
+        },
+        {
+          "v": "Kghu8a7-Mak",
+          "lag": 68
         }
       ],
       "delivery": "posted",
@@ -1995,21 +1995,16 @@
     },
     "abc": {
       "latest": {
-        "videoId": "y3DJc15tzsQ",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026",
-        "published": "2026-11-21T03:00:12.000Z",
-        "duration": 1218,
+        "videoId": "w_s5SQWkn-4",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 22, 2026",
+        "published": "2026-11-23T03:00:08.000Z",
+        "duration": 1233,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
-      "stale": true,
+      "checked": "2026-11-23T03:59:29.526Z",
       "history": [
-        {
-          "v": "QO4jM2m6Z68",
-          "lag": 240
-        },
         {
           "v": "U0e7ha8IK4Q",
           "lag": 211
@@ -2045,11 +2040,14 @@
         {
           "v": "y3DJc15tzsQ",
           "lag": 210
+        },
+        {
+          "v": "w_s5SQWkn-4",
+          "lag": 210
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 225
+      "readyAfter": 215
     },
     "telemundo": {
       "latest": {
@@ -2061,8 +2059,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
-      "observedLocal": "22:59",
+      "checked": "2026-11-23T03:59:29.526Z",
+      "stale": true,
       "history": [
         {
           "v": "_QqQHH-6vBo",
@@ -2105,6 +2103,7 @@
           "lag": 269
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
@@ -2118,7 +2117,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-22T22:47:25.554Z",
+      "checked": "2026-11-23T03:59:29.526Z",
       "stale": true,
       "history": [
         {
