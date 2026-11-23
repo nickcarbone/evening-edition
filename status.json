@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T03:59:29.526Z",
-  "lastFull": "2026-11-23T03:59:29.526Z",
+  "generated": "2026-11-23T15:21:24.043Z",
+  "lastFull": "2026-11-23T15:21:24.043Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -8,12 +8,12 @@
         "videoId": "nRHZjAfzruk",
         "title": "JORNAL DA CULTURA | Lula fala sobre projeto fiscal e programas sociais | 21/11/2026",
         "published": "2026-11-21T23:55:13.000Z",
-        "duration": 3104,
+        "duration": 3006,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -126,7 +126,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [
         {
@@ -184,7 +184,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "stale": true,
       "history": [
         {
           "v": "Yz2uOZYiDms",
@@ -227,25 +228,22 @@
           "lag": 116
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 395
     },
     "tvb": {
       "latest": {
-        "videoId": "FdeLYFN1tg4",
-        "title": "無綫TVB六點半新聞報道｜中國石油天然氣集團副總經理謝軍涉嚴重違紀違法｜商務部批美方禁中國電訊商獲取美國電話號碼 惡意打壓華企於當地運營｜尖沙咀寶勒巷私家車剷上行人路釀一死三傷據悉被捕男子酒精測試超標",
-        "published": "2026-11-22T10:55:18.000Z",
-        "duration": 2420,
+        "videoId": "C_YjqxRfHkI",
+        "title": "無綫TVB六點半新聞報道｜海關檢約12萬件懷疑冒牌貨拘兩人｜漁護署引入AI監察系統及機械人打擊非法餵飼野鴿 強調鏡頭不設人臉識別｜聯合國氣候峰會未達成政治宣言 中方表示失望認為不應失去信心｜TVB",
+        "published": "2026-11-23T11:05:32.000Z",
+        "duration": 2747,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
-        {
-          "v": "B_veYO3e4NU",
-          "lag": 17
-        },
         {
           "v": "SfjR1gW-fqE",
           "lag": 66
@@ -281,28 +279,28 @@
         {
           "v": "FdeLYFN1tg4",
           "lag": 25
+        },
+        {
+          "v": "C_YjqxRfHkI",
+          "lag": 36
         }
       ],
       "delivery": "posted",
-      "readyAfter": 35
+      "readyAfter": 40
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "sWEjIfUvjIc",
-        "title": "TV Patrol Playback North America | November 22, 2026",
-        "published": "2026-11-23T01:30:07.000Z",
-        "duration": 2597,
+        "videoId": "yvDgcTofcLA",
+        "title": "TV Patrol Playback | November 23, 2026",
+        "published": "2026-11-23T12:30:08.000Z",
+        "duration": 3938,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "observedLocal": "09:30",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "observedLocal": "20:30",
       "history": [
-        {
-          "v": "cPEgnV3u-Fk",
-          "lag": -9
-        },
         {
           "v": "ohGPDaEVV-g",
           "lag": -8
@@ -338,10 +336,14 @@
         {
           "v": "sWEjIfUvjIc",
           "lag": null
+        },
+        {
+          "v": "yvDgcTofcLA",
+          "lag": 120
         }
       ],
-      "delivery": "live",
-      "readyAfter": 0
+      "delivery": "posted",
+      "readyAfter": 720
     },
     "cctv": {
       "latest": {
@@ -353,7 +355,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "HSlsiKHJkfk",
@@ -401,20 +403,16 @@
     },
     "pts": {
       "latest": {
-        "videoId": "8bqEl_DFatY",
-        "title": "20261122 公視晚間新聞 完整版（無網路版權內容除外）｜北市動物園展區疑遭丟抱枕 園方：黑熊精神及進食皆正常",
-        "published": "2026-11-22T11:55:41.000Z",
-        "duration": 1786,
+        "videoId": "i4Xmt1tEWlo",
+        "title": "20261123 公視晚間新聞 完整版（無網路版權內容除外）｜台股近5萬高點墜落1.4萬點 明起擔保維持率降至120%",
+        "published": "2026-11-23T12:16:07.000Z",
+        "duration": 3230,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
-        {
-          "v": "DZfsk5i4Uo4",
-          "lag": 96
-        },
         {
           "v": "D1ZIVfC7O_M",
           "lag": 51
@@ -450,6 +448,10 @@
         {
           "v": "8bqEl_DFatY",
           "lag": 56
+        },
+        {
+          "v": "i4Xmt1tEWlo",
+          "lag": 76
         }
       ],
       "delivery": "posted",
@@ -457,21 +459,17 @@
     },
     "thaipbs": {
       "latest": {
-        "videoId": "HPCIo3tLttQ",
-        "title": "ข่าวค่ำ | 22 พ.ย. 69",
-        "published": "2026-11-22T11:00:45.000Z",
-        "duration": 8005,
+        "videoId": "27aj8HNp_So",
+        "title": "ข่าวค่ำ | 23 พ.ย. 69",
+        "published": "2026-11-23T11:00:23.000Z",
+        "duration": 8924,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "18:00",
       "history": [
-        {
-          "v": "CjphuNsNCW4",
-          "lag": 2
-        },
         {
           "v": "9C80O5QxUmQ",
           "lag": 1
@@ -507,6 +505,10 @@
         {
           "v": "HPCIo3tLttQ",
           "lag": 1
+        },
+        {
+          "v": "27aj8HNp_So",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -514,21 +516,16 @@
     },
     "kbs": {
       "latest": {
-        "videoId": "qFEhWfryFxg",
-        "title": "[풀영상] 뉴스9 : 최교진 교육부 장관 사퇴…과거 수능 부정 추적 검토 - 2026년 11월 22일(일) / KBS",
-        "published": "2026-11-22T11:57:32.000Z",
-        "duration": 1271,
+        "videoId": "j2UI5BfKSBs",
+        "title": "[풀영상] 뉴스9 : 국정원장 후보자에 강금실 전 장관 등 외교안보 수장 전격 교체…한반도 정세 ‘새판 짜기’? – 2026년 11월 23일(월) / KBS",
+        "published": "2026-11-23T13:08:02.000Z",
+        "duration": 2900,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "stale": true,
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
-        {
-          "v": "OuLM2OoL5bc",
-          "lag": -2
-        },
         {
           "v": "i9icsWLq6MM",
           "lag": -2
@@ -564,29 +561,28 @@
         {
           "v": "qFEhWfryFxg",
           "lag": -2
+        },
+        {
+          "v": "j2UI5BfKSBs",
+          "lag": 68
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "tv3my": {
       "latest": {
-        "videoId": "wZ-6nEwshPc",
-        "title": "61 Peratus Rakyat Malaysia Tiada Simpanan Kecemasan RM1,000 | Buletin Utama, 22 November 2026",
-        "published": "2026-11-22T11:58:21.000Z",
-        "duration": 3600,
+        "videoId": "1x9SnsVJRCw",
+        "title": "Data Peribadi MySiren Selamat, Sistem Hanya Salur Amaran Bencana | Buletin Utama, 23 November 2026",
+        "published": "2026-11-23T11:56:50.000Z",
+        "duration": 3598,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "observedLocal": "19:58",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "observedLocal": "19:56",
       "history": [
-        {
-          "v": "vRlc8DZ9hus",
-          "lag": -2
-        },
         {
           "v": "5LZjQR8-ABY",
           "lag": -4
@@ -622,6 +618,10 @@
         {
           "v": "wZ-6nEwshPc",
           "lag": -2
+        },
+        {
+          "v": "1x9SnsVJRCw",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -629,20 +629,16 @@
     },
     "tolo": {
       "latest": {
-        "videoId": "PDsK1tXVRyg",
-        "title": "TOLOnews - 6pm News - 22 Nov 2026 | هیأتی به ریاست امیرخان متقی در نشست سران ایکو شرکت می‌کند",
-        "published": "2026-11-22T14:20:59.000Z",
-        "duration": 1080,
+        "videoId": "l6AsoyYBFgc",
+        "title": "TOLOnews - 6pm News - 23 Nov 2026 | مجاهد: واگذار نشدن کرسی سازمان ملل به امارت اسلامی ظلم است",
+        "published": "2026-11-23T14:23:43.000Z",
+        "duration": 1160,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
-        {
-          "v": "NWCCpo_4l78",
-          "lag": 56
-        },
         {
           "v": "box9oYn1RCE",
           "lag": 49
@@ -678,6 +674,10 @@
         {
           "v": "PDsK1tXVRyg",
           "lag": 51
+        },
+        {
+          "v": "l6AsoyYBFgc",
+          "lag": 54
         }
       ],
       "delivery": "posted",
@@ -685,21 +685,17 @@
     },
     "btv": {
       "latest": {
-        "videoId": "c6U8ILPWwec",
+        "videoId": "NGl3M1tE-PU",
         "title": "রাত ৮টার সংবাদ",
-        "published": "2026-11-22T13:59:30.000Z",
-        "duration": 1909,
+        "published": "2026-11-23T13:59:59.000Z",
+        "duration": 1613,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "19:59",
       "history": [
-        {
-          "v": "Yo5i-aYwRmo",
-          "lag": 0
-        },
         {
           "v": "cX31J_q4Mic",
           "lag": 0
@@ -735,6 +731,10 @@
         {
           "v": "c6U8ILPWwec",
           "lag": 0
+        },
+        {
+          "v": "NGl3M1tE-PU",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -750,7 +750,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "stale": true,
       "history": [
         {
           "v": "xJyZXx1bTWA",
@@ -793,6 +794,7 @@
           "lag": 81
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 90
     },
@@ -806,8 +808,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "observedLocal": "22:12",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "stale": true,
       "history": [
         {
           "v": "OzXX0vXAWQ0",
@@ -850,6 +852,7 @@
           "lag": 49
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -857,7 +860,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -871,7 +874,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [
         {
@@ -929,7 +932,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -986,7 +989,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "FpvN_ZL94uc",
@@ -1036,7 +1039,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -1050,7 +1053,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1107,7 +1110,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "90-gGzTcipY",
@@ -1163,7 +1166,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "Mw7yOk1BHlk",
@@ -1211,25 +1214,21 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "yZcQUM6penY",
-        "title": "Тревога в Калининграде: власти молчат. Атака хакеров ФСБ на Христо Грозева. Сериал про Меланию Трамп",
-        "published": "2026-11-22T14:59:40.000Z",
-        "duration": 3388,
+        "videoId": "0xwRk35Z98M",
+        "title": "Зеленский подтвердил удары по судам РФ. Срочное совещание НАТО. Ядерное оружие выведут в космос?",
+        "published": "2026-11-23T10:59:45.000Z",
+        "duration": 1515,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "IqhAvjuBwqY",
+        "title": "ВСУ потопили боевой корабль России. «Отравленные» купюры в Белгороде. Калининград готовят к блокаде",
+        "start": "2026-11-23T15:00:09Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "observedLocal": "15:59",
+      "checked": "2026-11-23T15:21:24.043Z",
+      "observedLocal": "11:59",
       "history": [
-        {
-          "v": "461bj5TCMi8",
-          "lag": 720
-        },
-        {
-          "v": "iweaiYQlII8",
-          "lag": 1259
-        },
         {
           "v": "Axy7REa6zfg",
           "lag": 720
@@ -1261,6 +1260,14 @@
         {
           "v": "yZcQUM6penY",
           "lag": null
+        },
+        {
+          "v": "IqhAvjuBwqY",
+          "lag": null
+        },
+        {
+          "v": "0xwRk35Z98M",
+          "lag": null
         }
       ],
       "delivery": "posted",
@@ -1276,7 +1283,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1327,7 +1334,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -1340,7 +1347,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1350,7 +1357,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -1364,7 +1371,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "UjVz2Gl67B4",
@@ -1419,9 +1426,13 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
-      "observedLocal": "19:57",
+      "upcoming": {
+        "videoId": "39rIoV_Z0XI",
+        "title": "Le journal de 20h de France Télévisions - 23 novembre 2026",
+        "scheduledStart": "2026-11-23T18:57:00Z"
+      },
+      "checked": "2026-11-23T15:21:24.043Z",
+      "stale": true,
       "history": [
         {
           "v": "3PpATAUAyNI",
@@ -1477,7 +1488,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "nd8Y1BETTmM",
@@ -1527,7 +1538,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -1535,7 +1546,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-23T03:59:29.526Z"
+        "checked": "2026-11-23T15:21:24.043Z"
       },
       "history": []
     },
@@ -1549,7 +1560,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -1606,7 +1617,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "CBVezUZGhf0",
@@ -1662,7 +1673,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1714,12 +1725,12 @@
         "videoId": "bhoHpwhahtE",
         "title": "News At 10",
         "published": "2026-11-22T21:00:17.000Z",
-        "duration": 3656,
+        "duration": 3153,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1776,7 +1787,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1833,7 +1844,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [
         {
@@ -1891,7 +1902,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "nvOuuuy9Y00",
@@ -1947,7 +1958,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "cOteXwTYbiQ",
@@ -2003,7 +2014,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "history": [
         {
           "v": "U0e7ha8IK4Q",
@@ -2058,8 +2069,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "upcoming": {
+        "videoId": "nUUa3pvB6Sk",
+        "title": "EN VIVO: Las noticias de la noche, lunes 23 de noviembre de 2026 | Noticias Telemundo",
+        "scheduledStart": "2026-11-24T04:00:00Z"
+      },
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [
         {
@@ -2103,7 +2118,6 @@
           "lag": 269
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
@@ -2117,7 +2131,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T03:59:29.526Z",
+      "checked": "2026-11-23T15:21:24.043Z",
       "stale": true,
       "history": [
         {
