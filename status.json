@@ -1,25 +1,21 @@
 {
-  "generated": "2026-11-23T15:21:24.043Z",
-  "lastFull": "2026-11-23T15:21:24.043Z",
+  "generated": "2026-11-24T02:34:23.139Z",
+  "lastFull": "2026-11-24T02:34:23.139Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "nRHZjAfzruk",
-        "title": "JORNAL DA CULTURA | Lula fala sobre projeto fiscal e programas sociais | 21/11/2026",
-        "published": "2026-11-21T23:55:13.000Z",
-        "duration": 3006,
+        "videoId": "XYiZOroRKhg",
+        "title": "JORNAL DA CULTURA | Jensen Huang reassume o cargo de CEO da Nvidia | 23/11/2026",
+        "published": "2026-11-23T23:55:11.000Z",
+        "duration": 3916,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "ubCq2fYJzFY",
-          "lag": -5
-        },
         {
           "v": "_k41OsDpKU0",
           "lag": -5
@@ -55,6 +51,10 @@
         {
           "v": "nRHZjAfzruk",
           "lag": 1435
+        },
+        {
+          "v": "XYiZOroRKhg",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -70,7 +70,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "stale": true,
       "history": [
         {
           "v": "pPqWNjZIvjA",
@@ -113,6 +114,7 @@
           "lag": 163
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
@@ -126,7 +128,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [
         {
@@ -184,7 +186,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [
         {
@@ -242,7 +244,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
         {
           "v": "SfjR1gW-fqE",
@@ -290,25 +292,21 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "yvDgcTofcLA",
-        "title": "TV Patrol Playback | November 23, 2026",
-        "published": "2026-11-23T12:30:08.000Z",
+        "videoId": "5NIJDmAPbko",
+        "title": "TV Patrol Playback North America | November 23, 2026",
+        "published": "2026-11-23T22:30:07.000Z",
         "duration": 3938,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "9SnGoRraMeE",
+        "title": "TV Patrol Playback North America | November 23, 2026",
+        "start": "2026-11-24T01:30:19Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "20:30",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "06:30",
       "history": [
-        {
-          "v": "ohGPDaEVV-g",
-          "lag": -8
-        },
-        {
-          "v": "N92TXyntaXI",
-          "lag": -11
-        },
         {
           "v": "qd7VzFgK8HA",
           "lag": -8
@@ -340,27 +338,31 @@
         {
           "v": "yvDgcTofcLA",
           "lag": 120
+        },
+        {
+          "v": "9SnGoRraMeE",
+          "lag": 900
+        },
+        {
+          "v": "5NIJDmAPbko",
+          "lag": 720
         }
       ],
       "delivery": "posted",
-      "readyAfter": 720
+      "readyAfter": 900
     },
     "cctv": {
       "latest": {
-        "videoId": "GrzCa6JiYzs",
-        "title": "【新思想引领新征程】帮扶不断线 幸福不掉队 | CCTV「新闻联播」20261122",
-        "published": "2026-11-23T03:15:46.000Z",
+        "videoId": "JTgNf-YlX84",
+        "title": "【新思想引领新征程】以人为本加快建设完整社区 | CCTV「新闻联播」20261123",
+        "published": "2026-11-24T02:25:29.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "HSlsiKHJkfk",
-          "lag": 947
-        },
         {
           "v": "zbkkedztskQ",
           "lag": 911
@@ -396,6 +398,10 @@
         {
           "v": "GrzCa6JiYzs",
           "lag": 976
+        },
+        {
+          "v": "JTgNf-YlX84",
+          "lag": 925
         }
       ],
       "delivery": "posted",
@@ -411,7 +417,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
         {
           "v": "D1ZIVfC7O_M",
@@ -462,12 +468,12 @@
         "videoId": "27aj8HNp_So",
         "title": "ข่าวค่ำ | 23 พ.ย. 69",
         "published": "2026-11-23T11:00:23.000Z",
-        "duration": 8924,
+        "duration": 8791,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -524,7 +530,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "stale": true,
       "history": [
         {
           "v": "i9icsWLq6MM",
@@ -567,6 +574,7 @@
           "lag": 68
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -580,7 +588,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -637,7 +645,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
         {
           "v": "box9oYn1RCE",
@@ -693,7 +701,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -742,21 +750,16 @@
     },
     "kz24": {
       "latest": {
-        "videoId": "nyU10odgsk8",
-        "title": "22 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
-        "published": "2026-11-22T15:20:33.000Z",
-        "duration": 1487,
+        "videoId": "O78MzTMiDek",
+        "title": "23 қараша 2026 жыл - 19:00 жаңалықтар топтамасы",
+        "published": "2026-11-23T15:45:49.000Z",
+        "duration": 2996,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "stale": true,
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "xJyZXx1bTWA",
-          "lag": 89
-        },
         {
           "v": "ixBBsFZeTO0",
           "lag": 85
@@ -792,29 +795,28 @@
         {
           "v": "nyU10odgsk8",
           "lag": 81
+        },
+        {
+          "v": "O78MzTMiDek",
+          "lag": 106
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
-      "readyAfter": 90
+      "readyAfter": 110
     },
     "geo": {
       "latest": {
-        "videoId": "8otiFfh_iso",
-        "title": "Debate Over the Creation of New Provinces Intensifies in Pak | Geo News 9PM Geo Bulletin 22 Nov 2026",
-        "published": "2026-11-22T17:12:29.000Z",
-        "duration": 687,
+        "videoId": "F6WYs1Itacc",
+        "title": "New Provinces, Political Tension, Latest Update !!! | 9PM Headlines Geo News",
+        "published": "2026-11-23T17:09:58.000Z",
+        "duration": 1718,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "stale": true,
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "22:09",
       "history": [
-        {
-          "v": "OzXX0vXAWQ0",
-          "lag": 54
-        },
         {
           "v": "kve4SgRfbUE",
           "lag": 48
@@ -850,9 +852,12 @@
         {
           "v": "mpwG_OCD7q0",
           "lag": 49
+        },
+        {
+          "v": "F6WYs1Itacc",
+          "lag": 70
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -860,7 +865,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
@@ -874,7 +879,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [
         {
@@ -924,21 +929,17 @@
     },
     "tvr": {
       "latest": {
-        "videoId": "NTzcZIZhAWE",
-        "title": "TeleJURNAL 19: Prețurile carburanților au scăzut în România de la începutul lunii noiembrie",
-        "published": "2026-11-22T16:59:18.000Z",
-        "duration": 2210,
+        "videoId": "04Izimd50As",
+        "title": "Telejurnal 19  - ediția din 23 noiembrie 2026",
+        "published": "2026-11-23T16:59:44.000Z",
+        "duration": 2177,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "18:59",
       "history": [
-        {
-          "v": "oi4p895v6zo",
-          "lag": -1
-        },
         {
           "v": "VwQ0MyUJa8U",
           "lag": -1
@@ -974,6 +975,10 @@
         {
           "v": "NTzcZIZhAWE",
           "lag": -1
+        },
+        {
+          "v": "04Izimd50As",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -981,20 +986,16 @@
     },
     "novas": {
       "latest": {
-        "videoId": "LU0OdqU2PXI",
-        "title": "DNEVNIK - CELA EMISIJA - 22.11.2026.",
-        "published": "2026-11-22T20:44:37.000Z",
-        "duration": 2775,
+        "videoId": "dBJAYugVjW4",
+        "title": "DNEVNIK - CELA EMISIJA - 23.11.2026.",
+        "published": "2026-11-23T20:31:44.000Z",
+        "duration": 2372,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "FpvN_ZL94uc",
-          "lag": 170
-        },
         {
           "v": "YQMWl_IZ7Jo",
           "lag": 183
@@ -1030,6 +1031,10 @@
         {
           "v": "LU0OdqU2PXI",
           "lag": 195
+        },
+        {
+          "v": "dBJAYugVjW4",
+          "lag": 182
         }
       ],
       "delivery": "posted",
@@ -1037,29 +1042,25 @@
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
     "ebc": {
       "latest": {
-        "videoId": "uwz7u9xyByU",
-        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ... ኅዳር 13/2019 ዓ.ም  ETV | EBC | EBCDOTSTREAM",
-        "published": "2026-11-22T16:59:33.000Z",
-        "duration": 2231,
+        "videoId": "AjIPACl_OuY",
+        "title": "የምሽት 2 ሰዓት አማርኛ ዜና ... ኅዳር 14/2019 ዓ.ም |  ETV | EBC | EBCDOTSTREAM",
+        "published": "2026-11-23T17:01:24.000Z",
+        "duration": 4177,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "19:59",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "20:01",
       "history": [
-        {
-          "v": "aamZVQyg_Ac",
-          "lag": 0
-        },
         {
           "v": "CPVds-aV9FY",
           "lag": 0
@@ -1095,6 +1096,10 @@
         {
           "v": "uwz7u9xyByU",
           "lag": 0
+        },
+        {
+          "v": "AjIPACl_OuY",
+          "lag": 1
         }
       ],
       "delivery": "live",
@@ -1102,20 +1107,16 @@
     },
     "sabc1": {
       "latest": {
-        "videoId": "0yqFh2CVkZw",
-        "title": "Iindaba zesiXhosa @19H00 | 22 November 2026",
-        "published": "2026-11-22T18:10:10.000Z",
-        "duration": 1207,
+        "videoId": "QySKklnjsYI",
+        "title": "Izindaba zesiZulu @19H00 l 23 November 2026",
+        "published": "2026-11-23T17:50:47.000Z",
+        "duration": 1352,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "90-gGzTcipY",
-          "lag": 52
-        },
         {
           "v": "Qox2wl2R7JM",
           "lag": 48
@@ -1151,6 +1152,10 @@
         {
           "v": "0yqFh2CVkZw",
           "lag": 70
+        },
+        {
+          "v": "QySKklnjsYI",
+          "lag": 51
         }
       ],
       "delivery": "posted",
@@ -1158,20 +1163,16 @@
     },
     "hrt": {
       "latest": {
-        "videoId": "qsp_uRObMiw",
-        "title": "Dnevnik, 22. 11. 2026.",
-        "published": "2026-11-22T19:31:09.000Z",
-        "duration": 3154,
+        "videoId": "ViDEK0XbimY",
+        "title": "Dnevnik, 23. 11. 2026.",
+        "published": "2026-11-23T20:07:48.000Z",
+        "duration": 3066,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "Mw7yOk1BHlk",
-          "lag": 115
-        },
         {
           "v": "TwPa3NXggVo",
           "lag": 92
@@ -1207,6 +1208,10 @@
         {
           "v": "qsp_uRObMiw",
           "lag": 91
+        },
+        {
+          "v": "ViDEK0XbimY",
+          "lag": 128
         }
       ],
       "delivery": "posted",
@@ -1214,20 +1219,20 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "0xwRk35Z98M",
-        "title": "Зеленский подтвердил удары по судам РФ. Срочное совещание НАТО. Ядерное оружие выведут в космос?",
-        "published": "2026-11-23T10:59:45.000Z",
-        "duration": 1515,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "IqhAvjuBwqY",
         "title": "ВСУ потопили боевой корабль России. «Отравленные» купюры в Белгороде. Калининград готовят к блокаде",
-        "start": "2026-11-23T15:00:09Z"
+        "published": "2026-11-23T15:00:09.000Z",
+        "duration": 4531,
+        "embeddable": true
       },
-      "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "11:59",
+      "live": null,
+      "upcoming": {
+        "videoId": "IZioQzDe_ew",
+        "title": "Утро на Дожде с Сергеем Кривохарченко в 9.00 мск",
+        "scheduledStart": "2026-11-24T06:00:00Z"
+      },
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "16:00",
       "history": [
         {
           "v": "Axy7REa6zfg",
@@ -1283,7 +1288,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1334,7 +1339,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
@@ -1347,7 +1352,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1357,26 +1362,22 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
     "tagesschau": {
       "latest": {
-        "videoId": "oFyHoBdpYj8",
-        "title": "tagesschau 20:00 Uhr, 22.11.2026",
-        "published": "2026-11-22T20:03:31.000Z",
-        "duration": 945,
+        "videoId": "vWf_o5t8Vgw",
+        "title": "tagesschau 20:00 Uhr, 23.11.2026",
+        "published": "2026-11-23T19:45:46.000Z",
+        "duration": 998,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "UjVz2Gl67B4",
-          "lag": 38
-        },
         {
           "v": "N_vxQl7lFRA",
           "lag": 33
@@ -1412,32 +1413,28 @@
         {
           "v": "oFyHoBdpYj8",
           "lag": 64
+        },
+        {
+          "v": "vWf_o5t8Vgw",
+          "lag": 46
         }
       ],
       "delivery": "posted",
-      "readyAfter": 40
+      "readyAfter": 50
     },
     "france2": {
       "latest": {
-        "videoId": "x84YAkBaOos",
-        "title": "Le journal de 20h de France Télévisions - 22 novembre 2026",
-        "published": "2026-11-22T18:57:22.000Z",
-        "duration": 4668,
+        "videoId": "39rIoV_Z0XI",
+        "title": "Le journal de 20h de France Télévisions - 23 novembre 2026",
+        "published": "2026-11-23T18:57:21.000Z",
+        "duration": 2682,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "39rIoV_Z0XI",
-        "title": "Le journal de 20h de France Télévisions - 23 novembre 2026",
-        "scheduledStart": "2026-11-23T18:57:00Z"
-      },
-      "checked": "2026-11-23T15:21:24.043Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "19:57",
       "history": [
-        {
-          "v": "3PpATAUAyNI",
-          "lag": -3
-        },
         {
           "v": "1_fSGpfcUN0",
           "lag": -3
@@ -1473,6 +1470,10 @@
         {
           "v": "x84YAkBaOos",
           "lag": -3
+        },
+        {
+          "v": "39rIoV_Z0XI",
+          "lag": -3
         }
       ],
       "delivery": "live",
@@ -1480,20 +1481,16 @@
     },
     "la7": {
       "latest": {
-        "videoId": "jh6YIpVavjs",
-        "title": "Edizione delle ore 20.00 del 22/11/2026",
-        "published": "2026-11-22T20:06:13.000Z",
-        "duration": 1914,
+        "videoId": "HqXCua-S00Q",
+        "title": "Edizione delle ore 20.00 del 23/11/2026",
+        "published": "2026-11-23T20:08:51.000Z",
+        "duration": 2002,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "nd8Y1BETTmM",
-          "lag": 65
-        },
         {
           "v": "WcwJ2yXf0tI",
           "lag": 772
@@ -1529,6 +1526,10 @@
         {
           "v": "jh6YIpVavjs",
           "lag": 66
+        },
+        {
+          "v": "HqXCua-S00Q",
+          "lag": 69
         }
       ],
       "delivery": "posted",
@@ -1538,7 +1539,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
@@ -1546,27 +1547,23 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-23T15:21:24.043Z"
+        "checked": "2026-11-24T02:34:23.139Z"
       },
       "history": []
     },
     "tv3gh": {
       "latest": {
-        "videoId": "3t-YRbRZ8xY",
-        "title": "LIVE: News 360 || 22-11-2026",
-        "published": "2026-11-22T18:59:58.000Z",
-        "duration": 3505,
+        "videoId": "TRc9nAkL4iA",
+        "title": "LIVE: News 360 || 23-11-2026",
+        "published": "2026-11-23T19:01:44.000Z",
+        "duration": 3584,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "18:59",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "19:01",
       "history": [
-        {
-          "v": "qfykxH6tsNk",
-          "lag": 7
-        },
         {
           "v": "4GOOVYtSyXI",
           "lag": 3
@@ -1602,6 +1599,10 @@
         {
           "v": "3t-YRbRZ8xY",
           "lag": 0
+        },
+        {
+          "v": "TRc9nAkL4iA",
+          "lag": 2
         }
       ],
       "delivery": "live",
@@ -1609,20 +1610,16 @@
     },
     "rti": {
       "latest": {
-        "videoId": "Ofu8wn9o4JY",
-        "title": "Le 20 Heures de RTI 1 du 22 novembre 2026 par Hermann Guivé",
-        "published": "2026-11-22T21:48:13.000Z",
-        "duration": 1811,
+        "videoId": "_LBfm6vs5I0",
+        "title": "Le 20 Heures de RTI 1 du 23 novembre 2026 par Fatou Fofana",
+        "published": "2026-11-23T21:19:40.000Z",
+        "duration": 1780,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "CBVezUZGhf0",
-          "lag": 88
-        },
         {
           "v": "l8SM4ZUCAuk",
           "lag": 91
@@ -1658,6 +1655,10 @@
         {
           "v": "Ofu8wn9o4JY",
           "lag": 108
+        },
+        {
+          "v": "_LBfm6vs5I0",
+          "lag": 80
         }
       ],
       "delivery": "posted",
@@ -1665,21 +1666,17 @@
     },
     "rtssn": {
       "latest": {
-        "videoId": "d1QimssCmP8",
-        "title": "LE JOURNAL TELEVISE DE 20H - DIMANCHE 22 NOVEMBRE 2026",
-        "published": "2026-11-22T20:00:20.000Z",
-        "duration": 2476,
+        "videoId": "_1wlCeJ3Vow",
+        "title": "LE JOURNAL TELEVISE DE 20H - LUNDI 23 NOVEMBRE 2026",
+        "published": "2026-11-23T19:59:43.000Z",
+        "duration": 2641,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "20:00",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "19:59",
       "history": [
-        {
-          "v": "8ddy8-1mFes",
-          "lag": 0
-        },
         {
           "v": "PK58tHJhMJk",
           "lag": 0
@@ -1715,6 +1712,10 @@
         {
           "v": "d1QimssCmP8",
           "lag": 0
+        },
+        {
+          "v": "_1wlCeJ3Vow",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1722,21 +1723,17 @@
     },
     "channels": {
       "latest": {
-        "videoId": "bhoHpwhahtE",
+        "videoId": "A3UNZy2incQ",
         "title": "News At 10",
-        "published": "2026-11-22T21:00:17.000Z",
-        "duration": 3153,
+        "published": "2026-11-23T20:59:26.000Z",
+        "duration": 3731,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "observedLocal": "22:00",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "21:59",
       "history": [
-        {
-          "v": "ETzwSlLH5qc",
-          "lag": 0
-        },
         {
           "v": "68P-1E4xqw4",
           "lag": 0
@@ -1772,6 +1769,10 @@
         {
           "v": "bhoHpwhahtE",
           "lag": 0
+        },
+        {
+          "v": "A3UNZy2incQ",
+          "lag": -1
         }
       ],
       "delivery": "live",
@@ -1786,8 +1787,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "upcoming": {
+        "videoId": "Y64TVJdG8i8",
+        "title": "Global National: Nov. 23, 2026 | Jensen Huang returns as Nvidia CEO after pressure from Trump",
+        "scheduledStart": "2026-11-24T03:00:00Z"
+      },
+      "checked": "2026-11-24T02:34:23.139Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1836,21 +1841,17 @@
     },
     "rcan": {
       "latest": {
-        "videoId": "vfC8Im01R_M",
-        "title": "LSQ - Le téléjournal 18 h du jeudi 19 novembre 2026",
-        "published": "2026-11-19T22:31:25.000Z",
-        "duration": 3471,
+        "videoId": "0GRblzx0fYM",
+        "title": "LSQ - Le téléjournal 18 h du lundi 23 novembre 2026",
+        "published": "2026-11-23T22:48:14.000Z",
+        "duration": 2415,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
-      "stale": true,
+      "checked": "2026-11-24T02:34:23.139Z",
+      "observedLocal": "17:48",
       "history": [
-        {
-          "v": "y55dWlr7gNs",
-          "lag": -14
-        },
         {
           "v": "nK5lEyRC0iQ",
           "lag": -23
@@ -1886,28 +1887,27 @@
         {
           "v": "vfC8Im01R_M",
           "lag": -29
+        },
+        {
+          "v": "0GRblzx0fYM",
+          "lag": -12
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "pbs": {
       "latest": {
-        "videoId": "bcxbRdcUeFo",
-        "title": "PBS News Hour full episode, Nov. 20, 2026",
-        "published": "2026-11-21T00:19:22.000Z",
+        "videoId": "hzxVR4_4VRU",
+        "title": "PBS News Hour full episode, Nov. 23, 2026",
+        "published": "2026-11-24T00:18:40.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "history": [
-        {
-          "v": "nvOuuuy9Y00",
-          "lag": 83
-        },
         {
           "v": "Rh1tKGIswZA",
           "lag": 78
@@ -1943,6 +1943,10 @@
         {
           "v": "bcxbRdcUeFo",
           "lag": 79
+        },
+        {
+          "v": "hzxVR4_4VRU",
+          "lag": 79
         }
       ],
       "delivery": "posted",
@@ -1958,7 +1962,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "stale": true,
       "history": [
         {
           "v": "cOteXwTYbiQ",
@@ -2001,6 +2006,7 @@
           "lag": 68
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
@@ -2014,7 +2020,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
+      "stale": true,
       "history": [
         {
           "v": "U0e7ha8IK4Q",
@@ -2057,6 +2064,7 @@
           "lag": 210
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
@@ -2069,12 +2077,8 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "nUUa3pvB6Sk",
-        "title": "EN VIVO: Las noticias de la noche, lunes 23 de noviembre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-11-24T04:00:00Z"
-      },
-      "checked": "2026-11-23T15:21:24.043Z",
+      "upcoming": null,
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [
         {
@@ -2118,6 +2122,7 @@
           "lag": 269
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
@@ -2131,7 +2136,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-23T15:21:24.043Z",
+      "checked": "2026-11-24T02:34:23.139Z",
       "stale": true,
       "history": [
         {
