@@ -1,29 +1,21 @@
 {
-  "generated": "2026-11-24T23:15:44.185Z",
-  "lastFull": "2026-11-24T23:15:44.185Z",
+  "generated": "2026-11-25T05:39:55.768Z",
+  "lastFull": "2026-11-25T05:39:55.768Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "XYiZOroRKhg",
-        "title": "JORNAL DA CULTURA | Jensen Huang reassume o cargo de CEO da Nvidia | 23/11/2026",
-        "published": "2026-11-23T23:55:11.000Z",
-        "duration": 3131,
+        "videoId": "DQzNaZ13fpg",
+        "title": "JORNAL DA CULTURA | Governo estuda nova proposta para melhorar as contas públicas | 24/11/2026",
+        "published": "2026-11-24T23:55:11.000Z",
+        "duration": 3924,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "DQzNaZ13fpg",
-        "title": "JORNAL DA CULTURA | 24/11/2026",
-        "scheduledStart": "2026-11-25T00:00:00Z"
-      },
-      "checked": "2026-11-24T23:15:44.185Z",
+      "upcoming": null,
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "_k41OsDpKU0",
-          "lag": -5
-        },
         {
           "v": "xmuLQyk2lbs",
           "lag": -1
@@ -59,6 +51,10 @@
         {
           "v": "XYiZOroRKhg",
           "lag": -5
+        },
+        {
+          "v": "DQzNaZ13fpg",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "stale": true,
       "history": [
         {
@@ -118,27 +114,22 @@
           "lag": 163
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "l3yn2aUm3Y0",
-        "title": "EN VIVO: ‘El Chapo Isidro’ será extraditado a Estados unidos | En Punto - 23 de Noviembre 2026",
-        "published": "2026-11-24T04:28:28.000Z",
-        "duration": 2220,
+        "videoId": "iFQSGbrWkhg",
+        "title": "EN VIVO: Crisis de rehenes en un supermercado de Colombia | En Punto - 24 de Noviembre 2026",
+        "published": "2026-11-25T04:28:48.000Z",
+        "duration": 2233,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "stale": true,
+      "checked": "2026-11-25T05:39:55.768Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "4tr2tIHOpGY",
-          "lag": -1
-        },
         {
           "v": "oAxA3xYkfnM",
           "lag": -1
@@ -174,9 +165,12 @@
         {
           "v": "l3yn2aUm3Y0",
           "lag": -2
+        },
+        {
+          "v": "iFQSGbrWkhg",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -190,7 +184,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
+      "stale": true,
       "history": [
         {
           "v": "XT0-nLjapqU",
@@ -233,6 +228,7 @@
           "lag": 177
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 395
     },
@@ -246,7 +242,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "mpQXq8XUnZE",
@@ -294,25 +290,17 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "vb64jvgovT0",
-        "title": "TV Patrol Playback | November 24, 2026",
-        "published": "2026-11-24T12:30:10.000Z",
+        "videoId": "dsPagG60L9M",
+        "title": "TV Patrol Playback North America | November 24, 2026",
+        "published": "2026-11-25T01:30:08.000Z",
         "duration": 3934,
         "embeddable": true
       },
-      "live": {
-        "videoId": "LEpTtJQpQBc",
-        "title": "TV Patrol Playback North America | November 24, 2026",
-        "start": "2026-11-24T22:30:09Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "observedLocal": "20:30",
+      "checked": "2026-11-25T05:39:55.768Z",
+      "observedLocal": "09:30",
       "history": [
-        {
-          "v": "k-0_EY0jA8Q",
-          "lag": 900
-        },
         {
           "v": "oL3jCij8Epg",
           "lag": null
@@ -348,6 +336,10 @@
         {
           "v": "LEpTtJQpQBc",
           "lag": 720
+        },
+        {
+          "v": "dsPagG60L9M",
+          "lag": 900
         }
       ],
       "delivery": "posted",
@@ -355,20 +347,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "GrzCa6JiYzs",
-        "title": "【新思想引领新征程】帮扶不断线 幸福不掉队 | CCTV「新闻联播」20261122",
-        "published": "2026-11-23T03:15:46.000Z",
+        "videoId": "wmgc-9ezUG0",
+        "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电 | CCTV「新闻联播」20261124",
+        "published": "2026-11-25T02:57:53.000Z",
         "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
-        {
-          "v": "zbkkedztskQ",
-          "lag": 911
-        },
         {
           "v": "qjeHxCCJVXg",
           "lag": 1219
@@ -404,6 +392,10 @@
         {
           "v": "JTgNf-YlX84",
           "lag": 925
+        },
+        {
+          "v": "wmgc-9ezUG0",
+          "lag": 958
         }
       ],
       "delivery": "posted",
@@ -414,12 +406,12 @@
         "videoId": "W7ZLFlKPuNU",
         "title": "20261124 公視晚間新聞 完整版（無網路版權內容除外）｜黃仁勳閃電回鍋輝達執行長 川普高調介入企業決策惹議",
         "published": "2026-11-24T13:34:37.000Z",
-        "duration": 3303,
+        "duration": 3179,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "DT9g_RrwA4k",
@@ -475,7 +467,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -532,8 +524,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-25T05:39:55.768Z",
+      "stale": true,
       "history": [
         {
           "v": "4W5V5S24BNo",
@@ -576,6 +568,7 @@
           "lag": -3
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -589,7 +582,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -646,7 +639,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "CXYadJogIQU",
@@ -702,7 +695,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -759,7 +752,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "stale": true,
       "history": [
         {
@@ -817,8 +810,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "observedLocal": "21:59",
+      "checked": "2026-11-25T05:39:55.768Z",
+      "stale": true,
       "history": [
         {
           "v": "55JnQxbl2yk",
@@ -861,6 +854,7 @@
           "lag": 60
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 85
     },
@@ -868,7 +862,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -882,7 +876,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "stale": true,
       "history": [
         {
@@ -940,7 +934,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -997,7 +991,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "OMHFKNdeYls",
@@ -1045,9 +1039,9 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -1061,7 +1055,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1118,7 +1112,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "J8mOWEpTMTI",
@@ -1174,7 +1168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "IoQe_CUR84E",
@@ -1229,8 +1223,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "upcoming": {
+        "videoId": "id0-affYUjU",
+        "title": "Крупнейшая атака на Самару: горят два НПЗ. Детали из ЕС в российских дронах. Сокурова убрали из СПЧ",
+        "scheduledStart": "2026-11-25T06:00:00Z"
+      },
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "16:53",
       "history": [
         {
@@ -1287,7 +1285,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1338,7 +1336,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -1351,7 +1349,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1361,7 +1359,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -1375,7 +1373,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "FyyHqnQzqkA",
@@ -1431,7 +1429,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1488,7 +1486,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "jVPdxOEuo7M",
@@ -1538,7 +1536,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -1546,7 +1544,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-24T23:15:44.185Z"
+        "checked": "2026-11-25T05:39:55.768Z"
       },
       "history": []
     },
@@ -1560,7 +1558,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1617,7 +1615,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
         {
           "v": "aw__esFGNYc",
@@ -1673,7 +1671,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -1723,14 +1721,14 @@
     "channels": {
       "latest": {
         "videoId": "29hCM8fXmTE",
-        "title": "News At 10",
+        "title": "News At 10 | 24/11/2026",
         "published": "2026-11-24T20:59:46.000Z",
         "duration": 3795,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "21:59",
       "history": [
         {
@@ -1779,21 +1777,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "Y64TVJdG8i8",
-        "title": "Global National: Nov. 23, 2026 | Jensen Huang returns as Nvidia CEO after pressure from Trump",
-        "published": "2026-11-24T03:00:08.000Z",
-        "duration": 1328,
+        "videoId": "H3SyeIES6rE",
+        "title": "Global National: Nov. 24, 2026 | Canada pushes back at US claims of defence spending \"shortfalls\"",
+        "published": "2026-11-25T03:00:07.000Z",
+        "duration": 1291,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "8U6tjWJnJy8",
-          "lag": 270
-        },
         {
           "v": "Rq_ncxnzpvc",
           "lag": 270
@@ -1829,6 +1823,10 @@
         {
           "v": "Y64TVJdG8i8",
           "lag": 270
+        },
+        {
+          "v": "H3SyeIES6rE",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1836,20 +1834,16 @@
     },
     "rcan": {
       "latest": {
-        "videoId": "0GRblzx0fYM",
-        "title": "LSQ - Le téléjournal 18 h du lundi 23 novembre 2026",
-        "published": "2026-11-23T22:48:14.000Z",
-        "duration": 2415,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "pmJ8zRcs1Yc",
         "title": "LSQ - Le téléjournal 18 h du mardi 24 novembre 2026",
-        "start": "2026-11-24T22:32:51Z"
+        "published": "2026-11-24T22:32:51.000Z",
+        "duration": 3211,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "observedLocal": "17:48",
+      "checked": "2026-11-25T05:39:55.768Z",
+      "observedLocal": "17:32",
       "history": [
         {
           "v": "_2KKoimaDK8",
@@ -1897,20 +1891,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "hzxVR4_4VRU",
-        "title": "PBS News Hour full episode, Nov. 23, 2026",
-        "published": "2026-11-24T00:18:40.000Z",
+        "videoId": "D4h35g_yrKk",
+        "title": "PBS News Hour full episode, Nov. 24, 2026",
+        "published": "2026-11-25T00:16:52.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
-        {
-          "v": "Rh1tKGIswZA",
-          "lag": 78
-        },
         {
           "v": "arz_Kb2y6XQ",
           "lag": 91
@@ -1946,6 +1936,10 @@
         {
           "v": "hzxVR4_4VRU",
           "lag": 79
+        },
+        {
+          "v": "D4h35g_yrKk",
+          "lag": 77
         }
       ],
       "delivery": "posted",
@@ -1953,20 +1947,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "KvzQzXk93nE",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 23",
-        "published": "2026-11-24T02:52:59.000Z",
-        "duration": 1284,
+        "videoId": "B2au-nv6dUU",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 24",
+        "published": "2026-11-25T02:53:41.000Z",
+        "duration": 1235,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
-        {
-          "v": "8ZPyK75QnAc",
-          "lag": 75
-        },
         {
           "v": "y9IdkZaATJA",
           "lag": 202
@@ -2002,6 +1992,10 @@
         {
           "v": "KvzQzXk93nE",
           "lag": 203
+        },
+        {
+          "v": "B2au-nv6dUU",
+          "lag": 204
         }
       ],
       "delivery": "posted",
@@ -2009,21 +2003,16 @@
     },
     "abc": {
       "latest": {
-        "videoId": "ANPuakXZWjs",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 23, 2026",
-        "published": "2026-11-24T03:00:08.000Z",
-        "duration": 1219,
+        "videoId": "SOlCaAMBiXo",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 24, 2026",
+        "published": "2026-11-25T02:30:27.000Z",
+        "duration": 1307,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "stale": true,
+      "checked": "2026-11-25T05:39:55.768Z",
       "history": [
-        {
-          "v": "huwav_Qd7vs",
-          "lag": 225
-        },
         {
           "v": "AgXw1ytERck",
           "lag": 210
@@ -2059,29 +2048,28 @@
         {
           "v": "ANPuakXZWjs",
           "lag": 210
+        },
+        {
+          "v": "SOlCaAMBiXo",
+          "lag": 180
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
     "telemundo": {
       "latest": {
-        "videoId": "nUUa3pvB6Sk",
-        "title": "Las noticias de la noche, lunes 23 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-24T03:59:14.000Z",
-        "duration": 1556,
+        "videoId": "ismwj5tEw_E",
+        "title": "Las noticias de la noche, martes 24 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-25T03:59:15.000Z",
+        "duration": 1555,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "stale": true,
+      "checked": "2026-11-25T05:39:55.768Z",
+      "observedLocal": "22:59",
       "history": [
-        {
-          "v": "UE3uuCu9Py8",
-          "lag": 29
-        },
         {
           "v": "zQiypb3m2CQ",
           "lag": 29
@@ -2117,28 +2105,31 @@
         {
           "v": "nUUa3pvB6Sk",
           "lag": 269
+        },
+        {
+          "v": "ismwj5tEw_E",
+          "lag": 269
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
     "telenoche": {
       "latest": {
-        "videoId": "POOPEdeUmhA",
-        "title": "¡SANTA FE BAJO EL AGUA! El río no baja y hay más de 200 familias evacuadas | TELENOCHE DEL 19/11/26",
-        "published": "2026-11-19T22:59:46.000Z",
-        "duration": 3089,
+        "videoId": "Sf6VFHH7Yt8",
+        "title": "El papa Francisco contó que vio al diablo: las revelaciones de sus diarios | TELENOCHE DEL 24/11/26",
+        "published": "2026-11-24T22:59:08.000Z",
+        "duration": 3938,
         "embeddable": true
       },
-      "live": {
-        "videoId": "Sf6VFHH7Yt8",
+      "live": null,
+      "upcoming": {
+        "videoId": "Yy_69k5cyHI",
         "title": "TELENOCHE ¡EN VIVO!",
-        "start": "2026-11-24T22:59:08Z"
+        "scheduledStart": "2026-11-25T23:00:00Z"
       },
-      "upcoming": null,
-      "checked": "2026-11-24T23:15:44.185Z",
-      "stale": true,
+      "checked": "2026-11-25T05:39:55.768Z",
+      "observedLocal": "19:59",
       "history": [
         {
           "v": "2HI-C8tYMY8",
