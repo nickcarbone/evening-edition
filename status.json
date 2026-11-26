@@ -1,23 +1,19 @@
 {
-  "generated": "2026-11-26T00:40:03.345Z",
-  "lastFull": "2026-11-26T00:40:03.345Z",
+  "generated": "2026-11-26T08:54:50.468Z",
+  "lastFull": "2026-11-26T08:54:50.468Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "DQzNaZ13fpg",
-        "title": "JORNAL DA CULTURA | Governo estuda nova proposta para melhorar as contas públicas | 24/11/2026",
-        "published": "2026-11-24T23:55:11.000Z",
-        "duration": 3166,
+        "videoId": "fF1UrVvJDwA",
+        "title": "JORNAL DA CULTURA | Lula discute com equipe mais uma etapa do ajuste fiscal | 25/11/2026",
+        "published": "2026-11-25T23:55:11.000Z",
+        "duration": 4025,
         "embeddable": true
       },
-      "live": {
-        "videoId": "fF1UrVvJDwA",
-        "title": "JORNAL DA CULTURA | 25/11/2026",
-        "start": "2026-11-25T23:55:11Z"
-      },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -74,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -118,27 +114,22 @@
           "lag": 163
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "iFQSGbrWkhg",
-        "title": "EN VIVO: Crisis de rehenes en un supermercado de Colombia | En Punto - 24 de Noviembre 2026",
-        "published": "2026-11-25T04:28:48.000Z",
-        "duration": 2233,
+        "videoId": "QsikOs7euy4",
+        "title": "EN VIVO: Estados Unidos exonera a México de aranceles | En Punto - 25 de Noviembre 2026",
+        "published": "2026-11-26T04:28:36.000Z",
+        "duration": 2168,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "stale": true,
+      "checked": "2026-11-26T08:54:50.468Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "oAxA3xYkfnM",
-          "lag": -1
-        },
         {
           "v": "4WgCyxZcCrw",
           "lag": -1
@@ -174,9 +165,12 @@
         {
           "v": "iFQSGbrWkhg",
           "lag": -1
+        },
+        {
+          "v": "QsikOs7euy4",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -190,7 +184,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -248,7 +242,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "8rb2xFx9eEk",
@@ -296,21 +290,17 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "AEtpQwkMZPU",
+        "videoId": "bAvt88DTbXI",
         "title": "TV Patrol Playback North America | November 25, 2026",
-        "published": "2026-11-25T22:30:08.000Z",
+        "published": "2026-11-26T01:30:07.000Z",
         "duration": 3496,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "observedLocal": "06:30",
+      "checked": "2026-11-26T08:54:50.468Z",
+      "observedLocal": "09:30",
       "history": [
-        {
-          "v": "sWEjIfUvjIc",
-          "lag": null
-        },
         {
           "v": "yvDgcTofcLA",
           "lag": 120
@@ -346,27 +336,27 @@
         {
           "v": "AEtpQwkMZPU",
           "lag": 720
+        },
+        {
+          "v": "bAvt88DTbXI",
+          "lag": 900
         }
       ],
       "delivery": "posted",
-      "readyAfter": 720
+      "readyAfter": 900
     },
     "cctv": {
       "latest": {
-        "videoId": "wmgc-9ezUG0",
-        "title": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电 | CCTV「新闻联播」20261124",
-        "published": "2026-11-25T02:57:53.000Z",
-        "duration": 1800,
+        "videoId": "bJfPld759Ac",
+        "title": "习近平对党内法规工作作出重要指示 | CCTV「新闻联播」20261125",
+        "published": "2026-11-26T02:52:10.000Z",
+        "duration": 1798,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
-        {
-          "v": "qjeHxCCJVXg",
-          "lag": 1219
-        },
         {
           "v": "dmji1VJG3YQ",
           "lag": 935
@@ -402,10 +392,14 @@
         {
           "v": "wmgc-9ezUG0",
           "lag": 958
+        },
+        {
+          "v": "bJfPld759Ac",
+          "lag": 952
         }
       ],
       "delivery": "posted",
-      "readyAfter": 980
+      "readyAfter": 960
     },
     "pts": {
       "latest": {
@@ -417,7 +411,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "A8NV0SCI_go",
@@ -473,7 +467,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "18:44",
       "history": [
         {
@@ -530,8 +524,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-26T08:54:50.468Z",
+      "stale": true,
       "history": [
         {
           "v": "d7v7pK6amt0",
@@ -574,6 +568,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -587,7 +582,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -644,7 +639,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "qzTvXNHbfTk",
@@ -700,7 +695,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -757,7 +752,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
+      "stale": true,
       "history": [
         {
           "v": "UcEkrFKqvk8",
@@ -800,6 +796,7 @@
           "lag": 115
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -813,7 +810,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -865,7 +862,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -879,7 +876,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -937,7 +934,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -994,7 +991,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "01NYsszq0y0",
@@ -1044,7 +1041,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -1058,7 +1055,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -1115,7 +1112,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "bWSsKAPC-O0",
@@ -1171,7 +1168,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "uqyKvPKzTcU",
@@ -1219,25 +1216,17 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "_AArmqAeJ4I",
-        "title": "Чубайс хвалит Набиуллину и Путина. Повстанцы подорвали базу ГРУ. Кадыров — о завершении войны",
-        "published": "2026-11-25T15:00:10.000Z",
-        "duration": 3908,
+        "videoId": "tyiSQVvNh0s",
+        "title": "В Госдуме ответили Чубайсу. ИИ-устройство от «Яндекса» пишет разговоры. Путин встретился с Токаевым",
+        "published": "2026-11-26T05:59:28.000Z",
+        "duration": 2824,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "tyiSQVvNh0s",
-        "title": "Утро на Дожде с Михаилом Шевелевым в 9.00 мск",
-        "scheduledStart": "2026-11-26T06:00:00Z"
-      },
-      "checked": "2026-11-26T00:40:03.345Z",
-      "observedLocal": "16:00",
+      "upcoming": null,
+      "checked": "2026-11-26T08:54:50.468Z",
+      "observedLocal": "06:59",
       "history": [
-        {
-          "v": "Et6WZCHQ8nU",
-          "lag": 1260
-        },
         {
           "v": "aKI2ljqd0Ws",
           "lag": 600
@@ -1273,6 +1262,10 @@
         {
           "v": "_AArmqAeJ4I",
           "lag": 1260
+        },
+        {
+          "v": "tyiSQVvNh0s",
+          "lag": 719
         }
       ],
       "delivery": "posted",
@@ -1288,7 +1281,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "19:17",
       "history": [
         {
@@ -1339,7 +1332,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -1352,7 +1345,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1362,7 +1355,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -1376,7 +1369,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "IghaA_ROuDQ",
@@ -1431,8 +1424,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "upcoming": {
+        "videoId": "HCVWifvE1k4",
+        "title": "Le journal de 20h de France Télévisions - 26 Nov 2026",
+        "scheduledStart": "2026-11-26T18:57:00Z"
+      },
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1489,7 +1486,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "Fp8uNNHrh2E",
@@ -1539,7 +1536,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -1547,7 +1544,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-26T00:40:03.345Z"
+        "checked": "2026-11-26T08:54:50.468Z"
       },
       "history": []
     },
@@ -1561,7 +1558,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1618,7 +1615,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
         {
           "v": "nwzO1sINU00",
@@ -1674,7 +1671,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "stale": true,
       "history": [
         {
@@ -1732,7 +1729,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "21:58",
       "history": [
         {
@@ -1781,21 +1778,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "H3SyeIES6rE",
-        "title": "Global National: Nov. 24, 2026 | Canada pushes back at US claims of defence spending \"shortfalls\"",
-        "published": "2026-11-25T03:00:07.000Z",
-        "duration": 1291,
+        "videoId": "Hn8yCnFBYOw",
+        "title": "Global National: Nov. 25, 2026 | Canada avoids Trump's fresh tariffs on dozens of countries",
+        "published": "2026-11-26T03:00:08.000Z",
+        "duration": 1338,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "Rq_ncxnzpvc",
-          "lag": 270
-        },
         {
           "v": "A3w7BstNhjk",
           "lag": 270
@@ -1831,6 +1824,10 @@
         {
           "v": "H3SyeIES6rE",
           "lag": 270
+        },
+        {
+          "v": "Hn8yCnFBYOw",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1850,8 +1847,8 @@
         "title": "LSQ - Le téléjournal 18 h du jeudi 26 novembre 2026",
         "scheduledStart": "2026-11-26T23:00:00Z"
       },
-      "checked": "2026-11-26T00:40:03.345Z",
-      "observedLocal": "17:32",
+      "checked": "2026-11-26T08:54:50.468Z",
+      "stale": true,
       "history": [
         {
           "v": "_2KKoimaDK8",
@@ -1899,20 +1896,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "D4h35g_yrKk",
-        "title": "PBS News Hour full episode, Nov. 24, 2026",
-        "published": "2026-11-25T00:16:52.000Z",
+        "videoId": "FCXErIo9PRE",
+        "title": "PBS News Hour full episode, Nov. 25, 2026",
+        "published": "2026-11-26T01:17:01.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
-        {
-          "v": "arz_Kb2y6XQ",
-          "lag": 91
-        },
         {
           "v": "RTgmjLhrXVM",
           "lag": 108
@@ -1948,6 +1941,10 @@
         {
           "v": "D4h35g_yrKk",
           "lag": 77
+        },
+        {
+          "v": "FCXErIo9PRE",
+          "lag": 137
         }
       ],
       "delivery": "posted",
@@ -1955,21 +1952,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "B2au-nv6dUU",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 24",
-        "published": "2026-11-25T02:53:41.000Z",
-        "duration": 1235,
+        "videoId": "541dfpI-xkM",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 25",
+        "published": "2026-11-26T03:04:36.000Z",
+        "duration": 1125,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "stale": true,
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
-        {
-          "v": "y9IdkZaATJA",
-          "lag": 202
-        },
         {
           "v": "TwmYO5Xj4JI",
           "lag": 215
@@ -2005,29 +1997,27 @@
         {
           "v": "B2au-nv6dUU",
           "lag": 204
+        },
+        {
+          "v": "541dfpI-xkM",
+          "lag": 215
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
     "abc": {
       "latest": {
-        "videoId": "SOlCaAMBiXo",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 24, 2026",
-        "published": "2026-11-25T02:30:27.000Z",
-        "duration": 1307,
+        "videoId": "J0oPaYsbdA4",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 25, 2026",
+        "published": "2026-11-26T03:30:18.000Z",
+        "duration": 1205,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "stale": true,
+      "checked": "2026-11-26T08:54:50.468Z",
       "history": [
-        {
-          "v": "AgXw1ytERck",
-          "lag": 210
-        },
         {
           "v": "_0S-QI5_6ks",
           "lag": 255
@@ -2063,29 +2053,28 @@
         {
           "v": "SOlCaAMBiXo",
           "lag": 180
+        },
+        {
+          "v": "J0oPaYsbdA4",
+          "lag": 240
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 215
     },
     "telemundo": {
       "latest": {
-        "videoId": "ismwj5tEw_E",
-        "title": "Las noticias de la noche, martes 24 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-25T03:59:15.000Z",
-        "duration": 1555,
+        "videoId": "JaP3ABKGBWw",
+        "title": "Las noticias de la noche, miércoles 25 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-26T03:59:19.000Z",
+        "duration": 1557,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T00:40:03.345Z",
-      "stale": true,
+      "checked": "2026-11-26T08:54:50.468Z",
+      "observedLocal": "22:59",
       "history": [
-        {
-          "v": "zQiypb3m2CQ",
-          "lag": 29
-        },
         {
           "v": "vIdgz2W79xk",
           "lag": 29
@@ -2121,9 +2110,12 @@
         {
           "v": "ismwj5tEw_E",
           "lag": 269
+        },
+        {
+          "v": "JaP3ABKGBWw",
+          "lag": 269
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 270
     },
@@ -2141,7 +2133,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-26T23:00:00Z"
       },
-      "checked": "2026-11-26T00:40:03.345Z",
+      "checked": "2026-11-26T08:54:50.468Z",
       "observedLocal": "20:00",
       "history": [
         {
