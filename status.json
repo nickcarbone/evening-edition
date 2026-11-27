@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T02:23:40.641Z",
-  "lastFull": "2026-11-27T02:23:40.641Z",
+  "generated": "2026-11-27T11:24:12.511Z",
+  "lastFull": "2026-11-27T11:24:12.511Z",
   "country": "US",
   "bulletins": {
     "cultura": {
@@ -13,7 +13,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "20:55",
       "history": [
         {
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "stale": true,
       "history": [
         {
@@ -114,27 +114,22 @@
           "lag": 163
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
     "nmas": {
       "latest": {
-        "videoId": "QsikOs7euy4",
-        "title": "EN VIVO: Estados Unidos exonera a México de aranceles | En Punto - 25 de Noviembre 2026",
-        "published": "2026-11-26T04:28:36.000Z",
-        "duration": 2168,
+        "videoId": "o3Ll0eroajo",
+        "title": "EN VIVO: Tormentas y caos en el Día de Acción de Gracias | En Punto - 26 de Noviembre 2026",
+        "published": "2026-11-27T04:28:31.000Z",
+        "duration": 2258,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
-      "stale": true,
+      "checked": "2026-11-27T11:24:12.511Z",
+      "observedLocal": "22:28",
       "history": [
-        {
-          "v": "4WgCyxZcCrw",
-          "lag": -1
-        },
         {
           "v": "DVB_PNfCdSg",
           "lag": -3
@@ -170,9 +165,12 @@
         {
           "v": "QsikOs7euy4",
           "lag": -1
+        },
+        {
+          "v": "o3Ll0eroajo",
+          "lag": -1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -186,7 +184,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
         {
           "v": "zjHFXx0ykM8",
@@ -234,20 +233,16 @@
     },
     "tvb": {
       "latest": {
-        "videoId": "NHRGZH3PS2s",
-        "title": "無綫TVB六點半新聞報道｜印尼有非法金礦水浸最少13死 逾十人懷疑被困｜黃仁勳復職｜馬斯克帶兒子到輝達總部慶祝 黃仁勳續獲白宮力挺｜澳洲有協會指減重藥物或致肌肉流失 籲安排肌力訓練均衡營養｜TVB",
-        "published": "2026-11-26T10:52:24.000Z",
-        "duration": 2166,
+        "videoId": "0hoNCuv11wo",
+        "title": "無綫TVB六點半新聞報道｜國常會首提加力發揮「國家隊」穩市作用　一個月內兩度聚焦資本市場｜美國多地感恩節受風暴吹襲逾90萬戶停電　加州至華盛頓州沿岸發出洪水警告｜黃仁勳復職｜特朗普指對全世界都是好事｜",
+        "published": "2026-11-27T11:02:13.000Z",
+        "duration": 1951,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
-        {
-          "v": "PGA86U6ZoHk",
-          "lag": 31
-        },
         {
           "v": "Qgol8C7RpcE",
           "lag": 26
@@ -283,6 +278,10 @@
         {
           "v": "NHRGZH3PS2s",
           "lag": 22
+        },
+        {
+          "v": "0hoNCuv11wo",
+          "lag": 32
         }
       ],
       "delivery": "posted",
@@ -297,18 +296,14 @@
         "embeddable": true
       },
       "live": {
-        "videoId": "2qClsDeos68",
-        "title": "TV Patrol Playback North America | November 26, 2026",
-        "start": "2026-11-27T01:30:07Z"
+        "videoId": "7jR6tEcjdtE",
+        "title": "LIVE: TV Patrol Livestream | November 27, 2026 Full Episode",
+        "start": "2026-11-27T10:20:19Z"
       },
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
-      "observedLocal": "06:30",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
-        {
-          "v": "vb64jvgovT0",
-          "lag": 120
-        },
         {
           "v": "mMgc1WFG0UU",
           "lag": -11
@@ -344,6 +339,10 @@
         {
           "v": "HI4Qu23GmlA",
           "lag": 720
+        },
+        {
+          "v": "7jR6tEcjdtE",
+          "lag": -10
         }
       ],
       "delivery": "posted",
@@ -351,20 +350,16 @@
     },
     "cctv": {
       "latest": {
-        "videoId": "bJfPld759Ac",
-        "title": "习近平对党内法规工作作出重要指示 | CCTV「新闻联播」20261125",
-        "published": "2026-11-26T02:52:10.000Z",
-        "duration": 1798,
+        "videoId": "aED04a_OKhs",
+        "title": "【新思想引领新征程】开放合作推动航天事业造福全人类 | CCTV「新闻联播」20261126",
+        "published": "2026-11-27T02:39:36.000Z",
+        "duration": 1800,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
-        {
-          "v": "dmji1VJG3YQ",
-          "lag": 935
-        },
         {
           "v": "fICzjy7FQQA",
           "lag": 940
@@ -400,6 +395,10 @@
         {
           "v": "bJfPld759Ac",
           "lag": 952
+        },
+        {
+          "v": "aED04a_OKhs",
+          "lag": 940
         }
       ],
       "delivery": "posted",
@@ -415,7 +414,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "RcSrO96eBuA",
@@ -469,15 +468,15 @@
         "duration": 9077,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "K18O5ZtGwEs",
+        "title": "🔴 [Live] ข่าวค่ำ | 27 พ.ย. 69",
+        "start": "2026-11-27T11:00:21Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
-      "observedLocal": "18:00",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
-        {
-          "v": "US-43dAn-VM",
-          "lag": 0
-        },
         {
           "v": "zu-IU6gK_z0",
           "lag": 0
@@ -513,6 +512,10 @@
         {
           "v": "_6h_pso9kag",
           "lag": 1
+        },
+        {
+          "v": "K18O5ZtGwEs",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -527,8 +530,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "upcoming": {
+        "videoId": "PwddcoiNHKA",
+        "title": "[🔴LIVE] 뉴스9 :  – 11월 27일(금) / KBS",
+        "scheduledStart": "2026-11-27T12:00:00Z"
+      },
+      "checked": "2026-11-27T11:24:12.511Z",
       "stale": true,
       "history": [
         {
@@ -572,7 +579,6 @@
           "lag": -2
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -586,7 +592,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -643,7 +649,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "SZDvgBIuqEk",
@@ -699,7 +705,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -756,7 +762,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
         {
           "v": "lhTeepET4O4",
@@ -799,6 +806,7 @@
           "lag": 89
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 115
     },
@@ -812,8 +820,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
-      "observedLocal": "21:58",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
         {
           "v": "FN7V6EXlwq0",
@@ -856,6 +864,7 @@
           "lag": 58
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 75
     },
@@ -863,7 +872,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -877,7 +886,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "stale": true,
       "history": [
         {
@@ -935,7 +944,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -992,7 +1001,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "KddOSNWOM28",
@@ -1040,9 +1049,9 @@
     },
     "kan": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -1056,8 +1065,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
-      "observedLocal": "20:01",
+      "checked": "2026-11-27T11:24:12.511Z",
+      "stale": true,
       "history": [
         {
           "v": "L2-4SR7aMgU",
@@ -1100,6 +1109,7 @@
           "lag": 1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -1113,7 +1123,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "WCWDq9G0XXg",
@@ -1169,7 +1179,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "uTRlicGMHaU",
@@ -1217,29 +1227,20 @@
     },
     "dozhd": {
       "latest": {
-        "videoId": "L7791PnqDbU",
-        "title": "Украина расширяет атаки по России. Кремль готовится объединить Осетии? Патриарх Кирилл против ИИ",
-        "published": "2026-11-26T14:59:45.000Z",
-        "duration": 2935,
+        "videoId": "x0mU4BEkL4E",
+        "title": "От Z до «Чебурашки». Как изменилась Россия за пять лет войны",
+        "published": "2026-11-27T07:00:34.000Z",
+        "duration": 3743,
         "embeddable": true
       },
-      "live": null,
-      "upcoming": {
-        "videoId": "3fTfOdm-jkU",
-        "title": "Утро на Дожде с Сергеем Кривохарченко, 27 ноября, 09:00 Мск",
-        "scheduledStart": "2026-11-27T06:00:00Z"
+      "live": {
+        "videoId": "LlOrdms1RzM",
+        "title": "Зеленский сравнил Путина с Гитлером. РФ вербует бразильцев на войну. Долина спела для Ким Чен Ына",
+        "start": "2026-11-27T10:59:32Z"
       },
-      "checked": "2026-11-27T02:23:40.641Z",
-      "observedLocal": "15:59",
+      "upcoming": null,
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
-        {
-          "v": "RIxxvWGYGKg",
-          "lag": 1259
-        },
-        {
-          "v": "uyfv3DJ1DDY",
-          "lag": 1019
-        },
         {
           "v": "yZcQUM6penY",
           "lag": null
@@ -1271,6 +1272,14 @@
         {
           "v": "L7791PnqDbU",
           "lag": 1260
+        },
+        {
+          "v": "LlOrdms1RzM",
+          "lag": 1020
+        },
+        {
+          "v": "x0mU4BEkL4E",
+          "lag": 781
         }
       ],
       "delivery": "posted",
@@ -1286,7 +1295,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:19",
       "history": [
         {
@@ -1337,7 +1346,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -1350,7 +1359,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1360,7 +1369,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -1374,7 +1383,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "T1WP71DUmK8",
@@ -1429,8 +1438,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "upcoming": {
+        "videoId": "4e7jky4rHws",
+        "title": "Le journal de 20h de France Télévisions - 27 Nov 2026",
+        "scheduledStart": "2026-11-27T18:57:00Z"
+      },
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:57",
       "history": [
         {
@@ -1487,7 +1500,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "7WGEdKOduWQ",
@@ -1537,7 +1550,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -1545,7 +1558,7 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-27T02:23:40.641Z"
+        "checked": "2026-11-27T11:24:12.511Z"
       },
       "history": []
     },
@@ -1559,7 +1572,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1616,7 +1629,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "-z_roN-PpEA",
@@ -1672,7 +1685,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "20:00",
       "history": [
         {
@@ -1729,7 +1742,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1778,25 +1791,17 @@
     },
     "global": {
       "latest": {
-        "videoId": "Hn8yCnFBYOw",
-        "title": "Global National: Nov. 25, 2026 | Canada avoids Trump's fresh tariffs on dozens of countries",
-        "published": "2026-11-26T03:00:08.000Z",
-        "duration": 1338,
+        "videoId": "6yB7u9FIdn8",
+        "title": "Global National: Nov. 26, 2026 | Storms, high tides batter east and west coasts of North America",
+        "published": "2026-11-27T03:00:10.000Z",
+        "duration": 1307,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "6yB7u9FIdn8",
-        "title": "Global National: Nov. 26, 2026 | Storms, high tides batter east and west coasts of North America",
-        "scheduledStart": "2026-11-27T03:00:00Z"
-      },
-      "checked": "2026-11-27T02:23:40.641Z",
+      "upcoming": null,
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "22:00",
       "history": [
-        {
-          "v": "A3w7BstNhjk",
-          "lag": 270
-        },
         {
           "v": "r4d3C9F2CzQ",
           "lag": 270
@@ -1832,6 +1837,10 @@
         {
           "v": "Hn8yCnFBYOw",
           "lag": 270
+        },
+        {
+          "v": "6yB7u9FIdn8",
+          "lag": 270
         }
       ],
       "delivery": "posted",
@@ -1847,7 +1856,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "17:34",
       "history": [
         {
@@ -1897,14 +1906,14 @@
     "pbs": {
       "latest": {
         "videoId": "wJL1wUDX-tE",
-        "title": "PBS News Hour full episode, July 26, 2026",
+        "title": "PBS News Hour full episode, Nov. 26, 2026",
         "published": "2026-11-27T01:07:54.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "mkCF59W4A4g",
@@ -1960,7 +1969,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
         {
           "v": "yEwSLqFr_-s",
@@ -2008,20 +2017,16 @@
     },
     "abc": {
       "latest": {
-        "videoId": "J0oPaYsbdA4",
-        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 25, 2026",
-        "published": "2026-11-26T03:30:18.000Z",
-        "duration": 1205,
+        "videoId": "PFzL2QIP_Jc",
+        "title": "ABC World News Tonight with David Muir Full Broadcast - Nov. 26, 2026",
+        "published": "2026-11-27T03:00:08.000Z",
+        "duration": 1201,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "history": [
-        {
-          "v": "_0S-QI5_6ks",
-          "lag": 255
-        },
         {
           "v": "4SdRz9IruQc",
           "lag": 211
@@ -2057,6 +2062,10 @@
         {
           "v": "J0oPaYsbdA4",
           "lag": 240
+        },
+        {
+          "v": "PFzL2QIP_Jc",
+          "lag": 210
         }
       ],
       "delivery": "posted",
@@ -2064,25 +2073,17 @@
     },
     "telemundo": {
       "latest": {
-        "videoId": "JaP3ABKGBWw",
-        "title": "Las noticias de la noche, miércoles 25 de noviembre de 2026 | Noticias Telemundo",
-        "published": "2026-11-26T03:59:19.000Z",
-        "duration": 1557,
+        "videoId": "ayaTA-1Pa_o",
+        "title": "Las noticias de la noche, jueves 26 de noviembre de 2026 | Noticias Telemundo",
+        "published": "2026-11-27T03:59:15.000Z",
+        "duration": 1559,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "ayaTA-1Pa_o",
-        "title": "EN VIVO: Las noticias de la noche, jueves 26 de noviembre de 2026 | Noticias Telemundo",
-        "scheduledStart": "2026-11-27T04:00:00Z"
-      },
-      "checked": "2026-11-27T02:23:40.641Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-27T11:24:12.511Z",
+      "observedLocal": "22:59",
       "history": [
-        {
-          "v": "vIdgz2W79xk",
-          "lag": 29
-        },
         {
           "v": "hd0t9V1bLro",
           "lag": 29
@@ -2118,6 +2119,10 @@
         {
           "v": "JaP3ABKGBWw",
           "lag": 269
+        },
+        {
+          "v": "ayaTA-1Pa_o",
+          "lag": 269
         }
       ],
       "delivery": "posted",
@@ -2137,7 +2142,7 @@
         "title": "TELENOCHE ¡EN VIVO!",
         "scheduledStart": "2026-11-27T23:00:00Z"
       },
-      "checked": "2026-11-27T02:23:40.641Z",
+      "checked": "2026-11-27T11:24:12.511Z",
       "observedLocal": "19:59",
       "history": [
         {
