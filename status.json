@@ -1,25 +1,21 @@
 {
-  "generated": "2026-11-26T19:16:53.511Z",
-  "lastFull": "2026-11-26T19:16:53.511Z",
+  "generated": "2026-11-27T02:23:40.641Z",
+  "lastFull": "2026-11-27T02:23:40.641Z",
   "country": "US",
   "bulletins": {
     "cultura": {
       "latest": {
-        "videoId": "fF1UrVvJDwA",
-        "title": "JORNAL DA CULTURA | Lula discute com equipe mais uma etapa do ajuste fiscal | 25/11/2026",
-        "published": "2026-11-25T23:55:11.000Z",
-        "duration": 3108,
+        "videoId": "udFDxBjI1x0",
+        "title": "JORNAL DA CULTURA | Banqueiro Luiz Carlos Trabuco é cotado para Ministério da Fazenda | 26/11/2026",
+        "published": "2026-11-26T23:55:11.000Z",
+        "duration": 3985,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "20:55",
       "history": [
-        {
-          "v": "r3pZnD6eD9M",
-          "lag": 1435
-        },
         {
           "v": "OxM0XHeqGn0",
           "lag": -5
@@ -55,6 +51,10 @@
         {
           "v": "fF1UrVvJDwA",
           "lag": -5
+        },
+        {
+          "v": "udFDxBjI1x0",
+          "lag": -5
         }
       ],
       "delivery": "live",
@@ -70,7 +70,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "stale": true,
       "history": [
         {
@@ -114,6 +114,7 @@
           "lag": 163
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "posted",
       "readyAfter": 175
     },
@@ -127,8 +128,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "observedLocal": "22:28",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "stale": true,
       "history": [
         {
           "v": "4WgCyxZcCrw",
@@ -171,6 +172,7 @@
           "lag": -1
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -184,7 +186,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "zjHFXx0ykM8",
@@ -240,7 +242,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "PGA86U6ZoHk",
@@ -288,24 +290,21 @@
     },
     "tvpatrol": {
       "latest": {
-        "videoId": "p_dNaPsPEhA",
-        "title": "TV Patrol Playback Europe | November 26, 2026",
-        "published": "2026-11-26T17:30:39.000Z",
+        "videoId": "HI4Qu23GmlA",
+        "title": "TV Patrol Playback North America | November 26, 2026",
+        "published": "2026-11-26T22:30:07.000Z",
         "duration": 3924,
         "embeddable": true
       },
-      "live": null,
+      "live": {
+        "videoId": "2qClsDeos68",
+        "title": "TV Patrol Playback North America | November 26, 2026",
+        "start": "2026-11-27T01:30:07Z"
+      },
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "06:30",
       "history": [
-        {
-          "v": "9SnGoRraMeE",
-          "lag": 900
-        },
-        {
-          "v": "5NIJDmAPbko",
-          "lag": 720
-        },
         {
           "v": "vb64jvgovT0",
           "lag": 120
@@ -337,6 +336,14 @@
         {
           "v": "p_dNaPsPEhA",
           "lag": 421
+        },
+        {
+          "v": "2qClsDeos68",
+          "lag": 900
+        },
+        {
+          "v": "HI4Qu23GmlA",
+          "lag": 720
         }
       ],
       "delivery": "posted",
@@ -352,7 +359,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "dmji1VJG3YQ",
@@ -408,7 +415,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "RcSrO96eBuA",
@@ -464,7 +471,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "18:00",
       "history": [
         {
@@ -521,8 +528,8 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "observedLocal": "20:57",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "stale": true,
       "history": [
         {
           "v": "MU7e-WPg7Tc",
@@ -565,6 +572,7 @@
           "lag": -2
         }
       ],
+      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
@@ -578,7 +586,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "19:56",
       "history": [
         {
@@ -635,7 +643,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "SZDvgBIuqEk",
@@ -691,7 +699,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "19:59",
       "history": [
         {
@@ -748,7 +756,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "lhTeepET4O4",
@@ -804,7 +812,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "21:58",
       "history": [
         {
@@ -853,9 +861,9 @@
     },
     "trt": {
       "stream": {
-        "ok": false,
+        "ok": true,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
@@ -869,7 +877,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "stale": true,
       "history": [
         {
@@ -927,7 +935,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "18:59",
       "history": [
         {
@@ -976,20 +984,16 @@
     },
     "novas": {
       "latest": {
-        "videoId": "A36OjpIJCpE",
-        "title": "DNEVNIK - CELA EMISIJA - 25.11.2026.",
-        "published": "2026-11-25T20:20:13.000Z",
-        "duration": 2893,
+        "videoId": "lr4XLAJx2w8",
+        "title": "DNEVNIK - CELA EMISIJA - 26.11.2026.",
+        "published": "2026-11-26T20:06:21.000Z",
+        "duration": 2649,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "01NYsszq0y0",
-          "lag": 213
-        },
         {
           "v": "KddOSNWOM28",
           "lag": 173
@@ -1025,16 +1029,20 @@
         {
           "v": "A36OjpIJCpE",
           "lag": 170
+        },
+        {
+          "v": "lr4XLAJx2w8",
+          "lag": 156
         }
       ],
       "delivery": "posted",
-      "readyAfter": 195
+      "readyAfter": 190
     },
     "kan": {
       "stream": {
-        "ok": true,
+        "ok": false,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
@@ -1048,7 +1056,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "20:01",
       "history": [
         {
@@ -1105,7 +1113,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "WCWDq9G0XXg",
@@ -1153,20 +1161,16 @@
     },
     "hrt": {
       "latest": {
-        "videoId": "WIDvRPHUhII",
-        "title": "Dnevnik, 25. 11. 2026.",
-        "published": "2026-11-25T19:55:39.000Z",
-        "duration": 3141,
+        "videoId": "Q1iJEmcFrZw",
+        "title": "Dnevnik, 26. 11. 2026.",
+        "published": "2026-11-26T19:36:59.000Z",
+        "duration": 3014,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "uqyKvPKzTcU",
-          "lag": 99
-        },
         {
           "v": "uTRlicGMHaU",
           "lag": 89
@@ -1202,6 +1206,10 @@
         {
           "v": "WIDvRPHUhII",
           "lag": 116
+        },
+        {
+          "v": "Q1iJEmcFrZw",
+          "lag": 97
         }
       ],
       "delivery": "posted",
@@ -1216,8 +1224,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "upcoming": {
+        "videoId": "3fTfOdm-jkU",
+        "title": "Утро на Дожде с Сергеем Кривохарченко, 27 ноября, 09:00 Мск",
+        "scheduledStart": "2026-11-27T06:00:00Z"
+      },
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "15:59",
       "history": [
         {
@@ -1266,21 +1278,17 @@
     },
     "tvp": {
       "latest": {
-        "videoId": "4SSwjdzn0i0",
-        "title": "Koniec z protestem przed TK. Stołeczny ratusz nie przedłużył zgody | 19.30 | 25.11.2026",
-        "published": "2026-11-25T18:17:56.000Z",
-        "duration": 1900,
+        "videoId": "IdAyhgzIbZU",
+        "title": "Bogdan Święczkowski zawieszony | 19.30 | 26.11.2026",
+        "published": "2026-11-26T18:19:45.000Z",
+        "duration": 1700,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "observedLocal": "19:17",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "19:19",
       "history": [
-        {
-          "v": "jJnZaeriDGE",
-          "lag": -10
-        },
         {
           "v": "joJ5V-VLcew",
           "lag": -14
@@ -1316,6 +1324,10 @@
         {
           "v": "4SSwjdzn0i0",
           "lag": -12
+        },
+        {
+          "v": "IdAyhgzIbZU",
+          "lag": -10
         }
       ],
       "delivery": "live",
@@ -1325,7 +1337,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
@@ -1338,7 +1350,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "stale": true,
       "history": [],
       "delivery": "posted",
@@ -1348,26 +1360,22 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
     "tagesschau": {
       "latest": {
-        "videoId": "xRsgqF-0LHk",
-        "title": "tagesschau 20:00 Uhr, 25.11.2026",
-        "published": "2026-11-25T19:29:57.000Z",
-        "duration": 967,
+        "videoId": "XgD4FXBoVko",
+        "title": "tagesschau 20:00 Uhr, 26.11.2026",
+        "published": "2026-11-26T19:30:36.000Z",
+        "duration": 949,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "IghaA_ROuDQ",
-          "lag": 34
-        },
         {
           "v": "T1WP71DUmK8",
           "lag": 47
@@ -1403,6 +1411,10 @@
         {
           "v": "xRsgqF-0LHk",
           "lag": 30
+        },
+        {
+          "v": "XgD4FXBoVko",
+          "lag": 31
         }
       ],
       "delivery": "posted",
@@ -1410,20 +1422,16 @@
     },
     "france2": {
       "latest": {
-        "videoId": "mPYFaQChP6Y",
-        "title": "Le journal de 20h de France Télévisions - 25 novembre 2026",
-        "published": "2026-11-25T18:57:21.000Z",
-        "duration": 3669,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "HCVWifvE1k4",
         "title": "Le journal de 20h de France Télévisions - 26 novembre 2026",
-        "start": "2026-11-26T18:57:22Z"
+        "published": "2026-11-26T18:57:22.000Z",
+        "duration": 3624,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "stale": true,
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "19:57",
       "history": [
         {
           "v": "9C4BDNlmccU",
@@ -1471,20 +1479,16 @@
     },
     "la7": {
       "latest": {
-        "videoId": "rFK6GA_VRQg",
-        "title": "Edizione delle ore 20.00 del 25/11/2026",
-        "published": "2026-11-25T20:01:04.000Z",
-        "duration": 1827,
+        "videoId": "XYNQVoM-36U",
+        "title": "Edizione delle ore 20.00 del 26/11/2026",
+        "published": "2026-11-26T20:03:13.000Z",
+        "duration": 1863,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "Fp8uNNHrh2E",
-          "lag": 64
-        },
         {
           "v": "7WGEdKOduWQ",
           "lag": 64
@@ -1520,6 +1524,10 @@
         {
           "v": "rFK6GA_VRQg",
           "lag": 61
+        },
+        {
+          "v": "XYNQVoM-36U",
+          "lag": 63
         }
       ],
       "delivery": "posted",
@@ -1529,7 +1537,7 @@
       "stream": {
         "ok": true,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
@@ -1537,25 +1545,21 @@
       "stream": {
         "ok": false,
         "cors": true,
-        "checked": "2026-11-26T19:16:53.511Z"
+        "checked": "2026-11-27T02:23:40.641Z"
       },
       "history": []
     },
     "tv3gh": {
       "latest": {
-        "videoId": "rExo1Kau3OU",
-        "title": "LIVE: News 360; Circle Demolition Exercise Turns Fatal || 25-11-2026",
-        "published": "2026-11-25T19:00:24.000Z",
-        "duration": 3707,
-        "embeddable": true
-      },
-      "live": {
         "videoId": "R9du6blQhk4",
         "title": "LIVE: News360; Parliament Concludes 2027 Budget Debate || 26-11-2026",
-        "start": "2026-11-26T19:00:19Z"
+        "published": "2026-11-26T19:00:19.000Z",
+        "duration": 3174,
+        "embeddable": true
       },
+      "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "19:00",
       "history": [
         {
@@ -1604,20 +1608,16 @@
     },
     "rti": {
       "latest": {
-        "videoId": "UYyEdUvh6hM",
-        "title": "Le 20 Heures de RTI 1 du 25 novembre 2026 par Fatou Fofana",
-        "published": "2026-11-25T21:31:18.000Z",
-        "duration": 1875,
+        "videoId": "7NHpPpO10Gk",
+        "title": "Le 20 Heures de RTI 1 du 26 novembre 2026 par Fatou Fofana",
+        "published": "2026-11-26T21:57:06.000Z",
+        "duration": 2108,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "nwzO1sINU00",
-          "lag": 89
-        },
         {
           "v": "-z_roN-PpEA",
           "lag": 105
@@ -1653,28 +1653,28 @@
         {
           "v": "UYyEdUvh6hM",
           "lag": 91
+        },
+        {
+          "v": "7NHpPpO10Gk",
+          "lag": 117
         }
       ],
       "delivery": "posted",
-      "readyAfter": 105
+      "readyAfter": 110
     },
     "rtssn": {
       "latest": {
-        "videoId": "_1wlCeJ3Vow",
-        "title": "LE JOURNAL TELEVISE DE 20H - LUNDI 23 NOVEMBRE 2026",
-        "published": "2026-11-23T19:59:43.000Z",
-        "duration": 2641,
+        "videoId": "EZ3Ky1CDdgA",
+        "title": "LE JOURNAL TELEVISE DE 20H  - JEUDI 26 NOVEMBRE 2026",
+        "published": "2026-11-26T20:00:34.000Z",
+        "duration": 4146,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "stale": true,
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "20:00",
       "history": [
-        {
-          "v": "PK58tHJhMJk",
-          "lag": 0
-        },
         {
           "v": "V23CH27KKfw",
           "lag": 0
@@ -1710,29 +1710,28 @@
         {
           "v": "_1wlCeJ3Vow",
           "lag": 0
+        },
+        {
+          "v": "EZ3Ky1CDdgA",
+          "lag": 1
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     },
     "channels": {
       "latest": {
-        "videoId": "h2A5CnuctBU",
+        "videoId": "plSLV2Ae-fI",
         "title": "News At 10",
-        "published": "2026-11-25T20:58:43.000Z",
-        "duration": 3755,
+        "published": "2026-11-26T21:00:21.000Z",
+        "duration": 4237,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "observedLocal": "21:58",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "22:00",
       "history": [
-        {
-          "v": "q5BNyWUMQEE",
-          "lag": 0
-        },
         {
           "v": "FCjEWQE8MEw",
           "lag": 0
@@ -1768,6 +1767,10 @@
         {
           "v": "h2A5CnuctBU",
           "lag": -1
+        },
+        {
+          "v": "plSLV2Ae-fI",
+          "lag": 0
         }
       ],
       "delivery": "live",
@@ -1782,8 +1785,12 @@
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "upcoming": {
+        "videoId": "6yB7u9FIdn8",
+        "title": "Global National: Nov. 26, 2026 | Storms, high tides batter east and west coasts of North America",
+        "scheduledStart": "2026-11-27T03:00:00Z"
+      },
+      "checked": "2026-11-27T02:23:40.641Z",
       "observedLocal": "22:00",
       "history": [
         {
@@ -1832,25 +1839,17 @@
     },
     "rcan": {
       "latest": {
-        "videoId": "pmJ8zRcs1Yc",
-        "title": "LSQ - Le téléjournal 18 h du mardi 24 novembre 2026",
-        "published": "2026-11-24T22:32:51.000Z",
-        "duration": 3211,
+        "videoId": "mP2oZ3fJsCY",
+        "title": "LSQ - Le téléjournal 18 h du jeudi 26 novembre 2026",
+        "published": "2026-11-26T22:34:02.000Z",
+        "duration": 2561,
         "embeddable": true
       },
       "live": null,
-      "upcoming": {
-        "videoId": "mP2oZ3fJsCY",
-        "title": "LSQ - Le téléjournal 18 h du jeudi 26 novembre 2026",
-        "scheduledStart": "2026-11-26T23:00:00Z"
-      },
-      "checked": "2026-11-26T19:16:53.511Z",
-      "stale": true,
+      "upcoming": null,
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "17:34",
       "history": [
-        {
-          "v": "_2KKoimaDK8",
-          "lag": -26
-        },
         {
           "v": "SFXejAOdunU",
           "lag": -22
@@ -1886,6 +1885,10 @@
         {
           "v": "pmJ8zRcs1Yc",
           "lag": -27
+        },
+        {
+          "v": "mP2oZ3fJsCY",
+          "lag": -26
         }
       ],
       "delivery": "live",
@@ -1893,20 +1896,16 @@
     },
     "pbs": {
       "latest": {
-        "videoId": "FCXErIo9PRE",
-        "title": "PBS News Hour full episode, Nov. 25, 2026",
-        "published": "2026-11-26T01:17:01.000Z",
+        "videoId": "wJL1wUDX-tE",
+        "title": "PBS News Hour full episode, July 26, 2026",
+        "published": "2026-11-27T01:07:54.000Z",
         "duration": 3407,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "RTgmjLhrXVM",
-          "lag": 108
-        },
         {
           "v": "mkCF59W4A4g",
           "lag": 75
@@ -1942,6 +1941,10 @@
         {
           "v": "FCXErIo9PRE",
           "lag": 137
+        },
+        {
+          "v": "wJL1wUDX-tE",
+          "lag": 128
         }
       ],
       "delivery": "posted",
@@ -1949,20 +1952,16 @@
     },
     "nbc": {
       "latest": {
-        "videoId": "541dfpI-xkM",
-        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 25",
-        "published": "2026-11-26T03:04:36.000Z",
-        "duration": 1125,
+        "videoId": "3Wh14SNzOOE",
+        "title": "NBC Nightly News with Tom Llamas Full Episode - Nov. 26",
+        "published": "2026-11-27T01:44:17.000Z",
+        "duration": 1126,
         "embeddable": true
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
-        {
-          "v": "TwmYO5Xj4JI",
-          "lag": 215
-        },
         {
           "v": "yEwSLqFr_-s",
           "lag": 207
@@ -1998,6 +1997,10 @@
         {
           "v": "541dfpI-xkM",
           "lag": 215
+        },
+        {
+          "v": "3Wh14SNzOOE",
+          "lag": 134
         }
       ],
       "delivery": "posted",
@@ -2013,7 +2016,7 @@
       },
       "live": null,
       "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
+      "checked": "2026-11-27T02:23:40.641Z",
       "history": [
         {
           "v": "_0S-QI5_6ks",
@@ -2073,8 +2076,8 @@
         "title": "EN VIVO: Las noticias de la noche, jueves 26 de noviembre de 2026 | Noticias Telemundo",
         "scheduledStart": "2026-11-27T04:00:00Z"
       },
-      "checked": "2026-11-26T19:16:53.511Z",
-      "observedLocal": "22:59",
+      "checked": "2026-11-27T02:23:40.641Z",
+      "stale": true,
       "history": [
         {
           "v": "vIdgz2W79xk",
@@ -2122,21 +2125,21 @@
     },
     "telenoche": {
       "latest": {
-        "videoId": "Yy_69k5cyHI",
-        "title": "Tini Stoessel y Rodrigo de Paul: el exclusivo dress code para su boda | TELENOCHE DEL 25/11/26",
-        "published": "2026-11-25T23:00:23.000Z",
-        "duration": 2795,
+        "videoId": "ScBKPbtjMvE",
+        "title": "¡ABRAZO Y LLANTO! Liberaron a los acróbatas argentinos detenidos por ICE | TELENOCHE DEL 26/11/26",
+        "published": "2026-11-26T22:59:47.000Z",
+        "duration": 3830,
         "embeddable": true
       },
       "live": null,
-      "upcoming": null,
-      "checked": "2026-11-26T19:16:53.511Z",
-      "stale": true,
+      "upcoming": {
+        "videoId": "S0FP_HWzWcg",
+        "title": "TELENOCHE ¡EN VIVO!",
+        "scheduledStart": "2026-11-27T23:00:00Z"
+      },
+      "checked": "2026-11-27T02:23:40.641Z",
+      "observedLocal": "19:59",
       "history": [
-        {
-          "v": "5dIEkDLAIQM",
-          "lag": 0
-        },
         {
           "v": "Zhx0jLq5Jf8",
           "lag": 0
@@ -2172,9 +2175,12 @@
         {
           "v": "Yy_69k5cyHI",
           "lag": 0
+        },
+        {
+          "v": "ScBKPbtjMvE",
+          "lag": 0
         }
       ],
-      "error": "no uploads matched the title pattern",
       "delivery": "live",
       "readyAfter": 0
     }
